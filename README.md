@@ -15,16 +15,9 @@ Most freelancers ship features. I ship products that stay online.
 
 Eight years building SaaS, web apps, and AI tools for startups and long-term product teams. I founded [Neurodek](https://neurodek.com) so I can own the architecture, not just the ticket.
 
-<table>
-  <tr>
-    <td align="center" width="16%"><strong>8 yrs</strong><br/>shipping product</td>
-    <td align="center" width="16%"><strong>Top Rated Plus</strong><br/>on Upwork</td>
-    <td align="center" width="16%"><strong>100%</strong><br/>Job Success</td>
-    <td align="center" width="16%"><strong>$100K+</strong><br/>earned</td>
-    <td align="center" width="16%"><strong>40+ jobs</strong><br/>~4,000 hours</td>
-    <td align="center" width="16%"><strong>2 live SaaS</strong><br/>I shipped end to end</td>
-  </tr>
-</table>
+| **8 yrs** | **Top Rated Plus** | **100%** | **$100K+** | **40+ jobs** | **2 live SaaS** |
+|:---------:|:------------------:|:--------:|:----------:|:------------:|:---------------:|
+| shipping product | on Upwork | Job Success | earned | ~4,000 hours | shipped end to end |
 
 <p align="center">
   Also: App Store + Google Play apps · long-term EU coaching platform · multi-tenant APIs · React Native companions
@@ -287,10 +280,16 @@ I design the API and the tenancy, then wire the front end, so there is no handof
 
 Public repos are a slice. The products above are the catalog.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirkodx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirkodx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=tahirkodx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tahirkodx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%">
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tahirkodx&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
