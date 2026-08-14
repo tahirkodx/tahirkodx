@@ -74,10 +74,10 @@ Click a preview. Each card is the hook, then what it actually does.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://snaptolist.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://snaptolist.com" alt="Snap2List" width="100%"></a>
-      <h3><a href="https://snaptolist.com">Snap2List</a></h3>
+      <a href="https://snap2list.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.snap2list.com" alt="Snap2List" width="100%"></a>
+      <h3><a href="https://snap2list.com">Snap2List</a></h3>
       <p><strong>Photo in. eBay listing out. Inventory stays in sync.</strong></p>
-      <p>AI listing + inventory tool for eBay sellers. Scan a barcode, generate the listing, bulk-revise prices, print SKU labels, sync from a React Native warehouse app. Dashboard on Vite, data on Supabase, mobile companion for the floor.</p>
+      <p>eBay listing + inventory dashboard. Scan a barcode, generate the listing, bulk-revise prices, print SKU labels, sync from a React Native warehouse app. Live at snap2list.com.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
@@ -86,21 +86,23 @@ Click a preview. Each card is the hook, then what it actually does.
         <img src="https://img.shields.io/badge/eBay-E53238?style=flat-square&logo=ebay&logoColor=white" alt="eBay">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
-      <p><a href="https://snaptolist.com">snaptolist.com</a> · <a href="https://www.snap2list.com">app</a></p>
+      <p><a href="https://snap2list.com">snap2list.com</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://trainero.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
-      <h3><a href="https://trainero.com">Trainero</a></h3>
-      <p><strong>The coaching platform coaches actually live in.</strong></p>
-      <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Months in a real codebase, not a one-off PR. Vue / Quasar on the apps, AWS APIs behind them.</p>
+      <a href="https://tahiramjad.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://tahiramjad.com" alt="Neurodek Voice Agent" width="100%"></a>
+      <h3><a href="https://tahiramjad.com">Neurodek Voice Agent</a></h3>
+      <p><strong>Drop an AI agent on any website. Chat, voice, or both.</strong></p>
+      <p>Embeddable widget: visitors type, talk, or switch mid-conversation. Control plane for assistants, knowledge bases, and call analytics. LiveKit pipeline under the hood. Hosted at tahiramjad.com.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/LiveKit-1DA1F2?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
-      <p><a href="https://trainero.com">trainero.com</a></p>
+      <p><a href="https://tahiramjad.com">tahiramjad.com</a></p>
     </td>
   </tr>
 </table>
@@ -114,18 +116,17 @@ Same bar. Shorter cards. Some sit behind logins, so no live preview.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Neurodek Voice Agent</h3>
-      <p><strong>Voice AI with a control plane, not a demo call.</strong></p>
-      <p>Multi-tenant assistants: orgs, knowledge base, LiveKit pipeline (STT → LLM → TTS), website crawl into the KB, usage billing, embeddable widget. The hard part is tenancy, latency, and the product around the model.</p>
+      <h3><a href="https://trainero.com">Trainero</a></h3>
+      <p><strong>The coaching platform coaches actually live in.</strong></p>
+      <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-        <img src="https://img.shields.io/badge/LiveKit-1DA1F2?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit">
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
       </p>
+      <p><a href="https://trainero.com">trainero.com</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>WhatsApp SaaS gateway</h3>
