@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786808368" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786819852" alt="Famous quote" width="100%">
 </p>
 
-> Little minds have little worries, big minds have no time for worries.
+> We are most nearly ourselves when we achieve the seriousness of the child at play.
 >
-> Ralph Waldo Emerson
+> Heraclitus
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></h3>
-      <p>From pcworld.com. 1408 points on Hacker News, 540 comments. Posted by DemiGuru.</p>
+      <p>From pcworld.com. 1567 points on Hacker News, 596 comments. Posted by DemiGuru.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -401,7 +401,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
-      <p>From huggingface.co. 1265 points on Hacker News, 741 comments. Posted by erdaltoprak.</p>
+      <p>From huggingface.co. 1304 points on Hacker News, 753 comments. Posted by erdaltoprak.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -413,7 +413,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/">Google is making private AI practical with homomorphic encryption</a></h3>
-      <p>From blog.google. 453 points on Hacker News, 268 comments. Posted by u1hcw9nx.</p>
+      <p>From blog.google. 471 points on Hacker News, 275 comments. Posted by u1hcw9nx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Aug 2026, 15:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Aug 2026, 18:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
