@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786787133" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786798966" alt="Famous quote" width="100%">
 </p>
 
-> Good judgment comes from experience, and experience comes from bad judgment.
+> It is better to fail in originality than to succeed in imitation.
 >
-> Rita Mae Brown
+> Herman Melville
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></h3>
+      <p>From pcworld.com. 1248 points on Hacker News, 473 comments. Posted by DemiGuru.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">Secondhand book sales are booming. Is it because of AI?</a></h3>
+      <p>Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI, and ending up pulped.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
-      <p>From huggingface.co. 1137 points on Hacker News, 694 comments. Posted by erdaltoprak.</p>
+      <p>From huggingface.co. 1212 points on Hacker News, 722 comments. Posted by erdaltoprak.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -401,7 +413,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://z.ai/blog/glm-5.3">GLM-5.3: Frontier coding with emergent cyber capabilities</a></h3>
-      <p>From z.ai. 1091 points on Hacker News, 534 comments. Posted by pella.</p>
+      <p>From z.ai. 1108 points on Hacker News, 543 comments. Posted by pella.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -409,21 +421,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>There's a constant battle in ice cream to come up with new flavours and to keep costs down.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></h3>
-      <p>From pcworld.com. 1012 points on Hacker News, 383 comments. Posted by DemiGuru.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvglzlj81x2o">Bumble divides users by ditching its signature 'women-first' chat rule</a></h3>
-      <p>The dating app's boss says the move is in response to a successful trial and a change in what users want.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 15 Aug 2026, 09:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Aug 2026, 13:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
