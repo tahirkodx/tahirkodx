@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786819852" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786829967" alt="Famous quote" width="100%">
 </p>
 
-> We are most nearly ourselves when we achieve the seriousness of the child at play.
+> Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.
 >
-> Heraclitus
+> Alfred Adler
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></h3>
-      <p>From pcworld.com. 1567 points on Hacker News, 596 comments. Posted by DemiGuru.</p>
+      <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
+      <p>From huggingface.co. 1339 points on Hacker News, 761 comments. Posted by erdaltoprak.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
-      <p>From huggingface.co. 1304 points on Hacker News, 753 comments. Posted by erdaltoprak.</p>
+      <h3><a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">The other Sean Byrne doesn't exist</a></h3>
+      <p>From conic.al. 357 points on Hacker News, 175 comments. Posted by rdl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/">Google is making private AI practical with homomorphic encryption</a></h3>
-      <p>From blog.google. 471 points on Hacker News, 275 comments. Posted by u1hcw9nx.</p>
+      <h3><a href="https://sankalp.bearblog.dev/autoresearch/">Auto-research with codex: How I achieved a 232x Faster Kernel</a></h3>
+      <p>From sankalp.bearblog.dev. 351 points on Hacker News, 83 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Aug 2026, 18:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Aug 2026, 21:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
