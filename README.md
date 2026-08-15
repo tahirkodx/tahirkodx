@@ -98,17 +98,9 @@ Click a preview. Each card is the hook, then what it actually does.
       <p><a href="https://tahiramjad.com">tahiramjad.com</a></p>
     </td>
   </tr>
-</table>
-
----
-
-## Also shipped
-
-Same bar. Shorter cards. Some sit behind logins, so no live preview.
-
-<table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://trainero.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
       <h3><a href="https://trainero.com">Trainero</a></h3>
       <p><strong>The coaching platform coaches actually live in.</strong></p>
       <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
@@ -122,21 +114,7 @@ Same bar. Shorter cards. Some sit behind logins, so no live preview.
       <p><a href="https://trainero.com">trainero.com</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>WhatsApp SaaS gateway</h3>
-      <p><strong>Your own WhatsApp API. Multi-session. Self-hosted.</strong></p>
-      <p>NestJS gateway, React ops dashboard, webhooks, API keys, Docker. For teams that need messaging infrastructure they control, without Cloud API lock-in.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" alt="Kuntokompassi Online" width="100%"></a>
       <h3><a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">Kuntokompassi Online</a></h3>
       <p><strong>A Finnish studio's coaching app. Live on the stores.</strong></p>
       <p>Plans, progress, coach chat. Quasar / Vue client, Capacitor wrap, shipped to App Store and Google Play for SHW Training Oy.</p>
@@ -147,23 +125,25 @@ Same bar. Shorter cards. Some sit behind logins, so no live preview.
       </p>
       <p><a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app">Play</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>ChauffeurOS / Velmore</h3>
-      <p><strong>Dispatch, drivers, and bookings in one ops system.</strong></p>
-      <p>UK chauffeur SaaS. Calendar, maps, Stripe, live job state, React Native driver app. Velmore is the executive / admin surface on the same kind of work.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SIP Pass</h3>
+      <a href="https://velmoreexecutive.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velmoreexecutive.com" alt="Velmore Executive" width="100%"></a>
+      <h3><a href="https://velmoreexecutive.com">Velmore Executive</a></h3>
+      <p><strong>Dispatch, drivers, and bookings in one ops system.</strong></p>
+      <p>UK chauffeur SaaS. Calendar, maps, live job state, Stripe. Public booking site plus admin. React Native driver app sits next to it.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+      </p>
+      <p><a href="https://velmoreexecutive.com">velmoreexecutive.com</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.thesippass.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.thesippass.com" alt="SIP Pass" width="100%"></a>
+      <h3><a href="https://www.thesippass.com">SIP Pass</a></h3>
       <p><strong>Tickets that scan at the door. Checkout on the web.</strong></p>
       <p>Event / pass platform: Next.js public sites, Fastify API, React Native scan app, QR issuance, Paystack. Built for a crowd, not a demo tap.</p>
       <p>
@@ -172,6 +152,31 @@ Same bar. Shorter cards. Some sit behind logins, so no live preview.
         <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+      <p><a href="https://www.thesippass.com">thesippass.com</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Also shipped
+
+Same bar. Shorter cards. Some sit behind logins, so no live preview.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WhatsApp SaaS gateway</h3>
+      <p><strong>Your own WhatsApp API. Multi-session. Self-hosted.</strong></p>
+      <p>NestJS gateway, React ops dashboard, webhooks, API keys, Docker. For teams that need messaging infrastructure they control, without Cloud API lock-in.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       </p>
     </td>
     <td width="50%" valign="top">
