@@ -156,6 +156,21 @@ Click a preview. Each card is the hook, then what it actually does.
       <p><a href="https://www.thesippass.com">thesippass.com</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.morphood.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.morphood.com" alt="Morphood" width="100%"></a>
+      <h3><a href="https://www.morphood.com">Morphood</a></h3>
+      <p><strong>Any recipe. Morphed to the diet in the room.</strong></p>
+      <p>AI recipe product: transform a dish for allergy, diet, or preference, then cook from it. Nutrition breakdown, cook-mode, live homepage. Also on the App Store.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="AI">
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+        <img src="https://img.shields.io/badge/Web-111111?style=flat-square" alt="Web">
+      </p>
+      <p><a href="https://www.morphood.com">morphood.com</a> · <a href="https://apps.apple.com/app/morphood-personalize-recipes/id1616706707">App Store</a></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
@@ -255,28 +270,133 @@ I design the API and the tenancy, then wire the front end, so there is no handof
 
 ## Stack
 
+What I actually ship with. Grouped the way a product is built.
+
+### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+</p>
+
+### Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+
+### Third-party libraries
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand">
+  <img src="https://img.shields.io/badge/Zod-3E63DD?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Konva-0D83CD?style=for-the-badge&logo=konva&logoColor=white" alt="Konva">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=redis&logoColor=DC382D" alt="BullMQ">
+  <img src="https://img.shields.io/badge/LiveKit_SDK-1DA1F2?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit SDK">
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+</p>
+
+### Payment gateways
+
+<p>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" alt="Paystack">
+</p>
+
+### API integration platforms
+
+Slack, Sheets, Zapier on FormitAI. Google Ads IP sync on ClicksFence. eBay on Snap2List. Email via Resend.
+
+<p>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads">
+  <img src="https://img.shields.io/badge/eBay-E53238?style=for-the-badge&logo=ebay&logoColor=white" alt="eBay">
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</p>
+
+### AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
+</p>
+
+### Voice pipeline
+
+Browser WebRTC calls. STT → LLM → TTS, or speech-to-speech. Chat, voice, or both on the same widget.
+
+<p>
+  <img src="https://img.shields.io/badge/LiveKit-1DA1F2?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit">
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram">
+  <img src="https://img.shields.io/badge/Cartesia-111111?style=for-the-badge" alt="Cartesia">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+</p>
+
+### PersonaPlex voice agent
+
+NVIDIA PersonaPlex speech-to-speech on the Neurodek widget. Moshi server, LiveKit plugin, GPU workers. Visitors talk. The agent talks back. No stock TTS round-trip.
+
+<p>
+  <img src="https://img.shields.io/badge/PersonaPlex-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="PersonaPlex">
+  <img src="https://img.shields.io/badge/Moshi-111111?style=for-the-badge" alt="Moshi">
+  <img src="https://img.shields.io/badge/LiveKit-1DA1F2?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit">
+  <img src="https://img.shields.io/badge/RunPod-7B2CBF?style=for-the-badge" alt="RunPod">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+### Custom voice modeling
+
+Upload reference audio. Train a PersonaPlex voice. Test it in super-admin. Ship it on a widget. Not a vendor dropdown.
+
+<p>
+  <img src="https://img.shields.io/badge/Custom_Voices-111111?style=for-the-badge" alt="Custom voices">
+  <img src="https://img.shields.io/badge/PersonaPlex-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="PersonaPlex">
+  <img src="https://img.shields.io/badge/RunPod-7B2CBF?style=for-the-badge" alt="RunPod">
+</p>
+
+### Cloud and infra
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2">
 </p>
 
 ---
