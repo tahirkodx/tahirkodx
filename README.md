@@ -25,9 +25,17 @@ Eight years building SaaS, web apps, and AI tools for startups and long-term pro
 
 ---
 
-## Featured
+## How I work
 
-Click a preview. Each card is the hook, then what it actually does.
+Scope, build, demo, iterate. Clear updates. No surprise scope.
+
+I design the API and the tenancy, then wire the front end, so there is no handoff tax. If I'm not the right fit, I'll say so.
+
+---
+
+## Featured / Portfolio
+
+Live portfolio. Click a preview. Each card is the hook, then what it actually does.
 
 <table>
   <tr>
@@ -80,7 +88,7 @@ Click a preview. Each card is the hook, then what it actually does.
     <td width="50%" valign="top">
       <a href="https://www.morphood.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.morphood.com" alt="Morphood" width="100%"></a>
       <h3><a href="https://www.morphood.com">Morphood</a></h3>
-      <p><strong>Any recipe. Morphed to the diet in the room.</strong></p>
+      <p><strong>Any recipe. Morphood makes it fit the diet in the room.</strong></p>
       <p>AI recipe product: transform a dish for allergy, diet, or preference, then cook from it. Nutrition breakdown, cook-mode, live homepage. Also on the App Store.</p>
       <p>
         <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="AI">
@@ -187,44 +195,6 @@ Click a preview. Each card is the hook, then what it actually does.
 
 ---
 
-## Quote
-
-Famous lines from the web. The card and the line both rotate. GitHub Actions rewrites this block every few hours, and the card URL is cache-busted so GitHub fetches a new one.
-
-<!--FEED:QUOTE:START-->
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786785341" alt="Famous quote" width="100%">
-</p>
-
-> The energy of the mind is the essence of life.
->
-> — Aristotle
-
-<sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
-<!--FEED:QUOTE:END-->
-
----
-
-## Latest from the web
-
-Hacker News front page and BBC Technology. Free sources. The list is rewritten automatically so it does not go stale.
-
-<!--FEED:NEWS:START-->
-| Source | Headline |
-|:--|:--|
-| Hacker News | [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) |
-| Hacker News | [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) |
-| Hacker News | [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html) |
-| Hacker News | [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) |
-| BBC Technology | [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.co.uk/news/articles/cz97ljy91zxo) |
-| BBC Technology | [Protein or pickled garlic? What's new in ice cream](https://www.bbc.co.uk/news/articles/c9826zl0945o) |
-| BBC Technology | [Bumble divides users by ditching its signature 'women-first' chat rule](https://www.bbc.co.uk/news/articles/cvglzlj81x2o) |
-
-<sub>Updated 15 Aug 2026, 09:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
-<!--FEED:NEWS:END-->
-
----
-
 ## Also shipped
 
 Same bar. Shorter cards. Some sit behind logins, so no live preview.
@@ -300,11 +270,70 @@ Nonprofit / foundation work (Websquare, NZF, Olive Grove) and PHP product oversi
 
 ---
 
-## How I work
+## Quote
 
-Scope, build, demo, iterate. Clear updates. No surprise scope.
+Famous lines from the web. The card and the line both rotate. GitHub Actions rewrites this block every few hours, and the card URL is cache-busted so GitHub fetches a new one.
 
-I design the API and the tenancy, then wire the front end, so there is no handoff tax. If I'm not the right fit, I'll say so.
+<!--FEED:QUOTE:START-->
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786785776" alt="Famous quote" width="100%">
+</p>
+
+> The very essence of instinct is that it's followed independently of reason.
+>
+> Charles Darwin
+
+<sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
+<!--FEED:QUOTE:END-->
+
+---
+
+## Latest from the web
+
+Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten automatically so it does not go stale.
+
+<!--FEED:NEWS:START-->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
+      <p>From huggingface.co. 1133 points on Hacker News, 691 comments. Posted by erdaltoprak.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cz97ljy91zxo">Why tech bosses keep sharing their manifestos about AI</a></h3>
+      <p>Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://z.ai/blog/glm-5.3">GLM-5.3: Frontier coding with emergent cyber capabilities</a></h3>
+      <p>From z.ai. 1090 points on Hacker News, 529 comments. Posted by pella.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9826zl0945o">Protein or pickled garlic? What's new in ice cream</a></h3>
+      <p>There's a constant battle in ice cream to come up with new flavours and to keep costs down.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></h3>
+      <p>From pcworld.com. 978 points on Hacker News, 372 comments. Posted by DemiGuru.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvglzlj81x2o">Bumble divides users by ditching its signature 'women-first' chat rule</a></h3>
+      <p>The dating app's boss says the move is in response to a successful trial and a change in what users want.</p>
+    </td>
+  </tr>
+</table>
+
+<sub>Updated 15 Aug 2026, 09:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<!--FEED:NEWS:END-->
 
 ---
 
