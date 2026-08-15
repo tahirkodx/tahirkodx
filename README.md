@@ -49,6 +49,22 @@ Click a preview. Each card is the hook, then what it actually does.
       <p><a href="https://formitai.com">formitai.com</a> · <a href="https://app.formitai.com">app</a></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://trainero.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
+      <h3><a href="https://trainero.com">Trainero</a></h3>
+      <p><strong>The coaching platform coaches actually live in.</strong></p>
+      <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+      <p><a href="https://trainero.com">trainero.com</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://clicksfence.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://clicksfence.com" alt="ClicksFence" width="100%"></a>
       <h3><a href="https://clicksfence.com">ClicksFence</a></h3>
       <p><strong>Stop paying Google for bot clicks.</strong></p>
@@ -64,8 +80,6 @@ Click a preview. Each card is the hook, then what it actually does.
       </p>
       <p><a href="https://clicksfence.com">clicksfence.com</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://snap2list.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.snap2list.com" alt="Snap2List" width="100%"></a>
       <h3><a href="https://snap2list.com">Snap2List</a></h3>
@@ -81,6 +95,8 @@ Click a preview. Each card is the hook, then what it actually does.
       </p>
       <p><a href="https://snap2list.com">snap2list.com</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://tahiramjad.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://tahiramjad.com" alt="Neurodek Voice Agent" width="100%"></a>
       <h3><a href="https://tahiramjad.com">Neurodek Voice Agent</a></h3>
@@ -96,22 +112,6 @@ Click a preview. Each card is the hook, then what it actually does.
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
       <p><a href="https://tahiramjad.com">tahiramjad.com</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://trainero.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
-      <h3><a href="https://trainero.com">Trainero</a></h3>
-      <p><strong>The coaching platform coaches actually live in.</strong></p>
-      <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      </p>
-      <p><a href="https://trainero.com">trainero.com</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" alt="Kuntokompassi Online" width="100%"></a>
