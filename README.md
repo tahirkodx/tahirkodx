@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786798966" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786808368" alt="Famous quote" width="100%">
 </p>
 
-> It is better to fail in originality than to succeed in imitation.
+> Little minds have little worries, big minds have no time for worries.
 >
-> Herman Melville
+> Ralph Waldo Emerson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html">Firefox is now the last major browser that still supports uBlock Origin</a></h3>
-      <p>From pcworld.com. 1248 points on Hacker News, 473 comments. Posted by DemiGuru.</p>
+      <p>From pcworld.com. 1408 points on Hacker News, 540 comments. Posted by DemiGuru.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -401,7 +401,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
-      <p>From huggingface.co. 1212 points on Hacker News, 722 comments. Posted by erdaltoprak.</p>
+      <p>From huggingface.co. 1265 points on Hacker News, 741 comments. Posted by erdaltoprak.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://z.ai/blog/glm-5.3">GLM-5.3: Frontier coding with emergent cyber capabilities</a></h3>
-      <p>From z.ai. 1108 points on Hacker News, 543 comments. Posted by pella.</p>
+      <h3><a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/">Google is making private AI practical with homomorphic encryption</a></h3>
+      <p>From blog.google. 453 points on Hacker News, 268 comments. Posted by u1hcw9nx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Aug 2026, 13:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Aug 2026, 15:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
