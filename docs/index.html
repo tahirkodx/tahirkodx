@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Tahir Amjad · Selected work</title>
+    <meta
+      name="description"
+      content="Live products Tahir Amjad shipped. Same portfolio as the GitHub README and the markdown case studies."
+    />
+    <meta name="theme-color" content="#13141c" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="canonical" href="https://tahirkodx.github.io/tahirkodx/" />
+    <meta property="og:title" content="Tahir Amjad · Selected work" />
+    <meta
+      property="og:description"
+      content="Live products. Same story in the README, the case studies, and these pages."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tahirkodx.github.io/tahirkodx/" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#work">Skip to work</a>
+
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="wordmark" href="./">Tahir Amjad</a>
+        <nav class="nav" aria-label="Primary">
+          <a href="#work">Work</a>
+          <a href="https://github.com/tahirkodx/tahirkodx">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="wrap hero-grid">
+          <div class="hero-copy">
+            <h1 id="hero-title">Selected work</h1>
+            <p class="lede">
+              Live products I shipped. Same story in the README, the markdown case studies, and these pages.
+            </p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="#formitai">Open FormitAI</a>
+              <a
+                class="btn btn-ghost"
+                href="https://github.com/tahirkodx/tahirkodx/tree/main/portfolio"
+              >
+                Case studies
+              </a>
+            </div>
+          </div>
+          <figure class="hero-visual">
+            <a href="#formitai">
+              <img
+                id="hero-preview"
+                src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://formitai.com"
+                alt="FormitAI marketing site"
+                width="1200"
+                height="750"
+              />
+            </a>
+            <figcaption>FormitAI, the first card in this set</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section id="work" class="work" aria-labelledby="work-title">
+        <div class="wrap">
+          <h2 id="work-title">Featured / Portfolio</h2>
+          <p class="work-intro">
+            Ten live products. Click a card for the case, then open the live product.
+          </p>
+          <div id="grid" class="grid" aria-live="polite"></div>
+          <p id="grid-status" class="status" hidden></p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-inner">
+        <p>Tahir Amjad. Founder of <a href="https://neurodek.com">Neurodek</a>. Top Rated Plus on Upwork.</p>
+        <p class="footer-links">
+          <a href="https://www.upwork.com/freelancers/tahiramjad">Upwork</a>
+          <a href="https://tahiramjad.com">tahiramjad.com</a>
+          <a href="https://github.com/tahirkodx/tahirkodx">README</a>
+        </p>
+      </div>
+    </footer>
+
+    <dialog id="case-dialog" class="case-dialog" aria-modal="true" aria-labelledby="dialog-title">
+      <div class="dialog-shell">
+        <header class="dialog-head">
+          <p class="dialog-kicker" id="dialog-kicker"></p>
+          <h2 id="dialog-title"></h2>
+          <button type="button" class="icon-btn" id="dialog-close" aria-label="Close case study">
+            Close
+          </button>
+        </header>
+
+        <div class="tabs" role="tablist" aria-label="Case study sections">
+          <button type="button" role="tab" id="tab-overview" aria-controls="panel-overview" aria-selected="true">
+            Overview
+          </button>
+          <button type="button" role="tab" id="tab-usecase" aria-controls="panel-usecase" aria-selected="false" tabindex="-1">
+            Use case
+          </button>
+          <button type="button" role="tab" id="tab-story" aria-controls="panel-story" aria-selected="false" tabindex="-1">
+            Story
+          </button>
+          <button type="button" role="tab" id="tab-screens" aria-controls="panel-screens" aria-selected="false" tabindex="-1">
+            Screens
+          </button>
+          <button type="button" role="tab" id="tab-live" aria-controls="panel-live" aria-selected="false" tabindex="-1">
+            Live
+          </button>
+        </div>
+
+        <div class="panels">
+          <section id="panel-overview" role="tabpanel" aria-labelledby="tab-overview" data-page="overview"></section>
+          <section id="panel-usecase" role="tabpanel" aria-labelledby="tab-usecase" data-page="usecase" hidden></section>
+          <section id="panel-story" role="tabpanel" aria-labelledby="tab-story" data-page="story" hidden></section>
+          <section id="panel-screens" role="tabpanel" aria-labelledby="tab-screens" data-page="screens" hidden></section>
+          <section id="panel-live" role="tabpanel" aria-labelledby="tab-live" data-page="live" hidden></section>
+        </div>
+
+        <footer class="dialog-foot">
+          <a class="btn btn-primary" id="dialog-live" href="#" rel="noopener noreferrer">Live project</a>
+          <a class="btn btn-ghost" id="dialog-case" href="#" rel="noopener noreferrer">Case study</a>
+        </footer>
+      </div>
+    </dialog>
+
+    <noscript>
+      <p class="wrap">
+        JavaScript is off. Read the case studies in
+        <a href="https://github.com/tahirkodx/tahirkodx/tree/main/portfolio">portfolio/</a>.
+      </p>
+    </noscript>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

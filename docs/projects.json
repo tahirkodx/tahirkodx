@@ -1,0 +1,249 @@
+{
+  "site": {
+    "title": "Tahir Amjad",
+    "tagline": "Selected work",
+    "lede": "Live products I shipped. Same story in the README, the markdown case studies, and these pages.",
+    "github": "https://github.com/tahirkodx/tahirkodx",
+    "caseStudies": "https://github.com/tahirkodx/tahirkodx/tree/main/portfolio",
+    "readme": "https://github.com/tahirkodx/tahirkodx#featured--portfolio",
+    "contact": "https://www.upwork.com/freelancers/tahiramjad"
+  },
+  "projects": [
+    {
+      "id": "formitai",
+      "name": "FormitAI",
+      "hook": "Describe the form. It builds itself, then asks the next question.",
+      "body": "AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, embeds, analytics, Slack / Sheets / Zapier. I shipped it end to end: builder, runtime, API, tenancy, marketing, production.",
+      "useCase": "Teams that need a form product, not a field palette. Write what you want collected. The builder drafts the form. The runtime asks a follow-up when an answer is vague.",
+      "problem": "Most form tools start from a blank canvas of field types. Clients wanted something closer to a conversation: describe the intake, get a working form, then let AI chase incomplete answers after publish.",
+      "discussed": "We split the product into four surfaces so marketing, the builder, public forms, and embeds could ship and scale on their own hosts. Tenancy lives in the Fastify API. Integrations fan out after submit and never block the submission.",
+      "shipped": "Next.js marketing site, Vite builder and dashboard, Next.js public form runtime, vanilla embed.js, Fastify + Prisma API. Org roles, plans, Slack OAuth, Google Sheets append, Zapier bridge, WhatsApp result alerts.",
+      "built": "Frontend monorepo (npm workspaces): apps/www, apps/web, apps/admin, apps/form-runtime, plus shared form-renderer and embed packages. Backend is a separate Fastify + TypeScript + Prisma service on PostgreSQL, with Redis in the stack and OpenAI for generation and follow-ups.",
+      "deployed": "Ubuntu, nginx, and PM2. formitai.com is the marketing Next app. app.formitai.com is the builder SPA. form.formitai.com serves public forms. embed.formitai.com serves embed.js. API on its own host. Branded form URLs use a workspace subdomain on *.formitai.com.",
+      "liveUrl": "https://formitai.com",
+      "liveLabel": "formitai.com",
+      "previewUrl": "https://formitai.com",
+      "stack": ["React", "Next.js", "TypeScript", "Fastify", "Prisma", "PostgreSQL", "Redis", "OpenAI"],
+      "links": [
+        { "label": "Marketing", "url": "https://formitai.com" },
+        { "label": "App", "url": "https://app.formitai.com" }
+      ],
+      "screens": [
+        { "label": "Marketing site", "url": "https://formitai.com" },
+        { "label": "Builder app", "url": "https://app.formitai.com" }
+      ],
+      "caseStudy": "formitai.md"
+    },
+    {
+      "id": "trainero",
+      "name": "Trainero",
+      "hook": "The coaching platform coaches actually live in.",
+      "body": "Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.",
+      "useCase": "Coaches run programming, clients, and chat from one product. Clients open a companion app for workouts, progress, and messages.",
+      "problem": "A coaching business cannot live in a spreadsheet and a WhatsApp thread. They needed trainer and client apps that stay in sync, including white-label for partner studios.",
+      "discussed": "This is a long-term seat, not a one-off build. Scope stays in the live trainer and client codebases: workouts, messaging, and the white-label path. Updates ship into apps coaches already use every week.",
+      "shipped": "Trainer app and client app. Workouts, chat, white-label. Client app is Quasar / Vue with Capacitor (camera, push, health hooks). AWS sits behind the apps.",
+      "built": "Vue 3 and Quasar on the client app, Capacitor for store wraps, Vuex, i18n, socket.io for live chat. AWS SDK in the client. PostgreSQL on the API side.",
+      "deployed": "Live at trainero.com. Client app ships as a Capacitor wrap. Product work continues in the same codebases.",
+      "liveUrl": "https://trainero.com",
+      "liveLabel": "trainero.com",
+      "previewUrl": "https://trainero.com",
+      "stack": ["Vue.js", "Quasar", "TypeScript", "AWS", "PostgreSQL"],
+      "links": [
+        { "label": "Product", "url": "https://trainero.com" }
+      ],
+      "screens": [
+        { "label": "Trainero", "url": "https://trainero.com" }
+      ],
+      "caseStudy": "trainero.md"
+    },
+    {
+      "id": "flapjack",
+      "name": "Flapjack",
+      "hook": "Design the menu like a canvas. Publish it like a site.",
+      "body": "Restaurant menu builder. Next.js editor with Konva for layout. Restaurants get a visual builder instead of a Word doc and a hope. Live at flapjack.co.",
+      "useCase": "A restaurant designs a menu on a canvas, then publishes it as a page guests can open.",
+      "problem": "Menus still start as a Word file and a designer. The owner wanted a builder that treats layout as the product, not a form of rows.",
+      "discussed": "Keep the editor visual. Konva owns drag, type, and layout on the canvas. Next.js hosts the app. Zustand holds editor state so the canvas does not fight the page.",
+      "shipped": "A Next.js menu editor with a Konva canvas. Restaurants lay out items visually and publish the result.",
+      "built": "Next.js 15, React 19, Konva / react-konva, Zustand, TypeScript, Tailwind.",
+      "deployed": "Live at flapjack.co as a Next.js app.",
+      "liveUrl": "https://flapjack.co",
+      "liveLabel": "flapjack.co",
+      "previewUrl": "https://flapjack.co",
+      "stack": ["Next.js", "React", "Konva", "Zustand"],
+      "links": [
+        { "label": "Product", "url": "https://flapjack.co" }
+      ],
+      "screens": [
+        { "label": "Flapjack", "url": "https://flapjack.co" }
+      ],
+      "caseStudy": "flapjack.md"
+    },
+    {
+      "id": "morphood",
+      "name": "Morphood",
+      "hook": "Any recipe. Morphood makes it fit the diet in the room.",
+      "body": "AI recipe product: transform a dish for allergy, diet, or preference, then cook from it. Nutrition breakdown, cook-mode, live homepage. Also on the App Store.",
+      "useCase": "Someone has a recipe that does not fit the diet, allergy, or preference in the room. Morphood rewrites it, shows nutrition, and walks the cook through the dish.",
+      "problem": "A household rarely shares one diet. A recipe that works for one person can be unusable for the next. The product needed to adapt the dish, not just store it.",
+      "discussed": "Keep the loop short: take a recipe, adapt it, cook from the result. Nutrition and cook-mode sit next to the rewrite so the output is usable in the kitchen, not only on a screen.",
+      "shipped": "Web product at morphood.com and an iOS app on the App Store. Recipe transform, nutrition breakdown, cook-mode.",
+      "built": "Web plus iOS. AI for the recipe transform. I am not listing a fuller stack here because I cannot verify it from a public repo.",
+      "deployed": "Live homepage at morphood.com. iOS build on the App Store (Morphood: Personalize Recipes).",
+      "liveUrl": "https://www.morphood.com",
+      "liveLabel": "morphood.com",
+      "previewUrl": "https://www.morphood.com",
+      "stack": ["AI", "iOS", "Web"],
+      "links": [
+        { "label": "Web", "url": "https://www.morphood.com" },
+        { "label": "App Store", "url": "https://apps.apple.com/app/morphood-personalize-recipes/id1616706707" }
+      ],
+      "screens": [
+        { "label": "Homepage", "url": "https://www.morphood.com" },
+        { "label": "App Store", "url": "https://apps.apple.com/app/morphood-personalize-recipes/id1616706707" }
+      ],
+      "caseStudy": "morphood.md"
+    },
+    {
+      "id": "clicksfence",
+      "name": "ClicksFence",
+      "hook": "Stop paying Google for bot clicks.",
+      "body": "Click-fraud SaaS for advertisers. One script, real-time blocking, session replay, then optional IP sync into Google Ads. I built the tracker, workers, replay, billing, and multi-tenant dashboard.",
+      "useCase": "Advertisers paste one script. Invalid traffic is scored and blocked in real time. Optional IP lists sync into Google Ads so spend stops following the bots.",
+      "problem": "Paid search still leaks money to bots and click farms. Advertisers needed detection on their own sites, a way to see the session, and a path into Google Ads exclusions.",
+      "discussed": "Keep the tracker small. Score in workers, not in the page. Replay the session so a human can confirm a block. Billing and tenancy sit in the same dashboard as the sites.",
+      "shipped": "Multi-tenant dashboard: domains, analytics, click protection, rrweb session replay, team roles, billing. Tracker install guide. Fastify API plus fraud and email workers. Optional Google Ads IP sync.",
+      "built": "Next.js App Router dashboard (React, TypeScript, Radix, TanStack Query, Recharts, rrweb). Fastify + TypeScript API, Prisma on PostgreSQL, Redis, BullMQ workers for fraud scoring and session-complete jobs. Custom JWT auth.",
+      "deployed": "API and workers run as separate processes (PM2 in production). Product is live at clicksfence.com.",
+      "liveUrl": "https://clicksfence.com",
+      "liveLabel": "clicksfence.com",
+      "previewUrl": "https://clicksfence.com",
+      "stack": ["Next.js", "React", "Fastify", "Prisma", "PostgreSQL", "Redis", "Google Ads"],
+      "links": [
+        { "label": "Product", "url": "https://clicksfence.com" }
+      ],
+      "screens": [
+        { "label": "ClicksFence", "url": "https://clicksfence.com" }
+      ],
+      "caseStudy": "clicksfence.md"
+    },
+    {
+      "id": "snap2list",
+      "name": "Snap2List",
+      "hook": "Photo in. eBay listing out. Inventory stays in sync.",
+      "body": "eBay listing + inventory dashboard. Scan a barcode, generate the listing, bulk-revise prices, print SKU labels, sync from a React Native warehouse app. Live at snap2list.com.",
+      "useCase": "A warehouse snaps or scans a product. The dashboard turns it into an eBay listing, keeps stock in sync, and prints SKU labels.",
+      "problem": "Listing one item at a time in eBay's UI does not match how a warehouse actually works. They needed capture on the floor and listing, price revise, and labels in one dashboard.",
+      "discussed": "Split capture and ops. React Native handles barcode, photo, and packages on the floor. The Vite dashboard owns catalog, eBay listing, bulk price revise, and label print. Supabase holds the data both sides share.",
+      "shipped": "Inventory dashboard at snap2list.com: catalog, SKU tracking, eBay listings, bulk price revise, label print. React Native companion for barcode and capture.",
+      "built": "React 18 + TypeScript + Vite dashboard (TanStack Query, React Router, jsbarcode / label print). React Native warehouse app with ML Kit barcode scanning. Supabase for the shared backend.",
+      "deployed": "Live at snap2list.com. Dashboard has production and staging deploy scripts.",
+      "liveUrl": "https://snap2list.com",
+      "liveLabel": "snap2list.com",
+      "previewUrl": "https://www.snap2list.com",
+      "stack": ["React", "Vite", "React Native", "Supabase", "eBay", "TypeScript"],
+      "links": [
+        { "label": "Product", "url": "https://snap2list.com" }
+      ],
+      "screens": [
+        { "label": "Snap2List", "url": "https://www.snap2list.com" }
+      ],
+      "caseStudy": "snap2list.md"
+    },
+    {
+      "id": "voice-agent",
+      "name": "Neurodek Voice Agent",
+      "hook": "Drop an AI agent on any website. Chat, voice, or both.",
+      "body": "Embeddable widget: visitors type, talk, or switch mid-conversation. Control plane for assistants, knowledge bases, and call analytics. LiveKit pipeline under the hood. Hosted at tahiramjad.com.",
+      "useCase": "A site owner embeds a widget. Visitors chat, start a voice call, or switch mid-conversation. The same assistant can use a stock TTS loop or a PersonaPlex custom voice.",
+      "problem": "Most chat widgets stop at text. Voice demos die in a notebook. The brief was a control plane plus a real WebRTC pipeline that a site can embed.",
+      "discussed": "Three runtimes: a React dashboard for assistants and knowledge, a Node control plane that mints LiveKit tokens, and a Python worker that joins the room. Chat, voice, or both on one widget. PersonaPlex is the speech-to-speech path when a custom voice is trained.",
+      "shipped": "Embeddable widget (chat, voice, or both). Control plane for orgs, assistants, knowledge bases, and call analytics. LiveKit worker. PersonaPlex custom-voice path (upload reference audio, train, test in super-admin, ship on a widget).",
+      "built": "Dashboard is Vite + React. Control plane is Express + TypeScript + Prisma + PostgreSQL + Redis. Voice engine is Python livekit-agents: Deepgram STT, Groq LLM, Cartesia TTS, or PersonaPlex / Moshi speech-to-speech. GPU workers on RunPod for PersonaPlex.",
+      "deployed": "Hosted at tahiramjad.com. Control plane and voice worker run under PM2. LiveKit Cloud for rooms.",
+      "liveUrl": "https://tahiramjad.com",
+      "liveLabel": "tahiramjad.com",
+      "previewUrl": "https://tahiramjad.com",
+      "stack": ["React", "Node.js", "LiveKit", "Prisma", "PostgreSQL", "Redis", "OpenAI"],
+      "links": [
+        { "label": "Hosted widget", "url": "https://tahiramjad.com" }
+      ],
+      "screens": [
+        { "label": "tahiramjad.com", "url": "https://tahiramjad.com" }
+      ],
+      "caseStudy": "voice-agent.md"
+    },
+    {
+      "id": "kuntokompassi",
+      "name": "Kuntokompassi Online",
+      "hook": "A Finnish studio's coaching app. Live on the stores.",
+      "body": "Plans, progress, coach chat. Quasar / Vue client, Capacitor wrap, shipped to App Store and Google Play for SHW Training Oy.",
+      "useCase": "Members of a Finnish training studio open plans, log progress, and chat with their coach on iOS or Android.",
+      "problem": "The studio needed a member app that matches how they already coach, not a generic fitness template. It had to ship on both stores.",
+      "discussed": "Reuse the Quasar / Vue coaching patterns already proven on Trainero-family work. Wrap with Capacitor for App Store and Play. Keep plans, progress, and coach chat as the product surface.",
+      "shipped": "Kuntokompassi Online on the App Store and Google Play. Plans, progress, coach chat. Built for SHW Training Oy.",
+      "built": "Quasar / Vue 3 client, Pinia, Vue Router, ApexCharts, Vimeo player. Capacitor wrap for iOS and Android.",
+      "deployed": "App Store (Kuntokompassi Online) and Google Play (fi.kuntokompassi.online.app). Studio marketing lives on Kajabi.",
+      "liveUrl": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083",
+      "liveLabel": "App Store",
+      "previewUrl": "https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi",
+      "stack": ["Vue.js", "Quasar", "Capacitor"],
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083" },
+        { "label": "Play", "url": "https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app" }
+      ],
+      "screens": [
+        { "label": "Studio page", "url": "https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" },
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083" }
+      ],
+      "caseStudy": "kuntokompassi.md"
+    },
+    {
+      "id": "velmore",
+      "name": "Velmore Executive",
+      "hook": "Dispatch, drivers, and bookings in one ops system.",
+      "body": "UK chauffeur SaaS. Calendar, maps, live job state, Stripe. Public booking site plus admin. React Native driver app sits next to it.",
+      "useCase": "A UK chauffeur company takes bookings on the web, runs jobs from admin, and puts live job state in a driver app.",
+      "problem": "Dispatch, drivers, and public booking were not one system. Quotes, calendar, and job state needed to stay in sync, including payment.",
+      "discussed": "Public site is the booking surface. Admin is ops: calendar, maps, live jobs. Stripe takes payment. A React Native driver app sits next to the web stack. The API is Fastify with Prisma on PostgreSQL.",
+      "shipped": "Public booking site at velmoreexecutive.com, admin, Fastify API, Stripe checkout, React Native driver app. Calendar, maps, live job state.",
+      "built": "Vite + React public site and admin. Fastify + Prisma + PostgreSQL API, Redis, Stripe, nodemailer. React Native driver app. PM2 for the Node services.",
+      "deployed": "Live at velmoreexecutive.com. API starts under PM2 in production.",
+      "liveUrl": "https://velmoreexecutive.com",
+      "liveLabel": "velmoreexecutive.com",
+      "previewUrl": "https://velmoreexecutive.com",
+      "stack": ["React", "React Native", "Vite", "Stripe"],
+      "links": [
+        { "label": "Booking site", "url": "https://velmoreexecutive.com" }
+      ],
+      "screens": [
+        { "label": "Velmore Executive", "url": "https://velmoreexecutive.com" }
+      ],
+      "caseStudy": "velmore.md"
+    },
+    {
+      "id": "sip-pass",
+      "name": "SIP Pass",
+      "hook": "Tickets that scan at the door. Checkout on the web.",
+      "body": "Event / pass platform: Next.js public sites, Fastify API, React Native scan app, QR issuance, Paystack. Built for a crowd, not a demo tap.",
+      "useCase": "An organizer sells tickets on the web. Guests check out with Paystack. Door staff scan a QR. Vendors and admins have their own roles in the same event.",
+      "problem": "Events need issuance, payment, and door scan in one loop. A demo QR is not enough when a crowd is at the door.",
+      "discussed": "Public Next.js sites for guests. A Vite admin hub for organizers. Fastify + Prisma API replaced an earlier Supabase Auth / Edge stack. React Native CLI app for scan, check-in, vendor credits, and public ticket lookup. Paystack stays server-side.",
+      "shipped": "Public sites, organizer hub, Fastify API, QR tickets, Paystack checkout, React Native scan app (door check-in, vendor credits, attendee lookup without login).",
+      "built": "Next.js public sites. Vite + React + TypeScript admin hub. Fastify + Prisma + PostgreSQL + JWT API with QR generation. React Native CLI scan app (vision-camera barcode). Paystack on the API.",
+      "deployed": "Public product at thesippass.com. Admin hub builds to static hosting. API deploys separately with its own database.",
+      "liveUrl": "https://www.thesippass.com",
+      "liveLabel": "thesippass.com",
+      "previewUrl": "https://www.thesippass.com",
+      "stack": ["Next.js", "React Native", "Fastify", "Prisma", "PostgreSQL"],
+      "links": [
+        { "label": "Product", "url": "https://www.thesippass.com" }
+      ],
+      "screens": [
+        { "label": "SIP Pass", "url": "https://www.thesippass.com" }
+      ],
+      "caseStudy": "sip-pass.md"
+    }
+  ]
+}

@@ -35,12 +35,12 @@ I design the API and the tenancy, then wire the front end, so there is no handof
 
 ## Featured / Portfolio
 
-Live portfolio. Click a preview. Each card is the hook, then what it actually does.
+Live portfolio. Click a preview to open the case in the [interactive portfolio](https://tahirkodx.github.io/tahirkodx/). Each card is the hook, then what it actually does. Expand **Case study** for the short path from discussion to deploy, or read the full write-up in [`portfolio/`](portfolio/).
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://formitai.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://formitai.com" alt="FormitAI" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://formitai.com" alt="FormitAI" width="100%"></a>
       <h3><a href="https://formitai.com">FormitAI</a></h3>
       <p><strong>Describe the form. It builds itself, then asks the next question.</strong></p>
       <p>AI form builder SaaS. Prompt → fields → AI follow-ups on vague answers. Links, embeds, analytics, Slack / Sheets / Zapier. I shipped it end to end: builder, runtime, API, tenancy, marketing, production.</p>
@@ -55,9 +55,19 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
       <p><a href="https://formitai.com">formitai.com</a> · <a href="https://app.formitai.com">app</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Four surfaces, one tenancy. Marketing, builder, public forms, and embed.js each got their own host. The Fastify API owns orgs, plans, and integrations that fan out after submit.</p>
+        <p>Shipped on Ubuntu, nginx, and PM2: formitai.com, app.formitai.com, form.formitai.com, embed.formitai.com.</p>
+        <p>
+          <a href="portfolio/formitai.md">Case study page</a> ·
+          <a href="https://formitai.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#formitai">Open in portfolio</a>
+        </p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://trainero.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#trainero"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
       <h3><a href="https://trainero.com">Trainero</a></h3>
       <p><strong>The coaching platform coaches actually live in.</strong></p>
       <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
@@ -69,11 +79,20 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </p>
       <p><a href="https://trainero.com">trainero.com</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Long-term seat on a European coaching business. Work lives in the trainer and client apps: workouts, chat, white-label. Vue / Quasar on the clients, AWS APIs behind them.</p>
+        <p>
+          <a href="portfolio/trainero.md">Case study page</a> ·
+          <a href="https://trainero.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#trainero">Open in portfolio</a>
+        </p>
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://flapjack.co"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://flapjack.co" alt="Flapjack" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#flapjack"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://flapjack.co" alt="Flapjack" width="100%"></a>
       <h3><a href="https://flapjack.co">Flapjack</a></h3>
       <p><strong>Design the menu like a canvas. Publish it like a site.</strong></p>
       <p>Restaurant menu builder. Next.js editor with Konva for layout. Restaurants get a visual builder instead of a Word doc and a hope. Live at flapjack.co.</p>
@@ -84,9 +103,18 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand">
       </p>
       <p><a href="https://flapjack.co">flapjack.co</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>A restaurant menu is a canvas, not a spreadsheet. Next.js hosts the editor. Konva owns layout. Zustand keeps canvas state off the page tree. Live at flapjack.co.</p>
+        <p>
+          <a href="portfolio/flapjack.md">Case study page</a> ·
+          <a href="https://flapjack.co">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#flapjack">Open in portfolio</a>
+        </p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.morphood.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.morphood.com" alt="Morphood" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#morphood"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.morphood.com" alt="Morphood" width="100%"></a>
       <h3><a href="https://www.morphood.com">Morphood</a></h3>
       <p><strong>Any recipe. Morphood makes it fit the diet in the room.</strong></p>
       <p>AI recipe product: transform a dish for allergy, diet, or preference, then cook from it. Nutrition breakdown, cook-mode, live homepage. Also on the App Store.</p>
@@ -96,11 +124,20 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/Web-111111?style=flat-square" alt="Web">
       </p>
       <p><a href="https://www.morphood.com">morphood.com</a> · <a href="https://apps.apple.com/app/morphood-personalize-recipes/id1616706707">App Store</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Take a recipe, adapt it for the diet in the room, then cook from it. Nutrition and cook-mode sit next to the rewrite. Web at morphood.com, iOS on the App Store.</p>
+        <p>
+          <a href="portfolio/morphood.md">Case study page</a> ·
+          <a href="https://www.morphood.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#morphood">Open in portfolio</a>
+        </p>
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://clicksfence.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://clicksfence.com" alt="ClicksFence" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#clicksfence"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://clicksfence.com" alt="ClicksFence" width="100%"></a>
       <h3><a href="https://clicksfence.com">ClicksFence</a></h3>
       <p><strong>Stop paying Google for bot clicks.</strong></p>
       <p>Click-fraud SaaS for advertisers. One script, real-time blocking, session replay, then optional IP sync into Google Ads. I built the tracker, workers, replay, billing, and multi-tenant dashboard.</p>
@@ -114,9 +151,18 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads">
       </p>
       <p><a href="https://clicksfence.com">clicksfence.com</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>One script on the advertiser's site. Workers score the click. rrweb replay lets a human confirm a block. Optional IP lists sync into Google Ads. I built the tracker, workers, replay, billing, and multi-tenant dashboard.</p>
+        <p>
+          <a href="portfolio/clicksfence.md">Case study page</a> ·
+          <a href="https://clicksfence.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#clicksfence">Open in portfolio</a>
+        </p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://snap2list.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.snap2list.com" alt="Snap2List" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#snap2list"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.snap2list.com" alt="Snap2List" width="100%"></a>
       <h3><a href="https://snap2list.com">Snap2List</a></h3>
       <p><strong>Photo in. eBay listing out. Inventory stays in sync.</strong></p>
       <p>eBay listing + inventory dashboard. Scan a barcode, generate the listing, bulk-revise prices, print SKU labels, sync from a React Native warehouse app. Live at snap2list.com.</p>
@@ -129,11 +175,20 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
       <p><a href="https://snap2list.com">snap2list.com</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Warehouse capture on React Native. Dashboard turns a scan into an eBay listing, revises prices in bulk, and prints SKU labels. Supabase is the shared store. Live at snap2list.com.</p>
+        <p>
+          <a href="portfolio/snap2list.md">Case study page</a> ·
+          <a href="https://snap2list.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#snap2list">Open in portfolio</a>
+        </p>
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tahiramjad.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://tahiramjad.com" alt="Neurodek Voice Agent" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#voice-agent"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://tahiramjad.com" alt="Neurodek Voice Agent" width="100%"></a>
       <h3><a href="https://tahiramjad.com">Neurodek Voice Agent</a></h3>
       <p><strong>Drop an AI agent on any website. Chat, voice, or both.</strong></p>
       <p>Embeddable widget: visitors type, talk, or switch mid-conversation. Control plane for assistants, knowledge bases, and call analytics. LiveKit pipeline under the hood. Hosted at tahiramjad.com.</p>
@@ -147,9 +202,18 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
       <p><a href="https://tahiramjad.com">tahiramjad.com</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Dashboard, control plane, and a LiveKit worker. Visitors chat, talk, or switch mid-conversation. PersonaPlex is the custom-voice path: upload reference audio, train, ship it on the widget.</p>
+        <p>
+          <a href="portfolio/voice-agent.md">Case study page</a> ·
+          <a href="https://tahiramjad.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#voice-agent">Open in portfolio</a>
+        </p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" alt="Kuntokompassi Online" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#kuntokompassi"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" alt="Kuntokompassi Online" width="100%"></a>
       <h3><a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">Kuntokompassi Online</a></h3>
       <p><strong>A Finnish studio's coaching app. Live on the stores.</strong></p>
       <p>Plans, progress, coach chat. Quasar / Vue client, Capacitor wrap, shipped to App Store and Google Play for SHW Training Oy.</p>
@@ -159,11 +223,20 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor">
       </p>
       <p><a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app">Play</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Plans, progress, coach chat for a Finnish studio. Quasar / Vue client, Capacitor wrap, shipped to App Store and Google Play for SHW Training Oy.</p>
+        <p>
+          <a href="portfolio/kuntokompassi.md">Case study page</a> ·
+          <a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#kuntokompassi">Open in portfolio</a>
+        </p>
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://velmoreexecutive.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velmoreexecutive.com" alt="Velmore Executive" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#velmore"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velmoreexecutive.com" alt="Velmore Executive" width="100%"></a>
       <h3><a href="https://velmoreexecutive.com">Velmore Executive</a></h3>
       <p><strong>Dispatch, drivers, and bookings in one ops system.</strong></p>
       <p>UK chauffeur SaaS. Calendar, maps, live job state, Stripe. Public booking site plus admin. React Native driver app sits next to it.</p>
@@ -175,9 +248,18 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
       </p>
       <p><a href="https://velmoreexecutive.com">velmoreexecutive.com</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Public booking, admin ops, and a driver app. Calendar, maps, live job state, Stripe. Fastify API with Prisma on PostgreSQL. Live at velmoreexecutive.com.</p>
+        <p>
+          <a href="portfolio/velmore.md">Case study page</a> ·
+          <a href="https://velmoreexecutive.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#velmore">Open in portfolio</a>
+        </p>
+      </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.thesippass.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.thesippass.com" alt="SIP Pass" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#sip-pass"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.thesippass.com" alt="SIP Pass" width="100%"></a>
       <h3><a href="https://www.thesippass.com">SIP Pass</a></h3>
       <p><strong>Tickets that scan at the door. Checkout on the web.</strong></p>
       <p>Event / pass platform: Next.js public sites, Fastify API, React Native scan app, QR issuance, Paystack. Built for a crowd, not a demo tap.</p>
@@ -189,6 +271,15 @@ Live portfolio. Click a preview. Each card is the hook, then what it actually do
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </p>
       <p><a href="https://www.thesippass.com">thesippass.com</a></p>
+      <details>
+        <summary>Case study</summary>
+        <p>Next.js public sites, Fastify API, React Native scan app. QR at the door, Paystack on the web. Built for a crowd, not a demo tap.</p>
+        <p>
+          <a href="portfolio/sip-pass.md">Case study page</a> ·
+          <a href="https://www.thesippass.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#sip-pass">Open in portfolio</a>
+        </p>
+      </details>
     </td>
   </tr>
 </table>
