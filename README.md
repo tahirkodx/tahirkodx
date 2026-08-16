@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786863820" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786873602" alt="Famous quote" width="100%">
 </p>
 
-> If you can handle rejection, you'll learn to get everything you want.
+> It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts.
 >
-> Tony Robbins
+> Alfred Adler
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">AI has access to a vastly larger working memory than the human brain</a></h3>
-      <p>From davidepiffer.com. 473 points on Hacker News, 405 comments. Posted by rzk.</p>
+      <p>From davidepiffer.com. 496 points on Hacker News, 417 comments. Posted by rzk.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -401,7 +401,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Semaglutide linked to lower predicted dementia risk</a></h3>
-      <p>From alz-journals.onlinelibrary.wiley.com. 407 points on Hacker News, 283 comments. Posted by randycupertino.</p>
+      <p>From alz-journals.onlinelibrary.wiley.com. 426 points on Hacker News, 296 comments. Posted by randycupertino.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -413,7 +413,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/">Asus Bike Booster</a></h3>
-      <p>From asus.com. 307 points on Hacker News, 166 comments. Posted by wiradikusuma.</p>
+      <p>From asus.com. 384 points on Hacker News, 241 comments. Posted by wiradikusuma.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 16 Aug 2026, 07:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Aug 2026, 09:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
