@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786829967" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786845604" alt="Famous quote" width="100%">
 </p>
 
-> Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.
+> Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
 >
-> Alfred Adler
+> Roy T. Bennett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://huggingface.co/Qwen/Qwen3.8-27B-FP8">Qwen 3.8 27B</a></h3>
-      <p>From huggingface.co. 1339 points on Hacker News, 761 comments. Posted by erdaltoprak.</p>
+      <h3><a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">AI has access to a vastly larger working memory than the human brain</a></h3>
+      <p>From davidepiffer.com. 412 points on Hacker News, 372 comments. Posted by rzk.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq56pzqy6jvo">I survived two years as prime minister in a hit new game, then my cabinet deserted me</a></h3>
+      <p>Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://sankalp.bearblog.dev/autoresearch/">Auto-research with codex: How I achieved a 232x Faster Kernel</a></h3>
+      <p>From sankalp.bearblog.dev. 395 points on Hacker News, 86 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">The other Sean Byrne doesn't exist</a></h3>
-      <p>From conic.al. 357 points on Hacker News, 175 comments. Posted by rdl.</p>
+      <h3><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Semaglutide linked to lower predicted dementia risk</a></h3>
+      <p>From alz-journals.onlinelibrary.wiley.com. 351 points on Hacker News, 244 comments. Posted by randycupertino.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -409,21 +421,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sankalp.bearblog.dev/autoresearch/">Auto-research with codex: How I achieved a 232x Faster Kernel</a></h3>
-      <p>From sankalp.bearblog.dev. 351 points on Hacker News, 83 comments. Posted by tosh.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9826zl0945o">Protein or pickled garlic? What's new in ice cream</a></h3>
-      <p>There's a constant battle in ice cream to come up with new flavours and to keep costs down.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 15 Aug 2026, 21:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Aug 2026, 02:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
