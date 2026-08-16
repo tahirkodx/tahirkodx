@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786906194" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786916270" alt="Famous quote" width="100%">
 </p>
 
-> Genius is patience.
+> You'll see it when you believe it.
 >
-> Isaac Newton
+> Wayne Dyer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/">Asus Bike Booster</a></h3>
-      <p>From asus.com. 566 points on Hacker News, 393 comments. Posted by wiradikusuma.</p>
+      <p>From asus.com. 592 points on Hacker News, 413 comments. Posted by wiradikusuma.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Semaglutide linked to lower predicted dementia risk</a></h3>
-      <p>From alz-journals.onlinelibrary.wiley.com. 469 points on Hacker News, 370 comments. Posted by randycupertino.</p>
+      <h3><a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">Firefox for iOS now has a native adblocker</a></h3>
+      <p>From support.mozilla.org. 455 points on Hacker News, 192 comments. Posted by pentagrama.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/">Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter</a></h3>
-      <p>From severe-weather.eu. 391 points on Hacker News, 267 comments. Posted by dgellow.</p>
+      <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
+      <p>From platform.claude.com. 445 points on Hacker News, 192 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 16 Aug 2026, 18:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Aug 2026, 21:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
