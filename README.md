@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786845604" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786853007" alt="Famous quote" width="100%">
 </p>
 
-> Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.
+> Debt is the slavery of the free.
 >
-> Roy T. Bennett
+> Publilius Syrus
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">AI has access to a vastly larger working memory than the human brain</a></h3>
-      <p>From davidepiffer.com. 412 points on Hacker News, 372 comments. Posted by rzk.</p>
+      <p>From davidepiffer.com. 443 points on Hacker News, 385 comments. Posted by rzk.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sankalp.bearblog.dev/autoresearch/">Auto-research with codex: How I achieved a 232x Faster Kernel</a></h3>
-      <p>From sankalp.bearblog.dev. 395 points on Hacker News, 86 comments. Posted by tosh.</p>
+      <h3><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Semaglutide linked to lower predicted dementia risk</a></h3>
+      <p>From alz-journals.onlinelibrary.wiley.com. 374 points on Hacker News, 266 comments. Posted by randycupertino.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432">Semaglutide linked to lower predicted dementia risk</a></h3>
-      <p>From alz-journals.onlinelibrary.wiley.com. 351 points on Hacker News, 244 comments. Posted by randycupertino.</p>
+      <h3><a href="https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/">Working with AI feels more like leadership than coding</a></h3>
+      <p>From allen.bargi.org. 283 points on Hacker News, 179 comments. Posted by allenb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 16 Aug 2026, 02:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Aug 2026, 04:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
