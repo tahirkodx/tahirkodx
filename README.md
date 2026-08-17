@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786951588" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786960848" alt="Famous quote" width="100%">
 </p>
 
-> You can not live your life just based on what everyone else thinks.
+> Forever is composed of now's.
 >
-> Joyce Meyer
+> Emily Dickinson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,20 +388,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">Firefox for iOS now has a native adblocker</a></h3>
-      <p>From support.mozilla.org. 633 points on Hacker News, 254 comments. Posted by pentagrama.</p>
+      <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
+      <p>From platform.claude.com. 661 points on Hacker News, 256 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/clyqpx6xk69o">If Meta loses this trial, Instagram and Facebook could change forever</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/clyqpx6xk69o">Instagram and Facebook could change forever if Meta loses child privacy trial</a></h3>
       <p>US states are suing the social media giant to force an overhaul of its platforms for young users.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
-      <p>From platform.claude.com. 629 points on Hacker News, 250 comments. Posted by tosh.</p>
+      <h3><a href="https://rvembedded.com/blog_post/12/">A third world engineer responds to “RISC-V: They should have known better”</a></h3>
+      <p>From rvembedded.com. 508 points on Hacker News, 268 comments. Posted by Narishma.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rvembedded.com/blog_post/12/">A third world engineer responds to “RISC-V: They should have known better”</a></h3>
-      <p>From rvembedded.com. 469 points on Hacker News, 244 comments. Posted by Narishma.</p>
+      <h3><a href="https://news.ycombinator.com/item?id=49322107">Tell HN: Cloudflare silently injects its analytics when you switch nameservers</a></h3>
+      <p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Aug 2026, 07:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Aug 2026, 10:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
