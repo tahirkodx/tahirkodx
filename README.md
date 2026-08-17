@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786916270" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786931887" alt="Famous quote" width="100%">
 </p>
 
-> You'll see it when you believe it.
+> The key to success is action.
 >
-> Wayne Dyer
+> Brian Tracy
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/">Asus Bike Booster</a></h3>
-      <p>From asus.com. 592 points on Hacker News, 413 comments. Posted by wiradikusuma.</p>
+      <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
+      <p>From platform.claude.com. 545 points on Hacker News, 228 comments. Posted by tosh.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/clyqpx6xk69o">If Meta loses this trial, Instagram and Facebook could change forever</a></h3>
+      <p>Thirty US states have sued Meta to force an overhaul of its platforms for young users.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">Firefox for iOS now has a native adblocker</a></h3>
+      <p>From support.mozilla.org. 538 points on Hacker News, 221 comments. Posted by pentagrama.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">Firefox for iOS now has a native adblocker</a></h3>
-      <p>From support.mozilla.org. 455 points on Hacker News, 192 comments. Posted by pentagrama.</p>
+      <h3><a href="https://rvembedded.com/blog_post/12/">A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"</a></h3>
+      <p>From rvembedded.com. 376 points on Hacker News, 200 comments. Posted by Narishma.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -409,21 +421,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI, and ending up pulped.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
-      <p>From platform.claude.com. 445 points on Hacker News, 192 comments. Posted by tosh.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cz97ljy91zxo">Why tech bosses keep sharing their manifestos about AI</a></h3>
-      <p>Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 16 Aug 2026, 21:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Aug 2026, 01:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
