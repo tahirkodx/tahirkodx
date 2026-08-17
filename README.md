@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786931887" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786939603" alt="Famous quote" width="100%">
 </p>
 
-> The key to success is action.
+> Stop wasting time defending your problems and work on addressing them instead.
 >
-> Brian Tracy
+> Celestine Chua
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
-      <p>From platform.claude.com. 545 points on Hacker News, 228 comments. Posted by tosh.</p>
+      <p>From platform.claude.com. 575 points on Hacker News, 239 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -401,7 +401,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">Firefox for iOS now has a native adblocker</a></h3>
-      <p>From support.mozilla.org. 538 points on Hacker News, 221 comments. Posted by pentagrama.</p>
+      <p>From support.mozilla.org. 568 points on Hacker News, 238 comments. Posted by pentagrama.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -413,7 +413,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://rvembedded.com/blog_post/12/">A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"</a></h3>
-      <p>From rvembedded.com. 376 points on Hacker News, 200 comments. Posted by Narishma.</p>
+      <p>From rvembedded.com. 404 points on Hacker News, 223 comments. Posted by Narishma.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Aug 2026, 01:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Aug 2026, 04:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
