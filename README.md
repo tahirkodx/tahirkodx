@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786981467" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786993318" alt="Famous quote" width="100%">
 </p>
 
-> Logic is like the sword, those who appeal to it shall perish by it.
+> Excellence is not an exception, it is a prevailing attitude.
 >
-> Samuel Butler
+> Colin Powell
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
-      <p>From platform.claude.com. 723 points on Hacker News, 275 comments. Posted by tosh.</p>
+      <h3><a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing</a></h3>
+      <p>From daringfireball.net. 705 points on Hacker News, 615 comments. Posted by ropbear.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://simonwillison.net/2026/Aug/16/qwen-38-27b/">Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></h3>
-      <p>From simonwillison.net. 690 points on Hacker News, 326 comments. Posted by bilsbie.</p>
+      <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
+      <p>From duckdb.org. 368 points on Hacker News, 57 comments. Posted by ibotty.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rvembedded.com/blog_post/12/">A third world engineer responds to “RISC-V: They should have known better”</a></h3>
-      <p>From rvembedded.com. 578 points on Hacker News, 293 comments. Posted by Narishma.</p>
+      <h3><a href="https://news.ycombinator.com/item?id=49331033">Ask HN: Alternatives to GitHub</a></h3>
+      <p>Github has been down consistently over the last few months, does it make sense to switch to alternatives?</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Aug 2026, 15:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Aug 2026, 19:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
