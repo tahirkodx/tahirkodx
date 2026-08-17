@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786960848" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1786972246" alt="Famous quote" width="100%">
 </p>
 
-> Forever is composed of now's.
+> By words the mind is winged.
 >
-> Emily Dickinson
+> Aristophanes
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://platform.claude.com/docs/en/release-notes/system-prompts">Claude: System Prompts</a></h3>
-      <p>From platform.claude.com. 661 points on Hacker News, 256 comments. Posted by tosh.</p>
+      <p>From platform.claude.com. 695 points on Hacker News, 268 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rvembedded.com/blog_post/12/">A third world engineer responds to “RISC-V: They should have known better”</a></h3>
-      <p>From rvembedded.com. 508 points on Hacker News, 268 comments. Posted by Narishma.</p>
+      <h3><a href="https://simonwillison.net/2026/Aug/16/qwen-38-27b/">Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></h3>
+      <p>From simonwillison.net. 602 points on Hacker News, 292 comments. Posted by bilsbie.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Aug 2026, 10:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Aug 2026, 13:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
