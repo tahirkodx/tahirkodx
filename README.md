@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787003060" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787018053" alt="Famous quote" width="100%">
 </p>
 
-> The key to immortality is first living a life worth remembering.
+> If you want the best the world has to offer, offer the world your best.
 >
-> Bruce Lee
+> Neale Donald Walsch
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
-      <p>From duckdb.org. 473 points on Hacker News, 78 comments. Posted by ibotty.</p>
+      <h3><a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">AI;DR (AI; Didn't Read)</a></h3>
+      <p>From rickmanelius.com. 594 points on Hacker News, 370 comments. Posted by mooreds.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx">Incident with Github.com</a></h3>
-      <p>Just got this message: "No server is currently available to service your request. Sorry about that. Please try refreshing and contact us if the.</p>
+      <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
+      <p>From duckdb.org. 538 points on Hacker News, 96 comments. Posted by ibotty.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Aug 2026, 21:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Aug 2026, 01:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
