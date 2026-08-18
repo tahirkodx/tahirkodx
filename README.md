@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787036946" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787046753" alt="Famous quote" width="100%">
 </p>
 
-> Life is not just the passing of time. Life is the collection of experiences and their intensity.
+> Unlike the stomach, the brain doesn't alert you when it's empty.
 >
-> Jim Rohn
+> Arabic Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,19 +389,31 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">AI;DR (AI; Didn't Read)</a></h3>
-      <p>From rickmanelius.com. 792 points on Hacker News, 498 comments. Posted by mooreds.</p>
+      <p>From rickmanelius.com. 877 points on Hacker News, 538 comments. Posted by mooreds.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/clyqpx6xk69o">Instagram and Facebook could change forever if Meta loses child privacy trial</a></h3>
-      <p>US states are suing the social media giant to force an overhaul of its platforms for young users.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c62em5lpvnjo">AI to help planes avoid climate-warming 'sky graffiti'</a></h3>
+      <p>A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
-      <p>From duckdb.org. 606 points on Hacker News, 110 comments. Posted by ibotty.</p>
+      <p>From duckdb.org. 639 points on Hacker News, 113 comments. Posted by ibotty.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/clyqpx6xk69o">US states call for big changes to Instagram and Facebook as Meta child privacy trial begins</a></h3>
+      <p>US states are suing the social media giant to force an overhaul of its platforms for young users.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://timmarinin.net/2026/bluesky-screenshots/">How Bluesky draws its logo on screenshots</a></h3>
+      <p>From timmarinin.net. 505 points on Hacker News, 348 comments. Posted by gavide.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -409,21 +421,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=49331033">Ask HN: Alternatives to GitHub</a></h3>
-      <p>Github has been down consistently over the last few months, does it make sense to switch to alternatives?</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">Secondhand book sales are booming. Is it because of AI?</a></h3>
-      <p>Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI, and ending up pulped.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 18 Aug 2026, 07:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Aug 2026, 09:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
