@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787068225" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787079690" alt="Famous quote" width="100%">
 </p>
 
-> What have you done today to make someone else happy?
+> We win by helping each other win.
 >
-> Deepam Chaterjee
+> Jack Butcher
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://responsiblestatecraft.org/israel-influence-chatgpt/">Israel creates fake think tank in likely attempt to dupe AI chatbots</a></h3>
-      <p>From responsiblestatecraft.org. 898 points on Hacker News, 519 comments. Posted by DeepLogin.</p>
+      <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
+      <p>From seths.blog. 561 points on Hacker News, 394 comments. Posted by herbertl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://timmarinin.net/2026/bluesky-screenshots/">How Bluesky draws its logo on screenshots</a></h3>
-      <p>From timmarinin.net. 643 points on Hacker News, 402 comments. Posted by gavide.</p>
+      <h3><a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">Google has acquired the data of failed US airline Spirit</a></h3>
+      <p>From theregister.com. 509 points on Hacker News, 353 comments. Posted by pseudolus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openrouter.ai/openai/gpt-5.6-sol">GPT-5.6 Sol Pricing Cut by 50%</a></h3>
-      <p>From openrouter.ai. 579 points on Hacker News, 379 comments. Posted by Topfi.</p>
+      <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
+      <p>From ysph.yale.edu. 507 points on Hacker News, 602 comments. Posted by karakoram.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 18 Aug 2026, 15:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Aug 2026, 19:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
