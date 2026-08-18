@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787046753" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787058755" alt="Famous quote" width="100%">
 </p>
 
-> Unlike the stomach, the brain doesn't alert you when it's empty.
+> Change is never easy, but always possible.
 >
-> Arabic Proverb
+> Barack Obama
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -388,8 +388,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">AI;DR (AI; Didn't Read)</a></h3>
-      <p>From rickmanelius.com. 877 points on Hacker News, 538 comments. Posted by mooreds.</p>
+      <h3><a href="https://responsiblestatecraft.org/israel-influence-chatgpt/">Israel creates fake think tank in likely attempt to dupe AI chatbots</a></h3>
+      <p>From responsiblestatecraft.org. 733 points on Hacker News, 424 comments. Posted by DeepLogin.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/czxqz91n5n8o">OpenAI makes ChatGPT less 'human' for teens in new safety update</a></h3>
+      <p>OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
+      <p>From duckdb.org. 670 points on Hacker News, 118 comments. Posted by ibotty.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
-      <p>From duckdb.org. 639 points on Hacker News, 113 comments. Posted by ibotty.</p>
+      <h3><a href="https://timmarinin.net/2026/bluesky-screenshots/">How Bluesky draws its logo on screenshots</a></h3>
+      <p>From timmarinin.net. 604 points on Hacker News, 383 comments. Posted by gavide.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -409,21 +421,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>US states are suing the social media giant to force an overhaul of its platforms for young users.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://timmarinin.net/2026/bluesky-screenshots/">How Bluesky draws its logo on screenshots</a></h3>
-      <p>From timmarinin.net. 505 points on Hacker News, 348 comments. Posted by gavide.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq56pzqy6jvo">I survived two years as prime minister in a hit new game, then my cabinet deserted me</a></h3>
-      <p>Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 18 Aug 2026, 09:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Aug 2026, 13:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
