@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787079690" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787089329" alt="Famous quote" width="100%">
 </p>
 
-> We win by helping each other win.
+> If you build the guts to do something, anything, then you better save enough to face the consequences.
 >
-> Jack Butcher
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 561 points on Hacker News, 394 comments. Posted by herbertl.</p>
+      <p>From seths.blog. 739 points on Hacker News, 463 comments. Posted by herbertl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">Google has acquired the data of failed US airline Spirit</a></h3>
-      <p>From theregister.com. 509 points on Hacker News, 353 comments. Posted by pseudolus.</p>
+      <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
+      <p>From ysph.yale.edu. 613 points on Hacker News, 700 comments. Posted by karakoram.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
-      <p>From ysph.yale.edu. 507 points on Hacker News, 602 comments. Posted by karakoram.</p>
+      <h3><a href="https://pixelcluster.dev/VRAM-Overcommit/">Linux 7.3 improves performance when running out of vRAM</a></h3>
+      <p>From pixelcluster.dev. 482 points on Hacker News, 235 comments. Posted by flaburgan.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 18 Aug 2026, 19:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Aug 2026, 21:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
