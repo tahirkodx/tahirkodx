@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787058755" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787068225" alt="Famous quote" width="100%">
 </p>
 
-> Change is never easy, but always possible.
+> What have you done today to make someone else happy?
 >
-> Barack Obama
+> Deepam Chaterjee
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,7 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://responsiblestatecraft.org/israel-influence-chatgpt/">Israel creates fake think tank in likely attempt to dupe AI chatbots</a></h3>
-      <p>From responsiblestatecraft.org. 733 points on Hacker News, 424 comments. Posted by DeepLogin.</p>
+      <p>From responsiblestatecraft.org. 898 points on Hacker News, 519 comments. Posted by DeepLogin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -400,8 +400,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://duckdb.org/2026/08/17/duckdb-20-highlights">A Preview of DuckDB v2.0</a></h3>
-      <p>From duckdb.org. 670 points on Hacker News, 118 comments. Posted by ibotty.</p>
+      <h3><a href="https://timmarinin.net/2026/bluesky-screenshots/">How Bluesky draws its logo on screenshots</a></h3>
+      <p>From timmarinin.net. 643 points on Hacker News, 402 comments. Posted by gavide.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,8 +412,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://timmarinin.net/2026/bluesky-screenshots/">How Bluesky draws its logo on screenshots</a></h3>
-      <p>From timmarinin.net. 604 points on Hacker News, 383 comments. Posted by gavide.</p>
+      <h3><a href="https://openrouter.ai/openai/gpt-5.6-sol">GPT-5.6 Sol Pricing Cut by 50%</a></h3>
+      <p>From openrouter.ai. 579 points on Hacker News, 379 comments. Posted by Topfi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -423,7 +423,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 18 Aug 2026, 13:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Aug 2026, 15:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
