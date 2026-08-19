@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787133171" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787145258" alt="Famous quote" width="100%">
 </p>
 
-> Our truest life is when we are in dreams awake.
+> Mistake is a mistake only if you make it twice.
 >
-> Henry David Thoreau
+> Robin Sharma
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 1175 points on Hacker News, 628 comments. Posted by herbertl.</p>
+      <p>From seths.blog. 1248 points on Hacker News, 640 comments. Posted by herbertl.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c235dmndylzo">OpenAI slows down training after its AI carried out hack</a></h3>
+      <p>The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
+      <p>From openlogi.org. 1023 points on Hacker News, 289 comments. Posted by amatheus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
-      <p>From openlogi.org. 654 points on Hacker News, 179 comments. Posted by amatheus.</p>
+      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
+      <p>From nicholascharriere.com. 664 points on Hacker News, 463 comments. Posted by nichochar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
-      <p>From nicholascharriere.com. 492 points on Hacker News, 300 comments. Posted by nichochar.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/czxqz91n5n8o">OpenAI makes ChatGPT less 'human' for teens in new safety update</a></h3>
-      <p>OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 09:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 13:14 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
