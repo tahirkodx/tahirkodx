@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787145258" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787154616" alt="Famous quote" width="100%">
 </p>
 
-> Mistake is a mistake only if you make it twice.
+> The details are not the details. They make the design.
 >
-> Robin Sharma
+> Charles Eames
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 1248 points on Hacker News, 640 comments. Posted by herbertl.</p>
+      <p>From seths.blog. 1296 points on Hacker News, 655 comments. Posted by herbertl.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo">Monzo down as some users unable to make card payments or transfers</a></h3>
+      <p>The digital bank said it was "rolling out a fix and moving quickly" to get the service working again</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
+      <p>From openlogi.org. 1219 points on Hacker News, 344 comments. Posted by amatheus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
-      <p>From openlogi.org. 1023 points on Hacker News, 289 comments. Posted by amatheus.</p>
+      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
+      <p>From nicholascharriere.com. 762 points on Hacker News, 581 comments. Posted by nichochar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The war in Ukraine has spurred people to consider putting vital infrastructure underground.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
-      <p>From nicholascharriere.com. 664 points on Hacker News, 463 comments. Posted by nichochar.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cly5r7vr7q1o">Meta hooked children on Facebook and Instagram, US court hears</a></h3>
-      <p>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 13:14 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 15:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
