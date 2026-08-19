@@ -1,5 +1,39 @@
 const THUMB = "https://image.thum.io/get/width/1200/crop/750/noanimate/";
 const CASE_BASE = "https://github.com/tahirkodx/tahirkodx/blob/main/portfolio/";
+const STACK_BADGES = {
+  React: "https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB",
+  "React Native": "https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB",
+  "Next.js": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white",
+  "Vue.js": "https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D",
+  "Nuxt.js": "https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white",
+  Quasar: "https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white",
+  TypeScript: "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white",
+  Fastify: "https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white",
+  Prisma: "https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white",
+  PostgreSQL: "https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white",
+  Redis: "https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white",
+  OpenAI: "https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white",
+  AWS: "https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900",
+  "Node.js": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white",
+  "SQL Server": "https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white",
+  Konva: "https://img.shields.io/badge/Konva-0D83CD?style=flat-square&logo=konva&logoColor=white",
+  Zustand: "https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white",
+  "TanStack Query": "https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white",
+  Vite: "https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white",
+  Supabase: "https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white",
+  eBay: "https://img.shields.io/badge/eBay-E53238?style=flat-square&logo=ebay&logoColor=white",
+  LiveKit: "https://img.shields.io/badge/LiveKit-1DA1F2?style=flat-square&logo=livekit&logoColor=white",
+  Capacitor: "https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white",
+  Stripe: "https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white",
+  Firebase: "https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black",
+  "Google Ads": "https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white",
+};
+
+function stackBadge(name) {
+  const src = STACK_BADGES[name];
+  if (!src) return `<li>${escapeHtml(name)}</li>`;
+  return `<li class="stack-badge"><img src="${src}" alt="${escapeHtml(name)}"></li>`;
+}
 
 const grid = document.getElementById("grid");
 const statusEl = document.getElementById("grid-status");
@@ -48,27 +82,33 @@ function showStatus(message) {
 function renderGrid(items) {
   grid.replaceChildren();
   items.forEach((project, index) => {
-    const button = document.createElement("button");
-    button.type = "button";
+    const card = document.createElement("article");
     const classes = ["card"];
     if (index === 0) classes.push("card-lead");
     if (project.featured) classes.push("card-featured");
-    button.className = classes.join(" ");
-    button.dataset.id = project.id;
-    button.setAttribute("aria-haspopup", "dialog");
+    card.className = classes.join(" ");
+    card.dataset.id = project.id;
     const preview = project.previewImage || thumb(project.previewUrl);
-    button.innerHTML = `
-      <div class="card-media">
-        ${project.featured ? `<span class="card-badge">Featured</span>` : ""}
-        <img src="${preview}" alt="${escapeHtml(project.name)}" width="1200" height="750" loading="${index === 0 || project.featured ? "eager" : "lazy"}" />
-      </div>
+    const stack = (project.stack || []).map(stackBadge).join("");
+    card.innerHTML = `
       <div class="card-body">
         <h3 class="card-name">${escapeHtml(project.name)}</h3>
         <p class="card-hook">${escapeHtml(project.hook)}</p>
+        <ul class="stack-list">${stack}</ul>
+        <p class="card-live">
+          <a href="${escapeHtml(project.liveUrl)}" rel="noopener noreferrer">Live: ${escapeHtml(project.liveLabel)}</a>
+        </p>
       </div>
+      <button type="button" class="card-open" aria-haspopup="dialog">
+        <span class="card-media">
+          ${project.featured ? `<span class="card-badge">Featured</span>` : ""}
+          <img src="${preview}" alt="${escapeHtml(project.name)}" width="1200" height="750" loading="${index === 0 || project.featured ? "eager" : "lazy"}" />
+        </span>
+      </button>
     `;
-    button.addEventListener("click", () => openProject(project.id, button));
-    grid.append(button);
+    const opener = card.querySelector(".card-open");
+    opener.addEventListener("click", () => openProject(project.id, opener));
+    grid.append(card);
   });
 }
 
@@ -98,12 +138,13 @@ function renderProject(project) {
   fillPanel(
     "overview",
     `
+      <h3>${escapeHtml(project.hook)}</h3>
+      <p>${escapeHtml(project.body)}</p>
+      <ul class="stack-list">${(project.stack || []).map(stackBadge).join("")}</ul>
+      <p class="live-line"><a href="${escapeHtml(project.liveUrl)}" rel="noopener noreferrer">Live: ${escapeHtml(project.liveLabel)}</a></p>
       <figure class="preview-frame">
         <img src="${project.previewImage || thumb(project.previewUrl)}" alt="${escapeHtml(project.name)} preview" width="1200" height="750" />
       </figure>
-      <h3>${escapeHtml(project.hook)}</h3>
-      <p>${escapeHtml(project.body)}</p>
-      <ul class="stack-list">${project.stack.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
     `
   );
 

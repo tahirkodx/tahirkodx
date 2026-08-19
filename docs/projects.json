@@ -24,50 +24,45 @@
       "liveUrl": "https://formitai.com",
       "liveLabel": "formitai.com",
       "previewUrl": "https://formitai.com",
-      "previewImage": "./screens/formitai/home.jpg",
-      "stack": ["React", "Next.js", "TypeScript", "Fastify", "Prisma", "PostgreSQL", "Redis", "OpenAI"],
+      "previewImage": "./screens/formitai/landing.jpg",
+      "stack": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Fastify",
+        "Prisma",
+        "PostgreSQL",
+        "Redis",
+        "OpenAI"
+      ],
       "links": [
-        { "label": "Marketing", "url": "https://formitai.com" },
-        { "label": "App", "url": "https://app.formitai.com/dashboard" }
+        {
+          "label": "Marketing",
+          "url": "https://formitai.com"
+        },
+        {
+          "label": "App",
+          "url": "https://app.formitai.com/dashboard"
+        }
       ],
       "screens": [
-        { "label": "Dashboard", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/home.jpg" },
-        { "label": "Create form", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/create.jpg" },
-        { "label": "AI generate", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/ai-generate.jpg" },
-        { "label": "Form builder", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/builder.jpg" },
-        { "label": "Public form", "url": "https://form.formitai.com/f/sl48mnlhim5dv6wje531oq33", "image": "./screens/formitai/runtime.jpg" },
-        { "label": "Results", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/results.jpg" },
-        { "label": "Analytics", "url": "https://app.formitai.com/dashboard/analytics", "image": "./screens/formitai/analytics.jpg" },
-        { "label": "Embeds", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/embed.jpg" },
-        { "label": "Integrations", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/integrations.jpg" },
-        { "label": "Share", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/share.jpg" },
-        { "label": "Settings", "url": "https://app.formitai.com/dashboard/settings", "image": "./screens/formitai/settings.jpg" },
-        { "label": "Marketing", "url": "https://formitai.com", "image": "./screens/formitai/marketing.jpg" }
+        {
+          "label": "Landing",
+          "url": "https://formitai.com",
+          "image": "./screens/formitai/landing.jpg"
+        },
+        {
+          "label": "Share",
+          "url": "https://app.formitai.com/form-builder",
+          "image": "./screens/formitai/share.jpg"
+        },
+        {
+          "label": "Logic",
+          "url": "https://app.formitai.com/form-builder",
+          "image": "./screens/formitai/logic.jpg"
+        }
       ],
       "caseStudy": "formitai.md"
-    },
-    {
-      "id": "trainero",
-      "name": "Trainero",
-      "hook": "The coaching platform coaches actually live in.",
-      "body": "Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.",
-      "useCase": "Coaches run programming, clients, and chat from one product. Clients open a companion app for workouts, progress, and messages.",
-      "problem": "A coaching business cannot live in a spreadsheet and a WhatsApp thread. They needed trainer and client apps that stay in sync, including white-label for partner studios.",
-      "discussed": "This is a long-term seat, not a one-off build. Scope stays in the live trainer and client codebases: workouts, messaging, and the white-label path. Updates ship into apps coaches already use every week.",
-      "shipped": "Trainer app and client app. Workouts, chat, white-label. Client app is Quasar / Vue with Capacitor (camera, push, health hooks). AWS sits behind the apps.",
-      "built": "Vue 3 and Quasar on the client app, Capacitor for store wraps, Vuex, i18n, socket.io for live chat. AWS SDK in the client. PostgreSQL on the API side.",
-      "deployed": "Live at trainero.com. Client app ships as a Capacitor wrap. Product work continues in the same codebases.",
-      "liveUrl": "https://trainero.com",
-      "liveLabel": "trainero.com",
-      "previewUrl": "https://trainero.com",
-      "stack": ["Vue.js", "Quasar", "TypeScript", "AWS", "PostgreSQL"],
-      "links": [
-        { "label": "Product", "url": "https://trainero.com" }
-      ],
-      "screens": [
-        { "label": "Trainero", "url": "https://trainero.com" }
-      ],
-      "caseStudy": "trainero.md"
     },
     {
       "id": "evetech",
@@ -85,20 +80,92 @@
       "liveLabel": "evetech.co.za",
       "previewUrl": "https://www.evetech.co.za/",
       "previewImage": "./screens/evetech/home.jpg",
-      "stack": ["Next.js", "React", "Node.js", "SQL Server"],
+      "stack": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "SQL Server"
+      ],
       "links": [
-        { "label": "Store", "url": "https://www.evetech.co.za/" },
-        { "label": "PC Builder", "url": "https://www.evetech.co.za/pc-builder" },
-        { "label": "Contact / Centurion", "url": "https://www.evetech.co.za/contact" }
+        {
+          "label": "Store",
+          "url": "https://www.evetech.co.za/"
+        },
+        {
+          "label": "PC Builder",
+          "url": "https://www.evetech.co.za/pc-builder"
+        },
+        {
+          "label": "Contact / Centurion",
+          "url": "https://www.evetech.co.za/contact"
+        }
       ],
       "screens": [
-        { "label": "Homepage", "url": "https://www.evetech.co.za/", "image": "./screens/evetech/home.jpg" },
-        { "label": "PC Builder", "url": "https://www.evetech.co.za/pc-builder", "image": "./screens/evetech/builder.jpg" },
-        { "label": "The Core, where a build starts", "url": "https://www.evetech.co.za/pc-builder", "image": "./screens/evetech/builder-core.jpg" },
-        { "label": "Gaming laptop product page", "url": "https://www.evetech.co.za/asus-tuf-gaming-a16-fa608pm-16gb-1tb/laptops-for-sale/42907", "image": "./screens/evetech/product.jpg" },
-        { "label": "Contact, Centurion showroom", "url": "https://www.evetech.co.za/contact", "image": "./screens/evetech/contact.jpg" }
+        {
+          "label": "Homepage",
+          "url": "https://www.evetech.co.za/",
+          "image": "./screens/evetech/home.jpg"
+        },
+        {
+          "label": "PC Builder",
+          "url": "https://www.evetech.co.za/pc-builder",
+          "image": "./screens/evetech/builder.jpg"
+        },
+        {
+          "label": "Gaming laptop product page",
+          "url": "https://www.evetech.co.za/asus-tuf-gaming-a16-fa608pm-16gb-1tb/laptops-for-sale/42907",
+          "image": "./screens/evetech/product.jpg"
+        }
       ],
       "caseStudy": "evetech.md"
+    },
+    {
+      "id": "trainero",
+      "name": "Trainero",
+      "hook": "The coaching platform coaches actually live in.",
+      "body": "Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.",
+      "useCase": "Coaches run programming, clients, and chat from one product. Clients open a companion app for workouts, progress, and messages.",
+      "problem": "A coaching business cannot live in a spreadsheet and a WhatsApp thread. They needed trainer and client apps that stay in sync, including white-label for partner studios.",
+      "discussed": "This is a long-term seat, not a one-off build. Scope stays in the live trainer and client codebases: workouts, messaging, and the white-label path. Updates ship into apps coaches already use every week.",
+      "shipped": "Trainer app and client app. Workouts, chat, white-label. Client app is Quasar / Vue with Capacitor (camera, push, health hooks). AWS sits behind the apps.",
+      "built": "Vue 3 and Quasar on the client app, Capacitor for store wraps, Vuex, i18n, socket.io for live chat. AWS SDK in the client. PostgreSQL on the API side.",
+      "deployed": "Live at trainero.com. Client app ships as a Capacitor wrap. Product work continues in the same codebases.",
+      "liveUrl": "https://trainero.com",
+      "liveLabel": "trainero.com",
+      "previewUrl": "https://trainero.com",
+      "stack": [
+        "Vue.js",
+        "Quasar",
+        "TypeScript",
+        "AWS",
+        "PostgreSQL"
+      ],
+      "links": [
+        {
+          "label": "Product",
+          "url": "https://trainero.com"
+        }
+      ],
+      "screens": [
+        {
+          "label": "Homepage",
+          "url": "https://trainero.com",
+          "image": "./screens/trainero/home.jpg"
+        },
+        {
+          "label": "Pricing",
+          "url": "https://trainero.com/en-us/pricing",
+          "image": "./screens/trainero/pricing.jpg"
+        },
+        {
+          "label": "White label",
+          "url": "https://trainero.com/en-us/white-label/info",
+          "image": "./screens/trainero/white-label.jpg"
+        }
+      ],
+      "caseStudy": "trainero.md",
+      "featured": true,
+      "previewImage": "./screens/trainero/home.jpg"
     },
     {
       "id": "flapjack",
@@ -114,12 +181,23 @@
       "liveUrl": "https://flapjack.co",
       "liveLabel": "flapjack.co",
       "previewUrl": "https://flapjack.co",
-      "stack": ["Next.js", "React", "Konva", "Zustand"],
+      "stack": [
+        "Next.js",
+        "React",
+        "Konva",
+        "Zustand"
+      ],
       "links": [
-        { "label": "Product", "url": "https://flapjack.co" }
+        {
+          "label": "Product",
+          "url": "https://flapjack.co"
+        }
       ],
       "screens": [
-        { "label": "Flapjack", "url": "https://flapjack.co" }
+        {
+          "label": "Flapjack",
+          "url": "https://flapjack.co"
+        }
       ],
       "caseStudy": "flapjack.md"
     },
@@ -137,14 +215,26 @@
       "liveUrl": "https://www.morphood.com",
       "liveLabel": "morphood.com",
       "previewUrl": "https://www.morphood.com",
-      "stack": ["Vue.js", "Nuxt.js", "TanStack Query"],
+      "stack": [
+        "Vue.js",
+        "Nuxt.js",
+        "TanStack Query"
+      ],
       "links": [
-        { "label": "Web", "url": "https://www.morphood.com" },
-        { "label": "App Store", "url": "https://apps.apple.com/app/morphood-personalize-recipes/id1616706707" }
+        {
+          "label": "Web",
+          "url": "https://www.morphood.com"
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/app/morphood-personalize-recipes/id1616706707"
+        }
       ],
       "screens": [
-        { "label": "Homepage", "url": "https://www.morphood.com" },
-        { "label": "App Store", "url": "https://apps.apple.com/app/morphood-personalize-recipes/id1616706707" }
+        {
+          "label": "Homepage",
+          "url": "https://www.morphood.com"
+        }
       ],
       "caseStudy": "morphood.md"
     },
@@ -162,12 +252,26 @@
       "liveUrl": "https://clicksfence.com",
       "liveLabel": "clicksfence.com",
       "previewUrl": "https://clicksfence.com",
-      "stack": ["Next.js", "React", "Fastify", "Prisma", "PostgreSQL", "Redis", "Google Ads"],
+      "stack": [
+        "Next.js",
+        "React",
+        "Fastify",
+        "Prisma",
+        "PostgreSQL",
+        "Redis",
+        "Google Ads"
+      ],
       "links": [
-        { "label": "Product", "url": "https://clicksfence.com" }
+        {
+          "label": "Product",
+          "url": "https://clicksfence.com"
+        }
       ],
       "screens": [
-        { "label": "ClicksFence", "url": "https://clicksfence.com" }
+        {
+          "label": "ClicksFence",
+          "url": "https://clicksfence.com"
+        }
       ],
       "caseStudy": "clicksfence.md"
     },
@@ -185,12 +289,25 @@
       "liveUrl": "https://snap2list.com",
       "liveLabel": "snap2list.com",
       "previewUrl": "https://www.snap2list.com",
-      "stack": ["React", "Vite", "React Native", "Supabase", "eBay", "TypeScript"],
+      "stack": [
+        "React",
+        "Vite",
+        "React Native",
+        "Supabase",
+        "eBay",
+        "TypeScript"
+      ],
       "links": [
-        { "label": "Product", "url": "https://snap2list.com" }
+        {
+          "label": "Product",
+          "url": "https://snap2list.com"
+        }
       ],
       "screens": [
-        { "label": "Snap2List", "url": "https://www.snap2list.com" }
+        {
+          "label": "Snap2List",
+          "url": "https://www.snap2list.com"
+        }
       ],
       "caseStudy": "snap2list.md"
     },
@@ -208,12 +325,26 @@
       "liveUrl": "https://tahiramjad.com",
       "liveLabel": "tahiramjad.com",
       "previewUrl": "https://tahiramjad.com",
-      "stack": ["React", "Node.js", "LiveKit", "Prisma", "PostgreSQL", "Redis", "OpenAI"],
+      "stack": [
+        "React",
+        "Node.js",
+        "LiveKit",
+        "Prisma",
+        "PostgreSQL",
+        "Redis",
+        "OpenAI"
+      ],
       "links": [
-        { "label": "Hosted widget", "url": "https://tahiramjad.com" }
+        {
+          "label": "Hosted widget",
+          "url": "https://tahiramjad.com"
+        }
       ],
       "screens": [
-        { "label": "tahiramjad.com", "url": "https://tahiramjad.com" }
+        {
+          "label": "tahiramjad.com",
+          "url": "https://tahiramjad.com"
+        }
       ],
       "caseStudy": "voice-agent.md"
     },
@@ -231,14 +362,26 @@
       "liveUrl": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083",
       "liveLabel": "App Store",
       "previewUrl": "https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi",
-      "stack": ["Vue.js", "Quasar", "Capacitor"],
+      "stack": [
+        "Vue.js",
+        "Quasar",
+        "Capacitor"
+      ],
       "links": [
-        { "label": "App Store", "url": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083" },
-        { "label": "Play", "url": "https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app" }
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083"
+        },
+        {
+          "label": "Play",
+          "url": "https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app"
+        }
       ],
       "screens": [
-        { "label": "Studio page", "url": "https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" },
-        { "label": "App Store", "url": "https://apps.apple.com/us/app/kuntokompassi-online/id6689495083" }
+        {
+          "label": "Studio page",
+          "url": "https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi"
+        }
       ],
       "caseStudy": "kuntokompassi.md"
     },
@@ -256,12 +399,23 @@
       "liveUrl": "https://velmoreexecutive.com",
       "liveLabel": "velmoreexecutive.com",
       "previewUrl": "https://velmoreexecutive.com",
-      "stack": ["React", "React Native", "Vite", "Stripe"],
+      "stack": [
+        "React",
+        "React Native",
+        "Vite",
+        "Stripe"
+      ],
       "links": [
-        { "label": "Booking site", "url": "https://velmoreexecutive.com" }
+        {
+          "label": "Booking site",
+          "url": "https://velmoreexecutive.com"
+        }
       ],
       "screens": [
-        { "label": "Velmore Executive", "url": "https://velmoreexecutive.com" }
+        {
+          "label": "Velmore Executive",
+          "url": "https://velmoreexecutive.com"
+        }
       ],
       "caseStudy": "velmore.md"
     },
@@ -279,12 +433,24 @@
       "liveUrl": "https://www.thesippass.com",
       "liveLabel": "thesippass.com",
       "previewUrl": "https://www.thesippass.com",
-      "stack": ["Next.js", "React Native", "Fastify", "Prisma", "PostgreSQL"],
+      "stack": [
+        "Next.js",
+        "React Native",
+        "Fastify",
+        "Prisma",
+        "PostgreSQL"
+      ],
       "links": [
-        { "label": "Product", "url": "https://www.thesippass.com" }
+        {
+          "label": "Product",
+          "url": "https://www.thesippass.com"
+        }
       ],
       "screens": [
-        { "label": "SIP Pass", "url": "https://www.thesippass.com" }
+        {
+          "label": "SIP Pass",
+          "url": "https://www.thesippass.com"
+        }
       ],
       "caseStudy": "sip-pass.md"
     }

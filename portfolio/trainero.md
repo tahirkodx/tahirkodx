@@ -2,7 +2,22 @@
 
 **The coaching platform coaches actually live in.**
 
-Live: [trainero.com](https://trainero.com) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#trainero)
+Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.
+
+**Stack:**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Live:** [trainero.com](https://trainero.com) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#trainero)
+
+![Trainero homepage](../docs/screens/trainero/home.jpg)
+
+![Trainero pricing](../docs/screens/trainero/pricing.jpg)
+
+![Trainero white label](../docs/screens/trainero/white-label.jpg)
 
 ## Problem
 
@@ -29,7 +44,13 @@ Live at trainero.com. Client app ships as a Capacitor wrap. Product work continu
 
 ## Extra screens
 
-![Trainero](https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com)
+Homepage, pricing, and white-label stills from the live product.
+
+![Trainero homepage](../docs/screens/trainero/home.jpg)
+
+![Trainero pricing](../docs/screens/trainero/pricing.jpg)
+
+![Trainero white label](../docs/screens/trainero/white-label.jpg)
 
 ## Open live product
 

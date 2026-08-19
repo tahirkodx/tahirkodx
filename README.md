@@ -35,7 +35,7 @@ I design the API and the tenancy, then wire the front end, so there is no handof
 
 ## Featured / Portfolio
 
-Live portfolio. Click a preview to open the case in the [interactive portfolio](https://tahirkodx.github.io/tahirkodx/). Each card is the hook, then what it actually does. Expand **Case study** for the short path from discussion to deploy, or read the full write-up in [`portfolio/`](portfolio/).
+Live portfolio. Click a preview to open the case in the [interactive portfolio](https://tahirkodx.github.io/tahirkodx/). Each card is title, hook, stack with icons, then the live link, then stills. Expand **Case study** for the short path from discussion to deploy, or read the full write-up in [`portfolio/`](portfolio/).
 
 <table>
   <tr>
@@ -43,16 +43,24 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
       <h3><a href="https://formitai.com">FormitAI</a> · Featured</h3>
       <p><strong>Describe the form. It builds itself, then asks the next question.</strong></p>
       <p>AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.</p>
-      <p>React · Next.js · TypeScript · Fastify · Prisma · PostgreSQL · Redis · OpenAI</p>
       <p>
-        <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="docs/screens/formitai/home.jpg" alt="FormitAI dashboard" width="100%"></a>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      </p>
+      <p><strong>Live:</strong> <a href="https://formitai.com">formitai.com</a> · <a href="https://app.formitai.com/dashboard">app.formitai.com/dashboard</a></p>
+      <p>
+        <a href="https://formitai.com"><img src="docs/screens/formitai/landing.jpg" alt="FormitAI landing page" width="100%"></a>
       </p>
       <p>
-        <a href="docs/screens/formitai/builder.jpg"><img src="docs/screens/formitai/builder.jpg" alt="FormitAI form builder" width="32%"></a>
-        <a href="docs/screens/formitai/runtime.jpg"><img src="docs/screens/formitai/runtime.jpg" alt="FormitAI public form" width="32%"></a>
-        <a href="docs/screens/formitai/analytics.jpg"><img src="docs/screens/formitai/analytics.jpg" alt="FormitAI analytics" width="32%"></a>
+        <a href="docs/screens/formitai/share.jpg"><img src="docs/screens/formitai/share.jpg" alt="FormitAI share screen" width="49%"></a>
+        <a href="docs/screens/formitai/logic.jpg"><img src="docs/screens/formitai/logic.jpg" alt="FormitAI logic page" width="49%"></a>
       </p>
-      <p><a href="https://formitai.com">formitai.com</a> · <a href="https://app.formitai.com/dashboard">app</a></p>
       <details>
         <summary>Case study</summary>
         <p>Four surfaces, one tenancy. Marketing, builder, public forms, and embed.js each got their own host. The Fastify API owns orgs, plans, and integrations that fan out after submit.</p>
@@ -66,45 +74,25 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#trainero"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
-      <h3><a href="https://trainero.com">Trainero</a></h3>
-      <p><strong>The coaching platform coaches actually live in.</strong></p>
-      <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      </p>
-      <p><a href="https://trainero.com">trainero.com</a></p>
-      <details>
-        <summary>Case study</summary>
-        <p>Long-term seat on a European coaching business. Work lives in the trainer and client apps: workouts, chat, white-label. Vue / Quasar on the clients, AWS APIs behind them.</p>
-        <p>
-          <a href="portfolio/trainero.md">Case study page</a> ·
-          <a href="https://trainero.com">Live product</a> ·
-          <a href="https://tahirkodx.github.io/tahirkodx/#trainero">Open in portfolio</a>
-        </p>
-      </details>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://www.evetech.co.za/">Evetech</a> · Featured</h3>
       <p><strong>South Africa's gaming hardware store, redesigned on Next.js App Router.</strong></p>
       <p>eCommerce for gaming PCs, laptops, GPUs, and custom builds. I redesigned the storefront and migrated a live React catalog to Next.js App Router. Node and SQL Server stayed on the backend. Live at evetech.co.za, based in Centurion, Gauteng.</p>
-      <p>Next.js · React · Node.js · SQL Server</p>
       <p>
-        <a href="https://tahirkodx.github.io/tahirkodx/#evetech"><img src="docs/screens/evetech/home.jpg" alt="Evetech homepage" width="100%"></a>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+      </p>
+      <p><strong>Live:</strong> <a href="https://www.evetech.co.za/">evetech.co.za</a> · <a href="https://www.evetech.co.za/pc-builder">PC Builder</a> · <a href="https://www.evetech.co.za/contact">Contact / Centurion</a></p>
+      <p>
+        <a href="https://www.evetech.co.za/"><img src="docs/screens/evetech/home.jpg" alt="Evetech homepage" width="100%"></a>
       </p>
       <p>
         <a href="docs/screens/evetech/builder.jpg"><img src="docs/screens/evetech/builder.jpg" alt="Evetech PC Builder" width="32%"></a>
         <a href="docs/screens/evetech/product.jpg"><img src="docs/screens/evetech/product.jpg" alt="Evetech product page" width="32%"></a>
         <a href="docs/screens/evetech/contact.jpg"><img src="docs/screens/evetech/contact.jpg" alt="Evetech contact in Centurion" width="32%"></a>
       </p>
-      <p><a href="https://www.evetech.co.za/">evetech.co.za</a> · <a href="https://www.evetech.co.za/pc-builder">PC Builder</a> · <a href="https://www.evetech.co.za/contact">Contact / Centurion</a></p>
       <p>Showroom: Limeroc Business Park, Holland Road (R114), Knoppieslaagte, Centurion, 0157, Gauteng, South Africa.</p>
       <details>
         <summary>Case study</summary>
@@ -118,8 +106,38 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://trainero.com">Trainero</a> · Featured</h3>
+      <p><strong>The coaching platform coaches actually live in.</strong></p>
+      <p>Long-term product work on a European coaching business: trainer app, client app, workouts, chat, white-label. Vue / Quasar on the apps, AWS APIs behind them.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      </p>
+      <p><strong>Live:</strong> <a href="https://trainero.com">trainero.com</a></p>
+      <p>
+        <a href="https://trainero.com"><img src="docs/screens/trainero/home.jpg" alt="Trainero homepage" width="100%"></a>
+      </p>
+      <p>
+        <a href="docs/screens/trainero/pricing.jpg"><img src="docs/screens/trainero/pricing.jpg" alt="Trainero pricing" width="49%"></a>
+        <a href="docs/screens/trainero/white-label.jpg"><img src="docs/screens/trainero/white-label.jpg" alt="Trainero white label" width="49%"></a>
+      </p>
+      <details>
+        <summary>Case study</summary>
+        <p>Long-term seat on a European coaching business. Work lives in the trainer and client apps: workouts, chat, white-label. Vue / Quasar on the clients, AWS APIs behind them.</p>
+        <p>
+          <a href="portfolio/trainero.md">Case study page</a> ·
+          <a href="https://trainero.com">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#trainero">Open in portfolio</a>
+        </p>
+      </details>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#flapjack"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://flapjack.co" alt="Flapjack" width="100%"></a>
       <h3><a href="https://flapjack.co">Flapjack</a></h3>
       <p><strong>Design the menu like a canvas. Publish it like a site.</strong></p>
       <p>Restaurant menu builder. Next.js editor with Konva for layout. Restaurants get a visual builder instead of a Word doc and a hope. Live at flapjack.co.</p>
@@ -129,7 +147,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Konva-0D83CD?style=flat-square&logo=konva&logoColor=white" alt="Konva">
         <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand">
       </p>
-      <p><a href="https://flapjack.co">flapjack.co</a></p>
+      <p><strong>Live:</strong> <a href="https://flapjack.co">flapjack.co</a></p>
+      <p>
+        <a href="https://flapjack.co"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://flapjack.co" alt="Flapjack" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>A restaurant menu is a canvas, not a spreadsheet. Next.js hosts the editor. Konva owns layout. Zustand keeps canvas state off the page tree. Live at flapjack.co.</p>
@@ -141,7 +162,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
       </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#morphood"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.morphood.com" alt="Morphood" width="100%"></a>
       <h3><a href="https://www.morphood.com">Morphood</a></h3>
       <p><strong>Any recipe. Morphood makes it fit the diet in the room.</strong></p>
       <p>AI recipe product: transform a dish for allergy, diet, or preference, then cook from it. Nutrition breakdown, cook-mode, live homepage. Also on the App Store.</p>
@@ -150,7 +170,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query">
       </p>
-      <p><a href="https://www.morphood.com">morphood.com</a> · <a href="https://apps.apple.com/app/morphood-personalize-recipes/id1616706707">App Store</a></p>
+      <p><strong>Live:</strong> <a href="https://www.morphood.com">morphood.com</a> · <a href="https://apps.apple.com/app/morphood-personalize-recipes/id1616706707">App Store</a></p>
+      <p>
+        <a href="https://www.morphood.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.morphood.com" alt="Morphood" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>Take a recipe, adapt it for the diet in the room, then cook from it. Nutrition and cook-mode sit next to the rewrite. Web at morphood.com, iOS on the App Store.</p>
@@ -164,7 +187,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#clicksfence"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://clicksfence.com" alt="ClicksFence" width="100%"></a>
       <h3><a href="https://clicksfence.com">ClicksFence</a></h3>
       <p><strong>Stop paying Google for bot clicks.</strong></p>
       <p>Click-fraud SaaS for advertisers. One script, real-time blocking, session replay, then optional IP sync into Google Ads. I built the tracker, workers, replay, billing, and multi-tenant dashboard.</p>
@@ -177,7 +199,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
         <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads">
       </p>
-      <p><a href="https://clicksfence.com">clicksfence.com</a></p>
+      <p><strong>Live:</strong> <a href="https://clicksfence.com">clicksfence.com</a></p>
+      <p>
+        <a href="https://clicksfence.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://clicksfence.com" alt="ClicksFence" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>One script on the advertiser's site. Workers score the click. rrweb replay lets a human confirm a block. Optional IP lists sync into Google Ads. I built the tracker, workers, replay, billing, and multi-tenant dashboard.</p>
@@ -189,7 +214,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
       </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#snap2list"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.snap2list.com" alt="Snap2List" width="100%"></a>
       <h3><a href="https://snap2list.com">Snap2List</a></h3>
       <p><strong>Photo in. eBay listing out. Inventory stays in sync.</strong></p>
       <p>eBay listing + inventory dashboard. Scan a barcode, generate the listing, bulk-revise prices, print SKU labels, sync from a React Native warehouse app. Live at snap2list.com.</p>
@@ -201,7 +225,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/eBay-E53238?style=flat-square&logo=ebay&logoColor=white" alt="eBay">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       </p>
-      <p><a href="https://snap2list.com">snap2list.com</a></p>
+      <p><strong>Live:</strong> <a href="https://snap2list.com">snap2list.com</a></p>
+      <p>
+        <a href="https://snap2list.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.snap2list.com" alt="Snap2List" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>Warehouse capture on React Native. Dashboard turns a scan into an eBay listing, revises prices in bulk, and prints SKU labels. Supabase is the shared store. Live at snap2list.com.</p>
@@ -215,7 +242,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#voice-agent"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://tahiramjad.com" alt="Neurodek Voice Agent" width="100%"></a>
       <h3><a href="https://tahiramjad.com">Neurodek Voice Agent</a></h3>
       <p><strong>Drop an AI agent on any website. Chat, voice, or both.</strong></p>
       <p>Embeddable widget: visitors type, talk, or switch mid-conversation. Control plane for assistants, knowledge bases, and call analytics. LiveKit pipeline under the hood. Hosted at tahiramjad.com.</p>
@@ -228,7 +254,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
-      <p><a href="https://tahiramjad.com">tahiramjad.com</a></p>
+      <p><strong>Live:</strong> <a href="https://tahiramjad.com">tahiramjad.com</a></p>
+      <p>
+        <a href="https://tahiramjad.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://tahiramjad.com" alt="Neurodek Voice Agent" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>Dashboard, control plane, and a LiveKit worker. Visitors chat, talk, or switch mid-conversation. PersonaPlex is the custom-voice path: upload reference audio, train, ship it on the widget.</p>
@@ -240,7 +269,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
       </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#kuntokompassi"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" alt="Kuntokompassi Online" width="100%"></a>
       <h3><a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">Kuntokompassi Online</a></h3>
       <p><strong>A Finnish studio's coaching app. Live on the stores.</strong></p>
       <p>Plans, progress, coach chat. Quasar / Vue client, Capacitor wrap, shipped to App Store and Google Play for SHW Training Oy.</p>
@@ -249,7 +277,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar">
         <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor">
       </p>
-      <p><a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app">Play</a></p>
+      <p><strong>Live:</strong> <a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083">App Store</a> · <a href="https://play.google.com/store/apps/details?id=fi.kuntokompassi.online.app">Play</a></p>
+      <p>
+        <a href="https://apps.apple.com/us/app/kuntokompassi-online/id6689495083"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://kuntokompassi.mykajabi.com/etavalmennus-kuntokompassi" alt="Kuntokompassi Online" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>Plans, progress, coach chat for a Finnish studio. Quasar / Vue client, Capacitor wrap, shipped to App Store and Google Play for SHW Training Oy.</p>
@@ -263,7 +294,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#velmore"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velmoreexecutive.com" alt="Velmore Executive" width="100%"></a>
       <h3><a href="https://velmoreexecutive.com">Velmore Executive</a></h3>
       <p><strong>Dispatch, drivers, and bookings in one ops system.</strong></p>
       <p>UK chauffeur SaaS. Calendar, maps, live job state, Stripe. Public booking site plus admin. React Native driver app sits next to it.</p>
@@ -274,7 +304,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
       </p>
-      <p><a href="https://velmoreexecutive.com">velmoreexecutive.com</a></p>
+      <p><strong>Live:</strong> <a href="https://velmoreexecutive.com">velmoreexecutive.com</a></p>
+      <p>
+        <a href="https://velmoreexecutive.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://velmoreexecutive.com" alt="Velmore Executive" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>Public booking, admin ops, and a driver app. Calendar, maps, live job state, Stripe. Fastify API with Prisma on PostgreSQL. Live at velmoreexecutive.com.</p>
@@ -286,7 +319,6 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
       </details>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#sip-pass"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.thesippass.com" alt="SIP Pass" width="100%"></a>
       <h3><a href="https://www.thesippass.com">SIP Pass</a></h3>
       <p><strong>Tickets that scan at the door. Checkout on the web.</strong></p>
       <p>Event / pass platform: Next.js public sites, Fastify API, React Native scan app, QR issuance, Paystack. Built for a crowd, not a demo tap.</p>
@@ -297,7 +329,10 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </p>
-      <p><a href="https://www.thesippass.com">thesippass.com</a></p>
+      <p><strong>Live:</strong> <a href="https://www.thesippass.com">thesippass.com</a></p>
+      <p>
+        <a href="https://www.thesippass.com"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.thesippass.com" alt="SIP Pass" width="100%"></a>
+      </p>
       <details>
         <summary>Case study</summary>
         <p>Next.js public sites, Fastify API, React Native scan app. QR at the door, Paystack on the web. Built for a crowd, not a demo tap.</p>

@@ -4,9 +4,13 @@
 
 Gaming PCs, laptops, GPUs, custom builds. A real catalog with a showroom behind it, not a demo store.
 
-**Stack:** Next.js · React · Node.js · SQL Server
+**Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-Live: [evetech.co.za](https://www.evetech.co.za/) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#evetech)
+**Live:** [evetech.co.za](https://www.evetech.co.za/) · [PC Builder](https://www.evetech.co.za/pc-builder) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#evetech)
 
 ![Evetech homepage](../docs/screens/evetech/home.jpg)
 

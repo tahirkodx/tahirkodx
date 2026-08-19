@@ -7,8 +7,8 @@ Open the interactive pages (modals, extra screens) at [tahirkodx.github.io/tahir
 | # | Project | Use case | Live | Pages |
 |---|---------|----------|------|-------|
 | 1 | [FormitAI](formitai.md) · Featured | Describe the form. It builds itself, then asks the next question. | [formitai.com](https://formitai.com) | [#formitai](https://tahirkodx.github.io/tahirkodx/#formitai) |
-| 2 | [Trainero](trainero.md) | The coaching platform coaches actually live in. | [trainero.com](https://trainero.com) | [#trainero](https://tahirkodx.github.io/tahirkodx/#trainero) |
-| 3 | [Evetech](evetech.md) | South Africa's gaming hardware store, redesigned on Next.js App Router. | [evetech.co.za](https://www.evetech.co.za/) | [#evetech](https://tahirkodx.github.io/tahirkodx/#evetech) |
+| 2 | [Evetech](evetech.md) · Featured | South Africa's gaming hardware store, redesigned on Next.js App Router. | [evetech.co.za](https://www.evetech.co.za/) | [#evetech](https://tahirkodx.github.io/tahirkodx/#evetech) |
+| 3 | [Trainero](trainero.md) · Featured | The coaching platform coaches actually live in. | [trainero.com](https://trainero.com) | [#trainero](https://tahirkodx.github.io/tahirkodx/#trainero) |
 | 4 | [Flapjack](flapjack.md) | Design the menu like a canvas. Publish it like a site. | [flapjack.co](https://flapjack.co) | [#flapjack](https://tahirkodx.github.io/tahirkodx/#flapjack) |
 | 5 | [Morphood](morphood.md) | Any recipe. Morphood makes it fit the diet in the room. | [morphood.com](https://www.morphood.com) | [#morphood](https://tahirkodx.github.io/tahirkodx/#morphood) |
 | 6 | [ClicksFence](clicksfence.md) | Stop paying Google for bot clicks. | [clicksfence.com](https://clicksfence.com) | [#clicksfence](https://tahirkodx.github.io/tahirkodx/#clicksfence) |

@@ -4,11 +4,23 @@
 
 AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.
 
-**Stack:** React · Next.js · TypeScript · Fastify · Prisma · PostgreSQL · Redis · OpenAI
+**Stack:**
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-Live: [formitai.com](https://formitai.com) · App: [app.formitai.com/dashboard](https://app.formitai.com/dashboard) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#formitai)
+**Live:** [formitai.com](https://formitai.com) · App: [app.formitai.com/dashboard](https://app.formitai.com/dashboard) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#formitai)
 
-![FormitAI dashboard](../docs/screens/formitai/home.jpg)
+![FormitAI landing page](../docs/screens/formitai/landing.jpg)
+
+![FormitAI share screen](../docs/screens/formitai/share.jpg)
+
+![FormitAI logic page](../docs/screens/formitai/logic.jpg)
 
 ## Problem
 
@@ -50,6 +62,18 @@ Branded form URLs use a workspace subdomain on `*.formitai.com`. Bare `app.formi
 
 ## Extra screens
 
+Landing page. Hero, prompt mock, get started.
+
+![FormitAI landing page](../docs/screens/formitai/landing.jpg)
+
+Share. Public link, OG preview, branded subdomain, QR.
+
+![FormitAI share](../docs/screens/formitai/share.jpg)
+
+Logic. Flow canvas, smart routing, question graph.
+
+![FormitAI logic](../docs/screens/formitai/logic.jpg)
+
 Logged-in Forms dashboard. Published and draft table, response counts.
 
 ![FormitAI dashboard](../docs/screens/formitai/home.jpg)
@@ -86,17 +110,9 @@ Integrations. WhatsApp, Slack, Sheets, Zapier catalog.
 
 ![FormitAI integrations](../docs/screens/formitai/integrations.jpg)
 
-Share. Public link, OG preview, branded subdomain, QR.
-
-![FormitAI share](../docs/screens/formitai/share.jpg)
-
 Workspace settings. Org, layout, subdomain, billing.
 
 ![FormitAI settings](../docs/screens/formitai/settings.jpg)
-
-Marketing homepage.
-
-![FormitAI marketing](../docs/screens/formitai/marketing.jpg)
 
 ## Open live product
 

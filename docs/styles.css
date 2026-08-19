@@ -255,7 +255,6 @@ a:hover {
 }
 
 .card {
-  appearance: none;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -263,19 +262,47 @@ a:hover {
   border-radius: var(--radius);
   background: var(--bg-elev);
   color: inherit;
-  text-align: left;
-  font: inherit;
-  cursor: pointer;
   overflow: hidden;
-  transition: border-color 180ms var(--ease), transform 180ms var(--ease);
+  display: flex;
+  flex-direction: column;
+  transition: border-color 180ms var(--ease);
 }
 
 .card:hover {
   border-color: var(--accent);
 }
 
-.card:active {
+.card-open {
+  appearance: none;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.card-open:active {
   transform: scale(0.995);
+}
+
+.card-live {
+  margin: var(--space-3) 0 0;
+  font-size: 0.875rem;
+}
+
+.card-live a {
+  font-weight: 600;
+}
+
+.live-line {
+  margin: 0 0 var(--space-4);
+  font-size: 0.9375rem;
+}
+
+.live-line a {
+  font-weight: 600;
 }
 
 .card-media {
@@ -534,6 +561,17 @@ a:hover {
   padding: 0.2rem 0.55rem;
   color: var(--muted);
   font-size: 0.8125rem;
+}
+
+.stack-list .stack-badge {
+  border: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.stack-list .stack-badge img {
+  display: block;
+  height: 20px;
 }
 
 .dialog-foot {
