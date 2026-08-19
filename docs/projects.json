@@ -58,6 +58,37 @@
       "caseStudy": "trainero.md"
     },
     {
+      "id": "evetech",
+      "name": "Evetech",
+      "featured": true,
+      "hook": "South Africa's gaming hardware store, redesigned on Next.js App Router.",
+      "body": "eCommerce for gaming PCs, laptops, GPUs, and custom builds. I redesigned the storefront and migrated a live React catalog to Next.js App Router. Node and SQL Server stayed on the backend. Live at evetech.co.za, based in Centurion, Gauteng.",
+      "useCase": "A South African gamer shops PCs, laptops, and parts, or builds a compatible rig. Stock, price, and pickup all have to be real, because the showroom is in Centurion and the catalog is live.",
+      "problem": "The old React SPA made a dense catalog feel like a client-rendered island. Search, first load, and product configs all paid for it. A store this size needed App Router, SSR, and a design that could carry PC builder, flash deals, and upgrade options without looking like a 2018 SPA.",
+      "discussed": "Keep checkout, stock, and catalog on the existing Node and SQL Server stack. Rebuild every storefront surface in Next.js App Router. Homepage, category grids, product pages with RAM and SSD configs, PC builder, and contact. Design from scratch, not a skin on the old React tree.",
+      "shipped": "Full storefront redesign. React to Next.js App Router on a live catalog. PC builder with compatibility checks. Product pages with upgrade configs. Contact and Centurion location. Dark gaming UI that holds up on real SKUs.",
+      "built": "Next.js App Router on the frontend. Node APIs. SQL Server for catalog, stock, and orders.",
+      "deployed": "Live at evetech.co.za. Showroom and warehouse at Limeroc Business Park, Holland Road (R114), Knoppieslaagte, Centurion, 0157, Gauteng, South Africa.",
+      "liveUrl": "https://www.evetech.co.za/",
+      "liveLabel": "evetech.co.za",
+      "previewUrl": "https://www.evetech.co.za/",
+      "previewImage": "./screens/evetech/home.jpg",
+      "stack": ["Next.js", "React", "Node.js", "SQL Server"],
+      "links": [
+        { "label": "Store", "url": "https://www.evetech.co.za/" },
+        { "label": "PC Builder", "url": "https://www.evetech.co.za/pc-builder" },
+        { "label": "Contact / Centurion", "url": "https://www.evetech.co.za/contact" }
+      ],
+      "screens": [
+        { "label": "Homepage", "url": "https://www.evetech.co.za/", "image": "./screens/evetech/home.jpg" },
+        { "label": "PC Builder", "url": "https://www.evetech.co.za/pc-builder", "image": "./screens/evetech/builder.jpg" },
+        { "label": "The Core, where a build starts", "url": "https://www.evetech.co.za/pc-builder", "image": "./screens/evetech/builder-core.jpg" },
+        { "label": "Gaming laptop product page", "url": "https://www.evetech.co.za/asus-tuf-gaming-a16-fa608pm-16gb-1tb/laptops-for-sale/42907", "image": "./screens/evetech/product.jpg" },
+        { "label": "Contact, Centurion showroom", "url": "https://www.evetech.co.za/contact", "image": "./screens/evetech/contact.jpg" }
+      ],
+      "caseStudy": "evetech.md"
+    },
+    {
       "id": "flapjack",
       "name": "Flapjack",
       "hook": "Design the menu like a canvas. Publish it like a site.",
@@ -89,12 +120,12 @@
       "problem": "A household rarely shares one diet. A recipe that works for one person can be unusable for the next. The product needed to adapt the dish, not just store it.",
       "discussed": "Keep the loop short: take a recipe, adapt it, cook from the result. Nutrition and cook-mode sit next to the rewrite so the output is usable in the kitchen, not only on a screen.",
       "shipped": "Web product at morphood.com and an iOS app on the App Store. Recipe transform, nutrition breakdown, cook-mode.",
-      "built": "Web plus iOS. AI for the recipe transform. I am not listing a fuller stack here because I cannot verify it from a public repo.",
+      "built": "Vue.js and Nuxt.js on the web, with TanStack Query for server state. AI for the recipe transform. iOS app on the App Store.",
       "deployed": "Live homepage at morphood.com. iOS build on the App Store (Morphood: Personalize Recipes).",
       "liveUrl": "https://www.morphood.com",
       "liveLabel": "morphood.com",
       "previewUrl": "https://www.morphood.com",
-      "stack": ["AI", "iOS", "Web"],
+      "stack": ["Vue.js", "Nuxt.js", "TanStack Query"],
       "links": [
         { "label": "Web", "url": "https://www.morphood.com" },
         { "label": "App Store", "url": "https://apps.apple.com/app/morphood-personalize-recipes/id1616706707" }

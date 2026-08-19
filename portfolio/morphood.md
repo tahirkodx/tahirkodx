@@ -21,7 +21,7 @@ Keep the loop short: take a recipe, adapt it, cook from the result. Nutrition an
 
 ## How it was built
 
-Web plus iOS. AI for the recipe transform. I am not listing a fuller stack here because I cannot verify it from a public repo.
+Vue.js and Nuxt.js on the web, with TanStack Query for server state. AI for the recipe transform. iOS app on the App Store.
 
 ## How it was deployed
 

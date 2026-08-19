@@ -16,8 +16,20 @@ let projects = [];
 let lastOpener = null;
 let activeId = null;
 
+function isLocalMedia(url) {
+  return /^(?:\.\/|screens\/|docs\/)/.test(url) || /\.(?:png|jpe?g|webp|gif|svg)$/i.test(url);
+}
+
 function thumb(url) {
+  if (!url) return "";
+  if (isLocalMedia(url) && !/^https?:\/\//i.test(url)) return url;
   return `${THUMB}${url}`;
+}
+
+function mediaSrc(item) {
+  if (typeof item === "string") return thumb(item);
+  if (item && item.image) return item.image;
+  return thumb(item && item.url);
 }
 
 function escapeHtml(value) {
@@ -38,12 +50,17 @@ function renderGrid(items) {
   items.forEach((project, index) => {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = index === 0 ? "card card-lead" : "card";
+    const classes = ["card"];
+    if (index === 0) classes.push("card-lead");
+    if (project.featured) classes.push("card-featured");
+    button.className = classes.join(" ");
     button.dataset.id = project.id;
     button.setAttribute("aria-haspopup", "dialog");
+    const preview = project.previewImage || thumb(project.previewUrl);
     button.innerHTML = `
       <div class="card-media">
-        <img src="${thumb(project.previewUrl)}" alt="${escapeHtml(project.name)}" width="1200" height="750" loading="${index === 0 ? "eager" : "lazy"}" />
+        ${project.featured ? `<span class="card-badge">Featured</span>` : ""}
+        <img src="${preview}" alt="${escapeHtml(project.name)}" width="1200" height="750" loading="${index === 0 || project.featured ? "eager" : "lazy"}" />
       </div>
       <div class="card-body">
         <h3 class="card-name">${escapeHtml(project.name)}</h3>
@@ -82,7 +99,7 @@ function renderProject(project) {
     "overview",
     `
       <figure class="preview-frame">
-        <img src="${thumb(project.previewUrl)}" alt="${escapeHtml(project.name)} preview" width="1200" height="750" />
+        <img src="${project.previewImage || thumb(project.previewUrl)}" alt="${escapeHtml(project.name)} preview" width="1200" height="750" />
       </figure>
       <h3>${escapeHtml(project.hook)}</h3>
       <p>${escapeHtml(project.body)}</p>
@@ -118,7 +135,7 @@ function renderProject(project) {
     (screen) => `
       <figure class="screen-card">
         <div class="preview-frame">
-          <img src="${thumb(screen.url)}" alt="${escapeHtml(screen.label)}" width="1200" height="750" loading="lazy" />
+          <img src="${mediaSrc(screen)}" alt="${escapeHtml(screen.label)}" width="1200" height="750" loading="lazy" />
         </div>
         <figcaption>${escapeHtml(screen.label)}</figcaption>
       </figure>

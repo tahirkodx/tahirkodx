@@ -91,6 +91,36 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://tahirkodx.github.io/tahirkodx/#evetech"><img src="docs/screens/evetech/home.jpg" alt="Evetech homepage" width="100%"></a>
+      <h3><a href="https://www.evetech.co.za/">Evetech</a> · Featured</h3>
+      <p><strong>South Africa's gaming hardware store, redesigned on Next.js App Router.</strong></p>
+      <p>eCommerce for gaming PCs, laptops, GPUs, and custom builds. I redesigned the storefront and migrated a live React catalog to Next.js App Router. Node and SQL Server stayed on the backend. Live at evetech.co.za, based in Centurion, Gauteng.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+      </p>
+      <p>
+        <a href="docs/screens/evetech/builder.jpg"><img src="docs/screens/evetech/builder.jpg" alt="Evetech PC Builder" width="32%"></a>
+        <a href="docs/screens/evetech/product.jpg"><img src="docs/screens/evetech/product.jpg" alt="Evetech product page" width="32%"></a>
+        <a href="docs/screens/evetech/contact.jpg"><img src="docs/screens/evetech/contact.jpg" alt="Evetech contact in Centurion" width="32%"></a>
+      </p>
+      <p><a href="https://www.evetech.co.za/">evetech.co.za</a> · <a href="https://www.evetech.co.za/pc-builder">PC Builder</a> · <a href="https://www.evetech.co.za/contact">Contact / Centurion</a></p>
+      <p>Showroom: Limeroc Business Park, Holland Road (R114), Knoppieslaagte, Centurion, 0157, Gauteng, South Africa.</p>
+      <details>
+        <summary>Case study</summary>
+        <p>Keep Node and SQL Server. Rebuild the storefront. App Router for listings, product configs, and the PC builder. Design from scratch, shipped on the live catalog, store stayed up.</p>
+        <p>
+          <a href="portfolio/evetech.md">Case study page</a> ·
+          <a href="https://www.evetech.co.za/">Live product</a> ·
+          <a href="https://tahirkodx.github.io/tahirkodx/#evetech">Open in portfolio</a>
+        </p>
+      </details>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://tahirkodx.github.io/tahirkodx/#flapjack"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://flapjack.co" alt="Flapjack" width="100%"></a>
       <h3><a href="https://flapjack.co">Flapjack</a></h3>
@@ -119,9 +149,9 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
       <p><strong>Any recipe. Morphood makes it fit the diet in the room.</strong></p>
       <p>AI recipe product: transform a dish for allergy, diet, or preference, then cook from it. Nutrition breakdown, cook-mode, live homepage. Also on the App Store.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="AI">
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
-        <img src="https://img.shields.io/badge/Web-111111?style=flat-square" alt="Web">
+        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query">
       </p>
       <p><a href="https://www.morphood.com">morphood.com</a> · <a href="https://apps.apple.com/app/morphood-personalize-recipes/id1616706707">App Store</a></p>
       <details>
@@ -330,18 +360,6 @@ Same bar. Shorter cards. Some sit behind logins, so no live preview.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>E-commerce → Next.js</h3>
-      <p><strong>Moved a live catalog off a React SPA without taking the store down.</strong></p>
-      <p>SSR / App Router cutover for SEO and first load. Production migration, not a greenfield rewrite.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>Open SEO</h3>
       <p><strong>SEO research as a product, not a PDF export.</strong></p>
       <p>Rank tracking, keyword research, DataForSEO, Cloudflare Workers, AI agents. Built for people who live in the data every week.</p>
@@ -353,7 +371,6 @@ Same bar. Shorter cards. Some sit behind logins, so no live preview.
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -439,6 +456,7 @@ What I actually ship with. Grouped the way a product is built.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
