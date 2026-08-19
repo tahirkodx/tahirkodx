@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787154616" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787165831" alt="Famous quote" width="100%">
 </p>
 
-> The details are not the details. They make the design.
+> The easiest way in the world to make enemies is to hire friends.
 >
-> Charles Eames
+> George Lorimer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 1296 points on Hacker News, 655 comments. Posted by herbertl.</p>
+      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
+      <p>From openlogi.org. 1420 points on Hacker News, 383 comments. Posted by amatheus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo">Monzo down as some users unable to make card payments or transfers</a></h3>
-      <p>The digital bank said it was "rolling out a fix and moving quickly" to get the service working again</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c0ej09nywdno">81,000 warning letters sent to crypto holders in HMRC tax crackdown</a></h3>
+      <p>According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
-      <p>From openlogi.org. 1219 points on Hacker News, 344 comments. Posted by amatheus.</p>
+      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
+      <p>From nicholascharriere.com. 848 points on Hacker News, 663 comments. Posted by nichochar.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo">Monzo says issue with card payments and transfers now resolved</a></h3>
+      <p>The digital bank said all of its services were now "back up and running"</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://grapheneos.social/@GrapheneOS/117078064184215730">Devices with GrapheneOS support should be available in 2027</a></h3>
+      <p>From grapheneos.social. 508 points on Hacker News, 318 comments. Posted by exceptione.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
-      <p>From nicholascharriere.com. 762 points on Hacker News, 581 comments. Posted by nichochar.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c20ydrndr0wo">The critical tech staying safe by going underground</a></h3>
-      <p>The war in Ukraine has spurred people to consider putting vital infrastructure underground.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 15:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 18:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
