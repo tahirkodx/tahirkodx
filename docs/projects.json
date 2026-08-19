@@ -12,25 +12,37 @@
     {
       "id": "formitai",
       "name": "FormitAI",
+      "featured": true,
       "hook": "Describe the form. It builds itself, then asks the next question.",
-      "body": "AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, embeds, analytics, Slack / Sheets / Zapier. I shipped it end to end: builder, runtime, API, tenancy, marketing, production.",
+      "body": "AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.",
       "useCase": "Teams that need a form product, not a field palette. Write what you want collected. The builder drafts the form. The runtime asks a follow-up when an answer is vague.",
-      "problem": "Most form tools start from a blank canvas of field types. Clients wanted something closer to a conversation: describe the intake, get a working form, then let AI chase incomplete answers after publish.",
+      "problem": "Most form tools start from a blank canvas of field types. Clients wanted a conversation: describe the intake, get a working form, then let AI chase incomplete answers after publish.",
       "discussed": "We split the product into four surfaces so marketing, the builder, public forms, and embeds could ship and scale on their own hosts. Tenancy lives in the Fastify API. Integrations fan out after submit and never block the submission.",
-      "shipped": "Next.js marketing site, Vite builder and dashboard, Next.js public form runtime, vanilla embed.js, Fastify + Prisma API. Org roles, plans, Slack OAuth, Google Sheets append, Zapier bridge, WhatsApp result alerts.",
-      "built": "Frontend monorepo (npm workspaces): apps/www, apps/web, apps/admin, apps/form-runtime, plus shared form-renderer and embed packages. Backend is a separate Fastify + TypeScript + Prisma service on PostgreSQL, with Redis in the stack and OpenAI for generation and follow-ups.",
-      "deployed": "Ubuntu, nginx, and PM2. formitai.com is the marketing Next app. app.formitai.com is the builder SPA. form.formitai.com serves public forms. embed.formitai.com serves embed.js. API on its own host. Branded form URLs use a workspace subdomain on *.formitai.com.",
+      "shipped": "Next.js marketing site, Vite builder and dashboard, Next.js public form runtime, vanilla embed.js, Fastify + Prisma API. Org roles, plans, Slack OAuth, Google Sheets append, Zapier bridge, WhatsApp alerts. Workspace analytics, contacts, brand kits, branded *.formitai.com form URLs.",
+      "built": "Frontend monorepo (npm workspaces): apps/www, apps/web, apps/admin, apps/form-runtime, plus shared form-renderer and embed packages. Backend is Fastify + TypeScript + Prisma on PostgreSQL, Redis in the stack, OpenAI for generation and follow-ups.",
+      "deployed": "Ubuntu, nginx, and PM2. formitai.com is the marketing Next app. Authenticated app is app.formitai.com/dashboard. form.formitai.com serves public forms. embed.formitai.com serves embed.js. API on its own host. Branded form URLs use a workspace subdomain on *.formitai.com.",
       "liveUrl": "https://formitai.com",
       "liveLabel": "formitai.com",
       "previewUrl": "https://formitai.com",
+      "previewImage": "./screens/formitai/home.jpg",
       "stack": ["React", "Next.js", "TypeScript", "Fastify", "Prisma", "PostgreSQL", "Redis", "OpenAI"],
       "links": [
         { "label": "Marketing", "url": "https://formitai.com" },
-        { "label": "App", "url": "https://app.formitai.com" }
+        { "label": "App", "url": "https://app.formitai.com/dashboard" }
       ],
       "screens": [
-        { "label": "Marketing site", "url": "https://formitai.com" },
-        { "label": "Builder app", "url": "https://app.formitai.com" }
+        { "label": "Dashboard", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/home.jpg" },
+        { "label": "Create form", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/create.jpg" },
+        { "label": "AI generate", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/ai-generate.jpg" },
+        { "label": "Form builder", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/builder.jpg" },
+        { "label": "Public form", "url": "https://form.formitai.com/f/sl48mnlhim5dv6wje531oq33", "image": "./screens/formitai/runtime.jpg" },
+        { "label": "Results", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/results.jpg" },
+        { "label": "Analytics", "url": "https://app.formitai.com/dashboard/analytics", "image": "./screens/formitai/analytics.jpg" },
+        { "label": "Embeds", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/embed.jpg" },
+        { "label": "Integrations", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/integrations.jpg" },
+        { "label": "Share", "url": "https://app.formitai.com/form-builder", "image": "./screens/formitai/share.jpg" },
+        { "label": "Settings", "url": "https://app.formitai.com/dashboard/settings", "image": "./screens/formitai/settings.jpg" },
+        { "label": "Marketing", "url": "https://formitai.com", "image": "./screens/formitai/marketing.jpg" }
       ],
       "caseStudy": "formitai.md"
     },

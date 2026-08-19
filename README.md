@@ -39,11 +39,11 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://formitai.com" alt="FormitAI" width="100%"></a>
-      <h3><a href="https://formitai.com">FormitAI</a></h3>
+    <td colspan="2" valign="top">
+      <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="docs/screens/formitai/home.jpg" alt="FormitAI dashboard" width="100%"></a>
+      <h3><a href="https://formitai.com">FormitAI</a> · Featured</h3>
       <p><strong>Describe the form. It builds itself, then asks the next question.</strong></p>
-      <p>AI form builder SaaS. Prompt → fields → AI follow-ups on vague answers. Links, embeds, analytics, Slack / Sheets / Zapier. I shipped it end to end: builder, runtime, API, tenancy, marketing, production.</p>
+      <p>AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -54,11 +54,16 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
       </p>
-      <p><a href="https://formitai.com">formitai.com</a> · <a href="https://app.formitai.com">app</a></p>
+      <p>
+        <a href="docs/screens/formitai/builder.jpg"><img src="docs/screens/formitai/builder.jpg" alt="FormitAI form builder" width="32%"></a>
+        <a href="docs/screens/formitai/runtime.jpg"><img src="docs/screens/formitai/runtime.jpg" alt="FormitAI public form" width="32%"></a>
+        <a href="docs/screens/formitai/analytics.jpg"><img src="docs/screens/formitai/analytics.jpg" alt="FormitAI analytics" width="32%"></a>
+      </p>
+      <p><a href="https://formitai.com">formitai.com</a> · <a href="https://app.formitai.com/dashboard">app</a></p>
       <details>
         <summary>Case study</summary>
         <p>Four surfaces, one tenancy. Marketing, builder, public forms, and embed.js each got their own host. The Fastify API owns orgs, plans, and integrations that fan out after submit.</p>
-        <p>Shipped on Ubuntu, nginx, and PM2: formitai.com, app.formitai.com, form.formitai.com, embed.formitai.com.</p>
+        <p>Shipped on Ubuntu, nginx, and PM2: formitai.com, app.formitai.com/dashboard, form.formitai.com, embed.formitai.com.</p>
         <p>
           <a href="portfolio/formitai.md">Case study page</a> ·
           <a href="https://formitai.com">Live product</a> ·
@@ -66,6 +71,8 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
         </p>
       </details>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://tahirkodx.github.io/tahirkodx/#trainero"><img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://trainero.com" alt="Trainero" width="100%"></a>
       <h3><a href="https://trainero.com">Trainero</a></h3>
@@ -583,18 +590,20 @@ Upload reference audio. Train a PersonaPlex voice. Test it in super-admin. Ship 
 
 Public repos are a slice. The products above are the catalog.
 
+Stats and languages still come from a stats API. The contribution calendar is a live activity graph (GitHub's own contribution data), not a hosted streak card. Streak hosts often fail with "Failed to retrieve contributions" when GitHub's API rate-limits them.
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=tahirkodx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%">
+      <img src="https://github-readme-stats.shion.dev/api?username=tahirkodx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tahirkodx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tahirkodx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" width="100%">
     </td>
   </tr>
 </table>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tahirkodx&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahirkodx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions" alt="GitHub contributions" width="100%">
 </p>
 
 ---
