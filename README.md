@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787089329" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787104576" alt="Famous quote" width="100%">
 </p>
 
-> If you build the guts to do something, anything, then you better save enough to face the consequences.
+> The temptation to give up is strongest just before victory.
 >
-> Criss Jami
+> Zen Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,41 +389,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 739 points on Hacker News, 463 comments. Posted by herbertl.</p>
+      <p>From seths.blog. 941 points on Hacker News, 543 comments. Posted by herbertl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/czxqz91n5n8o">OpenAI makes ChatGPT less 'human' for teens in new safety update</a></h3>
-      <p>OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c0qv4w9492zo">Chinese robotics giant Unitree soars in stock market debut</a></h3>
+      <p>Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
-      <p>From ysph.yale.edu. 613 points on Hacker News, 700 comments. Posted by karakoram.</p>
+      <p>From ysph.yale.edu. 715 points on Hacker News, 799 comments. Posted by karakoram.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c62em5lpvnjo">AI to help planes avoid climate-warming 'sky graffiti'</a></h3>
-      <p>A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c20ydrndr0wo">The critical tech staying safe by going underground</a></h3>
+      <p>The war in Ukraine has spurred people to consider putting vital infrastructure underground.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pixelcluster.dev/VRAM-Overcommit/">Linux 7.3 improves performance when running out of vRAM</a></h3>
-      <p>From pixelcluster.dev. 482 points on Hacker News, 235 comments. Posted by flaburgan.</p>
+      <h3><a href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399">Memory prices climb 500% in 12 months</a></h3>
+      <p>From tomshardware.com. 489 points on Hacker News, 396 comments. Posted by haunter.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/clyqpx6xk69o">US states call for big changes to Instagram and Facebook as Meta child privacy trial begins</a></h3>
-      <p>US states are suing the social media giant to force an overhaul of its platforms for young users.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cly5r7vr7q1o">Meta hooked children on Facebook and Instagram, court hears</a></h3>
+      <p>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 18 Aug 2026, 21:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 01:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
