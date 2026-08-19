@@ -367,12 +367,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787104576" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787112221" alt="Famous quote" width="100%">
 </p>
 
-> The temptation to give up is strongest just before victory.
+> Good things aren't supposed to just fall into your lap.
 >
-> Zen Proverb
+> Audrey Hepburn
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -389,19 +389,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 941 points on Hacker News, 543 comments. Posted by herbertl.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c0qv4w9492zo">Chinese robotics giant Unitree soars in stock market debut</a></h3>
-      <p>Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
-      <p>From ysph.yale.edu. 715 points on Hacker News, 799 comments. Posted by karakoram.</p>
+      <p>From seths.blog. 1006 points on Hacker News, 579 comments. Posted by herbertl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -412,18 +400,30 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399">Memory prices climb 500% in 12 months</a></h3>
-      <p>From tomshardware.com. 489 points on Hacker News, 396 comments. Posted by haunter.</p>
+      <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
+      <p>From ysph.yale.edu. 762 points on Hacker News, 830 comments. Posted by karakoram.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cly5r7vr7q1o">Meta hooked children on Facebook and Instagram, court hears</a></h3>
-      <p>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cly5r7vr7q1o">Meta hooked children on Facebook and Instagram, US court hears</a></h3>
+      <p>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399">Memory prices climb 500% in 12 months</a></h3>
+      <p>From tomshardware.com. 522 points on Hacker News, 437 comments. Posted by haunter.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/czxqz91n5n8o">OpenAI makes ChatGPT less 'human' for teens in new safety update</a></h3>
+      <p>OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 01:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 04:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
