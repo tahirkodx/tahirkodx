@@ -40,7 +40,7 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="docs/screens/formitai/home.jpg" alt="FormitAI dashboard" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="docs/screens/formitai/scroll-preview.gif" alt="FormitAI dashboard scroll preview" width="100%"></a>
       <h3><a href="https://formitai.com">FormitAI</a> · Featured</h3>
       <p><strong>Describe the form. It builds itself, then asks the next question.</strong></p>
       <p>AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.</p>
@@ -99,7 +99,7 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#evetech"><img src="docs/screens/evetech/home.jpg" alt="Evetech homepage" width="100%"></a>
+      <a href="https://tahirkodx.github.io/tahirkodx/#evetech"><img src="docs/screens/evetech/scroll-preview.gif" alt="Evetech homepage scroll preview" width="100%"></a>
       <h3><a href="https://www.evetech.co.za/">Evetech</a> · Featured</h3>
       <p><strong>South Africa's gaming hardware store, redesigned on Next.js App Router.</strong></p>
       <p>eCommerce for gaming PCs, laptops, GPUs, and custom builds. I redesigned the storefront and migrated a live React catalog to Next.js App Router. Node and SQL Server stayed on the backend. Live at evetech.co.za, based in Centurion, Gauteng.</p>

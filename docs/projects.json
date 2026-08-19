@@ -24,13 +24,14 @@
       "liveUrl": "https://formitai.com",
       "liveLabel": "formitai.com",
       "previewUrl": "https://formitai.com",
-      "previewImage": "./screens/formitai/home.jpg",
+      "previewImage": "./screens/formitai/scroll-preview.gif",
       "stack": ["React", "Next.js", "TypeScript", "Fastify", "Prisma", "PostgreSQL", "Redis", "OpenAI"],
       "links": [
         { "label": "Marketing", "url": "https://formitai.com" },
         { "label": "App", "url": "https://app.formitai.com/dashboard" }
       ],
       "screens": [
+        { "label": "Scroll preview", "url": "https://app.formitai.com/dashboard", "image": "./screens/formitai/scroll-preview.gif" },
         { "label": "Dashboard", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/home.jpg" },
         { "label": "Create form", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/create.jpg" },
         { "label": "AI generate", "url": "https://app.formitai.com/dashboard/forms", "image": "./screens/formitai/ai-generate.jpg" },
@@ -84,7 +85,7 @@
       "liveUrl": "https://www.evetech.co.za/",
       "liveLabel": "evetech.co.za",
       "previewUrl": "https://www.evetech.co.za/",
-      "previewImage": "./screens/evetech/home.jpg",
+      "previewImage": "./screens/evetech/scroll-preview.gif",
       "stack": ["Next.js", "React", "Node.js", "SQL Server"],
       "links": [
         { "label": "Store", "url": "https://www.evetech.co.za/" },
@@ -92,6 +93,7 @@
         { "label": "Contact / Centurion", "url": "https://www.evetech.co.za/contact" }
       ],
       "screens": [
+        { "label": "Scroll preview", "url": "https://www.evetech.co.za/", "image": "./screens/evetech/scroll-preview.gif" },
         { "label": "Homepage", "url": "https://www.evetech.co.za/", "image": "./screens/evetech/home.jpg" },
         { "label": "PC Builder", "url": "https://www.evetech.co.za/pc-builder", "image": "./screens/evetech/builder.jpg" },
         { "label": "The Core, where a build starts", "url": "https://www.evetech.co.za/pc-builder", "image": "./screens/evetech/builder-core.jpg" },

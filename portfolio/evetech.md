@@ -4,6 +4,8 @@
 
 Live: [evetech.co.za](https://www.evetech.co.za/) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#evetech)
 
+![Evetech scroll preview](../docs/screens/evetech/scroll-preview.gif)
+
 Gaming PCs, laptops, GPUs, custom builds. A real catalog with a showroom behind it, not a demo store.
 
 ## Problem
