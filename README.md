@@ -391,12 +391,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787123394" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787133171" alt="Famous quote" width="100%">
 </p>
 
-> An action committed in anger is an action doomed to failure.
+> Our truest life is when we are in dreams awake.
 >
-> Genghis Khan
+> Henry David Thoreau
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -413,7 +413,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://seths.blog/2026/08/the-amazon-tax/">The Amazon tax</a></h3>
-      <p>From seths.blog. 1117 points on Hacker News, 613 comments. Posted by herbertl.</p>
+      <p>From seths.blog. 1175 points on Hacker News, 628 comments. Posted by herbertl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -424,8 +424,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">Universal health coverage could save $1T and 114k lives a year: study</a></h3>
-      <p>Paper: https://www.medrxiv.org/content/10.64898/2026.07.22.26358689...</p>
+      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
+      <p>From openlogi.org. 654 points on Hacker News, 179 comments. Posted by amatheus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -436,8 +436,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399">Memory prices climb 500% in 12 months</a></h3>
-      <p>From tomshardware.com. 584 points on Hacker News, 482 comments. Posted by haunter.</p>
+      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
+      <p>From nicholascharriere.com. 492 points on Hacker News, 300 comments. Posted by nichochar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -447,7 +447,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 07:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 09:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
