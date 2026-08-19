@@ -2,11 +2,13 @@
 
 **Describe the form. It builds itself, then asks the next question.**
 
+AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.
+
+**Stack:** React · Next.js · TypeScript · Fastify · Prisma · PostgreSQL · Redis · OpenAI
+
 Live: [formitai.com](https://formitai.com) · App: [app.formitai.com/dashboard](https://app.formitai.com/dashboard) · [Open in portfolio](https://tahirkodx.github.io/tahirkodx/#formitai)
 
-![FormitAI scroll preview](../docs/screens/formitai/scroll-preview.gif)
-
-AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.
+![FormitAI dashboard](../docs/screens/formitai/home.jpg)
 
 ## Problem
 

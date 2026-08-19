@@ -40,19 +40,12 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="docs/screens/formitai/scroll-preview.gif" alt="FormitAI dashboard scroll preview" width="100%"></a>
       <h3><a href="https://formitai.com">FormitAI</a> · Featured</h3>
       <p><strong>Describe the form. It builds itself, then asks the next question.</strong></p>
       <p>AI form builder SaaS. Prompt to fields to AI follow-ups on vague answers. Links, six embed modes, analytics, Slack / Sheets / Zapier. Shipped end to end: builder, runtime, API, tenancy, marketing, production.</p>
+      <p>React · Next.js · TypeScript · Fastify · Prisma · PostgreSQL · Redis · OpenAI</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        <a href="https://tahirkodx.github.io/tahirkodx/#formitai"><img src="docs/screens/formitai/home.jpg" alt="FormitAI dashboard" width="100%"></a>
       </p>
       <p>
         <a href="docs/screens/formitai/builder.jpg"><img src="docs/screens/formitai/builder.jpg" alt="FormitAI form builder" width="32%"></a>
@@ -99,15 +92,12 @@ Live portfolio. Click a preview to open the case in the [interactive portfolio](
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://tahirkodx.github.io/tahirkodx/#evetech"><img src="docs/screens/evetech/scroll-preview.gif" alt="Evetech homepage scroll preview" width="100%"></a>
       <h3><a href="https://www.evetech.co.za/">Evetech</a> · Featured</h3>
       <p><strong>South Africa's gaming hardware store, redesigned on Next.js App Router.</strong></p>
       <p>eCommerce for gaming PCs, laptops, GPUs, and custom builds. I redesigned the storefront and migrated a live React catalog to Next.js App Router. Node and SQL Server stayed on the backend. Live at evetech.co.za, based in Centurion, Gauteng.</p>
+      <p>Next.js · React · Node.js · SQL Server</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+        <a href="https://tahirkodx.github.io/tahirkodx/#evetech"><img src="docs/screens/evetech/home.jpg" alt="Evetech homepage" width="100%"></a>
       </p>
       <p>
         <a href="docs/screens/evetech/builder.jpg"><img src="docs/screens/evetech/builder.jpg" alt="Evetech PC Builder" width="32%"></a>
