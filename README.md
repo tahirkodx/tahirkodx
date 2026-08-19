@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787165831" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787175896" alt="Famous quote" width="100%">
 </p>
 
-> The easiest way in the world to make enemies is to hire friends.
+> What one does is what counts. Not what one had the intention of doing.
 >
-> George Lorimer
+> Pablo Picasso
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openlogi.org/en">OpenLogi</a></h3>
-      <p>From openlogi.org. 1420 points on Hacker News, 383 comments. Posted by amatheus.</p>
+      <h3><a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">A joke domain purchase turned in geopolitical warfare</a></h3>
+      <p>From sprocketfox.io. 656 points on Hacker News, 89 comments. Posted by kareiva.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/">Being ambitious and being a dad</a></h3>
-      <p>From nicholascharriere.com. 848 points on Hacker News, 663 comments. Posted by nichochar.</p>
+      <h3><a href="https://grapheneos.social/@GrapheneOS/117078064184215730">Devices with GrapheneOS support should be available in 2027</a></h3>
+      <p>From grapheneos.social. 554 points on Hacker News, 352 comments. Posted by exceptione.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://grapheneos.social/@GrapheneOS/117078064184215730">Devices with GrapheneOS support should be available in 2027</a></h3>
-      <p>From grapheneos.social. 508 points on Hacker News, 318 comments. Posted by exceptione.</p>
+      <h3><a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787">Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma</a></h3>
+      <p>From twitter.com. 475 points on Hacker News, 215 comments. Posted by heydenberk.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 18:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Aug 2026, 21:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
