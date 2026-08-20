@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787252707" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787262465" alt="Famous quote" width="100%">
 </p>
 
-> Never give way to laziness.
+> I never dwell on what happened. You can't change it. Move forward.
 >
-> Bhagavad Gita
+> Joan Rivers
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
-      <p>From blog.laserphile.com. 717 points on Hacker News, 238 comments. Posted by emctech.</p>
+      <p>From blog.laserphile.com. 795 points on Hacker News, 271 comments. Posted by emctech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://simedw.com/2026/08/20/midi-autocomplete/">Show HN: I trained a 125M model to autocomplete piano on-device</a></h3>
-      <p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub.</p>
+      <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
+      <p>From chrisburnell.com. 476 points on Hacker News, 135 comments. Posted by encyclopedism.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
-      <p>From chrisburnell.com. 360 points on Hacker News, 102 comments. Posted by encyclopedism.</p>
+      <h3><a href="https://www.experimental-history.com/p/i-like-em-thick">I like 'em thick: an apology to my English teachers</a></h3>
+      <p>From experimental-history.com. 465 points on Hacker News, 225 comments. Posted by Ariarule.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 19:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 21:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
