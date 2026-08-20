@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787175896" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787190913" alt="Famous quote" width="100%">
 </p>
 
-> What one does is what counts. Not what one had the intention of doing.
+> You can have everything in life you want if you will just help enough other people get what they want.
 >
-> Pablo Picasso
+> Zig Ziglar
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">A joke domain purchase turned in geopolitical warfare</a></h3>
-      <p>From sprocketfox.io. 656 points on Hacker News, 89 comments. Posted by kareiva.</p>
+      <p>From sprocketfox.io. 761 points on Hacker News, 117 comments. Posted by kareiva.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://grapheneos.social/@GrapheneOS/117078064184215730">Devices with GrapheneOS support should be available in 2027</a></h3>
-      <p>From grapheneos.social. 554 points on Hacker News, 352 comments. Posted by exceptione.</p>
+      <h3><a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/">OpenRouter is joining Stripe</a></h3>
+      <p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787">Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma</a></h3>
-      <p>From twitter.com. 475 points on Hacker News, 215 comments. Posted by heydenberk.</p>
+      <h3><a href="https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees">Remote workers report the highest well-being in study of 7,700 employees</a></h3>
+      <p>From colorado.edu. 497 points on Hacker News, 248 comments. Posted by downbad_.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Aug 2026, 21:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 01:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
