@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787219581" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787231754" alt="Famous quote" width="100%">
 </p>
 
-> it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.
+> Either write something worth reading or do something worth writing.
 >
-> Barack Obama
+> Benjamin Franklin
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">A joke domain purchase turned in geopolitical warfare</a></h3>
-      <p>From sprocketfox.io. 905 points on Hacker News, 144 comments. Posted by kareiva.</p>
+      <p>From sprocketfox.io. 959 points on Hacker News, 154 comments. Posted by kareiva.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://go.dev/blog/go1.27">Go 1.27</a></h3>
-      <p>From go.dev. 636 points on Hacker News, 182 comments. Posted by database64128.</p>
+      <p>From go.dev. 701 points on Hacker News, 214 comments. Posted by database64128.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 09:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 13:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
