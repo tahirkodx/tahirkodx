@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787190913" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787198587" alt="Famous quote" width="100%">
 </p>
 
-> You can have everything in life you want if you will just help enough other people get what they want.
+> Fear is your worst enemy. Risk is your best friend.
 >
-> Zig Ziglar
+> Gurbaksh Chahal
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">A joke domain purchase turned in geopolitical warfare</a></h3>
-      <p>From sprocketfox.io. 761 points on Hacker News, 117 comments. Posted by kareiva.</p>
+      <p>From sprocketfox.io. 797 points on Hacker News, 124 comments. Posted by kareiva.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees">Remote workers report the highest well-being in study of 7,700 employees</a></h3>
-      <p>From colorado.edu. 497 points on Hacker News, 248 comments. Posted by downbad_.</p>
+      <p>From colorado.edu. 535 points on Hacker News, 265 comments. Posted by downbad_.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 01:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 04:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
