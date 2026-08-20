@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787241129" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787252707" alt="Famous quote" width="100%">
 </p>
 
-> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.
+> Never give way to laziness.
 >
-> Ralph Marston
+> Bhagavad Gita
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,24 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
-      <p>From blog.laserphile.com. 474 points on Hacker News, 154 comments. Posted by emctech.</p>
+      <p>From blog.laserphile.com. 717 points on Hacker News, 238 comments. Posted by emctech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/clyq011414eo">UK business hit by 'daylight robbery' 1500% price hike for invoicing software</a></h3>
-      <p>Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">Windows brings out the Rorschach test in everyone (2003)</a></h3>
-      <p>From devblogs.microsoft.com. 302 points on Hacker News, 106 comments. Posted by luu.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c0ej09nywdno">81,000 warning letters sent to crypto holders in HMRC tax crackdown</a></h3>
-      <p>According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3r05g378w4o">Is Vine back? Short-form video-sharing app Divine opens to public</a></h3>
+      <p>The app lets users create six-second looping videos and hosts more than two million classic videos.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo">Monzo says issue with card payments and transfers now resolved</a></h3>
-      <p>The digital bank said all of its services were now "back up and running"</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/clyq011414eo">UK business hit by 'daylight robbery' 1500% price hike for invoicing software</a></h3>
+      <p>Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
+      <p>From chrisburnell.com. 360 points on Hacker News, 102 comments. Posted by encyclopedism.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c0ej09nywdno">81,000 warning letters sent to crypto holders in HMRC tax crackdown</a></h3>
+      <p>According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 15:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 19:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
