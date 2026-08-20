@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787231754" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787241129" alt="Famous quote" width="100%">
 </p>
 
-> Either write something worth reading or do something worth writing.
+> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.
 >
-> Benjamin Franklin
+> Ralph Marston
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">A joke domain purchase turned in geopolitical warfare</a></h3>
-      <p>From sprocketfox.io. 959 points on Hacker News, 154 comments. Posted by kareiva.</p>
+      <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
+      <p>From blog.laserphile.com. 474 points on Hacker News, 154 comments. Posted by emctech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/">OpenRouter is joining Stripe</a></h3>
-      <p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381</p>
+      <h3><a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">Windows brings out the Rorschach test in everyone (2003)</a></h3>
+      <p>From devblogs.microsoft.com. 302 points on Hacker News, 106 comments. Posted by luu.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://go.dev/blog/go1.27">Go 1.27</a></h3>
-      <p>From go.dev. 701 points on Hacker News, 214 comments. Posted by database64128.</p>
+      <h3><a href="https://simedw.com/2026/08/20/midi-autocomplete/">Show HN: I trained a 125M model to autocomplete piano on-device</a></h3>
+      <p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15). The idea is basically GitHub.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 13:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 15:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
