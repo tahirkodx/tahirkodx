@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787209855" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787219581" alt="Famous quote" width="100%">
 </p>
 
-> Progress comes to those who train and train; reliance on secret techniques will get you nowhere.
+> it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.
 >
-> Morihei Ueshiba
+> Barack Obama
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/">A joke domain purchase turned in geopolitical warfare</a></h3>
-      <p>From sprocketfox.io. 852 points on Hacker News, 130 comments. Posted by kareiva.</p>
+      <p>From sprocketfox.io. 905 points on Hacker News, 144 comments. Posted by kareiva.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c0ej09nywdno">81,000 warning letters sent to crypto holders in HMRC tax crackdown</a></h3>
-      <p>According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/clyq011414eo">UK business hit by 'daylight robbery' 1500% price hike for invoicing software</a></h3>
+      <p>Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo">Monzo says issue with card payments and transfers now resolved</a></h3>
-      <p>The digital bank said all of its services were now "back up and running"</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c0ej09nywdno">81,000 warning letters sent to crypto holders in HMRC tax crackdown</a></h3>
+      <p>According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://go.dev/blog/go1.27">Go 1.27</a></h3>
-      <p>From go.dev. 586 points on Hacker News, 155 comments. Posted by database64128.</p>
+      <p>From go.dev. 636 points on Hacker News, 182 comments. Posted by database64128.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c235dmndylzo">OpenAI slows down training after its AI carried out hack</a></h3>
-      <p>The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo">Monzo says issue with card payments and transfers now resolved</a></h3>
+      <p>The digital bank said all of its services were now "back up and running"</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 07:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Aug 2026, 09:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
