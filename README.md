@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787338882" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787348577" alt="Famous quote" width="100%">
 </p>
 
-> The only thing more frustrating than slanderers is those foolish enough to listen to them.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> Criss Jami
+> Tony Robbins
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
-      <p>From kagi.com. 779 points on Hacker News, 277 comments. Posted by speckx.</p>
+      <p>From kagi.com. 907 points on Hacker News, 312 comments. Posted by speckx.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyr0l45xjro">TikTok to pay $400m to US in one of largest child privacy settlements</a></h3>
+      <p>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://annas-archive.gl/blog/physical-destruction.html">AI companies destroy physical books  let's scan rare books before it's too late</a></h3>
+      <p>From annas-archive.gl. 465 points on Hacker News, 817 comments. Posted by Cider9986.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://api-docs.deepseek.com/guides/vision/">DeepSeek-v4-flash-vision-exp</a></h3>
-      <p>From api-docs.deepseek.com. 390 points on Hacker News, 129 comments. Posted by dares2573.</p>
+      <p>From api-docs.deepseek.com. 425 points on Hacker News, 140 comments. Posted by dares2573.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The app lets users create six-second looping videos and hosts more than two million classic videos.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lina.sh/blog/hijacking-e164-arpa">I accidentally logged hundreds of thousands of phone calls to military bases</a></h3>
-      <p>From lina.sh. 261 points on Hacker News, 33 comments. Posted by gavide.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/clyq011414eo">UK business hit by 'daylight robbery' 1500% price hike for invoicing software</a></h3>
-      <p>Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 21 Aug 2026, 19:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Aug 2026, 21:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
