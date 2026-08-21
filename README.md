@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787285123" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787296304" alt="Famous quote" width="100%">
 </p>
 
-> It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.
+> One loyal friend is worth ten thousand relatives.
 >
-> Steve Maraboli
+> Euripides
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">Aaron Swartz was prosecuted for scraping, while Meta does it without consequence</a></h3>
-      <p>From blog.curiousquail.com. 1177 points on Hacker News, 264 comments. Posted by speckx.</p>
+      <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
+      <p>From blog.laserphile.com. 948 points on Hacker News, 297 comments. Posted by emctech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
-      <p>From blog.laserphile.com. 923 points on Hacker News, 295 comments. Posted by emctech.</p>
+      <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
+      <p>From chrisburnell.com. 722 points on Hacker News, 178 comments. Posted by encyclopedism.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
-      <p>From chrisburnell.com. 628 points on Hacker News, 170 comments. Posted by encyclopedism.</p>
+      <h3><a href="https://www.experimental-history.com/p/i-like-em-thick">I like 'em thick: an apology to my English teachers</a></h3>
+      <p>From experimental-history.com. 689 points on Hacker News, 286 comments. Posted by Ariarule.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Aug 2026, 04:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Aug 2026, 07:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
