@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787262465" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787277659" alt="Famous quote" width="100%">
 </p>
 
-> I never dwell on what happened. You can't change it. Move forward.
+> It's much better to do good in a way that no one knows anything about it.
 >
-> Joan Rivers
+> Leo Tolstoy
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">Aaron Swartz was prosecuted for scraping, while Meta does it without consequence</a></h3>
+      <p>From blog.curiousquail.com. 993 points on Hacker News, 228 comments. Posted by speckx.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cpq3w3v19veo">How landscape gardening is being electrified</a></h3>
+      <p>The switch to quieter electric equipment is not going as fast as some would like.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
-      <p>From blog.laserphile.com. 795 points on Hacker News, 271 comments. Posted by emctech.</p>
+      <p>From blog.laserphile.com. 888 points on Hacker News, 290 comments. Posted by emctech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
-      <p>From chrisburnell.com. 476 points on Hacker News, 135 comments. Posted by encyclopedism.</p>
+      <p>From chrisburnell.com. 579 points on Hacker News, 163 comments. Posted by encyclopedism.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Richard Haldenby says his average monthly bill for Harvest had risen from $130 (£95.50) to $2,110.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.experimental-history.com/p/i-like-em-thick">I like 'em thick: an apology to my English teachers</a></h3>
-      <p>From experimental-history.com. 465 points on Hacker News, 225 comments. Posted by Ariarule.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c0ej09nywdno">81,000 warning letters sent to crypto holders in HMRC tax crackdown</a></h3>
-      <p>According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 20 Aug 2026, 21:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Aug 2026, 02:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
