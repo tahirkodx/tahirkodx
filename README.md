@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787327522" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787338882" alt="Famous quote" width="100%">
 </p>
 
-> Man suffers only because he takes seriously what the gods made for fun.
+> The only thing more frustrating than slanderers is those foolish enough to listen to them.
 >
-> Alan Watts
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://annas-archive.pk/blog/physical-destruction.html">AI companies destroy physical books  let's scan rare books before it's too late</a></h3>
-      <p>From annas-archive.pk. 512 points on Hacker News, 342 comments. Posted by darccio.</p>
+      <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
+      <p>From kagi.com. 779 points on Hacker News, 277 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
-      <p>From kagi.com. 381 points on Hacker News, 138 comments. Posted by speckx.</p>
+      <h3><a href="https://api-docs.deepseek.com/guides/vision/">DeepSeek-v4-flash-vision-exp</a></h3>
+      <p>From api-docs.deepseek.com. 390 points on Hacker News, 129 comments. Posted by dares2573.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/">Grand jury declines to indict Ohio man charged with destroying Flock camera</a></h3>
-      <p>From san.com. 344 points on Hacker News, 188 comments. Posted by throw7.</p>
+      <h3><a href="https://lina.sh/blog/hijacking-e164-arpa">I accidentally logged hundreds of thousands of phone calls to military bases</a></h3>
+      <p>From lina.sh. 261 points on Hacker News, 33 comments. Posted by gavide.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Aug 2026, 15:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Aug 2026, 19:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
