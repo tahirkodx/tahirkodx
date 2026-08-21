@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787277659" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787285123" alt="Famous quote" width="100%">
 </p>
 
-> It's much better to do good in a way that no one knows anything about it.
+> It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.
 >
-> Leo Tolstoy
+> Steve Maraboli
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">Aaron Swartz was prosecuted for scraping, while Meta does it without consequence</a></h3>
-      <p>From blog.curiousquail.com. 993 points on Hacker News, 228 comments. Posted by speckx.</p>
+      <p>From blog.curiousquail.com. 1177 points on Hacker News, 264 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
-      <p>From blog.laserphile.com. 888 points on Hacker News, 290 comments. Posted by emctech.</p>
+      <p>From blog.laserphile.com. 923 points on Hacker News, 295 comments. Posted by emctech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
-      <p>From chrisburnell.com. 579 points on Hacker News, 163 comments. Posted by encyclopedism.</p>
+      <p>From chrisburnell.com. 628 points on Hacker News, 170 comments. Posted by encyclopedism.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Aug 2026, 02:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Aug 2026, 04:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
