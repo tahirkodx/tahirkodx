@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787318113" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787327522" alt="Famous quote" width="100%">
 </p>
 
-> Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.
+> Man suffers only because he takes seriously what the gods made for fun.
 >
-> Alfred Adler
+> Alan Watts
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></h3>
-      <p>From blog.laserphile.com. 984 points on Hacker News, 315 comments. Posted by emctech.</p>
+      <h3><a href="https://annas-archive.pk/blog/physical-destruction.html">AI companies destroy physical books  let's scan rare books before it's too late</a></h3>
+      <p>From annas-archive.pk. 512 points on Hacker News, 342 comments. Posted by darccio.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chrisburnell.com/html-can-do-that/">HTML Can Do That</a></h3>
-      <p>From chrisburnell.com. 895 points on Hacker News, 201 comments. Posted by encyclopedism.</p>
+      <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
+      <p>From kagi.com. 381 points on Hacker News, 138 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.experimental-history.com/p/i-like-em-thick">I like 'em thick: an apology to my English teachers</a></h3>
-      <p>From experimental-history.com. 789 points on Hacker News, 321 comments. Posted by Ariarule.</p>
+      <h3><a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/">Grand jury declines to indict Ohio man charged with destroying Flock camera</a></h3>
+      <p>From san.com. 344 points on Hacker News, 188 comments. Posted by throw7.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Aug 2026, 13:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Aug 2026, 15:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
