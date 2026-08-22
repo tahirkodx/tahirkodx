@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787392005" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787403859" alt="Famous quote" width="100%">
 </p>
 
-> Be not glad at the misfortune of another, though he may be your enemy.
+> Life is ten percent what you experience and ninety percent how you respond to it.
 >
-> George Washington
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
-      <p>From kagi.com. 1121 points on Hacker News, 363 comments. Posted by speckx.</p>
+      <p>From kagi.com. 1168 points on Hacker News, 370 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyr0l45xjro">TikTok to pay $400m to US in one of largest child privacy settlements</a></h3>
-      <p>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the.</p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/cy4k4d3lj21o">Robot horse and rider steal the spotlight at Chinese conference</a></h3>
+      <p>More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cpq3w3v19veo">How landscape gardening is being electrified</a></h3>
-      <p>The switch to quieter electric equipment is not going as fast as some would like.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyr0l45xjro">TikTok to pay $400m to US in one of largest child privacy settlements</a></h3>
+      <p>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.felonybench.com/">Felony Bench</a></h3>
-      <p>From felonybench.com. 703 points on Hacker News, 278 comments. Posted by colinprince.</p>
+      <p>From felonybench.com. 755 points on Hacker News, 283 comments. Posted by colinprince.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3r05g378w4o">Is Vine back? Short-form video-sharing app Divine opens to public</a></h3>
-      <p>The app lets users create six-second looping videos and hosts more than two million classic videos.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cpq3w3v19veo">How landscape gardening is being electrified</a></h3>
+      <p>The switch to quieter electric equipment is not going as fast as some would like.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 22 Aug 2026, 09:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Aug 2026, 13:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
