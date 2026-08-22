@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787403859" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787413204" alt="Famous quote" width="100%">
 </p>
 
-> Life is ten percent what you experience and ninety percent how you respond to it.
+> All our knowledge has its origins in our perceptions.
 >
-> Unknown
+> Leonardo da Vinci
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
-      <p>From kagi.com. 1168 points on Hacker News, 370 comments. Posted by speckx.</p>
+      <p>From kagi.com. 1191 points on Hacker News, 374 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.felonybench.com/">Felony Bench</a></h3>
-      <p>From felonybench.com. 755 points on Hacker News, 283 comments. Posted by colinprince.</p>
+      <p>From felonybench.com. 785 points on Hacker News, 307 comments. Posted by colinprince.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Aug 2026, 13:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Aug 2026, 15:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
