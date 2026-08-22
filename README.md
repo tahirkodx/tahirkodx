@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787382254" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787392005" alt="Famous quote" width="100%">
 </p>
 
-> I have not failed. I've just found 10,000 ways that won't work.
+> Be not glad at the misfortune of another, though he may be your enemy.
 >
-> Thomas Edison
+> George Washington
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
-      <p>From kagi.com. 1082 points on Hacker News, 357 comments. Posted by speckx.</p>
+      <p>From kagi.com. 1121 points on Hacker News, 363 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.felonybench.com/">Felony Bench</a></h3>
-      <p>From felonybench.com. 629 points on Hacker News, 257 comments. Posted by colinprince.</p>
+      <p>From felonybench.com. 703 points on Hacker News, 278 comments. Posted by colinprince.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Aug 2026, 07:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Aug 2026, 09:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
