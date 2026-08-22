@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787348577" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787363620" alt="Famous quote" width="100%">
 </p>
 
-> Successful people ask better questions, and as a result, they get better answers.
+> Happiness must be grown in one's own garden.
 >
-> Tony Robbins
+> Mary Engelbreit
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://kagi.com/changelog#11296">Kagi added a setting for removing paywalled links from search results</a></h3>
-      <p>From kagi.com. 907 points on Hacker News, 312 comments. Posted by speckx.</p>
+      <p>From kagi.com. 1016 points on Hacker News, 341 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://annas-archive.gl/blog/physical-destruction.html">AI companies destroy physical books  let's scan rare books before it's too late</a></h3>
-      <p>From annas-archive.gl. 465 points on Hacker News, 817 comments. Posted by Cider9986.</p>
+      <h3><a href="https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html">Felony charges for citizen deleting phone data at US Border</a></h3>
+      <p>https://archive.ph/SflVC https://www.youtube.com/watch?v=_2rokxux5cU</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://api-docs.deepseek.com/guides/vision/">DeepSeek-v4-flash-vision-exp</a></h3>
-      <p>From api-docs.deepseek.com. 425 points on Hacker News, 140 comments. Posted by dares2573.</p>
+      <h3><a href="https://www.felonybench.com/">Felony Bench</a></h3>
+      <p>From felonybench.com. 527 points on Hacker News, 226 comments. Posted by colinprince.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Aug 2026, 21:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Aug 2026, 01:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
