@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787424739" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787434817" alt="Famous quote" width="100%">
 </p>
 
-> No problem can be solved from the same level of consciousness that created it.
+> Truth is like the sun. You can shut it out for a time, but it ain't going away.
 >
-> Albert Einstein
+> Elvis Presley
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html">Felony charges for citizen deleting phone data at US Border</a></h3>
-      <p>https://archive.ph/SflVC https://www.youtube.com/watch?v=_2rokxux5cU</p>
+      <h3><a href="https://rust-glancer.github.io/blog/hello-world/">Rust Glancer: Rust LSP using 100x less RAM</a></h3>
+      <p>https://matklad.github.io/2026/08/21/rust-glancer.html</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.felonybench.com/">Felony Bench</a></h3>
-      <p>From felonybench.com. 806 points on Hacker News, 322 comments. Posted by colinprince.</p>
+      <h3><a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">Canada will match US tariffs 'dollar for dollar' as trade talks break down</a></h3>
+      <p>https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bandarlabs.github.io/Cobalt/">Kobo can run apps now</a></h3>
-      <p>From bandarlabs.github.io. 636 points on Hacker News, 201 comments. Posted by thepoet.</p>
+      <h3><a href="https://quantumi.sh/public/labs.html">ElevenLabs, TwelveLabs, ThirteenLabs</a></h3>
+      <p>From quantumi.sh. 262 points on Hacker News, 87 comments. Posted by jemoka.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Aug 2026, 18:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Aug 2026, 21:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
