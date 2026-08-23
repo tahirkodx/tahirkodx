@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787499675" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787511107" alt="Famous quote" width="100%">
 </p>
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> Elbert Hubbard
+> Bruce Lee
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 23 Aug 2026, 15:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Aug 2026, 18:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
