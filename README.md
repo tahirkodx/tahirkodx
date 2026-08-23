@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787468760" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787478434" alt="Famous quote" width="100%">
 </p>
 
-> The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.
+> Happiness depends upon ourselves.
 >
-> Tony Robbins
+> Aristotle
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">Canada will match US tariffs 'dollar for dollar' as trade talks break down</a></h3>
-      <p>https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</p>
+      <h3><a href="https://quantumi.sh/public/labs.html">ElevenLabs, TwelveLabs, ThirteenLabs</a></h3>
+      <p>From quantumi.sh. 400 points on Hacker News, 118 comments. Posted by jemoka.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://quantumi.sh/public/labs.html">ElevenLabs, TwelveLabs, ThirteenLabs</a></h3>
-      <p>From quantumi.sh. 369 points on Hacker News, 114 comments. Posted by jemoka.</p>
+      <h3><a href="https://twitter.com/moxie/status/2091218652133732491">Scrap (2006)</a></h3>
+      <p>https://xcancel.com/moxie/status/2091218652133732491</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/moxie/status/2091218652133732491">Scrap (2006)</a></h3>
-      <p>https://xcancel.com/moxie/status/2091218652133732491</p>
+      <h3><a href="https://hister.org/">Hister  A private, full content search index that you control</a></h3>
+      <p>From hister.org. 348 points on Hacker News, 80 comments. Posted by auraham.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 23 Aug 2026, 07:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Aug 2026, 09:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
