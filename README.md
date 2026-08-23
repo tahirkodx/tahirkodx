@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787490340" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787499675" alt="Famous quote" width="100%">
 </p>
 
-> As soon as you truly commit to making something happen, the 'how' will reveal itself.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> Tony Robbins
+> Elbert Hubbard
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://quantumi.sh/public/labs.html">ElevenLabs, TwelveLabs, ThirteenLabs</a></h3>
-      <p>From quantumi.sh. 423 points on Hacker News, 130 comments. Posted by jemoka.</p>
+      <p>From quantumi.sh. 438 points on Hacker News, 132 comments. Posted by jemoka.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://hister.org/">Hister  A private, full content search index that you control</a></h3>
-      <p>From hister.org. 394 points on Hacker News, 87 comments. Posted by auraham.</p>
+      <p>From hister.org. 423 points on Hacker News, 94 comments. Posted by auraham.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917">Why your local LLM feels dumber than it is</a></h3>
-      <p>From forum.level1techs.com. 393 points on Hacker News, 152 comments. Posted by felineflock.</p>
+      <p>From forum.level1techs.com. 417 points on Hacker News, 171 comments. Posted by felineflock.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 23 Aug 2026, 13:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Aug 2026, 15:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
