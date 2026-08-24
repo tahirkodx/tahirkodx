@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787598281" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787608099" alt="Famous quote" width="100%">
 </p>
 
-> A clear conscience never fears midnight knocking.
+> The more you praise and celebrate your life, the more there is in life to celebrate.
 >
-> Chinese Proverb
+> Oprah Winfrey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
-      <p>From lectronz.com. 764 points on Hacker News, 513 comments. Posted by l-one-lone.</p>
+      <p>From lectronz.com. 923 points on Hacker News, 597 comments. Posted by l-one-lone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 24 Aug 2026, 19:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Aug 2026, 21:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
