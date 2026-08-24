@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787566049" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787577474" alt="Famous quote" width="100%">
 </p>
 
-> Sorrow is how we learn to love.
+> Life itself is the most wonderful fairy tale.
 >
-> Rita Mae Brown
+> Hans Christian Andersen
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/cy4k4d3lj21o">Robot horse and rider steal the spotlight at Chinese conference</a></h3>
-      <p>More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c70ljqk5kjqo">Twitch and Amazon face legal action over using livestreams to train AI</a></h3>
+      <p>The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.</p>
     </td>
   </tr>
   <tr>
@@ -454,8 +454,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyr0l45xjro">TikTok to pay $400m to US in one of largest child privacy settlements</a></h3>
-      <p>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
+      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +466,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cpq3w3v19veo">How landscape gardening is being electrified</a></h3>
-      <p>The switch to quieter electric equipment is not going as fast as some would like.</p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/cy4k4d3lj21o">Robot horse and rider steal the spotlight at Chinese conference</a></h3>
+      <p>More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 24 Aug 2026, 10:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Aug 2026, 13:17 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
