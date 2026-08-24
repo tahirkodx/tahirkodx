@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787521195" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787536835" alt="Famous quote" width="100%">
 </p>
 
-> I will not walk backward in life.
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
 >
-> J.R.R. Tolkien
+> Henry Ford
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/cy4k4d3lj21o">Robot horse and rider steal the spotlight at Chinese conference</a></h3>
-      <p>More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cz647wlvg1do">Why students are being paid £2,000 to play computer games</a></h3>
+      <p>Roehampton University offers students £2,000 a year to play esports alongside their studies.</p>
     </td>
   </tr>
   <tr>
@@ -454,8 +454,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyr0l45xjro">TikTok to pay $400m to US in one of largest child privacy settlements</a></h3>
-      <p>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the.</p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/cy4k4d3lj21o">Robot horse and rider steal the spotlight at Chinese conference</a></h3>
+      <p>More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +466,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cpq3w3v19veo">How landscape gardening is being electrified</a></h3>
-      <p>The switch to quieter electric equipment is not going as fast as some would like.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyr0l45xjro">TikTok to pay $400m to US in one of largest child privacy settlements</a></h3>
+      <p>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 23 Aug 2026, 21:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Aug 2026, 02:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
