@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787587157" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787598281" alt="Famous quote" width="100%">
 </p>
 
-> You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.
+> A clear conscience never fears midnight knocking.
 >
-> Arnold Schwarzenegger
+> Chinese Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://quantumi.sh/public/labs.html">ElevenLabs, TwelveLabs, ThirteenLabs</a></h3>
-      <p>From quantumi.sh. 438 points on Hacker News, 132 comments. Posted by jemoka.</p>
+      <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
+      <p>From lectronz.com. 764 points on Hacker News, 513 comments. Posted by l-one-lone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://hister.org/">Hister  A private, full content search index that you control</a></h3>
-      <p>From hister.org. 423 points on Hacker News, 94 comments. Posted by auraham.</p>
+      <h3><a href="https://twitter.com/lemire/status/2091894299289874926">Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></h3>
+      <p>https://xcancel.com/lemire/status/2091894299289874926</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917">Why your local LLM feels dumber than it is</a></h3>
-      <p>From forum.level1techs.com. 417 points on Hacker News, 171 comments. Posted by felineflock.</p>
+      <h3><a href="https://twitter.com/paulg/status/2091544343589060625">I were 17, I'd learn how to build LLMs from scratch</a></h3>
+      <p>https://xcancel.com/paulg/status/2091544343589060625</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 24 Aug 2026, 15:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Aug 2026, 19:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
