@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787577474" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787587157" alt="Famous quote" width="100%">
 </p>
 
-> Life itself is the most wonderful fairy tale.
+> You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.
 >
-> Hans Christian Andersen
+> Arnold Schwarzenegger
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c70ljqk5kjqo">Twitch and Amazon face legal action over using livestreams to train AI</a></h3>
-      <p>The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
+      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
     </td>
   </tr>
   <tr>
@@ -454,8 +454,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
-      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c70ljqk5kjqo">Twitch and Amazon face legal action over using livestreams to train AI</a></h3>
+      <p>The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.</p>
     </td>
   </tr>
   <tr>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 24 Aug 2026, 13:17 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Aug 2026, 15:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
