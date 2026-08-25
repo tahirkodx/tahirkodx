@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787630641" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787641940" alt="Famous quote" width="100%">
 </p>
 
-> Act as if what you do makes a difference. It does.
+> Question everything. Learn something. Answer nothing.
 >
-> William James
+> Euripides
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
-      <p>From lectronz.com. 1112 points on Hacker News, 674 comments. Posted by l-one-lone.</p>
+      <p>From lectronz.com. 1241 points on Hacker News, 740 comments. Posted by l-one-lone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
-      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c20vl4vm2pno">Songs created by AI banned from Australia's music charts</a></h3>
+      <p>The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c70ljqk5kjqo">Twitch and Amazon face legal action over using livestreams to train AI</a></h3>
-      <p>The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
+      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/">MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></h3>
-      <p>From xusheng.dev. 602 points on Hacker News, 239 comments. Posted by ComputerGuru.</p>
+      <p>From xusheng.dev. 664 points on Hacker News, 266 comments. Posted by ComputerGuru.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/cy4k4d3lj21o">Robot horse and rider steal the spotlight at Chinese conference</a></h3>
-      <p>More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c70ljqk5kjqo">Twitch and Amazon face legal action over using livestreams to train AI</a></h3>
+      <p>The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 25 Aug 2026, 04:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Aug 2026, 07:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
