@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787641940" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787651703" alt="Famous quote" width="100%">
 </p>
 
-> Question everything. Learn something. Answer nothing.
+> To know even one life has breathed easier because you have lived. This is to have succeeded.
 >
-> Euripides
+> Ralph Waldo Emerson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
-      <p>From lectronz.com. 1241 points on Hacker News, 740 comments. Posted by l-one-lone.</p>
+      <p>From lectronz.com. 1362 points on Hacker News, 852 comments. Posted by l-one-lone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/">MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></h3>
-      <p>From xusheng.dev. 664 points on Hacker News, 266 comments. Posted by ComputerGuru.</p>
+      <p>From xusheng.dev. 714 points on Hacker News, 315 comments. Posted by ComputerGuru.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Aug 2026, 07:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Aug 2026, 09:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
