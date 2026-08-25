@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787673849" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787684580" alt="Famous quote" width="100%">
 </p>
 
-> Success is the sum of small efforts, repeated day in and day out.
+> Help others achieve their dreams and you will achieve yours.
 >
-> Robert Collier
+> Les Brown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
-      <p>From lectronz.com. 1546 points on Hacker News, 959 comments. Posted by l-one-lone.</p>
+      <h3><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">Apple introduces M6 and M5 Ultra</a></h3>
+      <p>https://techcrunch.com/2026/08/25/apple-debuts-its-most-powe... https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-he...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/lemire/status/2091894299289874926">Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></h3>
-      <p>https://xcancel.com/lemire/status/2091894299289874926</p>
+      <h3><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">New Mac Studio with M5 Max and M5 Ultra</a></h3>
+      <p>From apple.com. 584 points on Hacker News, 342 comments. Posted by interpol_p.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/">MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></h3>
-      <p>From xusheng.dev. 807 points on Hacker News, 404 comments. Posted by ComputerGuru.</p>
+      <h3><a href="https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead">Dolly Parton has died</a></h3>
+      <p>https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... .</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Aug 2026, 16:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Aug 2026, 19:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
