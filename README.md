@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787622969" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787630641" alt="Famous quote" width="100%">
 </p>
 
-> He who cannot be a good follower cannot be a good leader.
+> Act as if what you do makes a difference. It does.
 >
-> Aristotle
+> William James
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
-      <p>From lectronz.com. 1068 points on Hacker News, 658 comments. Posted by l-one-lone.</p>
+      <p>From lectronz.com. 1112 points on Hacker News, 674 comments. Posted by l-one-lone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/">MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></h3>
-      <p>From xusheng.dev. 562 points on Hacker News, 229 comments. Posted by ComputerGuru.</p>
+      <p>From xusheng.dev. 602 points on Hacker News, 239 comments. Posted by ComputerGuru.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Aug 2026, 01:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Aug 2026, 04:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
