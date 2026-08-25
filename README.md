@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787663747" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787673849" alt="Famous quote" width="100%">
 </p>
 
-> Life is like riding a bicycle. To keep your balance you must keep moving.
+> Success is the sum of small efforts, repeated day in and day out.
 >
-> Albert Einstein
+> Robert Collier
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs">How Europe is killing makers and micro-entrepreneurs</a></h3>
-      <p>From lectronz.com. 1475 points on Hacker News, 924 comments. Posted by l-one-lone.</p>
+      <p>From lectronz.com. 1546 points on Hacker News, 959 comments. Posted by l-one-lone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/">MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></h3>
-      <p>From xusheng.dev. 769 points on Hacker News, 376 comments. Posted by ComputerGuru.</p>
+      <p>From xusheng.dev. 807 points on Hacker News, 404 comments. Posted by ComputerGuru.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Aug 2026, 13:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Aug 2026, 16:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
