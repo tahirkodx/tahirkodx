@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787738452" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787750847" alt="Famous quote" width="100%">
 </p>
 
-> I begin with an idea and then it becomes something else.
+> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
 >
-> Pablo Picasso
+> Henry Ford
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,25 +437,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead">Dolly Parton has died</a></h3>
-      <p>https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... .</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c07ler8x9kpo">AI gold rush draws crypto firms away from Bitcoin</a></h3>
-      <p>The price of Bitcoin has risen in August but is still far below its peak almost a year ago, and companies are refitting their mines.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">Apple introduces M6 and M5 Ultra</a></h3>
       <p>https://techcrunch.com/2026/08/25/apple-debuts-its-most-powe... https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-he...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c20vl4vm2pno">Songs created by AI banned from Australia's music charts</a></h3>
-      <p>The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cd68q3wynnqo">Meta agrees to pay up to $16.7bn to settle social media case</a></h3>
+      <p>The deal has been reached during a California federal court trial over claims brought by 29 states.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
-      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c07ler8x9kpo">AI gold rush draws crypto firms away from Bitcoin</a></h3>
+      <p>The price of Bitcoin has risen in August but is still far below its peak almost a year ago, and companies are refitting their mines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">New Mac Studio with M5 Max and M5 Ultra</a></h3>
+      <p>From apple.com. 792 points on Hacker News, 525 comments. Posted by interpol_p.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c20vl4vm2pno">Songs created by AI banned from Australia's music charts</a></h3>
+      <p>The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 26 Aug 2026, 10:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Aug 2026, 13:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
