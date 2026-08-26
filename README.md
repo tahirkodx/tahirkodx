@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787709715" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787717221" alt="Famous quote" width="100%">
 </p>
 
-> There are people who have money and people who are rich.
+> You have within you right now, everything you need to deal with whatever the world can throw at you.
 >
-> Coco Chanel
+> Brian Tracy
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq5xel4v642o">Musk's SpaceX to build $100bn launch facility in Louisiana</a></h3>
-      <p>It will be the firm's biggest site yet and aims to send rockets to space in 2029.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjrg10j721jo">Firms scramble for battery power in Spain and Portugal</a></h3>
+      <p>After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjrg10j721jo">Firms scramble for battery power in Spain and Portugal</a></h3>
-      <p>After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c20vl4vm2pno">Songs created by AI banned from Australia's music charts</a></h3>
+      <p>The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">New Mac Studio with M5 Max and M5 Ultra</a></h3>
-      <p>From apple.com. 705 points on Hacker News, 453 comments. Posted by interpol_p.</p>
+      <p>From apple.com. 724 points on Hacker News, 479 comments. Posted by interpol_p.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c20vl4vm2pno">Songs created by AI banned from Australia's music charts</a></h3>
-      <p>The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce308l1w5q5o">Sharing dangerous driving videos is 'truly reprehensible', PM says</a></h3>
+      <p>His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 26 Aug 2026, 02:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Aug 2026, 04:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
