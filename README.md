@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787717221" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787728352" alt="Famous quote" width="100%">
 </p>
 
-> You have within you right now, everything you need to deal with whatever the world can throw at you.
+> The only way round is through.
 >
-> Brian Tracy
+> Robert Frost
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjrg10j721jo">Firms scramble for battery power in Spain and Portugal</a></h3>
-      <p>After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c07ler8x9kpo">AI gold rush draws crypto firms away from Bitcoin</a></h3>
+      <p>The price of Bitcoin has risen in August but is still far below its peak almost a year ago, and companies are refitting their mines.</p>
     </td>
   </tr>
   <tr>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">New Mac Studio with M5 Max and M5 Ultra</a></h3>
-      <p>From apple.com. 724 points on Hacker News, 479 comments. Posted by interpol_p.</p>
+      <h3><a href="https://github.com/zedeus/nitter/issues/1442">Nitter and XCancel receive cease and desist notices</a></h3>
+      <p>https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Aug 2026, 04:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Aug 2026, 07:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
