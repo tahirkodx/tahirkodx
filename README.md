@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787762118" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787775088" alt="Famous quote" width="100%">
 </p>
 
-> Health is the greatest of all possessions.
+> Make peace with your inner turmoil.
 >
-> Jonathan Swift
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">AWS Acquires DuckDB</a></h3>
-      <p>From ducklabs.com. 648 points on Hacker News, 171 comments. Posted by onderkalaci.</p>
+      <h3><a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">AWS Acquires DuckLabs</a></h3>
+      <p>From ducklabs.com. 854 points on Hacker News, 241 comments. Posted by onderkalaci.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cd68q3wynnqo">Meta to pay up to $18bn to settle claims its platforms harm children</a></h3>
+      <p>The deal has been reached during a California federal court trial over claims brought by US states.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash</a></h3>
+      <p>From z.ai. 693 points on Hacker News, 323 comments. Posted by Philpax.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash</a></h3>
-      <p>From z.ai. 383 points on Hacker News, 161 comments. Posted by Philpax.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cd68q3wynnqo">Meta agrees to pay up to $18bn to settle social media case</a></h3>
-      <p>The deal has been reached during a California federal court trial over claims brought by US states.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek">Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights</a></h3>
-      <p>From bloomberg.com. 371 points on Hacker News, 131 comments. Posted by garo-pro.</p>
+      <h3><a href="https://qwen.ai/blog?id=qwen3.8-flash-next">Qwen3.8-Flash-Next</a></h3>
+      <p>From qwen.ai. 526 points on Hacker News, 170 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Aug 2026, 16:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Aug 2026, 20:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
