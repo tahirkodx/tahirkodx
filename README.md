@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787791899" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787840371" alt="Famous quote" width="100%">
 </p>
 
-> Catch, then, O catch the transient hour; Improve each moment as it flies!
+> People seldom do what they believe in. They do what is convenient, then repent.
 >
-> St. Jerome
+> Bob Dylan
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">AWS Acquires DuckLabs</a></h3>
-      <p>From ducklabs.com. 956 points on Hacker News, 288 comments. Posted by onderkalaci.</p>
+      <h3><a href="https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8">Nvidia agrees to acquire Hugging Face for $13B</a></h3>
+      <p>https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cg49q4xydq0o">What does the Meta settlement mean for the UK? Five things we learned</a></h3>
+      <p>Other social media firms are yet to respond, while the debate from campaigners is far from over.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/SenteLabsAI/OpenExecutive">CEO fired developers to make room for AI. Developers create open source AI CEO</a></h3>
+      <p>From github.com. 794 points on Hacker News, 542 comments. Posted by GrumpySciGuy.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash</a></h3>
-      <p>https://news.ycombinator.com/item?id=49450353</p>
+      <h3><a href="https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23">U.S. State Department pauses immigrant visa applications</a></h3>
+      <p>From wsj.com. 700 points on Hacker News, 1025 comments. Posted by sss111.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://qwen.ai/blog?id=qwen3.8-flash-next">Qwen3.8-Flash-Next</a></h3>
-      <p>https://imageat.com/models/qwen-3-8-27b-uncensored</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cd68q3wynnqo">Meta to pay up to $18bn to settle claims its platforms harm children</a></h3>
-      <p>The deal has been reached during a California federal court trial over claims brought by US states.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 27 Aug 2026, 00:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Aug 2026, 14:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
