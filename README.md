@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787775088" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787791899" alt="Famous quote" width="100%">
 </p>
 
-> Make peace with your inner turmoil.
+> Catch, then, O catch the transient hour; Improve each moment as it flies!
 >
-> Unknown
+> St. Jerome
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,31 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">AWS Acquires DuckLabs</a></h3>
-      <p>From ducklabs.com. 854 points on Hacker News, 241 comments. Posted by onderkalaci.</p>
+      <p>From ducklabs.com. 956 points on Hacker News, 288 comments. Posted by onderkalaci.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj9xj89dk40o">Unexpected chat between OpenAI agents led to Hugging Face hack</a></h3>
+      <p>OpenAI's cyber agents banded together to perform a hack during a security test.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash</a></h3>
+      <p>https://news.ycombinator.com/item?id=49450353</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce871n7lyvlo">Nvidia revenue doubles on continued AI demand</a></h3>
+      <p>Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://qwen.ai/blog?id=qwen3.8-flash-next">Qwen3.8-Flash-Next</a></h3>
+      <p>https://imageat.com/models/qwen-3-8-27b-uncensored</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The deal has been reached during a California federal court trial over claims brought by US states.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://z.ai/blog/glm-5.3-flash">GLM-5.3-Flash</a></h3>
-      <p>From z.ai. 693 points on Hacker News, 323 comments. Posted by Philpax.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c17jlngexy9o">Xbox boss 'thinking about affordability' of next-gen console</a></h3>
-      <p>In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://qwen.ai/blog?id=qwen3.8-flash-next">Qwen3.8-Flash-Next</a></h3>
-      <p>From qwen.ai. 526 points on Hacker News, 170 comments. Posted by tosh.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c07ler8x9kpo">AI gold rush draws crypto firms away from Bitcoin</a></h3>
-      <p>The price of Bitcoin has risen in August but is still far below its peak almost a year ago, and companies are refitting their mines.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 26 Aug 2026, 20:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Aug 2026, 00:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
