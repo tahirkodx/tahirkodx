@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787840371" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787876809" alt="Famous quote" width="100%">
 </p>
 
-> People seldom do what they believe in. They do what is convenient, then repent.
+> All happiness depends on courage and work.
 >
-> Bob Dylan
+> Honore de Balzac
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cg49q4xydq0o">What does the Meta settlement mean for the UK? Five things we learned</a></h3>
-      <p>Other social media firms are yet to respond, while the debate from campaigners is far from over.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/czxq0wgkkdjo">Overcooked? Why robotic pizza makers are failing</a></h3>
+      <p>A string of failures has sapped confidence that robots will take over production at pizza restaurants.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/SenteLabsAI/OpenExecutive">CEO fired developers to make room for AI. Developers create open source AI CEO</a></h3>
-      <p>From github.com. 794 points on Hacker News, 542 comments. Posted by GrumpySciGuy.</p>
+      <h3><a href="https://pollen-robotics.com/microduck/">Microduck</a></h3>
+      <p>From pollen-robotics.com. 491 points on Hacker News, 180 comments. Posted by robotswantdata.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj9xj89dk40o">Unexpected chat between OpenAI agents led to Hugging Face hack</a></h3>
-      <p>OpenAI's cyber agents banded together to perform a hack during a security test.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyz11475l1o">Time is running out for cyber security, warn top tech firms</a></h3>
+      <p>The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23">U.S. State Department pauses immigrant visa applications</a></h3>
-      <p>From wsj.com. 700 points on Hacker News, 1025 comments. Posted by sss111.</p>
+      <h3><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/">Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</a></h3>
+      <p>From blog.cloudflare.com. 462 points on Hacker News, 131 comments. Posted by TangerineDream.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ce871n7lyvlo">Nvidia revenue doubles on continued AI demand</a></h3>
-      <p>Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c17j00lnn41o">Reform of all social media should come with Meta changes, UN says</a></h3>
+      <p>California's attorney general is now looking at TikTok and YouTube to enact teen safety features.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 27 Aug 2026, 14:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Aug 2026, 00:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
