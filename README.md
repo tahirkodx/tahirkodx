@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787876809" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787930947" alt="Famous quote" width="100%">
 </p>
 
-> All happiness depends on courage and work.
+> If you can't imagine it, you can't have it.
 >
-> Honore de Balzac
+> Toni Morrison
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8">Nvidia agrees to acquire Hugging Face for $13B</a></h3>
-      <p>https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...</p>
+      <h3><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/">Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</a></h3>
+      <p>From blog.cloudflare.com. 853 points on Hacker News, 250 comments. Posted by TangerineDream.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/czxq0wgkkdjo">Overcooked? Why robotic pizza makers are failing</a></h3>
-      <p>A string of failures has sapped confidence that robots will take over production at pizza restaurants.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c4gv5gepxnyo">Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning</a></h3>
+      <p>The performers are asking the government to give every person in the UK a legal right to own their voice.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pollen-robotics.com/microduck/">Microduck</a></h3>
-      <p>From pollen-robotics.com. 491 points on Hacker News, 180 comments. Posted by robotswantdata.</p>
+      <h3><a href="https://calv.info/small-models-have-arrived">Small Models Have Arrived</a></h3>
+      <p>From calv.info. 735 points on Hacker News, 320 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/">Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</a></h3>
-      <p>From blog.cloudflare.com. 462 points on Hacker News, 131 comments. Posted by TangerineDream.</p>
+      <h3><a href="https://507movements.com/">507 Mechanical Movements</a></h3>
+      <p>Book (1868): https://archive.org/details/fivehundredseven00browiala</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 28 Aug 2026, 00:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Aug 2026, 15:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
