@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787968018" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787998395" alt="Famous quote" width="100%">
 </p>
 
-> Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.
+> You can often change your circumstances by changing your attitude.
 >
-> Charles Dickens
+> Eleanor Roosevelt
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html">GUIs should be fully keyboard-driven</a></h3>
-      <p>From ckardaris.com. 611 points on Hacker News, 304 comments. Posted by ckardaris.</p>
+      <p>From ckardaris.com. 807 points on Hacker News, 408 comments. Posted by ckardaris.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released">Htmx 4.0</a></h3>
-      <p>From four.htmx.org. 535 points on Hacker News, 127 comments. Posted by rmsaksida.</p>
+      <p>From four.htmx.org. 659 points on Hacker News, 164 comments. Posted by rmsaksida.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 29 Aug 2026, 01:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Aug 2026, 10:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
