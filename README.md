@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787930947" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1787968018" alt="Famous quote" width="100%">
 </p>
 
-> If you can't imagine it, you can't have it.
+> Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.
 >
-> Toni Morrison
+> Charles Dickens
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.cloudflare.com/dns-cache-memory-optimization-1111/">Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache</a></h3>
-      <p>From blog.cloudflare.com. 853 points on Hacker News, 250 comments. Posted by TangerineDream.</p>
+      <h3><a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html">GUIs should be fully keyboard-driven</a></h3>
+      <p>From ckardaris.com. 611 points on Hacker News, 304 comments. Posted by ckardaris.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://calv.info/small-models-have-arrived">Small Models Have Arrived</a></h3>
-      <p>From calv.info. 735 points on Hacker News, 320 comments. Posted by tosh.</p>
+      <h3><a href="https://huggingface.co/zai-org/GLM-5.3">GLM-5.3 is now open-weight</a></h3>
+      <p>https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://507movements.com/">507 Mechanical Movements</a></h3>
-      <p>Book (1868): https://archive.org/details/fivehundredseven00browiala</p>
+      <h3><a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released">Htmx 4.0</a></h3>
+      <p>From four.htmx.org. 535 points on Hacker News, 127 comments. Posted by rmsaksida.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 28 Aug 2026, 15:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Aug 2026, 01:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
