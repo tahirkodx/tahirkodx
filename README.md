@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788037149" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788045894" alt="Famous quote" width="100%">
 </p>
 
-> Don't Let Yesterday Take Up Too Much Of Today.
+> Normal is the average of deviance.
 >
-> Will Rogers
+> Rita Mae Brown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released">Htmx 4.0</a></h3>
-      <p>From four.htmx.org. 789 points on Hacker News, 200 comments. Posted by rmsaksida.</p>
+      <h3><a href="https://github.com/Lakr233/vphone-cli">Boot a Virtual iPhone via Apple's Virtualization.framework</a></h3>
+      <p>From github.com. 373 points on Hacker News, 100 comments. Posted by hentrep.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cew92lp2g45o">I've been to Gamescom six times, here's what excited me this year</a></h3>
+      <p>The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://zackbartel.com/blog/2026/08/tether/">Tether: iMessage, SMS, etc. on Linux</a></h3>
+      <p>From zackbartel.com. 289 points on Hacker News, 122 comments. Posted by zackb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/Lakr233/vphone-cli">Boot a Virtual iPhone via Apple's Virtualization.framework</a></h3>
-      <p>From github.com. 363 points on Hacker News, 97 comments. Posted by hentrep.</p>
+      <h3><a href="https://www.eveonline.com/news/view/the-move-to-python-3-begins">EVE Online moves to Python 3</a></h3>
+      <p>From eveonline.com. 281 points on Hacker News, 149 comments. Posted by TylerJaacks.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/">The internet is kind of a predatory cesspit now</a></h3>
-      <p>From stephendiehl.com. 328 points on Hacker News, 214 comments. Posted by ibobev.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c17j00lnn41o">Reform of all social media should come with Meta changes, UN says</a></h3>
-      <p>California's attorney general is now looking at TikTok and YouTube to enact teen safety features.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 29 Aug 2026, 20:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Aug 2026, 23:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
