@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788022009" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788037149" alt="Famous quote" width="100%">
 </p>
 
-> Truth is the offspring of silence and meditation.
+> Don't Let Yesterday Take Up Too Much Of Today.
 >
-> Isaac Newton
+> Will Rogers
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html">GUIs should be fully keyboard-driven</a></h3>
-      <p>From ckardaris.com. 954 points on Hacker News, 470 comments. Posted by ckardaris.</p>
+      <h3><a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released">Htmx 4.0</a></h3>
+      <p>From four.htmx.org. 789 points on Hacker News, 200 comments. Posted by rmsaksida.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released">Htmx 4.0</a></h3>
-      <p>From four.htmx.org. 750 points on Hacker News, 187 comments. Posted by rmsaksida.</p>
+      <h3><a href="https://github.com/Lakr233/vphone-cli">Boot a Virtual iPhone via Apple's Virtualization.framework</a></h3>
+      <p>From github.com. 363 points on Hacker News, 97 comments. Posted by hentrep.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">Our decision on Cursor following its acquisition by SpaceX</a></h3>
-      <p>From openai.com. 704 points on Hacker News, 427 comments. Posted by meetpateltech.</p>
+      <h3><a href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/">The internet is kind of a predatory cesspit now</a></h3>
+      <p>From stephendiehl.com. 328 points on Hacker News, 214 comments. Posted by ibobev.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 29 Aug 2026, 16:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Aug 2026, 20:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
