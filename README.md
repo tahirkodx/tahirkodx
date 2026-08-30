@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788124414" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788132899" alt="Famous quote" width="100%">
 </p>
 
-> No great discovery was ever made without a bold guess.
+> Where the willingness is great, the difficulties cannot be great.
 >
-> Isaac Newton
+> Niccolo Machiavelli
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">California lawmakers unanimously pass Linux exemption from age-verification law</a></h3>
-      <p>From tomshardware.com. 660 points on Hacker News, 329 comments. Posted by shscs911.</p>
+      <h3><a href="https://people.kernel.org/monsieuricon/creepy-crawlies">Creepy Crawlies</a></h3>
+      <p>From people.kernel.org. 859 points on Hacker News, 389 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://people.kernel.org/monsieuricon/creepy-crawlies">Creepy Crawlies</a></h3>
-      <p>From people.kernel.org. 659 points on Hacker News, 325 comments. Posted by zdw.</p>
+      <h3><a href="https://0xcc.io/posts/omarchy-root-creds/">Omarchy: Any User Process Can Escalate to Root</a></h3>
+      <p>From 0xcc.io. 359 points on Hacker News, 365 comments. Posted by trap0xcc.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">Hy4 preview</a></h3>
-      <p>From tencent.com. 375 points on Hacker News, 236 comments. Posted by shenli3514.</p>
+      <h3><a href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement">European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy</a></h3>
+      <p>From reclaimthenet.org. 328 points on Hacker News, 134 comments. Posted by nickslaughter02.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 30 Aug 2026, 21:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Aug 2026, 23:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
