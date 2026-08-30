@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788108411" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788124414" alt="Famous quote" width="100%">
 </p>
 
-> I am not what happened to me, I am what I choose to become.
+> No great discovery was ever made without a bold guess.
 >
-> Carl Jung
+> Isaac Newton
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">California lawmakers unanimously pass Linux exemption from age-verification law</a></h3>
-      <p>From tomshardware.com. 568 points on Hacker News, 263 comments. Posted by shscs911.</p>
+      <p>From tomshardware.com. 660 points on Hacker News, 329 comments. Posted by shscs911.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://zackbartel.com/blog/2026/08/tether/">Tether: iMessage, SMS, etc. on Linux</a></h3>
-      <p>From zackbartel.com. 514 points on Hacker News, 206 comments. Posted by zackb.</p>
+      <h3><a href="https://people.kernel.org/monsieuricon/creepy-crawlies">Creepy Crawlies</a></h3>
+      <p>From people.kernel.org. 659 points on Hacker News, 325 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">Hy4 preview</a></h3>
-      <p>From tencent.com. 361 points on Hacker News, 221 comments. Posted by shenli3514.</p>
+      <p>From tencent.com. 375 points on Hacker News, 236 comments. Posted by shenli3514.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 30 Aug 2026, 16:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Aug 2026, 21:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
