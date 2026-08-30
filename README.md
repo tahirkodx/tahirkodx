@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788045894" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788067891" alt="Famous quote" width="100%">
 </p>
 
-> Normal is the average of deviance.
+> Common sense is not so common.
 >
-> Rita Mae Brown
+> Voltaire
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/Lakr233/vphone-cli">Boot a Virtual iPhone via Apple's Virtualization.framework</a></h3>
-      <p>From github.com. 373 points on Hacker News, 100 comments. Posted by hentrep.</p>
+      <h3><a href="https://zackbartel.com/blog/2026/08/tether/">Tether: iMessage, SMS, etc. on Linux</a></h3>
+      <p>From zackbartel.com. 410 points on Hacker News, 165 comments. Posted by zackb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://zackbartel.com/blog/2026/08/tether/">Tether: iMessage, SMS, etc. on Linux</a></h3>
-      <p>From zackbartel.com. 289 points on Hacker News, 122 comments. Posted by zackb.</p>
+      <h3><a href="https://github.com/Lakr233/vphone-cli">Boot a Virtual iPhone via Apple's Virtualization.framework</a></h3>
+      <p>From github.com. 394 points on Hacker News, 105 comments. Posted by hentrep.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.eveonline.com/news/view/the-move-to-python-3-begins">EVE Online moves to Python 3</a></h3>
-      <p>From eveonline.com. 281 points on Hacker News, 149 comments. Posted by TylerJaacks.</p>
+      <h3><a href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits">DHS is using obscure law to snoop on journalists, non-profits, unions</a></h3>
+      <p>From theguardian.com. 369 points on Hacker News, 69 comments. Posted by firefax.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 29 Aug 2026, 23:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Aug 2026, 05:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
