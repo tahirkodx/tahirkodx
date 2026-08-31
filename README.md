@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788155160" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788185065" alt="Famous quote" width="100%">
 </p>
 
-> Be fascinated instead of frustrated.
+> You need to be doing fewer things for more effect instead of doing more things with side effects.
 >
-> Jim Rohn
+> Gary Keller
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://people.kernel.org/monsieuricon/creepy-crawlies">Creepy Crawlies</a></h3>
-      <p>From people.kernel.org. 1018 points on Hacker News, 513 comments. Posted by zdw.</p>
+      <p>From people.kernel.org. 1271 points on Hacker News, 635 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">“I just chose words carefully”</a></h3>
-      <p>From unsung.aresluna.org. 504 points on Hacker News, 128 comments. Posted by zdw.</p>
+      <p>From unsung.aresluna.org. 1001 points on Hacker News, 263 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://greenlightning.eu/diy/hacking-ikea-furniture/">Hacking IKEA Furniture</a></h3>
-      <p>From greenlightning.eu. 288 points on Hacker News, 197 comments. Posted by greenlightning.</p>
+      <h3><a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/">OpenShot 4.0: Record, Edit, and Color Like Never Before</a></h3>
+      <p>From openshot.org. 260 points on Hacker News, 74 comments. Posted by metrofun.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 31 Aug 2026, 05:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 31 Aug 2026, 14:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
