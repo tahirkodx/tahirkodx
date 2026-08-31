@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788185065" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788209548" alt="Famous quote" width="100%">
 </p>
 
-> You need to be doing fewer things for more effect instead of doing more things with side effects.
+> At the center of your being you have the answer; you know who you are and you know what you want.
 >
-> Gary Keller
+> Lao Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://people.kernel.org/monsieuricon/creepy-crawlies">Creepy Crawlies</a></h3>
-      <p>From people.kernel.org. 1271 points on Hacker News, 635 comments. Posted by zdw.</p>
+      <h3><a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/">OpenShot 4.0  Open-source video editor</a></h3>
+      <p>From openshot.org. 486 points on Hacker News, 108 comments. Posted by metrofun.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c99dym3prl1o">AI could cause global economic downturn, Andrew Bailey warns G20</a></h3>
+      <p>The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
+      <p>From playaphone.com. 386 points on Hacker News, 153 comments. Posted by cutoff.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">“I just chose words carefully”</a></h3>
-      <p>From unsung.aresluna.org. 1001 points on Hacker News, 263 comments. Posted by zdw.</p>
+      <h3><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/">Breaking Claude Code Opus 5 Auto Mode</a></h3>
+      <p>From embracethered.com. 313 points on Hacker News, 105 comments. Posted by Recursing.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The performers are asking the government to give every person in the UK a legal right to own their voice.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/">OpenShot 4.0: Record, Edit, and Color Like Never Before</a></h3>
-      <p>From openshot.org. 260 points on Hacker News, 74 comments. Posted by metrofun.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyz11475l1o">Time is running out for cyber security, warn top tech firms</a></h3>
-      <p>The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 31 Aug 2026, 14:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 31 Aug 2026, 20:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
