@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788132899" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788155160" alt="Famous quote" width="100%">
 </p>
 
-> Where the willingness is great, the difficulties cannot be great.
+> Be fascinated instead of frustrated.
 >
-> Niccolo Machiavelli
+> Jim Rohn
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://people.kernel.org/monsieuricon/creepy-crawlies">Creepy Crawlies</a></h3>
-      <p>From people.kernel.org. 859 points on Hacker News, 389 comments. Posted by zdw.</p>
+      <p>From people.kernel.org. 1018 points on Hacker News, 513 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://0xcc.io/posts/omarchy-root-creds/">Omarchy: Any User Process Can Escalate to Root</a></h3>
-      <p>From 0xcc.io. 359 points on Hacker News, 365 comments. Posted by trap0xcc.</p>
+      <h3><a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">“I just chose words carefully”</a></h3>
+      <p>From unsung.aresluna.org. 504 points on Hacker News, 128 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement">European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy</a></h3>
-      <p>From reclaimthenet.org. 328 points on Hacker News, 134 comments. Posted by nickslaughter02.</p>
+      <h3><a href="https://greenlightning.eu/diy/hacking-ikea-furniture/">Hacking IKEA Furniture</a></h3>
+      <p>From greenlightning.eu. 288 points on Hacker News, 197 comments. Posted by greenlightning.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 30 Aug 2026, 23:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 31 Aug 2026, 05:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
