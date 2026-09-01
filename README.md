@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788223221" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788252335" alt="Famous quote" width="100%">
 </p>
 
-> We are all different. Don't judge, understand instead.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> Roy T. Bennett
+> Thomas Jefferson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,19 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
-      <p>From playaphone.com. 476 points on Hacker News, 177 comments. Posted by cutoff.</p>
+      <p>From playaphone.com. 612 points on Hacker News, 209 comments. Posted by cutoff.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvgy91nvy27o">Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvgy91nvy27o">Amazon rigged $20bn worth of ad prices, US lawsuit alleges</a></h3>
       <p>Amazon responded to the lawsuit, arguing the US Federal Trade Commission "misunderstands" their ad market.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/">Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO</a></h3>
-      <p>From webiterate.dev. 416 points on Hacker News, 334 comments. Posted by twapi.</p>
+      <h3><a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">I turned my security cameras into an automatic bird identification system</a></h3>
+      <p>From jasontucker.blog. 490 points on Hacker News, 115 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">I turned my security cameras into an automatic bird identification system</a></h3>
-      <p>From jasontucker.blog. 351 points on Hacker News, 91 comments. Posted by speckx.</p>
+      <h3><a href="https://www.youtube.com/watch?v=OOMx2BHHWtE">Terence Tao explains 6 essential mathematical concepts [video]</a></h3>
+      <p>From youtube.com. 406 points on Hacker News, 56 comments. Posted by matthewsinclair.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 01 Sep 2026, 00:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Sep 2026, 08:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
