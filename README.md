@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788252335" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788271898" alt="Famous quote" width="100%">
 </p>
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> There is no self-discovery without pain and loss.
 >
-> Thomas Jefferson
+> Anita Krizzan
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
-      <p>From playaphone.com. 612 points on Hacker News, 209 comments. Posted by cutoff.</p>
+      <p>From playaphone.com. 681 points on Hacker News, 217 comments. Posted by cutoff.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c99dym3prl1o">AI could cause global economic downturn, Andrew Bailey warns G20</a></h3>
+      <p>The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://fastpotify.rocks/">Fastpotify</a></h3>
+      <p>From fastpotify.rocks. 593 points on Hacker News, 361 comments. Posted by nreece.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,19 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">I turned my security cameras into an automatic bird identification system</a></h3>
-      <p>From jasontucker.blog. 490 points on Hacker News, 115 comments. Posted by speckx.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c99dym3prl1o">AI could cause global economic downturn, Andrew Bailey warns G20</a></h3>
-      <p>The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=OOMx2BHHWtE">Terence Tao explains 6 essential mathematical concepts [video]</a></h3>
-      <p>From youtube.com. 406 points on Hacker News, 56 comments. Posted by matthewsinclair.</p>
+      <p>From jasontucker.blog. 549 points on Hacker News, 144 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 01 Sep 2026, 08:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Sep 2026, 14:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
