@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788271898" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788287859" alt="Famous quote" width="100%">
 </p>
 
-> There is no self-discovery without pain and loss.
+> Empty your mind, be formless, shapeless, like water.
 >
-> Anita Krizzan
+> Bruce Lee
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
-      <p>From playaphone.com. 681 points on Hacker News, 217 comments. Posted by cutoff.</p>
+      <h3><a href="https://fastpotify.rocks/">Fastpotify</a></h3>
+      <p>From fastpotify.rocks. 739 points on Hacker News, 478 comments. Posted by nreece.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://fastpotify.rocks/">Fastpotify</a></h3>
-      <p>From fastpotify.rocks. 593 points on Hacker News, 361 comments. Posted by nreece.</p>
+      <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
+      <p>From playaphone.com. 717 points on Hacker News, 224 comments. Posted by cutoff.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">I turned my security cameras into an automatic bird identification system</a></h3>
-      <p>From jasontucker.blog. 549 points on Hacker News, 144 comments. Posted by speckx.</p>
+      <h3><a href="https://github.com/ankidroid/Anki-Android/issues/21656">AnkiDroid: Google Play no longer allowing Open Collective donation link</a></h3>
+      <p>From github.com. 697 points on Hacker News, 195 comments. Posted by hexa555.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 01 Sep 2026, 14:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Sep 2026, 18:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
