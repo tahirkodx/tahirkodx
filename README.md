@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788209548" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788223221" alt="Famous quote" width="100%">
 </p>
 
-> At the center of your being you have the answer; you know who you are and you know what you want.
+> We are all different. Don't judge, understand instead.
 >
-> Lao Tzu
+> Roy T. Bennett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/">OpenShot 4.0  Open-source video editor</a></h3>
-      <p>From openshot.org. 486 points on Hacker News, 108 comments. Posted by metrofun.</p>
+      <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
+      <p>From playaphone.com. 476 points on Hacker News, 177 comments. Posted by cutoff.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvgy91nvy27o">Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges</a></h3>
+      <p>Amazon responded to the lawsuit, arguing the US Federal Trade Commission "misunderstands" their ad market.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/">Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO</a></h3>
+      <p>From webiterate.dev. 416 points on Hacker News, 334 comments. Posted by twapi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://playaphone.com/">Playa Phone</a></h3>
-      <p>From playaphone.com. 386 points on Hacker News, 153 comments. Posted by cutoff.</p>
+      <h3><a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">I turned my security cameras into an automatic bird identification system</a></h3>
+      <p>From jasontucker.blog. 351 points on Hacker News, 91 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/">Breaking Claude Code Opus 5 Auto Mode</a></h3>
-      <p>From embracethered.com. 313 points on Hacker News, 105 comments. Posted by Recursing.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c4gv5gepxnyo">Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning</a></h3>
-      <p>The performers are asking the government to give every person in the UK a legal right to own their voice.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 31 Aug 2026, 20:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Sep 2026, 00:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
