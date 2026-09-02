@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788324244" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788348495" alt="Famous quote" width="100%">
 </p>
 
-> The question isn't who is going to let me; it's who is going to stop me.
+> Stop being tormented by everyone else's reaction to you.
 >
-> Ayn Rand
+> Joyce Meyer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c74k39g3ee5o">Criminals publish data of 8.7m people after airports hack</a></h3>
+      <p>The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://danluu.com/zitron/">How accurate have Ed Zitron's AI skeptic predictions been?</a></h3>
+      <p>From danluu.com. 737 points on Hacker News, 811 comments. Posted by jatins.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cly4e0wn452o">Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group</a></h3>
       <p>Booking.com said the "limited test" was "not a true reflection of the experience of millions of listings or reviews".</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://danluu.com/zitron/">How accurate have Ed Zitron's AI skeptic predictions been?</a></h3>
-      <p>From danluu.com. 534 points on Hacker News, 618 comments. Posted by jatins.</p>
+      <h3><a href="https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/">Introducing Ad Blocker for Firefox on iOS</a></h3>
+      <p>From blog.mozilla.org. 505 points on Hacker News, 166 comments. Posted by HieronymusBosch.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Autonomous crop-spraying aircraft are leading the way in pilot-free flying.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566">Play Store blocks AuroraStore, hurting GrapheneOS users</a></h3>
-      <p>From gitlab.com. 487 points on Hacker News, 203 comments. Posted by erikvanoosten.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c99dym3prl1o">AI could cause global economic downturn, Andrew Bailey warns G20</a></h3>
-      <p>The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 02 Sep 2026, 04:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Sep 2026, 11:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
