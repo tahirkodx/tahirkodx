@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788367246" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788383272" alt="Famous quote" width="100%">
 </p>
 
-> Go confidently in the direction of your dreams! Live the life you've imagined.
+> Pursue what catches your heart, not what catches your eyes.
 >
-> Henry David Thoreau
+> Roy T. Bennett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lwn.net/Articles/1090585/">A Note from LWN</a></h3>
-      <p>From lwn.net. 469 points on Hacker News, 99 comments. Posted by rwky.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Gemini 3.8 Flash and 3.8 Flash Cyber</a></h3>
+      <p>https://deepmind.google/models/model-cards/gemini-3-8-flash/</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cp3ky2w4y9no">Uber to cut over 3,000 jobs in major global restructuring</a></h3>
+      <p>The company says cutting roles would make its operations "simpler and faster".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://lwn.net/Articles/1090585/">A note on subscription prices from LWN</a></h3>
+      <p>From lwn.net. 650 points on Hacker News, 128 comments. Posted by rwky.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/models/model-cards/gemini-3-8-flash/">Gemini 3.8 Flash</a></h3>
-      <p>From deepmind.google. 293 points on Hacker News, 163 comments. Posted by bratao.</p>
+      <h3><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
+      <p>From help.mistral.ai. 325 points on Hacker News, 138 comments. Posted by teekert.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">Commodore 64 released September 1, 1982</a></h3>
-      <p>From dfarq.homeip.net. 242 points on Hacker News, 123 comments. Posted by giuliomagnifico.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cly4e0wn452o">Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group</a></h3>
-      <p>Booking.com said the "limited test" was "not a true reflection of the experience of millions of listings or reviews".</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 02 Sep 2026, 16:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Sep 2026, 21:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
