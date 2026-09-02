@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788383272" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788391311" alt="Famous quote" width="100%">
 </p>
 
-> Pursue what catches your heart, not what catches your eyes.
+> If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.
 >
-> Roy T. Bennett
+> Dogen
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lwn.net/Articles/1090585/">A note on subscription prices from LWN</a></h3>
-      <p>From lwn.net. 650 points on Hacker News, 128 comments. Posted by rwky.</p>
+      <h3><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
+      <p>From help.mistral.ai. 356 points on Hacker News, 155 comments. Posted by teekert.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
-      <p>From help.mistral.ai. 325 points on Hacker News, 138 comments. Posted by teekert.</p>
+      <h3><a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">Commodore 64 released September 1, 1982</a></h3>
+      <p>From dfarq.homeip.net. 317 points on Hacker News, 165 comments. Posted by giuliomagnifico.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 02 Sep 2026, 21:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Sep 2026, 23:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
