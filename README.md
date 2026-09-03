@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788391311" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788410498" alt="Famous quote" width="100%">
 </p>
 
-> If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.
+> It doesn't matter how much you want. What really matters is how much you want it.
 >
-> Dogen
+> Ralph Marston
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce9e838jzpzo">Uber launches UK's first robotaxis with a driver, here's what it's like to ride in one</a></h3>
+      <p>The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.3</a></h3>
+      <p>https://research.meta.ai/blog/introducing-muse-spark-1-3</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cp3ky2w4y9no">Uber to cut over 3,000 jobs in major global restructuring</a></h3>
       <p>The company says cutting roles would make its operations "simpler and faster".</p>
     </td>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
-      <p>From help.mistral.ai. 356 points on Hacker News, 155 comments. Posted by teekert.</p>
+      <p>From help.mistral.ai. 399 points on Hacker News, 170 comments. Posted by teekert.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Its backers say it would provide a "vital safety net" against runaway AI systems such as those from OpenAI and Anthropic.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">Commodore 64 released September 1, 1982</a></h3>
-      <p>From dfarq.homeip.net. 317 points on Hacker News, 165 comments. Posted by giuliomagnifico.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c74k39g3ee5o">Criminals publish data of 8.7m people after airports hack</a></h3>
-      <p>The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 02 Sep 2026, 23:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Sep 2026, 04:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
