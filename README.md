@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788453115" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788469661" alt="Famous quote" width="100%">
 </p>
 
-> Art is the signature of civilizations.
+> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.
 >
-> Beverly Sills
+> W. Clement Stone
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Gemini 3.8 Flash and 3.8 Flash Cyber</a></h3>
-      <p>https://deepmind.google/models/model-cards/gemini-3-8-flash/</p>
+      <h3><a href="https://neil.fraser.name/news/2026/09/03/">.name Termination</a></h3>
+      <p>From neil.fraser.name. 1047 points on Hacker News, 314 comments. Posted by pavel_lishin.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cgl3we7wdr3o">Data centres are booming in Australia, but at what cost?</a></h3>
+      <p>Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0">Audacity 4.0</a></h3>
+      <p>From github.com. 970 points on Hacker News, 216 comments. Posted by ClydeN.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0">Audacity 4.0</a></h3>
-      <p>From github.com. 751 points on Hacker News, 170 comments. Posted by ClydeN.</p>
+      <h3><a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra</a></h3>
+      <p>System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.meta.com/ai/models/muse-spark/">Muse Spark 1.3</a></h3>
-      <p>https://research.meta.ai/blog/introducing-muse-spark-1-3</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ce9e838jzpzo">Uber launches UK's first robotaxis with a driver, here's what it's like to ride in one</a></h3>
-      <p>The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 03 Sep 2026, 16:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Sep 2026, 21:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
