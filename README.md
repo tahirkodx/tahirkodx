@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788469661" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788477578" alt="Famous quote" width="100%">
 </p>
 
-> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.
+> No one has ever become poor by giving.
 >
-> W. Clement Stone
+> Anne Frank
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,24 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://neil.fraser.name/news/2026/09/03/">.name Termination</a></h3>
-      <p>From neil.fraser.name. 1047 points on Hacker News, 314 comments. Posted by pavel_lishin.</p>
+      <p>From neil.fraser.name. 1219 points on Hacker News, 351 comments. Posted by pavel_lishin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cgl3we7wdr3o">Data centres are booming in Australia, but at what cost?</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cgl3we7wdr3o">AI data centres are booming in Australia, but at what cost?</a></h3>
       <p>Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0">Audacity 4.0</a></h3>
-      <p>From github.com. 970 points on Hacker News, 216 comments. Posted by ClydeN.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o">Nvidia strikes $12.9bn deal to buy AI platform Hugging Face</a></h3>
-      <p>The deal gives Nvidia control of a leading open-source AI platform and developer community.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o">Nvidia strikes $12.9bn deal to buy AI platform Hugging Face</a></h3>
+      <p>The deal gives Nvidia control of a leading open-source AI platform and developer community.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0">Audacity 4.0</a></h3>
+      <p>From github.com. 1020 points on Hacker News, 224 comments. Posted by ClydeN.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/videos/cwyzeyd7peeo">Watch: BBC travels in self-driving Uber around London</a></h3>
       <p>The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 03 Sep 2026, 21:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Sep 2026, 23:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
