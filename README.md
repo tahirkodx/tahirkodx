@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788434680" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788453115" alt="Famous quote" width="100%">
 </p>
 
-> The best way to predict the future is to create it.
+> Art is the signature of civilizations.
 >
-> Colin R. Davis
+> Beverly Sills
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o">Nvidia strikes $12.9bn deal to buy AI platform Hugging Face</a></h3>
+      <p>The deal gives Nvidia control of a leading open-source AI platform and developer community.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0">Audacity 4.0</a></h3>
+      <p>From github.com. 751 points on Hacker News, 170 comments. Posted by ClydeN.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/videos/cwyzeyd7peeo">Watch: BBC travels in self-driving Uber around London</a></h3>
       <p>The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.</p>
     </td>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
-      <p>From help.mistral.ai. 456 points on Hacker News, 207 comments. Posted by teekert.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cp3ky2w4y9no">Uber to cut over 3,000 jobs in major global restructuring</a></h3>
-      <p>The company says cutting roles would make its operations "simpler and faster".</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 03 Sep 2026, 11:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Sep 2026, 16:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
