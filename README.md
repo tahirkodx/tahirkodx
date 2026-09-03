@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788410498" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788434680" alt="Famous quote" width="100%">
 </p>
 
-> It doesn't matter how much you want. What really matters is how much you want it.
+> The best way to predict the future is to create it.
 >
-> Ralph Marston
+> Colin R. Davis
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ce9e838jzpzo">Uber launches UK's first robotaxis with a driver, here's what it's like to ride in one</a></h3>
-      <p>The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.</p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/cwyzeyd7peeo">Watch: BBC travels in self-driving Uber around London</a></h3>
+      <p>The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cp3ky2w4y9no">Uber to cut over 3,000 jobs in major global restructuring</a></h3>
-      <p>The company says cutting roles would make its operations "simpler and faster".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ce9e838jzpzo">Uber launches UK's first robotaxis with a driver, here's what it's like to ride in one</a></h3>
+      <p>The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">Can I opt out of my input or output data being used for training?</a></h3>
-      <p>From help.mistral.ai. 399 points on Hacker News, 170 comments. Posted by teekert.</p>
+      <p>From help.mistral.ai. 456 points on Hacker News, 207 comments. Posted by teekert.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cn9wv80j9w9o">Lords call for AI 'kill switch' powers in UK</a></h3>
-      <p>Its backers say it would provide a "vital safety net" against runaway AI systems such as those from OpenAI and Anthropic.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cp3ky2w4y9no">Uber to cut over 3,000 jobs in major global restructuring</a></h3>
+      <p>The company says cutting roles would make its operations "simpler and faster".</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 03 Sep 2026, 04:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Sep 2026, 11:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
