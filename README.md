@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788521252" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788539295" alt="Famous quote" width="100%">
 </p>
 
-> Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.
+> At the center of your being you have the answer; you know who you are and you know what you want.
 >
-> Zen Proverb
+> Lao Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://neil.fraser.name/news/2026/09/03/">.name Termination</a></h3>
-      <p>From neil.fraser.name. 1891 points on Hacker News, 466 comments. Posted by pavel_lishin.</p>
+      <p>From neil.fraser.name. 2068 points on Hacker News, 507 comments. Posted by pavel_lishin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/cdr7g3vdl58o">Could robots be the future of theme parks?</a></h3>
-      <p>Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckg725z5kgzo">OpenAI agents hijacked German website before Hugging Face hack, report claims</a></h3>
+      <p>OpenAI said it could not "meaningfully respond" to the report's findings because it hadn't been allowed to review it ahead of publication.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crk3xd8j3k5o">'I lost my savings after a job interview scam'</a></h3>
-      <p>Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj06zd4l99lo">Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers</a></h3>
+      <p>Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://anyhumanever.com/">Any Human Ever  One life, drawn at random from all who have ever lived</a></h3>
-      <p>From anyhumanever.com. 600 points on Hacker News, 282 comments. Posted by thinkingemote.</p>
+      <h3><a href="https://collusion.wiki/">Discovery of a new OpenAI agent message board</a></h3>
+      <p>From collusion.wiki. 734 points on Hacker News, 517 comments. Posted by moultano.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cgl3we7wdr3o">AI data centres are booming in Australia, but at what cost?</a></h3>
-      <p>Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.</p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/cdr7g3vdl58o">Could robots be the future of theme parks?</a></h3>
+      <p>Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 04 Sep 2026, 11:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Sep 2026, 16:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
