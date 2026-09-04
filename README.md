@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788554991" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788563076" alt="Famous quote" width="100%">
 </p>
 
-> Knowing your own darkness is the best method for dealing with the darknesses of other people.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> Carl Jung
+> Eleanor Roosevelt
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/gpt-6-astra/">GPT-6 Astra</a></h3>
-      <p>System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3.</p>
+      <h3><a href="https://collusion.wiki/">Discovery of a new OpenAI agent message board</a></h3>
+      <p>https://www.reuters.com/world/europe/openai-agents-hijacked-...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://collusion.wiki/">Discovery of a new OpenAI agent message board</a></h3>
-      <p>https://www.reuters.com/world/europe/openai-agents-hijacked-...</p>
+      <h3><a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem">Formalizing Fermat's Last Theorem</a></h3>
+      <p>https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://inference-docs.cerebras.ai/models/overview">Qwen 3.8 27B available on Cerebras at 1500 tokens/s</a></h3>
-      <p>From inference-docs.cerebras.ai. 674 points on Hacker News, 221 comments. Posted by altertable.</p>
+      <h3><a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">Solving the Jane Street reverse engineering challenge</a></h3>
+      <p>From jestoph.com. 374 points on Hacker News, 83 comments. Posted by anitil.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 04 Sep 2026, 20:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Sep 2026, 23:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
