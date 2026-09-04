@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788496952" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788521252" alt="Famous quote" width="100%">
 </p>
 
-> We make a living by what we get, but we make a life by what we give.
+> Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.
 >
-> Unknown
+> Zen Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://neil.fraser.name/news/2026/09/03/">.name Termination</a></h3>
-      <p>From neil.fraser.name. 1517 points on Hacker News, 405 comments. Posted by pavel_lishin.</p>
+      <p>From neil.fraser.name. 1891 points on Hacker News, 466 comments. Posted by pavel_lishin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cgl3we7wdr3o">AI data centres are booming in Australia, but at what cost?</a></h3>
-      <p>Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crk3xd8j3k5o">'I lost my savings after a job interview scam'</a></h3>
+      <p>Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://anyhumanever.com/">Any Human Ever  One life, drawn at random from all who have ever lived</a></h3>
-      <p>From anyhumanever.com. 510 points on Hacker News, 251 comments. Posted by thinkingemote.</p>
+      <p>From anyhumanever.com. 600 points on Hacker News, 282 comments. Posted by thinkingemote.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o">Nvidia strikes $12.9bn deal to buy AI platform Hugging Face</a></h3>
-      <p>The deal gives Nvidia control of a leading open-source AI platform and developer community.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cgl3we7wdr3o">AI data centres are booming in Australia, but at what cost?</a></h3>
+      <p>Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 04 Sep 2026, 04:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Sep 2026, 11:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
