@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788621605" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788629111" alt="Famous quote" width="100%">
 </p>
 
-> Perseverance and spirit have done wonders in all ages.
+> The universe doesn't allow perfection.
 >
-> George Washington
+> Stephen Hawking
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">Actively exploited sandbox RCE in all Chromium versions</a></h3>
-      <p>From nvd.nist.gov. 628 points on Hacker News, 353 comments. Posted by negura.</p>
+      <p>From nvd.nist.gov. 670 points on Hacker News, 380 comments. Posted by negura.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 05 Sep 2026, 15:20 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Sep 2026, 17:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
