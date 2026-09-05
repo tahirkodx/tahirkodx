@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788563076" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788583092" alt="Famous quote" width="100%">
 </p>
 
-> The future belongs to those who believe in the beauty of their dreams.
+> The time is always right to do what is right.
 >
-> Eleanor Roosevelt
+> Martin Luther King, Jr.
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">Solving the Jane Street reverse engineering challenge</a></h3>
-      <p>From jestoph.com. 374 points on Hacker News, 83 comments. Posted by anitil.</p>
+      <h3><a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">Actively exploited sandbox RCE in all Chromium versions</a></h3>
+      <p>From nvd.nist.gov. 345 points on Hacker News, 193 comments. Posted by negura.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 04 Sep 2026, 23:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Sep 2026, 04:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
