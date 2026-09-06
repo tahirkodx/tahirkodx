@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788726578" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788735315" alt="Famous quote" width="100%">
 </p>
 
-> There is nothing more frightful than ignorance in action.
+> The ability to observe without evaluating is the highest form of intelligence.
 >
-> Johann Wolfgang von Goethe
+> Jiddu Krishnamurti
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cloudinabottle.org/blog/launch-post">Cloud in a Bottle: making self-hosting accessible to everyone</a></h3>
-      <p>From cloudinabottle.org. 585 points on Hacker News, 289 comments. Posted by zplizzi.</p>
+      <h3><a href="https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight">Isar Aerospace reaches orbit and deploys payloads on second flight</a></h3>
+      <p>From isaraerospace.com. 531 points on Hacker News, 172 comments. Posted by mpweiher.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">The revolt of the reader</a></h3>
-      <p>From bcantrill.dtrace.org. 544 points on Hacker News, 257 comments. Posted by chmaynard.</p>
+      <h3><a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">A/I shuts down  Stay human</a></h3>
+      <p>From keepitfree.ai. 471 points on Hacker News, 329 comments. Posted by captainmuon.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight">Isar Aerospace reaches orbit and deploys payloads on second flight</a></h3>
-      <p>From isaraerospace.com. 491 points on Hacker News, 155 comments. Posted by mpweiher.</p>
+      <h3><a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">Your intellectual fly is open (2025)</a></h3>
+      <p>From bcantrill.dtrace.org. 461 points on Hacker News, 294 comments. Posted by cyb0rg0.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 06 Sep 2026, 20:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Sep 2026, 22:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
