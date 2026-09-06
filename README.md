@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788670134" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788692727" alt="Famous quote" width="100%">
 </p>
 
-> You are not what you think you are, You are not what others think you are, You are what you think others think you are.
+> A man, as a general rule, owes very little to what he is born with, a man is what he makes of himself.
 >
-> Unknown
+> Alexander Graham Bell
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">Actively exploited sandbox RCE in all Chromium versions</a></h3>
-      <p>From nvd.nist.gov. 759 points on Hacker News, 448 comments. Posted by negura.</p>
+      <p>From nvd.nist.gov. 778 points on Hacker News, 472 comments. Posted by negura.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://codeberg.org/mv12star/shitter/wiki/Instances">Nitter has more working instances than before the takedowns</a></h3>
-      <p>From codeberg.org. 653 points on Hacker News, 319 comments. Posted by Cider9986.</p>
+      <p>From codeberg.org. 684 points on Hacker News, 356 comments. Posted by Cider9986.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 06 Sep 2026, 04:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Sep 2026, 11:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
