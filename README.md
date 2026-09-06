@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788649123" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788670134" alt="Famous quote" width="100%">
 </p>
 
-> The purpose of life is the life of purpose.
+> You are not what you think you are, You are not what others think you are, You are what you think others think you are.
 >
-> Robin Sharma
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem">Formalizing Fermat's Last Theorem</a></h3>
-      <p>https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...</p>
+      <h3><a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">Actively exploited sandbox RCE in all Chromium versions</a></h3>
+      <p>From nvd.nist.gov. 759 points on Hacker News, 448 comments. Posted by negura.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">Actively exploited sandbox RCE in all Chromium versions</a></h3>
-      <p>From nvd.nist.gov. 730 points on Hacker News, 429 comments. Posted by negura.</p>
+      <h3><a href="https://codeberg.org/mv12star/shitter/wiki/Instances">Nitter has more working instances than before the takedowns</a></h3>
+      <p>From codeberg.org. 653 points on Hacker News, 319 comments. Posted by Cider9986.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 05 Sep 2026, 22:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Sep 2026, 04:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
