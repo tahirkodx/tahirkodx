@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788708772" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788726578" alt="Famous quote" width="100%">
 </p>
 
-> The final mystery is oneself.
+> There is nothing more frightful than ignorance in action.
 >
-> Oscar Wilde
+> Johann Wolfgang von Goethe
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://collusion.wiki/">Discovery of a new OpenAI agent message board</a></h3>
-      <p>https://www.reuters.com/world/europe/openai-agents-hijacked-...</p>
+      <h3><a href="https://cloudinabottle.org/blog/launch-post">Cloud in a Bottle: making self-hosting accessible to everyone</a></h3>
+      <p>From cloudinabottle.org. 585 points on Hacker News, 289 comments. Posted by zplizzi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cloudinabottle.org/blog/launch-post">Cloud in a Bottle: making self-hosting accessible to everyone</a></h3>
-      <p>From cloudinabottle.org. 524 points on Hacker News, 261 comments. Posted by zplizzi.</p>
+      <h3><a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">The revolt of the reader</a></h3>
+      <p>From bcantrill.dtrace.org. 544 points on Hacker News, 257 comments. Posted by chmaynard.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">The revolt of the reader</a></h3>
-      <p>From bcantrill.dtrace.org. 489 points on Hacker News, 228 comments. Posted by chmaynard.</p>
+      <h3><a href="https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight">Isar Aerospace reaches orbit and deploys payloads on second flight</a></h3>
+      <p>From isaraerospace.com. 491 points on Hacker News, 155 comments. Posted by mpweiher.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 06 Sep 2026, 15:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Sep 2026, 20:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
