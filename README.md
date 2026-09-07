@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788808432" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788824070" alt="Famous quote" width="100%">
 </p>
 
-> There is only one thing in the world worse than being talked about, and that is not being talked about.
+> In the midst of chaos, there is also opportunity.
 >
-> Oscar Wilde
+> Sun Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">Keep Our Servers Running</a></h3>
-      <p>From blog.archive.org. 860 points on Hacker News, 214 comments. Posted by sonicrocketman.</p>
+      <p>From blog.archive.org. 934 points on Hacker News, 242 comments. Posted by sonicrocketman.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c0m39g7xzevo">AI cancer cures slowed by chip shortage, says UK's biggest tech boss</a></h3>
+      <p>The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are "going to solve it".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.youtube.com/watch?v=6IFVTcM28KA">216M Spy TVs  The LG Smart TV Problem [video]</a></h3>
+      <p>https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/">De-Brainrot Vacations</a></h3>
-      <p>From devz.cl. 424 points on Hacker News, 174 comments. Posted by DanielVZ.</p>
+      <h3><a href="https://github.com/iczelia/bzip3">bzip3</a></h3>
+      <p>From github.com. 362 points on Hacker News, 103 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://grapheneos.social/@GrapheneOS/117225539756835649">GrapheneOS Overhauled Default Apps and Secure Clipboard</a></h3>
-      <p>From grapheneos.social. 389 points on Hacker News, 245 comments. Posted by Cider9986.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c1wxppnrqlqo">Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death</a></h3>
-      <p>Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 07 Sep 2026, 19:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Sep 2026, 23:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
