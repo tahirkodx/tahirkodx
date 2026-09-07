@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788735315" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788756810" alt="Famous quote" width="100%">
 </p>
 
-> The ability to observe without evaluating is the highest form of intelligence.
+> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.
 >
-> Jiddu Krishnamurti
+> Ralph Marston
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight">Isar Aerospace reaches orbit and deploys payloads on second flight</a></h3>
-      <p>From isaraerospace.com. 531 points on Hacker News, 172 comments. Posted by mpweiher.</p>
+      <h3><a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">Your intellectual fly is open when you use an LLM to author a post (2025)</a></h3>
+      <p>From bcantrill.dtrace.org. 602 points on Hacker News, 392 comments. Posted by cyb0rg0.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">A/I shuts down  Stay human</a></h3>
-      <p>From keepitfree.ai. 471 points on Hacker News, 329 comments. Posted by captainmuon.</p>
+      <h3><a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">Nitter and XCancel resume service after legal advice</a></h3>
+      <p>https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">Your intellectual fly is open (2025)</a></h3>
-      <p>From bcantrill.dtrace.org. 461 points on Hacker News, 294 comments. Posted by cyb0rg0.</p>
+      <h3><a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">A/I shuts down</a></h3>
+      <p>From keepitfree.ai. 552 points on Hacker News, 436 comments. Posted by captainmuon.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 06 Sep 2026, 22:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Sep 2026, 04:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
