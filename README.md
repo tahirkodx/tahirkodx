@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788756810" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788785116" alt="Famous quote" width="100%">
 </p>
 
-> Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.
+> The details are not the details. They make the design.
 >
-> Ralph Marston
+> Charles Eames
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">Your intellectual fly is open when you use an LLM to author a post (2025)</a></h3>
-      <p>From bcantrill.dtrace.org. 602 points on Hacker News, 392 comments. Posted by cyb0rg0.</p>
+      <h3><a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">Nitter and XCancel resume service after legal advice</a></h3>
+      <p>https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o">OpenAI chief scientist warns no one is prepared for consequences of AI</a></h3>
+      <p>The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">Keep Our Servers Running</a></h3>
+      <p>From blog.archive.org. 620 points on Hacker News, 150 comments. Posted by sonicrocketman.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c1wxppnrqlqo">Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death</a></h3>
+      <p>Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://asahilinux.org/2026/09/m2-episode-1/">Asahi Linux on M3</a></h3>
+      <p>https://www.phoronix.com/news/Asahi-Linux-Official-M3</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>OpenAI said it could not "meaningfully respond" to the report's findings because it hadn't been allowed to review it ahead of publication.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">Nitter and XCancel resume service after legal advice</a></h3>
-      <p>https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj06zd4l99lo">Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers</a></h3>
-      <p>Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">A/I shuts down</a></h3>
-      <p>From keepitfree.ai. 552 points on Hacker News, 436 comments. Posted by captainmuon.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/cdr7g3vdl58o">Could robots be the future of theme parks?</a></h3>
-      <p>Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 07 Sep 2026, 04:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Sep 2026, 12:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
