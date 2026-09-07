@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788785116" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788808432" alt="Famous quote" width="100%">
 </p>
 
-> The details are not the details. They make the design.
+> There is only one thing in the world worse than being talked about, and that is not being talked about.
 >
-> Charles Eames
+> Oscar Wilde
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">Nitter and XCancel resume service after legal advice</a></h3>
-      <p>https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/</p>
+      <h3><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">Keep Our Servers Running</a></h3>
+      <p>From blog.archive.org. 860 points on Hacker News, 214 comments. Posted by sonicrocketman.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o">OpenAI chief scientist warns no one is prepared for consequences of AI</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cn8e63qdqwzo">Grindr to pay £26m to settle claims it allegedly shared users' HIV status</a></h3>
+      <p>The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/">De-Brainrot Vacations</a></h3>
+      <p>From devz.cl. 424 points on Hacker News, 174 comments. Posted by DanielVZ.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o">OpenAI chief scientist warns no-one is prepared for consequences of AI</a></h3>
       <p>The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">Keep Our Servers Running</a></h3>
-      <p>From blog.archive.org. 620 points on Hacker News, 150 comments. Posted by sonicrocketman.</p>
+      <h3><a href="https://grapheneos.social/@GrapheneOS/117225539756835649">GrapheneOS Overhauled Default Apps and Secure Clipboard</a></h3>
+      <p>From grapheneos.social. 389 points on Hacker News, 245 comments. Posted by Cider9986.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://asahilinux.org/2026/09/m2-episode-1/">Asahi Linux on M3</a></h3>
-      <p>https://www.phoronix.com/news/Asahi-Linux-Official-M3</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckg725z5kgzo">OpenAI agents hijacked German website before Hugging Face hack, report claims</a></h3>
-      <p>OpenAI said it could not "meaningfully respond" to the report's findings because it hadn't been allowed to review it ahead of publication.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 07 Sep 2026, 12:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Sep 2026, 19:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
