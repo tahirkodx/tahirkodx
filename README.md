@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788824070" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788842943" alt="Famous quote" width="100%">
 </p>
 
-> In the midst of chaos, there is also opportunity.
+> He who is untrue to his own cause cannot command the respect of others.
 >
-> Sun Tzu
+> Albert Einstein
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">Keep Our Servers Running</a></h3>
-      <p>From blog.archive.org. 934 points on Hacker News, 242 comments. Posted by sonicrocketman.</p>
+      <p>From blog.archive.org. 976 points on Hacker News, 253 comments. Posted by sonicrocketman.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/iczelia/bzip3">bzip3</a></h3>
-      <p>From github.com. 362 points on Hacker News, 103 comments. Posted by tosh.</p>
+      <h3><a href="https://deepmind.google/science/weathernext/">WeatherNext 3</a></h3>
+      <p>Paper [pdf]: https://storage.googleapis.com/deepmind-media/papers/weather...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 07 Sep 2026, 23:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Sep 2026, 04:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
