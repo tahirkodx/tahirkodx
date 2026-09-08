@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788866849" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788885788" alt="Famous quote" width="100%">
 </p>
 
-> Everything has beauty but not everyone sees it.
+> The only way to entertain some folks is to listen to them.
 >
-> Confucius
+> David Brinkley
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">Mistral raises €3B</a></h3>
-      <p>From mistral.ai. 532 points on Hacker News, 363 comments. Posted by kuberwastaken.</p>
+      <p>From mistral.ai. 710 points on Hacker News, 512 comments. Posted by kuberwastaken.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jellyfin.org/posts/jellyfin-release-12.0/">Jellyfin 12.0</a></h3>
-      <p>From jellyfin.org. 403 points on Hacker News, 171 comments. Posted by 0xC0ncord.</p>
+      <h3><a href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/">LibreOffice breaks download records after declaring it has no AI features</a></h3>
+      <p>From manualdousuario.net. 519 points on Hacker News, 160 comments. Posted by rpgbr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mcpherrin.ca/2026/09/07/rsa.html">I've factored the RSA keys of a Certificate Authority from the 90s</a></h3>
-      <p>From mcpherrin.ca. 360 points on Hacker News, 59 comments. Posted by ahlCVA.</p>
+      <p>From mcpherrin.ca. 454 points on Hacker News, 104 comments. Posted by ahlCVA.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 08 Sep 2026, 11:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Sep 2026, 16:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
