@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788842943" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788866849" alt="Famous quote" width="100%">
 </p>
 
-> He who is untrue to his own cause cannot command the respect of others.
+> Everything has beauty but not everyone sees it.
 >
-> Albert Einstein
+> Confucius
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">Keep Our Servers Running</a></h3>
-      <p>From blog.archive.org. 976 points on Hacker News, 253 comments. Posted by sonicrocketman.</p>
+      <h3><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">Mistral raises €3B</a></h3>
+      <p>From mistral.ai. 532 points on Hacker News, 363 comments. Posted by kuberwastaken.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c0m39g7xzevo">AI cancer cures slowed by chip shortage, says UK's biggest tech boss</a></h3>
-      <p>The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are "going to solve it".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjw54ww73qjo">Scammers demand ransoms from Instagram users over fake copyright claims</a></h3>
+      <p>Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=6IFVTcM28KA">216M Spy TVs  The LG Smart TV Problem [video]</a></h3>
-      <p>https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au...</p>
+      <h3><a href="https://jellyfin.org/posts/jellyfin-release-12.0/">Jellyfin 12.0</a></h3>
+      <p>From jellyfin.org. 403 points on Hacker News, 171 comments. Posted by 0xC0ncord.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/science/weathernext/">WeatherNext 3</a></h3>
-      <p>Paper [pdf]: https://storage.googleapis.com/deepmind-media/papers/weather...</p>
+      <h3><a href="https://mcpherrin.ca/2026/09/07/rsa.html">I've factored the RSA keys of a Certificate Authority from the 90s</a></h3>
+      <p>From mcpherrin.ca. 360 points on Hacker News, 59 comments. Posted by ahlCVA.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 08 Sep 2026, 04:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Sep 2026, 11:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
