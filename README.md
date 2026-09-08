@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788902101" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788910008" alt="Famous quote" width="100%">
 </p>
 
-> When there is nothing to do, do nothing.
+> Discontent is the first necessity of progress.
 >
-> Warren Buffett
+> Thomas Edison
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://cims.nyu.edu/~tristanb/statement.pdf">Navier-Stokes  Tristan Buckmaster [pdf]</a></h3>
+      <p>From cims.nyu.edu. 1098 points on Hacker News, 484 comments. Posted by procedurecall.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c1j1896e973o">Should promotion depend on how workers use AI?</a></h3>
+      <p>More companies are tying career progression to AI use: is that fair?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
-      <p>From openai.com. 865 points on Hacker News, 668 comments. Posted by tedsanders.</p>
+      <p>From openai.com. 1032 points on Hacker News, 859 comments. Posted by tedsanders.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cims.nyu.edu/~tristanb/statement.pdf">Navier-Stokes  Tristan Buckmaster [pdf]</a></h3>
-      <p>From cims.nyu.edu. 818 points on Hacker News, 382 comments. Posted by procedurecall.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">Google DeepMind Releases AlphaGenome Atlas</a></h3>
+      <p>From blog.google. 471 points on Hacker News, 113 comments. Posted by utiiiD.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The government said it will legislate "as soon as they can" but may "reassess" its plans if firms make the desired changes sooner.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://weirdgloop.org/blog/google-jail">There's a new "Google Jail" for independent wikis</a></h3>
-      <p>From weirdgloop.org. 503 points on Hacker News, 207 comments. Posted by pizzaiolo.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjw54ww73qjo">Scammers demand ransoms from Instagram users over fake copyright claims</a></h3>
-      <p>Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 08 Sep 2026, 21:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Sep 2026, 23:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
