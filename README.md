@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788885788" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788902101" alt="Famous quote" width="100%">
 </p>
 
-> The only way to entertain some folks is to listen to them.
+> When there is nothing to do, do nothing.
 >
-> David Brinkley
+> Warren Buffett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">Mistral raises €3B</a></h3>
-      <p>From mistral.ai. 710 points on Hacker News, 512 comments. Posted by kuberwastaken.</p>
+      <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
+      <p>From openai.com. 865 points on Hacker News, 668 comments. Posted by tedsanders.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cy7zygy3rl2o">OpenAI says it cracked 90-year-old maths problem in 88 hours</a></h3>
+      <p>OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://cims.nyu.edu/~tristanb/statement.pdf">Navier-Stokes  Tristan Buckmaster [pdf]</a></h3>
+      <p>From cims.nyu.edu. 818 points on Hacker News, 382 comments. Posted by procedurecall.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o">New law to force tech firms to stop children taking or sharing nude images</a></h3>
+      <p>The government said it will legislate "as soon as they can" but may "reassess" its plans if firms make the desired changes sooner.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://weirdgloop.org/blog/google-jail">There's a new "Google Jail" for independent wikis</a></h3>
+      <p>From weirdgloop.org. 503 points on Hacker News, 207 comments. Posted by pizzaiolo.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/">LibreOffice breaks download records after declaring it has no AI features</a></h3>
-      <p>From manualdousuario.net. 519 points on Hacker News, 160 comments. Posted by rpgbr.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cn8e63qdqwzo">Grindr to pay £26m to settle claims it allegedly shared users' HIV status</a></h3>
-      <p>The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mcpherrin.ca/2026/09/07/rsa.html">I've factored the RSA keys of a Certificate Authority from the 90s</a></h3>
-      <p>From mcpherrin.ca. 454 points on Hacker News, 104 comments. Posted by ahlCVA.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o">OpenAI chief scientist warns no-one is prepared for consequences of AI</a></h3>
-      <p>The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 08 Sep 2026, 16:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Sep 2026, 21:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
