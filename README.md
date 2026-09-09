@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788987592" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788995993" alt="Famous quote" width="100%">
 </p>
 
-> Stop wasting time looking at someone else's reality while doing nothing about yours.
+> So long as we are being remembered, we remain alive.
 >
-> Steve Harvey
+> Carlos Ruiz Zafon
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></h3>
-      <p>From opusfived.dev. 866 points on Hacker News, 359 comments. Posted by matthieu_bl.</p>
+      <p>From opusfived.dev. 944 points on Hacker News, 384 comments. Posted by matthieu_bl.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify">Shopify acquires Tailwind</a></h3>
-      <p>From tailwindcss.com. 739 points on Hacker News, 307 comments. Posted by EdwinHoksberg.</p>
+      <p>From tailwindcss.com. 837 points on Hacker News, 335 comments. Posted by EdwinHoksberg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ai.meta.com/muse/">Muse  Meta’s personal AI agent</a></h3>
-      <p>From ai.meta.com. 622 points on Hacker News, 683 comments. Posted by yks.</p>
+      <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
+      <p>From apple.com. 765 points on Hacker News, 1514 comments. Posted by thecosmicfrog.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 09 Sep 2026, 20:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Sep 2026, 23:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
