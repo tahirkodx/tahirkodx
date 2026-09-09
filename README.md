@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788953578" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788972297" alt="Famous quote" width="100%">
 </p>
 
-> Don't let anyone define you. You define yourself.
+> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.
 >
-> Billie Jean King
+> Kabir
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
-      <p>Further discussion: https://simonwillison.net/2026/Sep/8/on-navier-stokes/ , https://news.ycombinator.com/item?id=49621697.</p>
+      <h3><a href="https://opusfived.dev/">Claude, change the "Add to Cart" button to blue</a></h3>
+      <p>From opusfived.dev. 622 points on Hacker News, 238 comments. Posted by matthieu_bl.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9v9djj4m3do">White House pulls Tetris-style 'Build The Wall' game after copyright concern</a></h3>
+      <p>The Tetris Company says it takes "copyright infringement very seriously" and is not involved with the game.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://ai.meta.com/muse/">Muse  Meta’s personal AI agent</a></h3>
+      <p>From ai.meta.com. 599 points on Hacker News, 652 comments. Posted by yks.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">AlphaGenome Atlas: a high-resolution map of human DNA</a></h3>
-      <p>https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c1j1896e973o">Should promotion depend on how workers use AI?</a></h3>
-      <p>More companies are tying career progression to AI use: is that fair?</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 09 Sep 2026, 11:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Sep 2026, 16:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
