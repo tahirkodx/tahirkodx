@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788910008" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788929501" alt="Famous quote" width="100%">
 </p>
 
-> Discontent is the first necessity of progress.
+> Good judgment comes from experience, and experience comes from bad judgment.
 >
-> Thomas Edison
+> Rita Mae Brown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://cims.nyu.edu/~tristanb/statement.pdf">Navier-Stokes  Tristan Buckmaster [pdf]</a></h3>
-      <p>From cims.nyu.edu. 1098 points on Hacker News, 484 comments. Posted by procedurecall.</p>
+      <p>From cims.nyu.edu. 1425 points on Hacker News, 607 comments. Posted by procedurecall.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o">Meta continues to run ads promoting child sexual abuse material in India, report</a></h3>
+      <p>The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
+      <p>From openai.com. 1193 points on Hacker News, 1029 comments. Posted by tedsanders.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
-      <p>From openai.com. 1032 points on Hacker News, 859 comments. Posted by tedsanders.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">AlphaGenome Atlas: a high-resolution map of human DNA</a></h3>
+      <p>https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">Google DeepMind Releases AlphaGenome Atlas</a></h3>
-      <p>From blog.google. 471 points on Hacker News, 113 comments. Posted by utiiiD.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o">New law to force tech firms to stop children taking or sharing nude images</a></h3>
-      <p>The government said it will legislate "as soon as they can" but may "reassess" its plans if firms make the desired changes sooner.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 08 Sep 2026, 23:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Sep 2026, 04:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
