@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788929501" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788953578" alt="Famous quote" width="100%">
 </p>
 
-> Good judgment comes from experience, and experience comes from bad judgment.
+> Don't let anyone define you. You define yourself.
 >
-> Rita Mae Brown
+> Billie Jean King
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://cims.nyu.edu/~tristanb/statement.pdf">Navier-Stokes  Tristan Buckmaster [pdf]</a></h3>
-      <p>From cims.nyu.edu. 1425 points on Hacker News, 607 comments. Posted by procedurecall.</p>
+      <p>Further discussion: https://simonwillison.net/2026/Sep/8/on-navier-stokes/ , https://news.ycombinator.com/item?id=49621697</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckgwy1k42w4o">Anthropic researcher believes more than 10% chance AI 'could kill all humans'</a></h3>
+      <p>It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
+      <p>Further discussion: https://simonwillison.net/2026/Sep/8/on-navier-stokes/ , https://news.ycombinator.com/item?id=49621697.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/navier-stokes-solution/">On the NavierStokes Millennium Prize Problem</a></h3>
-      <p>From openai.com. 1193 points on Hacker News, 1029 comments. Posted by tedsanders.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">AlphaGenome Atlas: a high-resolution map of human DNA</a></h3>
+      <p>https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>More companies are tying career progression to AI use: is that fair?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">AlphaGenome Atlas: a high-resolution map of human DNA</a></h3>
-      <p>https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cy7zygy3rl2o">OpenAI says it cracked 90-year-old maths problem in 88 hours</a></h3>
-      <p>OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 09 Sep 2026, 04:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Sep 2026, 11:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
