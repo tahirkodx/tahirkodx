@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788972297" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788987592" alt="Famous quote" width="100%">
 </p>
 
-> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.
+> Stop wasting time looking at someone else's reality while doing nothing about yours.
 >
-> Kabir
+> Steve Harvey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cims.nyu.edu/~tristanb/statement.pdf">Navier-Stokes  Tristan Buckmaster [pdf]</a></h3>
-      <p>Further discussion: https://simonwillison.net/2026/Sep/8/on-navier-stokes/ , https://news.ycombinator.com/item?id=49621697</p>
+      <h3><a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></h3>
+      <p>From opusfived.dev. 866 points on Hacker News, 359 comments. Posted by matthieu_bl.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c8r6y4me2g6o">Google picks Finland for its largest single investment in Europe</a></h3>
+      <p>The US tech giant says the €13bn data centre project will create tens of thousands of jobs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify">Shopify acquires Tailwind</a></h3>
+      <p>From tailwindcss.com. 739 points on Hacker News, 307 comments. Posted by EdwinHoksberg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://opusfived.dev/">Claude, change the "Add to Cart" button to blue</a></h3>
-      <p>From opusfived.dev. 622 points on Hacker News, 238 comments. Posted by matthieu_bl.</p>
+      <h3><a href="https://ai.meta.com/muse/">Muse  Meta’s personal AI agent</a></h3>
+      <p>From ai.meta.com. 622 points on Hacker News, 683 comments. Posted by yks.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The Tetris Company says it takes "copyright infringement very seriously" and is not involved with the game.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ai.meta.com/muse/">Muse  Meta’s personal AI agent</a></h3>
-      <p>From ai.meta.com. 599 points on Hacker News, 652 comments. Posted by yks.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o">Meta continues to run ads promoting child sexual abuse material in India, report</a></h3>
-      <p>The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 09 Sep 2026, 16:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Sep 2026, 20:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
