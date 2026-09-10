@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789073794" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789082036" alt="Famous quote" width="100%">
 </p>
 
-> Best be yourself, imperial, plain, and true.
+> Adventure is worthwhile in itself.
 >
-> Robert Browning
+> Amelia Earhart
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
-      <p>From apple.com. 1383 points on Hacker News, 2401 comments. Posted by thecosmicfrog.</p>
+      <p>From apple.com. 1403 points on Hacker News, 2421 comments. Posted by thecosmicfrog.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o">Can Europe recharge its battery industry?</a></h3>
+      <p>Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://shopify.engineering/back-to-native">Shopify is moving from React Native back to Swift and Kotlin</a></h3>
+      <p>From shopify.engineering. 651 points on Hacker News, 437 comments. Posted by fnthawar2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/deepseek_ai/status/2097930608790167907">DeepSeek v4.1 Flash</a></h3>
-      <p>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</p>
+      <h3><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/">Rust is tier-1 language at Microsoft</a></h3>
+      <p>From rustfoundation.org. 574 points on Hacker News, 312 comments. Posted by mmastrac.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The US tech giant says the €13bn data centre project will create tens of thousands of jobs.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://shopify.engineering/back-to-native">Shopify moves back to Native from React Native</a></h3>
-      <p>From shopify.engineering. 582 points on Hacker News, 402 comments. Posted by fnthawar2.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckgwy1k42w4o">Anthropic researcher believes more than 10% chance AI 'could kill all humans'</a></h3>
-      <p>It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 10 Sep 2026, 20:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Sep 2026, 23:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
