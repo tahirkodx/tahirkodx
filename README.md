@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789057856" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789073794" alt="Famous quote" width="100%">
 </p>
 
-> Every blessing ignored becomes a curse.
+> Best be yourself, imperial, plain, and true.
 >
-> Paulo Coelho
+> Robert Browning
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
-      <p>From apple.com. 1334 points on Hacker News, 2323 comments. Posted by thecosmicfrog.</p>
+      <p>From apple.com. 1383 points on Hacker News, 2401 comments. Posted by thecosmicfrog.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://tautology.town/2026/06/01/card-networks.html">What do Visa and Mastercard do? An intro to card networks</a></h3>
-      <p>From tautology.town. 626 points on Hacker News, 378 comments. Posted by evakhoury.</p>
+      <h3><a href="https://shopify.engineering/back-to-native">Shopify moves back to Native from React Native</a></h3>
+      <p>From shopify.engineering. 582 points on Hacker News, 402 comments. Posted by fnthawar2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 10 Sep 2026, 16:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Sep 2026, 20:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
