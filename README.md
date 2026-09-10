@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1788995993" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789015975" alt="Famous quote" width="100%">
 </p>
 
-> So long as we are being remembered, we remain alive.
+> You can not live your life just based on what everyone else thinks.
 >
-> Carlos Ruiz Zafon
+> Joyce Meyer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></h3>
-      <p>From opusfived.dev. 944 points on Hacker News, 384 comments. Posted by matthieu_bl.</p>
+      <p>From opusfived.dev. 1070 points on Hacker News, 415 comments. Posted by matthieu_bl.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3wjn3pl63xo">UK needs new laws for AI in healthcare, says watchdog</a></h3>
+      <p>The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
+      <p>From apple.com. 1027 points on Hacker News, 1857 comments. Posted by thecosmicfrog.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify">Shopify acquires Tailwind</a></h3>
-      <p>From tailwindcss.com. 837 points on Hacker News, 335 comments. Posted by EdwinHoksberg.</p>
+      <p>From tailwindcss.com. 947 points on Hacker News, 376 comments. Posted by EdwinHoksberg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
-      <p>From apple.com. 765 points on Hacker News, 1514 comments. Posted by thecosmicfrog.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9v9djj4m3do">White House pulls Tetris-style 'Build The Wall' game after copyright concern</a></h3>
-      <p>The Tetris Company says it takes "copyright infringement very seriously" and is not involved with the game.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 09 Sep 2026, 23:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Sep 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
