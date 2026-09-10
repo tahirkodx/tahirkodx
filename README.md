@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789015975" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789039806" alt="Famous quote" width="100%">
 </p>
 
-> You can not live your life just based on what everyone else thinks.
+> There is nothing more frightful than ignorance in action.
 >
-> Joyce Meyer
+> Johann Wolfgang von Goethe
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://opusfived.dev/">Claude, change the “Add to Cart” button to blue</a></h3>
-      <p>From opusfived.dev. 1070 points on Hacker News, 415 comments. Posted by matthieu_bl.</p>
+      <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
+      <p>From apple.com. 1231 points on Hacker News, 2162 comments. Posted by thecosmicfrog.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
-      <p>From apple.com. 1027 points on Hacker News, 1857 comments. Posted by thecosmicfrog.</p>
+      <h3><a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify">Shopify acquires Tailwind</a></h3>
+      <p>From tailwindcss.com. 1049 points on Hacker News, 405 comments. Posted by EdwinHoksberg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify">Shopify acquires Tailwind</a></h3>
-      <p>From tailwindcss.com. 947 points on Hacker News, 376 comments. Posted by EdwinHoksberg.</p>
+      <h3><a href="https://tautology.town/2026/06/01/card-networks.html">What do Visa and Mastercard do? An intro to card networks</a></h3>
+      <p>From tautology.town. 552 points on Hacker News, 331 comments. Posted by evakhoury.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 10 Sep 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Sep 2026, 11:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
