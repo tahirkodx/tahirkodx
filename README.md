@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789102175" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789126305" alt="Famous quote" width="100%">
 </p>
 
-> Avoiding failure is to avoid progress.
+> Nothing is particularly hard if you divide it into small jobs.
 >
-> Unknown
+> Henry Ford
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,25 +437,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
-      <p>From apple.com. 1425 points on Hacker News, 2455 comments. Posted by thecosmicfrog.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o">Can Europe recharge its battery industry?</a></h3>
-      <p>Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://shopify.engineering/back-to-native">Shopify is moving from React Native back to Swift and Kotlin</a></h3>
-      <p>From shopify.engineering. 898 points on Hacker News, 609 comments. Posted by fnthawar2.</p>
+      <p>From shopify.engineering. 1097 points on Hacker News, 789 comments. Posted by fnthawar2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3wjn3pl63xo">UK needs new laws for AI in healthcare, says watchdog</a></h3>
-      <p>The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cx2zrrpkx20o">Anthropic blocks possible attempt to use AI to make biological weapons</a></h3>
+      <p>The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c8r6y4me2g6o">Google picks Finland for its largest single investment in Europe</a></h3>
-      <p>The US tech giant says the €13bn data centre project will create tens of thousands of jobs.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o">Can Europe recharge its battery industry?</a></h3>
+      <p>Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/">Rust is tier-1 language at Microsoft</a></h3>
+      <p>From rustfoundation.org. 688 points on Hacker News, 440 comments. Posted by mmastrac.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3wjn3pl63xo">UK needs new laws for AI in healthcare, says watchdog</a></h3>
+      <p>The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 11 Sep 2026, 04:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Sep 2026, 11:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
