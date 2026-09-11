@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789160571" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789168842" alt="Famous quote" width="100%">
 </p>
 
-> Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.
+> There is always risk, so learn to manage risk instead of avoiding it.
 >
-> Winston Churchill
+> Robert Kiyosaki
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mmoustafa.com/blog/so-you-want-to-use-openrouter/">So you want to use OpenRouter?</a></h3>
-      <p>From mmoustafa.com. 639 points on Hacker News, 172 comments. Posted by player85.</p>
+      <p>From mmoustafa.com. 682 points on Hacker News, 185 comments. Posted by player85.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">Claude is only available to people over 18 years</a></h3>
-      <p>From support.claude.com. 498 points on Hacker News, 547 comments. Posted by Muhammad523.</p>
+      <p>From support.claude.com. 543 points on Hacker News, 580 comments. Posted by Muhammad523.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 11 Sep 2026, 21:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Sep 2026, 23:20 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
