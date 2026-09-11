@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789082036" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789102175" alt="Famous quote" width="100%">
 </p>
 
-> Adventure is worthwhile in itself.
+> Avoiding failure is to avoid progress.
 >
-> Amelia Earhart
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.apple.com/iphone-duo/">iPhone Duo</a></h3>
-      <p>From apple.com. 1403 points on Hacker News, 2421 comments. Posted by thecosmicfrog.</p>
+      <p>From apple.com. 1425 points on Hacker News, 2455 comments. Posted by thecosmicfrog.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://shopify.engineering/back-to-native">Shopify is moving from React Native back to Swift and Kotlin</a></h3>
-      <p>From shopify.engineering. 651 points on Hacker News, 437 comments. Posted by fnthawar2.</p>
+      <p>From shopify.engineering. 898 points on Hacker News, 609 comments. Posted by fnthawar2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/">Rust is tier-1 language at Microsoft</a></h3>
-      <p>From rustfoundation.org. 574 points on Hacker News, 312 comments. Posted by mmastrac.</p>
+      <h3><a href="https://mathstodon.xyz/@andreasthom/117240535270608201">More questions about whether researchers can trust OpenAI with unpublished math</a></h3>
+      <p>https://mathstodon.xyz/@andreasthom/117240536885387540 https://mathstodon.xyz/@andreasthom/117240537520615623.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 10 Sep 2026, 23:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Sep 2026, 04:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
