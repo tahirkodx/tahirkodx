@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789126305" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789144512" alt="Famous quote" width="100%">
 </p>
 
-> Nothing is particularly hard if you divide it into small jobs.
+> Confidence is what you have before you understand the problem.
 >
-> Henry Ford
+> Woody Allen
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://shopify.engineering/back-to-native">Shopify is moving from React Native back to Swift and Kotlin</a></h3>
-      <p>From shopify.engineering. 1097 points on Hacker News, 789 comments. Posted by fnthawar2.</p>
+      <h3><a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/">Don't let anyone take away your big box of cables</a></h3>
+      <p>From blog.jim-nielsen.com. 709 points on Hacker News, 426 comments. Posted by Brajeshwar.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3eq7kl5l00o">UK government rejects 'kill switch' idea for dangerous AI</a></h3>
+      <p>The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://mmoustafa.com/blog/so-you-want-to-use-openrouter/">So you want to use OpenRouter?</a></h3>
+      <p>From mmoustafa.com. 486 points on Hacker News, 125 comments. Posted by player85.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/c5yjk63ww1ro">Does this AI comic make you laugh?</a></h3>
+      <p>Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images">Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)</a></h3>
+      <p>https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mathstodon.xyz/@andreasthom/117240535270608201">More questions about whether researchers can trust OpenAI with unpublished math</a></h3>
-      <p>https://mathstodon.xyz/@andreasthom/117240536885387540 https://mathstodon.xyz/@andreasthom/117240537520615623.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o">Can Europe recharge its battery industry?</a></h3>
-      <p>Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/">Rust is tier-1 language at Microsoft</a></h3>
-      <p>From rustfoundation.org. 688 points on Hacker News, 440 comments. Posted by mmastrac.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3wjn3pl63xo">UK needs new laws for AI in healthcare, says watchdog</a></h3>
-      <p>The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 11 Sep 2026, 11:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Sep 2026, 16:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
