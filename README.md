@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789245532" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789254289" alt="Famous quote" width="100%">
 </p>
 
-> Whatever your heart clings to and confides in, that is really your God.
+> Not why the addiction but why the pain.
 >
-> Martin Luther
+> Gabor Mate
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.autom.dev/blog/google-search-goto-links">google.com/goto: Google's anti-scraping update</a></h3>
-      <p>From autom.dev. 596 points on Hacker News, 469 comments. Posted by 1e1a.</p>
+      <h3><a href="https://www.youtube.com/watch?v=iZODN0QUgjI">IKEA made a mod for Skyrim [video]</a></h3>
+      <p>From youtube.com. 534 points on Hacker News, 140 comments. Posted by kegenaar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=iZODN0QUgjI">IKEA made a mod for Skyrim [video]</a></h3>
-      <p>From youtube.com. 496 points on Hacker News, 128 comments. Posted by kegenaar.</p>
+      <h3><a href="https://darioamodei.com/post/we-must-pace-the-frontier">We must pace the frontier</a></h3>
+      <p>From darioamodei.com. 473 points on Hacker News, 657 comments. Posted by apsec112.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cel.cs.brown.edu/blog/design-space-async-await/">A Design Space Exploration of Async/Await</a></h3>
-      <p>From cel.cs.brown.edu. 405 points on Hacker News, 116 comments. Posted by wcrichton.</p>
+      <h3><a href="https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio">LG denies TV spying claims, says tracking and snooping concerns 'not true'</a></h3>
+      <p>https://www.lg.com/global/newsroom/news/statements/statement...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 12 Sep 2026, 20:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Sep 2026, 23:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
