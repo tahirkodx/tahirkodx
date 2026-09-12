@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789210583" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789227416" alt="Famous quote" width="100%">
 </p>
 
-> If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.
+> It is the power of the mind to be unconquerable.
 >
-> James Cameron
+> Seneca
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://dayzlegame.com/blog/google-ads-bot-farm/">I spent $220 on Google app ads and 60% of the installs were robots</a></h3>
-      <p>From dayzlegame.com. 558 points on Hacker News, 295 comments. Posted by nickabe.</p>
+      <p>From dayzlegame.com. 652 points on Hacker News, 357 comments. Posted by nickabe.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 12 Sep 2026, 10:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Sep 2026, 15:36 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
