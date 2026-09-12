@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789168842" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789188184" alt="Famous quote" width="100%">
 </p>
 
-> There is always risk, so learn to manage risk instead of avoiding it.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> Robert Kiyosaki
+> Vaclav Havel
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mmoustafa.com/blog/so-you-want-to-use-openrouter/">So you want to use OpenRouter?</a></h3>
-      <p>From mmoustafa.com. 682 points on Hacker News, 185 comments. Posted by player85.</p>
+      <h3><a href="https://mathandai.org/">A misalignment of AI in mathematics</a></h3>
+      <p>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... .</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cy0zq2n9gggo">PlayStation gambles with 18-rated Wolverine game, will it pay off?</a></h3>
+      <p>The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">Claude is only available to people over 18 years</a></h3>
+      <p>From support.claude.com. 601 points on Hacker News, 616 comments. Posted by Muhammad523.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">Claude is only available to people over 18 years</a></h3>
-      <p>From support.claude.com. 543 points on Hacker News, 580 comments. Posted by Muhammad523.</p>
+      <h3><a href="https://www.rubyhack.ai/">OpenAI agents carried out an undisclosed attack on RubyGems</a></h3>
+      <p>From rubyhack.ai. 491 points on Hacker News, 287 comments. Posted by chao-.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mathandai.org/">A misalignment of AI in mathematics</a></h3>
-      <p>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... .</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cx2zrrpkx20o">Anthropic blocks possible attempt to use AI to make biological weapons</a></h3>
-      <p>The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 11 Sep 2026, 23:20 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Sep 2026, 04:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
