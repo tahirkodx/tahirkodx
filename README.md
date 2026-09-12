@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789227416" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789245532" alt="Famous quote" width="100%">
 </p>
 
-> It is the power of the mind to be unconquerable.
+> Whatever your heart clings to and confides in, that is really your God.
 >
-> Seneca
+> Martin Luther
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mathandai.org/">A misalignment of AI in mathematics</a></h3>
-      <p>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... .</p>
+      <h3><a href="https://www.autom.dev/blog/google-search-goto-links">google.com/goto: Google's anti-scraping update</a></h3>
+      <p>From autom.dev. 596 points on Hacker News, 469 comments. Posted by 1e1a.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o">Anthropic boss Dario Amodei calls for AI development to slow down</a></h3>
+      <p>The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.youtube.com/watch?v=iZODN0QUgjI">IKEA made a mod for Skyrim [video]</a></h3>
+      <p>From youtube.com. 496 points on Hacker News, 128 comments. Posted by kegenaar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.rubyhack.ai/">OpenAI agents carried out an undisclosed attack on RubyGems</a></h3>
-      <p>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</p>
+      <h3><a href="https://cel.cs.brown.edu/blog/design-space-async-await/">A Design Space Exploration of Async/Await</a></h3>
+      <p>From cel.cs.brown.edu. 405 points on Hacker News, 116 comments. Posted by wcrichton.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://dayzlegame.com/blog/google-ads-bot-farm/">I spent $220 on Google app ads and 60% of the installs were robots</a></h3>
-      <p>From dayzlegame.com. 652 points on Hacker News, 357 comments. Posted by nickabe.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/c5yjk63ww1ro">Does this AI comic make you laugh?</a></h3>
-      <p>Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 12 Sep 2026, 15:36 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Sep 2026, 20:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
