@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789188184" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789210583" alt="Famous quote" width="100%">
 </p>
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.
 >
-> Vaclav Havel
+> James Cameron
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude">Claude is only available to people over 18 years</a></h3>
-      <p>From support.claude.com. 601 points on Hacker News, 616 comments. Posted by Muhammad523.</p>
+      <h3><a href="https://www.rubyhack.ai/">OpenAI agents carried out an undisclosed attack on RubyGems</a></h3>
+      <p>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.rubyhack.ai/">OpenAI agents carried out an undisclosed attack on RubyGems</a></h3>
-      <p>From rubyhack.ai. 491 points on Hacker News, 287 comments. Posted by chao-.</p>
+      <h3><a href="https://dayzlegame.com/blog/google-ads-bot-farm/">I spent $220 on Google app ads and 60% of the installs were robots</a></h3>
+      <p>From dayzlegame.com. 558 points on Hacker News, 295 comments. Posted by nickabe.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 12 Sep 2026, 04:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Sep 2026, 10:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
