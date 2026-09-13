@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789275462" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789300886" alt="Famous quote" width="100%">
 </p>
 
-> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
+> Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.
 >
-> Dr. Seuss
+> Richard Bach
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://darioamodei.com/post/we-must-pace-the-frontier">We must pace the frontier</a></h3>
-      <p>From darioamodei.com. 599 points on Hacker News, 827 comments. Posted by apsec112.</p>
+      <p>From darioamodei.com. 669 points on Hacker News, 937 comments. Posted by apsec112.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/c1kx0gyje9wo">AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</a></h3>
-      <p>Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.</p>
+      <p>It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.</p>
     </td>
   </tr>
   <tr>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">Nvidia is the central bank of AI</a></h3>
-      <p>https://archive.ph/kt50V</p>
+      <h3><a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/">Everyone should slow down AI development except for me</a></h3>
+      <p>From xeiaso.net. 550 points on Hacker News, 326 comments. Posted by xena.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 13 Sep 2026, 04:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Sep 2026, 12:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
