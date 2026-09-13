@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789332958" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789341178" alt="Famous quote" width="100%">
 </p>
 
-> Dream big. Start small. But most of all, start.
+> I am not absentminded. It is the presence of mind that makes me unaware of everything else.
 >
-> Simon Sinek
+> Gilbert Chesterton
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://high5apps.github.io/josm-plugin-website-wizard/">Make your first edit to OpenStreetMap</a></h3>
-      <p>From high5apps.github.io. 579 points on Hacker News, 138 comments. Posted by juliantigler.</p>
+      <p>From high5apps.github.io. 590 points on Hacker News, 138 comments. Posted by juliantigler.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating">Why are AI agents lying, cheating and coordinating?</a></h3>
-      <p>From yoshuabengio.org. 540 points on Hacker News, 626 comments. Posted by jonifico.</p>
+      <p>From yoshuabengio.org. 572 points on Hacker News, 642 comments. Posted by jonifico.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jetkvm.com/blog/introducing-jetkvm-mini">JetKVM Mini</a></h3>
-      <p>From jetkvm.com. 473 points on Hacker News, 182 comments. Posted by taubek.</p>
+      <h3><a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">Homebrew 7.0.0</a></h3>
+      <p>From brew.sh. 540 points on Hacker News, 211 comments. Posted by mikemcquaid.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 13 Sep 2026, 20:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Sep 2026, 23:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
