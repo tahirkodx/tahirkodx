@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789316791" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789332958" alt="Famous quote" width="100%">
 </p>
 
-> No matter how tall the mountain is, it cannot block the sun.
+> Dream big. Start small. But most of all, start.
 >
-> Chinese Proverb
+> Simon Sinek
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,31 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://high5apps.github.io/josm-plugin-website-wizard/">Make your first edit to OpenStreetMap</a></h3>
-      <p>From high5apps.github.io. 545 points on Hacker News, 134 comments. Posted by juliantigler.</p>
+      <p>From high5apps.github.io. 579 points on Hacker News, 138 comments. Posted by juliantigler.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo">Trump downplays warnings of AI risks, citing rivalry with China</a></h3>
+      <p>The US President said "negative forces" were airing concerns about "things that won't happen".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating">Why are AI agents lying, cheating and coordinating?</a></h3>
+      <p>From yoshuabengio.org. 540 points on Hacker News, 626 comments. Posted by jonifico.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzp47py48o">Questions mount over what an AI 'slowdown' would look like</a></h3>
+      <p>While pacing AI development might sound like a quick fix, it is far from an easy solution.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://jetkvm.com/blog/introducing-jetkvm-mini">JetKVM Mini</a></h3>
+      <p>From jetkvm.com. 473 points on Hacker News, 182 comments. Posted by taubek.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">Nvidia is the central bank of AI</a></h3>
-      <p>https://archive.ph/kt50V</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o">Anthropic boss Dario Amodei calls for AI development to slow down</a></h3>
-      <p>The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating">Why are AI agents lying, cheating and coordinating?</a></h3>
-      <p>From yoshuabengio.org. 456 points on Hacker News, 531 comments. Posted by jonifico.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cy0zq2n9gggo">PlayStation gambles with 18-rated Wolverine game, will it pay off?</a></h3>
-      <p>The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 13 Sep 2026, 16:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Sep 2026, 20:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
