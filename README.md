@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789300886" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789316791" alt="Famous quote" width="100%">
 </p>
 
-> Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.
+> No matter how tall the mountain is, it cannot block the sun.
 >
-> Richard Bach
+> Chinese Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://darioamodei.com/post/we-must-pace-the-frontier">We must pace the frontier</a></h3>
-      <p>From darioamodei.com. 669 points on Hacker News, 937 comments. Posted by apsec112.</p>
+      <h3><a href="https://high5apps.github.io/josm-plugin-website-wizard/">Make your first edit to OpenStreetMap</a></h3>
+      <p>From high5apps.github.io. 545 points on Hacker News, 134 comments. Posted by juliantigler.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio">LG denies TV spying claims, says tracking and snooping concerns 'not true'</a></h3>
-      <p>https://www.lg.com/global/newsroom/news/statements/statement...</p>
+      <h3><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">Nvidia is the central bank of AI</a></h3>
+      <p>https://archive.ph/kt50V</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://xeiaso.net/notes/2026/everyone-slowdown-but-me/">Everyone should slow down AI development except for me</a></h3>
-      <p>From xeiaso.net. 550 points on Hacker News, 326 comments. Posted by xena.</p>
+      <h3><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating">Why are AI agents lying, cheating and coordinating?</a></h3>
+      <p>From yoshuabengio.org. 456 points on Hacker News, 531 comments. Posted by jonifico.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 13 Sep 2026, 12:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Sep 2026, 16:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
