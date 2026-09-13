@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789254289" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789275462" alt="Famous quote" width="100%">
 </p>
 
-> Not why the addiction but why the pain.
+> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
 >
-> Gabor Mate
+> Dr. Seuss
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,25 +437,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=iZODN0QUgjI">IKEA made a mod for Skyrim [video]</a></h3>
-      <p>From youtube.com. 534 points on Hacker News, 140 comments. Posted by kegenaar.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o">Anthropic boss Dario Amodei calls for AI development to slow down</a></h3>
-      <p>The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://darioamodei.com/post/we-must-pace-the-frontier">We must pace the frontier</a></h3>
-      <p>From darioamodei.com. 473 points on Hacker News, 657 comments. Posted by apsec112.</p>
+      <p>From darioamodei.com. 599 points on Hacker News, 827 comments. Posted by apsec112.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cy0zq2n9gggo">PlayStation gambles with 18-rated Wolverine game, will it pay off?</a></h3>
-      <p>The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c1kx0gyje9wo">AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</a></h3>
+      <p>Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3eq7kl5l00o">UK government rejects 'kill switch' idea for dangerous AI</a></h3>
-      <p>The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o">Anthropic boss Dario Amodei calls for AI development to slow down</a></h3>
+      <p>The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">Nvidia is the central bank of AI</a></h3>
+      <p>https://archive.ph/kt50V</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cy0zq2n9gggo">PlayStation gambles with 18-rated Wolverine game, will it pay off?</a></h3>
+      <p>The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 12 Sep 2026, 23:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Sep 2026, 04:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
