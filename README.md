@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789362375" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789390810" alt="Famous quote" width="100%">
 </p>
 
-> You Create Your Own Present By What You Give Your Attention To Today.
+> Good things aren't supposed to just fall into your lap.
 >
-> Spencer Johnson
+> Audrey Hepburn
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">Why is Google still serving dodgy ads?</a></h3>
-      <p>From atomic14.com. 692 points on Hacker News, 321 comments. Posted by iamflimflam1.</p>
+      <h3><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></h3>
+      <p>From vals.ai. 1063 points on Hacker News, 470 comments. Posted by u1hcw9nx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzvgj70y4o">Committee calls for bill to address AI threat to human rights</a></h3>
-      <p>A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c790xvnzgnno">Why are there concerns AI could threaten humanity, and how real are they?</a></h3>
+      <p>Existential fears about AI have once again reared their head, here's what you need to know.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></h3>
-      <p>From vals.ai. 659 points on Hacker News, 283 comments. Posted by u1hcw9nx.</p>
+      <h3><a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">Why is Google still serving dodgy ads?</a></h3>
+      <p>From atomic14.com. 879 points on Hacker News, 379 comments. Posted by iamflimflam1.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment">Astra and Fable still hack on simple variants of alignment evals from 2025</a></h3>
-      <p>From lesswrong.com. 407 points on Hacker News, 182 comments. Posted by Levitating.</p>
+      <h3><a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10">Registration without a phone number on Signal will use zero-knowledge proofs</a></h3>
+      <p>From community.signalusers.org. 316 points on Hacker News, 159 comments. Posted by Cider9986.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 14 Sep 2026, 05:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Sep 2026, 13:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
