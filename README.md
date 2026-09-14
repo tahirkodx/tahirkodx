@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789415518" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789430019" alt="Famous quote" width="100%">
 </p>
 
-> True prayer has no set form.
+> It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.
 >
-> Morihei Ueshiba
+> Roy T. Bennett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.threebodyorbits.com/">An atlas of periodic solutions to the three-body problem</a></h3>
-      <p>From threebodyorbits.com. 281 points on Hacker News, 68 comments. Posted by danielmorozoff.</p>
+      <h3><a href="https://store.steampowered.com/hardware/steamframe">Steam Frame starts at $1059</a></h3>
+      <p>From store.steampowered.com. 452 points on Hacker News, 331 comments. Posted by bsimpson.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm4gl6j53w19o">Pubs in England and Wales to allow digital ID apps to prove age</a></h3>
+      <p>New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://xcancel.com/#">XCancel service is suspended until further notice</a></h3>
+      <p>From xcancel.com. 408 points on Hacker News, 730 comments. Posted by gaganyaan.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://store.steampowered.com/hardware/steamframe">Steam Frame starts at $1059</a></h3>
-      <p>From store.steampowered.com. 267 points on Hacker News, 141 comments. Posted by bsimpson.</p>
+      <h3><a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">OpenAI bots knew about the RubyGems caching vulnerability</a></h3>
+      <p>From tenderlovemaking.com. 342 points on Hacker News, 302 comments. Posted by gregnavis.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=49686380">Ask HN: What are you working on? (September 2026)</a></h3>
-      <p>What are you working on? What have you been curious about lately?</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c790xvnzgnno">Why are there concerns AI could threaten humanity, and how real are they?</a></h3>
-      <p>Existential fears about AI have once again reared their head, here's what you need to know.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 14 Sep 2026, 19:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Sep 2026, 23:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
