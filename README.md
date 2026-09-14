@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789390810" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789415518" alt="Famous quote" width="100%">
 </p>
 
-> Good things aren't supposed to just fall into your lap.
+> True prayer has no set form.
 >
-> Audrey Hepburn
+> Morihei Ueshiba
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></h3>
-      <p>From vals.ai. 1063 points on Hacker News, 470 comments. Posted by u1hcw9nx.</p>
+      <h3><a href="https://www.threebodyorbits.com/">An atlas of periodic solutions to the three-body problem</a></h3>
+      <p>From threebodyorbits.com. 281 points on Hacker News, 68 comments. Posted by danielmorozoff.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cn8m1113ym1o">Valve's Steam Frame is excellent, but at over £1,000 is VR still too expensive?</a></h3>
+      <p>The BBC's Tom Gerken is hands-on with the latest virtual reality headset.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://store.steampowered.com/hardware/steamframe">Steam Frame starts at $1059</a></h3>
+      <p>From store.steampowered.com. 267 points on Hacker News, 141 comments. Posted by bsimpson.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c2l799gxjjpo">What is AI, how does it work and why are some people concerned about it?</a></h3>
+      <p>AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://news.ycombinator.com/item?id=49686380">Ask HN: What are you working on? (September 2026)</a></h3>
+      <p>What are you working on? What have you been curious about lately?</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Existential fears about AI have once again reared their head, here's what you need to know.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">Why is Google still serving dodgy ads?</a></h3>
-      <p>From atomic14.com. 879 points on Hacker News, 379 comments. Posted by iamflimflam1.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo">Trump downplays warnings of AI risks, citing rivalry with China</a></h3>
-      <p>The US president said "negative forces" were airing concerns about "things that won't happen".</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10">Registration without a phone number on Signal will use zero-knowledge proofs</a></h3>
-      <p>From community.signalusers.org. 316 points on Hacker News, 159 comments. Posted by Cider9986.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzp47py48o">Questions mount over what an AI 'slowdown' would look like</a></h3>
-      <p>While pacing AI development might sound like a quick fix, it is far from an easy solution.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 14 Sep 2026, 13:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Sep 2026, 19:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
