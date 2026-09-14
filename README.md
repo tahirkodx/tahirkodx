@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789341178" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789362375" alt="Famous quote" width="100%">
 </p>
 
-> I am not absentminded. It is the presence of mind that makes me unaware of everything else.
+> You Create Your Own Present By What You Give Your Attention To Today.
 >
-> Gilbert Chesterton
+> Spencer Johnson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://high5apps.github.io/josm-plugin-website-wizard/">Make your first edit to OpenStreetMap</a></h3>
-      <p>From high5apps.github.io. 590 points on Hacker News, 138 comments. Posted by juliantigler.</p>
+      <h3><a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">Why is Google still serving dodgy ads?</a></h3>
+      <p>From atomic14.com. 692 points on Hacker News, 321 comments. Posted by iamflimflam1.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo">Trump downplays warnings of AI risks, citing rivalry with China</a></h3>
-      <p>The US President said "negative forces" were airing concerns about "things that won't happen".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwyzvgj70y4o">Committee calls for bill to address AI threat to human rights</a></h3>
+      <p>A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating">Why are AI agents lying, cheating and coordinating?</a></h3>
-      <p>From yoshuabengio.org. 572 points on Hacker News, 642 comments. Posted by jonifico.</p>
+      <h3><a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></h3>
+      <p>From vals.ai. 659 points on Hacker News, 283 comments. Posted by u1hcw9nx.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo">Trump downplays warnings of AI risks, citing rivalry with China</a></h3>
+      <p>The US president said "negative forces" were airing concerns about "things that won't happen".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment">Astra and Fable still hack on simple variants of alignment evals from 2025</a></h3>
+      <p>From lesswrong.com. 407 points on Hacker News, 182 comments. Posted by Levitating.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>While pacing AI development might sound like a quick fix, it is far from an easy solution.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">Homebrew 7.0.0</a></h3>
-      <p>From brew.sh. 540 points on Hacker News, 211 comments. Posted by mikemcquaid.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c1kx0gyje9wo">AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</a></h3>
-      <p>It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 13 Sep 2026, 23:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Sep 2026, 05:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
