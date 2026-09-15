@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789430019" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789448502" alt="Famous quote" width="100%">
 </p>
 
-> It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> Roy T. Bennett
+> Elbert Hubbard
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://store.steampowered.com/hardware/steamframe">Steam Frame starts at $1059</a></h3>
-      <p>From store.steampowered.com. 452 points on Hacker News, 331 comments. Posted by bsimpson.</p>
+      <p>From store.steampowered.com. 583 points on Hacker News, 436 comments. Posted by bsimpson.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw980n0nd0qjo">Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards</a></h3>
+      <p>The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://xcancel.com/#">XCancel service is suspended until further notice</a></h3>
+      <p>From xcancel.com. 536 points on Hacker News, 818 comments. Posted by gaganyaan.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://xcancel.com/#">XCancel service is suspended until further notice</a></h3>
-      <p>From xcancel.com. 408 points on Hacker News, 730 comments. Posted by gaganyaan.</p>
+      <h3><a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">iOS 27, iPadOS 27, and macOS 27</a></h3>
+      <p>From apple.com. 480 points on Hacker News, 521 comments. Posted by throw0101d.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The BBC's Tom Gerken is hands-on with the latest virtual reality headset.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">OpenAI bots knew about the RubyGems caching vulnerability</a></h3>
-      <p>From tenderlovemaking.com. 342 points on Hacker News, 302 comments. Posted by gregnavis.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c2l799gxjjpo">What is AI, how does it work and why are some people concerned about it?</a></h3>
-      <p>AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 14 Sep 2026, 23:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Sep 2026, 05:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
