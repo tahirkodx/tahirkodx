@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789473198" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789492029" alt="Famous quote" width="100%">
 </p>
 
-> Confidence is what you have before you understand the problem.
+> There are no shortcuts to any place worth going.
 >
-> Woody Allen
+> Beverly Sills
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://xcancel.com/#">XCancel service is suspended until further notice</a></h3>
-      <p>From xcancel.com. 667 points on Hacker News, 954 comments. Posted by gaganyaan.</p>
+      <h3><a href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua">I can't stop thinking about Papua New Guinea</a></h3>
+      <p>From notnottalmud.substack.com. 724 points on Hacker News, 307 comments. Posted by networked.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">iOS 27, iPadOS 27, and macOS 27</a></h3>
-      <p>From apple.com. 634 points on Hacker News, 722 comments. Posted by throw0101d.</p>
+      <h3><a href="https://github.com/arnegiacomo/fugleramme">Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></h3>
+      <p>From github.com. 662 points on Hacker News, 103 comments. Posted by arnemunthekaas.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">OpenAI bots knew about the RubyGems caching vulnerability</a></h3>
-      <p>From tenderlovemaking.com. 472 points on Hacker News, 382 comments. Posted by gregnavis.</p>
+      <h3><a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html">25 years of mass surveillance is enough</a></h3>
+      <p>From schneier.com. 514 points on Hacker News, 161 comments. Posted by iamnothere.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Sep 2026, 11:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Sep 2026, 17:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
