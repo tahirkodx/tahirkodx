@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789578410" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789593845" alt="Famous quote" width="100%">
 </p>
 
-> Have a vision. Be demanding.
+> Change begets change. Nothing propagates so fast.
 >
-> Colin Powell
+> Charles Dickens
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></h3>
-      <p>From typesafe.ai. 1702 points on Hacker News, 459 comments. Posted by albelfio.</p>
+      <h3><a href="https://mistral.ai/news/mistral-x-mozilla/">Mistral X Mozilla: Private, Multilingual AI Browsing</a></h3>
+      <p>From mistral.ai. 491 points on Hacker News, 176 comments. Posted by vertigoruntime.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">An update on Wayback Machine access</a></h3>
-      <p>From blog.archive.org. 649 points on Hacker News, 340 comments. Posted by ChrisArchitect.</p>
+      <h3><a href="https://will-keleher.com/posts/small-programming-tricks-matter/">Small programming tricks</a></h3>
+      <p>From will-keleher.com. 288 points on Hacker News, 151 comments. Posted by signa11.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 16 Sep 2026, 17:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Sep 2026, 21:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
