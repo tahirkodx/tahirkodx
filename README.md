@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789559227" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789578410" alt="Famous quote" width="100%">
 </p>
 
-> Heal the past, live the present, dream the future.
+> Have a vision. Be demanding.
 >
-> Mary Engelbreit
+> Colin Powell
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo">Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity</a></h3>
+      <p>Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it "may be conscious".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></h3>
+      <p>From typesafe.ai. 1702 points on Hacker News, 459 comments. Posted by albelfio.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cqx2zpj4y525o">OpenAI boss says world 'right to be afraid' but should trust AI firms</a></h3>
       <p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></h3>
-      <p>From typesafe.ai. 1476 points on Hacker News, 424 comments. Posted by albelfio.</p>
+      <h3><a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">An update on Wayback Machine access</a></h3>
+      <p>From blog.archive.org. 649 points on Hacker News, 340 comments. Posted by ChrisArchitect.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The ad regulator said it had "zero-tolerance" for ads promoting AI tools that could sexualise or objectify women.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">An update on Wayback Machine access</a></h3>
-      <p>From blog.archive.org. 561 points on Hacker News, 303 comments. Posted by ChrisArchitect.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm4gl6j53w19o">Pubs in England and Wales to allow digital ID apps to prove age</a></h3>
-      <p>New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 16 Sep 2026, 11:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Sep 2026, 17:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
