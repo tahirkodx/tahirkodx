@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789507712" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789534614" alt="Famous quote" width="100%">
 </p>
 
-> It's easier to lose than to win.
+> The biggest room in the world is the room for improvement.
 >
-> Wayne Gretzky
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqx2zpj4y525o">OpenAI boss says world 'right to be afraid' but 'should trust' AI firms</a></h3>
+      <p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Introducing System One Models and Jev</a></h3>
+      <p>From typesafe.ai. 992 points on Hacker News, 313 comments. Posted by albelfio.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o">AI app ads promoting 'objectification of women' banned by watchdog</a></h3>
+      <p>The ad regulator said it had "zero-tolerance" for ads promoting AI tools that could sexualise or objectify women.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.effort.news/irregular">A single firm is behind OpenAI, Anthropic, and Meta hacking scandals</a></h3>
+      <p>From effort.news. 544 points on Hacker News, 186 comments. Posted by yusufozkan.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cm4gl6j53w19o">Pubs in England and Wales to allow digital ID apps to prove age</a></h3>
       <p>New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua">I can't stop thinking about Papua New Guinea</a></h3>
-      <p>From notnottalmud.substack.com. 958 points on Hacker News, 383 comments. Posted by networked.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cn8m1113ym1o">Valve's Steam Frame is excellent, but at over £1,000 is VR still too expensive?</a></h3>
-      <p>The BBC's Tom Gerken is hands-on with the latest virtual reality headset.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html">25 years of mass surveillance is enough</a></h3>
-      <p>From schneier.com. 700 points on Hacker News, 249 comments. Posted by iamnothere.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c2l799gxjjpo">What is AI, how does it work and why are some people concerned about it?</a></h3>
-      <p>AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 15 Sep 2026, 21:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Sep 2026, 04:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
