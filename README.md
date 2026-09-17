@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789645850" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789664851" alt="Famous quote" width="100%">
 </p>
 
-> Be fascinated instead of frustrated.
+> Outstanding people have one thing in common: an absolute sense of mission.
 >
-> Jim Rohn
+> Zig Ziglar
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c65ymj7njvl7o">King Charles warns of 'existential danger' of AI falling into wrong hands</a></h3>
+      <p>The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/">Nvidia announces native GPU programming in Rust</a></h3>
+      <p>From developer.nvidia.com. 888 points on Hacker News, 354 comments. Posted by nonmaskable.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/c790xvnzgnno">Why are there concerns AI could threaten humanity, and how real are they?</a></h3>
       <p>Existential fears about AI have once again reared their head, here's what you need to know.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/">Nvidia announces native GPU programming in Rust</a></h3>
-      <p>From developer.nvidia.com. 739 points on Hacker News, 304 comments. Posted by nonmaskable.</p>
+      <h3><a href="https://mimo.xiaomi.com/rl/">Xiaomi Mimo 2.6 live post-training dashboard</a></h3>
+      <p>From mimo.xiaomi.com. 524 points on Hacker News, 148 comments. Posted by krackers.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rohanbansal.com/qorl">Training a 4B model to produce 81% faster query plans than Postgres</a></h3>
-      <p>From rohanbansal.com. 573 points on Hacker News, 120 comments. Posted by polyphilz.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr3wjz3edd10o">Snapchat open to putting time limits on teens, boss tells BBC</a></h3>
-      <p>Evan Spiegel says it would be "an important step forward for the industry" in an interview with the BBC.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 17 Sep 2026, 11:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Sep 2026, 17:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
