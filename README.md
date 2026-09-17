@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789593845" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789621191" alt="Famous quote" width="100%">
 </p>
 
-> Change begets change. Nothing propagates so fast.
+> Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.
 >
-> Charles Dickens
+> Wayne Gretzky
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo">Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity</a></h3>
-      <p>Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it "may be conscious".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmpq0wj5g899o">OpenAI reveals six more safety issues and unveils plan to disclose incidents</a></h3>
+      <p>The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or "misalignment".</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mistral.ai/news/mistral-x-mozilla/">Mistral X Mozilla: Private, Multilingual AI Browsing</a></h3>
-      <p>From mistral.ai. 491 points on Hacker News, 176 comments. Posted by vertigoruntime.</p>
+      <h3><a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/">Hackers Got Inside a Flock Camera</a></h3>
+      <p>https://micahflee.com/flock-cameras-are-riddled-with-securit...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqx2zpj4y525o">OpenAI boss says world 'right to be afraid' but should trust AI firms</a></h3>
-      <p>Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr3wjz3edd10o">Snapchat open to putting time limits on teens, boss tells BBC</a></h3>
+      <p>Evan Spiegel says it would be "an important step forward for the industry" in an interview with the BBC.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://will-keleher.com/posts/small-programming-tricks-matter/">Small programming tricks</a></h3>
-      <p>From will-keleher.com. 288 points on Hacker News, 151 comments. Posted by signa11.</p>
+      <h3><a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/">Nvidia announces native GPU programming in Rust</a></h3>
+      <p>From developer.nvidia.com. 460 points on Hacker News, 162 comments. Posted by nonmaskable.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o">AI app ads promoting 'objectification of women' banned by watchdog</a></h3>
-      <p>The ad regulator said it had "zero-tolerance" for ads promoting AI tools that could sexualise or objectify women.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo">Would you buy branded clothing from your favourite tech firm?</a></h3>
+      <p>Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 16 Sep 2026, 21:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Sep 2026, 04:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
