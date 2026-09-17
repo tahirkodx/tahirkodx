@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789664851" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789680545" alt="Famous quote" width="100%">
 </p>
 
-> Outstanding people have one thing in common: an absolute sense of mission.
+> When I let go of what I am, I become what I might be.
 >
-> Zig Ziglar
+> Lao Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/arnegiacomo/fugleramme">Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></h3>
-      <p>See also: Avian Visitors, https://news.ycombinator.com/item?id=48343424, May 2026 (20 comments)</p>
+      <h3><a href="https://global.fujitsu/en-global/pr/news/2026/09/14-02">Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></h3>
+      <p>From global.fujitsu. 454 points on Hacker News, 164 comments. Posted by my123.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/">Nvidia announces native GPU programming in Rust</a></h3>
-      <p>From developer.nvidia.com. 888 points on Hacker News, 354 comments. Posted by nonmaskable.</p>
+      <h3><a href="https://github.com/asciimoo/hister">Hister: A private search engine for the pages you visit and the files you keep</a></h3>
+      <p>From github.com. 339 points on Hacker News, 110 comments. Posted by bookofjoe.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mimo.xiaomi.com/rl/">Xiaomi Mimo 2.6 live post-training dashboard</a></h3>
-      <p>From mimo.xiaomi.com. 524 points on Hacker News, 148 comments. Posted by krackers.</p>
+      <h3><a href="https://z.ai/blog/glm-built-its-inference-infrastructure">How GLM built its own inference infrastructure</a></h3>
+      <p>From z.ai. 336 points on Hacker News, 250 comments. Posted by whiteros_e.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Sep 2026, 17:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Sep 2026, 21:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
