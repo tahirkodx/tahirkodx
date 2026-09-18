@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789765138" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789773717" alt="Famous quote" width="100%">
 </p>
 
-> Poetry is written with tears, fiction with blood, and history with invisible ink.
+> Progress is limited by your ability to change your mind.
 >
-> Carlos Ruiz Zafon
+> Jack Butcher
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openjev.com/">OpenJev</a></h3>
-      <p>From openjev.com. 487 points on Hacker News, 233 comments. Posted by ilreb.</p>
+      <p>From openjev.com. 527 points on Hacker News, 238 comments. Posted by ilreb.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/cm9w4nenzv4no">Would Australians support a smart glasses ban?</a></h3>
+      <p>As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://try.cloudflare.com/">Cloudflare Quick Tunnels</a></h3>
+      <p>From try.cloudflare.com. 516 points on Hacker News, 223 comments. Posted by jcbhmr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://try.cloudflare.com/">Cloudflare Quick Tunnels</a></h3>
-      <p>From try.cloudflare.com. 437 points on Hacker News, 194 comments. Posted by jcbhmr.</p>
+      <h3><a href="https://grapheneos.social/@GrapheneOS/117282080803799576">Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></h3>
+      <p>From grapheneos.social. 407 points on Hacker News, 188 comments. Posted by theanonymousone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">Jemalloc 5.4.0</a></h3>
-      <p>From github.com. 317 points on Hacker News, 85 comments. Posted by gkfasdfasdf.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c790xvnzgnno">Why are there concerns AI could threaten humanity, and how real are they?</a></h3>
-      <p>Existential fears about AI have once again reared their head, here's what you need to know.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 18 Sep 2026, 20:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Sep 2026, 23:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
