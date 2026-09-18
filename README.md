@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789680545" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789707156" alt="Famous quote" width="100%">
 </p>
 
-> When I let go of what I am, I become what I might be.
+> It's the unknown we fear when we look upon death and darkness, nothing more.
 >
-> Lao Tzu
+> Albus Dumbledore
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://global.fujitsu/en-global/pr/news/2026/09/14-02">Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></h3>
-      <p>From global.fujitsu. 454 points on Hacker News, 164 comments. Posted by my123.</p>
+      <p>From global.fujitsu. 542 points on Hacker News, 205 comments. Posted by my123.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c79g0j3d4q9o">The virtual worlds where robots are trained</a></h3>
+      <p>Training systems that allow robots to negotiate the real world are getting more sophisticated.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/asciimoo/hister">Hister: A private search engine for the pages you visit and the files you keep</a></h3>
+      <p>From github.com. 520 points on Hacker News, 141 comments. Posted by bookofjoe.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/asciimoo/hister">Hister: A private search engine for the pages you visit and the files you keep</a></h3>
-      <p>From github.com. 339 points on Hacker News, 110 comments. Posted by bookofjoe.</p>
+      <h3><a href="https://openai.com/index/astra-for-law/">Astra for Law</a></h3>
+      <p>From openai.com. 399 points on Hacker News, 429 comments. Posted by vertigoruntime.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Existential fears about AI have once again reared their head, here's what you need to know.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://z.ai/blog/glm-built-its-inference-infrastructure">How GLM built its own inference infrastructure</a></h3>
-      <p>From z.ai. 336 points on Hacker News, 250 comments. Posted by whiteros_e.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo">Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft</a></h3>
-      <p>Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 17 Sep 2026, 21:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Sep 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
