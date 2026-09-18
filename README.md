@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789730797" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789749115" alt="Famous quote" width="100%">
 </p>
 
-> Men trust their ears less than their eyes.
+> Plants grow weak without wind.
 >
-> Herodotus
+> Maxime Lagace
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/asciimoo/hister">Hister: A private search engine for the pages you visit and the files you keep</a></h3>
-      <p>From github.com. 631 points on Hacker News, 170 comments. Posted by bookofjoe.</p>
+      <h3><a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">Microsoft exec called AI scraping 'the largest theft of labor in human history'</a></h3>
+      <p>From techcrunch.com. 676 points on Hacker News, 586 comments. Posted by pluc.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://global.fujitsu/en-global/pr/news/2026/09/14-02">Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></h3>
-      <p>From global.fujitsu. 604 points on Hacker News, 234 comments. Posted by my123.</p>
+      <h3><a href="https://prismml.com/news/bonsai-2-27b">Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a></h3>
+      <p>From prismml.com. 530 points on Hacker News, 172 comments. Posted by JonSchneider.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/astra-for-law/">Astra for Law</a></h3>
-      <p>From openai.com. 506 points on Hacker News, 593 comments. Posted by vertigoruntime.</p>
+      <h3><a href="https://hawksley.dev/blog/i-dont-like-passkeys">I don't like passkeys</a></h3>
+      <p>From hawksley.dev. 461 points on Hacker News, 431 comments. Posted by ethanhawksley.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 18 Sep 2026, 11:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Sep 2026, 16:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
