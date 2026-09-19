@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789793073" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789816206" alt="Famous quote" width="100%">
 </p>
 
-> Logic is like the sword, those who appeal to it shall perish by it.
+> You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.
 >
-> Samuel Butler
+> James Allen
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://grapheneos.social/@GrapheneOS/117282080803799576">Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></h3>
-      <p>From grapheneos.social. 674 points on Hacker News, 322 comments. Posted by theanonymousone.</p>
+      <p>From grapheneos.social. 861 points on Hacker News, 435 comments. Posted by theanonymousone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://try.cloudflare.com/">Cloudflare Quick Tunnels</a></h3>
-      <p>From try.cloudflare.com. 634 points on Hacker News, 263 comments. Posted by jcbhmr.</p>
+      <p>From try.cloudflare.com. 717 points on Hacker News, 285 comments. Posted by jcbhmr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openjev.com/">OpenJev</a></h3>
-      <p>From openjev.com. 582 points on Hacker News, 249 comments. Posted by ilreb.</p>
+      <p>From openjev.com. 633 points on Hacker News, 267 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Sep 2026, 04:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Sep 2026, 11:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
