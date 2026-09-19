@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789833433" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789850941" alt="Famous quote" width="100%">
 </p>
 
-> There are two things a person should never be angry at, what they can help, and what they cannot.
+> Creative endeavors are by their nature uncertain.
 >
-> Plato
+> Robert Greene
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://grapheneos.social/@GrapheneOS/117282080803799576">Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></h3>
-      <p>From grapheneos.social. 962 points on Hacker News, 529 comments. Posted by theanonymousone.</p>
+      <h3><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a></h3>
+      <p>From john.hartnup.uk. 1138 points on Hacker News, 631 comments. Posted by ereiamjh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://try.cloudflare.com/">Cloudflare Quick Tunnels</a></h3>
-      <p>From try.cloudflare.com. 768 points on Hacker News, 299 comments. Posted by jcbhmr.</p>
+      <h3><a href="https://grapheneos.social/@GrapheneOS/117282080803799576">Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></h3>
+      <p>From grapheneos.social. 1074 points on Hacker News, 627 comments. Posted by theanonymousone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a></h3>
-      <p>From john.hartnup.uk. 670 points on Hacker News, 396 comments. Posted by ereiamjh.</p>
+      <h3><a href="https://laya.convaiinnovations.com/">I built non-autoregressive decision models with RL a year ago</a></h3>
+      <p>From laya.convaiinnovations.com. 893 points on Hacker News, 220 comments. Posted by nandakishor_ml.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Sep 2026, 15:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Sep 2026, 20:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
