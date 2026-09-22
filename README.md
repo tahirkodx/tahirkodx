@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790053690" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790077763" alt="Famous quote" width="100%">
 </p>
 
-> Always try to be a little kinder than necessary.
+> The only real mistake is the one from which we learn nothing.
 >
-> James Matthew Barrie
+> Henry Ford
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mimo.xiaomi.com/mimo-v2-6">MiMo v2.6</a></h3>
-      <p>From mimo.xiaomi.com. 693 points on Hacker News, 327 comments. Posted by volf_.</p>
+      <p>From mimo.xiaomi.com. 940 points on Hacker News, 417 comments. Posted by volf_.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://alicegg.tech/2026/09/21/attention">Attention is all you have</a></h3>
-      <p>From alicegg.tech. 659 points on Hacker News, 198 comments. Posted by zer0tonin.</p>
+      <p>From alicegg.tech. 845 points on Hacker News, 253 comments. Posted by zer0tonin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">What Sun got wrong</a></h3>
-      <p>From bcantrill.dtrace.org. 543 points on Hacker News, 313 comments. Posted by chmaynard.</p>
+      <h3><a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">I don't want to read what you didn't write</a></h3>
+      <p>From blog.colinbreck.com. 742 points on Hacker News, 299 comments. Posted by mooreds.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Sep 2026, 05:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Sep 2026, 11:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
