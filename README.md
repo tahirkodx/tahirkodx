@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790096582" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790112385" alt="Famous quote" width="100%">
 </p>
 
-> Education breeds confidence. Confidence breeds hope. Hope breeds peace.
+> Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.
 >
-> Confucius
+> Robert Greene
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mimo.xiaomi.com/mimo-v2-6">MiMo v2.6</a></h3>
-      <p>From mimo.xiaomi.com. 1038 points on Hacker News, 460 comments. Posted by volf_.</p>
+      <h3><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></h3>
+      <p>From anthropic.com. 925 points on Hacker News, 682 comments. Posted by km144.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">I don't want to read what you didn't write</a></h3>
-      <p>From blog.colinbreck.com. 935 points on Hacker News, 387 comments. Posted by mooreds.</p>
+      <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
+      <p>From openai.com. 857 points on Hacker News, 447 comments. Posted by OfficialTurkey.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">What Sun got wrong</a></h3>
-      <p>From bcantrill.dtrace.org. 659 points on Hacker News, 380 comments. Posted by chmaynard.</p>
+      <h3><a href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy">Apple has added persistent 'ads' to iOS, and it's driving users crazy</a></h3>
+      <p>From techradar.com. 521 points on Hacker News, 398 comments. Posted by MC995.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Sep 2026, 17:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Sep 2026, 21:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
