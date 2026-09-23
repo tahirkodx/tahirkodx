@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790164136" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790183563" alt="Famous quote" width="100%">
 </p>
 
-> Creative people are often found either disagreeable or intimidating by mediocrities.
+> The wise warrior avoids the battle.
 >
-> Criss Jami
+> Sun Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></h3>
-      <p>From anthropic.com. 1593 points on Hacker News, 986 comments. Posted by km144.</p>
+      <p>From anthropic.com. 1702 points on Hacker News, 1039 comments. Posted by km144.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,12 +450,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
-      <p>From openai.com. 1590 points on Hacker News, 761 comments. Posted by OfficialTurkey.</p>
+      <p>From openai.com. 1679 points on Hacker News, 804 comments. Posted by OfficialTurkey.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro">US criticises Australia's proposed algorithm opt-out laws as 'censorship'</a></h3>
-      <p>Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c90kly26d7pzo">OpenAI gives cyber defence tools to Ukraine</a></h3>
+      <p>Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal, a rival to Anthropic's Mythos and Fable</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +466,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c2dwg3zexkpo">Will a switch to light speed cut power use at data centres?</a></h3>
-      <p>To save power and add capacity, data centres are switching from copper wires to tech using light.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro">US criticises Australia's proposed algorithm opt-out laws as 'censorship'</a></h3>
+      <p>Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 23 Sep 2026, 11:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Sep 2026, 17:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
