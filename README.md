@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790139168" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790164136" alt="Famous quote" width="100%">
 </p>
 
-> You have power over your mind, not outside events. Realize this, and you will find strength.
+> Creative people are often found either disagreeable or intimidating by mediocrities.
 >
-> Marcus Aurelius
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></h3>
-      <p>From anthropic.com. 1348 points on Hacker News, 866 comments. Posted by km144.</p>
+      <p>From anthropic.com. 1593 points on Hacker News, 986 comments. Posted by km144.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo">Pornhub investigated over its age checks</a></h3>
+      <p>The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
+      <p>From openai.com. 1590 points on Hacker News, 761 comments. Posted by OfficialTurkey.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
-      <p>From openai.com. 1337 points on Hacker News, 651 comments. Posted by OfficialTurkey.</p>
+      <h3><a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/">Pentagon says overreliance on AI contributed to missile strike on Iran school</a></h3>
+      <p>https://archive.ph/0V37g</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>To save power and add capacity, data centres are switching from copper wires to tech using light.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy">Apple has added persistent 'ads' to iOS, and it's driving users crazy</a></h3>
-      <p>From techradar.com. 664 points on Hacker News, 489 comments. Posted by MC995.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro">As Trump and Xi talk, China surges ahead with its AI ambitions</a></h3>
-      <p>The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at "China speed", says one worker.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 23 Sep 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Sep 2026, 11:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
