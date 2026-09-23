@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790183563" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790199291" alt="Famous quote" width="100%">
 </p>
 
-> The wise warrior avoids the battle.
+> The world is changed by your example, not by your opinion.
 >
-> Sun Tzu
+> Paulo Coelho
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></h3>
-      <p>From anthropic.com. 1702 points on Hacker News, 1039 comments. Posted by km144.</p>
+      <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
+      <p>From openai.com. 1726 points on Hacker News, 820 comments. Posted by OfficialTurkey.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
-      <p>From openai.com. 1679 points on Hacker News, 804 comments. Posted by OfficialTurkey.</p>
+      <h3><a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">Jev in 25 Lines of Python</a></h3>
+      <p>From nobodywho.ai. 584 points on Hacker News, 189 comments. Posted by bashbjorn.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.bloomberg.com/graphics/2026-iran-school-attack/">Pentagon says overreliance on AI contributed to missile strike on Iran school</a></h3>
-      <p>https://archive.ph/0V37g</p>
+      <h3><a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/">Claude Code reads AGENTS.md only when telemetry is on [fixed]</a></h3>
+      <p>From blog.szypowi.cz. 425 points on Hacker News, 237 comments. Posted by pszypowicz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 23 Sep 2026, 17:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Sep 2026, 21:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
