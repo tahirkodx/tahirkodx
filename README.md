@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790112385" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790139168" alt="Famous quote" width="100%">
 </p>
 
-> Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams.
+> You have power over your mind, not outside events. Realize this, and you will find strength.
 >
-> Robert Greene
+> Marcus Aurelius
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,41 +438,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.anthropic.com/claude-opus-5-5">Claude Opus 5.5</a></h3>
-      <p>From anthropic.com. 925 points on Hacker News, 682 comments. Posted by km144.</p>
+      <p>From anthropic.com. 1348 points on Hacker News, 866 comments. Posted by km144.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvj64gz74ky4o">Call of Duty's Activision to make next Halo game as Xbox cuts more jobs</a></h3>
-      <p>The news comes as part of a "reset" announced by Xbox in July, with 3,600 planned job losses overall.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro">US criticises Australia's proposed algorithm opt-out laws as 'censorship'</a></h3>
+      <p>Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
-      <p>From openai.com. 857 points on Hacker News, 447 comments. Posted by OfficialTurkey.</p>
+      <p>From openai.com. 1337 points on Hacker News, 651 comments. Posted by OfficialTurkey.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm5y7qj54klpo">Not all AI workers think the tech could kill everyone</a></h3>
-      <p>In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c2dwg3zexkpo">Will a switch to light speed cut power use at data centres?</a></h3>
+      <p>To save power and add capacity, data centres are switching from copper wires to tech using light.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy">Apple has added persistent 'ads' to iOS, and it's driving users crazy</a></h3>
-      <p>From techradar.com. 521 points on Hacker News, 398 comments. Posted by MC995.</p>
+      <p>From techradar.com. 664 points on Hacker News, 489 comments. Posted by MC995.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c607l0k72rlvo">Google's Gemini AI hacked three companies in security test</a></h3>
-      <p>The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro">As Trump and Xi talk, China surges ahead with its AI ambitions</a></h3>
+      <p>The BBC visits Inner Mongolia, where Beijing's AI infrastructure is progressing at "China speed", says one worker.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 22 Sep 2026, 21:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Sep 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
