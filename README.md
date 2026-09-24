@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790251011" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790270315" alt="Famous quote" width="100%">
 </p>
 
-> If you run you stand a chance of losing, but if you don't run you've already lost.
+> You must find the place inside yourself where nothing is impossible.
 >
-> Barack Obama
+> Les Brown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,32 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567">Italian parliament votes for return to nuclear energy</a></h3>
-      <p>From apnews.com. 812 points on Hacker News, 645 comments. Posted by geox.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9n74574elljo">FBI investigates claim by hackers they stole data on all agency staff</a></h3>
-      <p>The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></h3>
-      <p>From anthropic.com. 677 points on Hacker News, 688 comments. Posted by raahelb.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o">Are we back in big tech's 'move fast and break things' era?</a></h3>
-      <p>Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pointinthecloud.com/2026-04-11-211700.html">Fixing the Portobello Police Station Clock</a></h3>
-      <p>From pointinthecloud.com. 459 points on Hacker News, 103 comments. Posted by avidly.</p>
+      <h3><a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">Linux support is coming to Snapdragon X2 series</a></h3>
+      <p>From qualcomm.com. 569 points on Hacker News, 239 comments. Posted by aaronday.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -470,9 +446,33 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://pointinthecloud.com/2026-04-11-211700.html">Fixing the Portobello Police Station Clock</a></h3>
+      <p>From pointinthecloud.com. 506 points on Hacker News, 112 comments. Posted by avidly.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw24jm9rryy3o">Why did an OpenAI system hack Australia's health system, and can it be stopped in the future?</a></h3>
+      <p>News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">Ideas on modernizing the open-source desktop</a></h3>
+      <p>From lwn.net. 321 points on Hacker News, 398 comments. Posted by signa11.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9n74574elljo">FBI investigating claim hackers have stolen details of all its agents</a></h3>
+      <p>The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.</p>
+    </td>
+  </tr>
 </table>
 
-<sub>Updated 24 Sep 2026, 11:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Sep 2026, 17:18 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
