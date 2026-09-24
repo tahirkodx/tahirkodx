@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790270315" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790285747" alt="Famous quote" width="100%">
 </p>
 
-> You must find the place inside yourself where nothing is impossible.
+> Be true to yourself, help others, make each day your masterpiece
 >
-> Les Brown
+> John Wooden
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">Linux support is coming to Snapdragon X2 series</a></h3>
-      <p>From qualcomm.com. 569 points on Hacker News, 239 comments. Posted by aaronday.</p>
+      <h3><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html">F-Droid 2.0</a></h3>
+      <p>From f-droid.org. 743 points on Hacker News, 208 comments. Posted by daveoc64.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr3eqk15ld14o">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a></h3>
+      <p>Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://macanorak.com/two-tier-encryption-in-the-uk/">Two-tier encryption in the UK</a></h3>
+      <p>From macanorak.com. 340 points on Hacker News, 350 comments. Posted by ReturnoftheHack.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pointinthecloud.com/2026-04-11-211700.html">Fixing the Portobello Police Station Clock</a></h3>
-      <p>From pointinthecloud.com. 506 points on Hacker News, 112 comments. Posted by avidly.</p>
+      <h3><a href="https://bastardica.mitpit.com">Show HN: Make cursed fonts like Times New Bastard</a></h3>
+      <p>A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">Ideas on modernizing the open-source desktop</a></h3>
-      <p>From lwn.net. 321 points on Hacker News, 398 comments. Posted by signa11.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9n74574elljo">FBI investigating claim hackers have stolen details of all its agents</a></h3>
-      <p>The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 24 Sep 2026, 17:18 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Sep 2026, 21:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
