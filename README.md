@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790226115" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790251011" alt="Famous quote" width="100%">
 </p>
 
-> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+> If you run you stand a chance of losing, but if you don't run you've already lost.
 >
-> Robert F. Kennedy
+> Barack Obama
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,41 +438,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567">Italian parliament votes for return to nuclear energy</a></h3>
-      <p>From apnews.com. 658 points on Hacker News, 426 comments. Posted by geox.</p>
+      <p>From apnews.com. 812 points on Hacker News, 645 comments. Posted by geox.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6vgy0333dppo">OpenAI agent 'infiltrated' Australian government website, PM says</a></h3>
-      <p>Albanese said he expressed "concern" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9n74574elljo">FBI investigates claim by hackers they stole data on all agency staff</a></h3>
+      <p>The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></h3>
-      <p>From anthropic.com. 566 points on Hacker News, 588 comments. Posted by raahelb.</p>
+      <p>From anthropic.com. 677 points on Hacker News, 688 comments. Posted by raahelb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwn741v5rdpxo">Indians are discovering the thrill of shopping without paying</a></h3>
-      <p>Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o">Are we back in big tech's 'move fast and break things' era?</a></h3>
+      <p>Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://pointinthecloud.com/2026-04-11-211700.html">Fixing the Portobello Police Station Clock</a></h3>
-      <p>From pointinthecloud.com. 398 points on Hacker News, 95 comments. Posted by avidly.</p>
+      <p>From pointinthecloud.com. 459 points on Hacker News, 103 comments. Posted by avidly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck87v27vdn1po">US rejects pleas from OpenAI, Anthropic for global AI standards</a></h3>
-      <p>OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6vgy0333dppo">Rogue OpenAI agent 'infiltrated' Australian government website in world first</a></h3>
+      <p>Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 24 Sep 2026, 05:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Sep 2026, 11:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
