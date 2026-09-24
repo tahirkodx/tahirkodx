@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790199291" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790226115" alt="Famous quote" width="100%">
 </p>
 
-> The world is changed by your example, not by your opinion.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> Paulo Coelho
+> Robert F. Kennedy
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a></h3>
-      <p>From openai.com. 1726 points on Hacker News, 820 comments. Posted by OfficialTurkey.</p>
+      <h3><a href="https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567">Italian parliament votes for return to nuclear energy</a></h3>
+      <p>From apnews.com. 658 points on Hacker News, 426 comments. Posted by geox.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo">Pornhub investigated over its age checks</a></h3>
-      <p>The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6vgy0333dppo">OpenAI agent 'infiltrated' Australian government website, PM says</a></h3>
+      <p>Albanese said he expressed "concern" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">Jev in 25 Lines of Python</a></h3>
-      <p>From nobodywho.ai. 584 points on Hacker News, 189 comments. Posted by bashbjorn.</p>
+      <h3><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Claude discovers a novel enzyme system with CRISPR-like repeats</a></h3>
+      <p>From anthropic.com. 566 points on Hacker News, 588 comments. Posted by raahelb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c90kly26d7pzo">OpenAI gives cyber defence tools to Ukraine</a></h3>
-      <p>Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal, a rival to Anthropic's Mythos and Fable</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwn741v5rdpxo">Indians are discovering the thrill of shopping without paying</a></h3>
+      <p>Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/">Claude Code reads AGENTS.md only when telemetry is on [fixed]</a></h3>
-      <p>From blog.szypowi.cz. 425 points on Hacker News, 237 comments. Posted by pszypowicz.</p>
+      <h3><a href="https://pointinthecloud.com/2026-04-11-211700.html">Fixing the Portobello Police Station Clock</a></h3>
+      <p>From pointinthecloud.com. 398 points on Hacker News, 95 comments. Posted by avidly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro">US criticises Australia's proposed algorithm opt-out laws as 'censorship'</a></h3>
-      <p>Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck87v27vdn1po">US rejects pleas from OpenAI, Anthropic for global AI standards</a></h3>
+      <p>OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 23 Sep 2026, 21:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Sep 2026, 05:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
