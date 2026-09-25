@@ -416,10 +416,10 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790356712" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790372414" alt="Famous quote" width="100%">
 </p>
 
-> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.
+> You can't build a reputation on what you are going to do.
 >
 > Henry Ford
 
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html">F-Droid 2.0</a></h3>
-      <p>From f-droid.org. 1396 points on Hacker News, 397 comments. Posted by daveoc64.</p>
+      <h3><a href="https://github.com/devdotfast/whiteboard">Show HN: Whiteboard (YC W26)  An open-source IDE for thoughtful software design</a></h3>
+      <p>Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.dawo.community/en/">Dutch governments builds alternative for Microsoft based on NixOS</a></h3>
-      <p>From dawo.community. 819 points on Hacker News, 470 comments. Posted by fjfaase.</p>
+      <h3><a href="https://go.dev/blog/simd-experiment">Platform-independent SIMD in Go</a></h3>
+      <p>From go.dev. 326 points on Hacker News, 124 comments. Posted by yurivish.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bastardica.mitpit.com">Show HN: Make cursed fonts like Times New Bastard</a></h3>
-      <p>A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.</p>
+      <h3><a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></h3>
+      <p>From cnbc.com. 313 points on Hacker News, 530 comments. Posted by cramer4next.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Sep 2026, 17:18 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Sep 2026, 21:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
