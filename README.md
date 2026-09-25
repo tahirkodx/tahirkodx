@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790312726" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790337506" alt="Famous quote" width="100%">
 </p>
 
-> Everyone wants to go to Heaven, but no one wants to die.
+> Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.
 >
-> Robert Kiyosaki
+> Steve Harvey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html">F-Droid 2.0</a></h3>
-      <p>From f-droid.org. 1061 points on Hacker News, 281 comments. Posted by daveoc64.</p>
+      <p>From f-droid.org. 1284 points on Hacker News, 370 comments. Posted by daveoc64.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9q92x359xdo">X-planes: Are they needed in the new era of drones?</a></h3>
-      <p>Where do America's X-plane projects fit in an era of cheap drones?</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq0m373ee0v0o">US backs Elon Musk's bid to overturn €120m EU fine against X</a></h3>
+      <p>The EU had said X "deceives users" by selling blue ticks without "meaningfully verifying" accounts.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr3eqk15ld14o">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a></h3>
-      <p>Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9q92x359xdo">X-planes: Are they needed in the new era of drones?</a></h3>
+      <p>Where do America's X-plane projects fit in an era of cheap drones?</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://macanorak.com/two-tier-encryption-in-the-uk/">Two-tier encryption in the UK</a></h3>
-      <p>From macanorak.com. 400 points on Hacker News, 384 comments. Posted by ReturnoftheHack.</p>
+      <p>From macanorak.com. 468 points on Hacker News, 415 comments. Posted by ReturnoftheHack.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6vgy0333dppo">Rogue OpenAI agent 'infiltrated' Australian government website in world first</a></h3>
-      <p>Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr3eqk15ld14o">Why Australia chose the world's biggest political stage to reveal OpenAI hack</a></h3>
+      <p>Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 25 Sep 2026, 05:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Sep 2026, 11:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
