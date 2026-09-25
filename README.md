@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790285747" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790312726" alt="Famous quote" width="100%">
 </p>
 
-> Be true to yourself, help others, make each day your masterpiece
+> Everyone wants to go to Heaven, but no one wants to die.
 >
-> John Wooden
+> Robert Kiyosaki
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html">F-Droid 2.0</a></h3>
-      <p>From f-droid.org. 743 points on Hacker News, 208 comments. Posted by daveoc64.</p>
+      <p>From f-droid.org. 1061 points on Hacker News, 281 comments. Posted by daveoc64.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9q92x359xdo">X-planes: Are they needed in the new era of drones?</a></h3>
+      <p>Where do America's X-plane projects fit in an era of cheap drones?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://bastardica.mitpit.com">Show HN: Make cursed fonts like Times New Bastard</a></h3>
+      <p>A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://macanorak.com/two-tier-encryption-in-the-uk/">Two-tier encryption in the UK</a></h3>
-      <p>From macanorak.com. 340 points on Hacker News, 350 comments. Posted by ReturnoftheHack.</p>
+      <p>From macanorak.com. 400 points on Hacker News, 384 comments. Posted by ReturnoftheHack.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bastardica.mitpit.com">Show HN: Make cursed fonts like Times New Bastard</a></h3>
-      <p>A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw24jm9rryy3o">Why did an OpenAI system hack Australia's health system, and can it be stopped in the future?</a></h3>
-      <p>News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 24 Sep 2026, 21:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Sep 2026, 05:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
