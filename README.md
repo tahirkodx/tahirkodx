@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790399339" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790422405" alt="Famous quote" width="100%">
 </p>
 
-> It is the power of thought that gives man power over nature.
+> A mountain never yields to the wind no matter how strong it is.
 >
-> Hans Christian Andersen
+> Zen Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></h3>
-      <p>From cnbc.com. 419 points on Hacker News, 735 comments. Posted by cramer4next.</p>
+      <h3><a href="https://swarmtraces.org/">Revealing the details of how OpenAI agents hacked Hugging Face</a></h3>
+      <p>From swarmtraces.org. 512 points on Hacker News, 321 comments. Posted by specked-citrus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cw62jje658dlo">OpenAI bots meddled with multiple US government agency sites</a></h3>
-      <p>OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.</p>
+      <p>OpenAI said its bots accessed public data from a range of institutions during test exercises.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://ollaya.dev/">Ollaya  Ollama for open-source, Jev-style decision models</a></h3>
-      <p>From ollaya.dev. 383 points on Hacker News, 106 comments. Posted by Ardakilic.</p>
+      <p>From ollaya.dev. 479 points on Hacker News, 119 comments. Posted by Ardakilic.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://go.dev/blog/simd-experiment">Platform-independent SIMD in Go</a></h3>
-      <p>From go.dev. 372 points on Hacker News, 137 comments. Posted by yurivish.</p>
+      <h3><a href="https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html">Plan mode is dead</a></h3>
+      <p>From aymannadeem.com. 356 points on Hacker News, 325 comments. Posted by jmvldz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Sep 2026, 05:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Sep 2026, 11:33 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
