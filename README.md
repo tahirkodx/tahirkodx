@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790372414" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790399339" alt="Famous quote" width="100%">
 </p>
 
-> You can't build a reputation on what you are going to do.
+> It is the power of thought that gives man power over nature.
 >
-> Henry Ford
+> Hans Christian Andersen
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/devdotfast/whiteboard">Show HN: Whiteboard (YC W26)  An open-source IDE for thoughtful software design</a></h3>
-      <p>Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard ( https://whiteboard.dev.fast/ ), an open-source desktop app where humans and.</p>
+      <h3><a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></h3>
+      <p>From cnbc.com. 419 points on Hacker News, 735 comments. Posted by cramer4next.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw62jje658dlo">OpenAI bots meddled with multiple US government agency sites</a></h3>
+      <p>OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://ollaya.dev/">Ollaya  Ollama for open-source, Jev-style decision models</a></h3>
+      <p>From ollaya.dev. 383 points on Hacker News, 106 comments. Posted by Ardakilic.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno">Inside iconic horror game Silent Hill's Scottish makeover</a></h3>
+      <p>One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://go.dev/blog/simd-experiment">Platform-independent SIMD in Go</a></h3>
+      <p>From go.dev. 372 points on Hacker News, 137 comments. Posted by yurivish.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://go.dev/blog/simd-experiment">Platform-independent SIMD in Go</a></h3>
-      <p>From go.dev. 326 points on Hacker News, 124 comments. Posted by yurivish.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq0m373ee0v0o">US backs Elon Musk's bid to overturn €120m EU fine against X</a></h3>
-      <p>The EU had said X "deceives users" by selling blue ticks without "meaningfully verifying" accounts.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">U.S. appeals court upholds designation of Anthropic as supply chain risk</a></h3>
-      <p>From cnbc.com. 313 points on Hacker News, 530 comments. Posted by cramer4next.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9q92x359xdo">X-planes: Are they needed in the new era of drones?</a></h3>
-      <p>Where do America's X-plane projects fit in an era of cheap drones?</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 25 Sep 2026, 21:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Sep 2026, 05:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
