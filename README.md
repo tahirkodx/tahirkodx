@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790440229" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790457406" alt="Famous quote" width="100%">
 </p>
 
-> If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.
+> Stress happens when the mind resists what is.
 >
-> Tony Robbins
+> Dan Millman
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://swarmtraces.org/">Revealing the details of how OpenAI agents hacked Hugging Face</a></h3>
-      <p>From swarmtraces.org. 612 points on Hacker News, 390 comments. Posted by specked-citrus.</p>
+      <p>From swarmtraces.org. 683 points on Hacker News, 433 comments. Posted by specked-citrus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ollaya.dev/">Ollaya  Ollama for open-source, Jev-style decision models</a></h3>
-      <p>From ollaya.dev. 535 points on Hacker News, 131 comments. Posted by Ardakilic.</p>
+      <h3><a href="https://gultsch.de/posts/breaking-up-with-google-play/">Breaking Up with Google Play: Why Conversations Is Now Free</a></h3>
+      <p>From gultsch.de. 596 points on Hacker News, 229 comments. Posted by ezst.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html">Plan mode is dead</a></h3>
-      <p>From aymannadeem.com. 462 points on Hacker News, 408 comments. Posted by jmvldz.</p>
+      <h3><a href="https://ollaya.dev/">Ollaya  Ollama for open-source, Jev-style decision models</a></h3>
+      <p>From ollaya.dev. 578 points on Hacker News, 139 comments. Posted by Ardakilic.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Sep 2026, 16:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Sep 2026, 21:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
