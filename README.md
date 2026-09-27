@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790528599" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790544358" alt="Famous quote" width="100%">
 </p>
 
-> I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.
+> The search for happiness is one of the chief sources of unhappiness.
 >
-> Steve Maraboli
+> Eric Hoffer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI</a></h3>
-      <p>From authorsguild.org. 550 points on Hacker News, 509 comments. Posted by papergirl.</p>
+      <h3><a href="https://antonz.org/go-concurrency-distilled/">Go Concurrency Distilled</a></h3>
+      <p>From antonz.org. 362 points on Hacker News, 166 comments. Posted by chmaynard.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/InfinityLoop1308/PipePipe">PipePipe: NewPipe hard fork implementing SponsorBlock</a></h3>
-      <p>From github.com. 468 points on Hacker News, 253 comments. Posted by Qision.</p>
+      <h3><a href="https://mitxela.com/projects/flipflip">Flip Fluid on Flip Dots</a></h3>
+      <p>From mitxela.com. 332 points on Hacker News, 22 comments. Posted by blutack.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.astralcodexten.com/p/does-georgism-work-five-years-later">Does Georgism work? Five years later</a></h3>
-      <p>From astralcodexten.com. 465 points on Hacker News, 377 comments. Posted by silveraxe93.</p>
+      <h3><a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">On caring for user data: NeoVim caused Vim undo files to be deleted</a></h3>
+      <p>From unsung.aresluna.org. 321 points on Hacker News, 282 comments. Posted by jandeboevrie.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 27 Sep 2026, 17:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Sep 2026, 21:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
