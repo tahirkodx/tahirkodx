@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790466014" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790486771" alt="Famous quote" width="100%">
 </p>
 
-> A very little key will open a very heavy door.
+> No matter what happens, always be yourself.
 >
-> Charles Dickens
+> Dale Carnegie
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://gultsch.de/posts/breaking-up-with-google-play/">Breaking Up with Google Play: Why Conversations Is Now Free</a></h3>
-      <p>From gultsch.de. 625 points on Hacker News, 246 comments. Posted by ezst.</p>
+      <h3><a href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story">Fifteen years later, the Apple Cards origin story</a></h3>
+      <p>From lexontech.org. 375 points on Hacker News, 93 comments. Posted by ksec.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">I'm the mom in that viral Giants clip. Let me tell you about my husband</a></h3>
-      <p>From themomoftheyear.substack.com. 416 points on Hacker News, 171 comments. Posted by minimaxir.</p>
+      <h3><a href="https://github.com/InfinityLoop1308/PipePipe">PipePipe: NewPipe hard fork implementing SponsorBlock</a></h3>
+      <p>From github.com. 361 points on Hacker News, 200 comments. Posted by Qision.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story">Fifteen years later, the Apple Cards origin story</a></h3>
-      <p>From lexontech.org. 328 points on Hacker News, 82 comments. Posted by ksec.</p>
+      <h3><a href="https://github.com/reladraw/reladraw">Show HN: Reladraw  A diagram language where you decide where to place things</a></h3>
+      <p>I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Sep 2026, 23:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Sep 2026, 05:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
