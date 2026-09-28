@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790604574" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790630170" alt="Famous quote" width="100%">
 </p>
 
-> It is better to point out your own mistakes than have somebody else do it.
+> The final mystery is oneself.
 >
-> Warren Buffett
+> Oscar Wilde
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sancho.bearblog.dev/google-weird/">When did Google get so weird?</a></h3>
-      <p>From sancho.bearblog.dev. 1500 points on Hacker News, 808 comments. Posted by sancho-panza.</p>
+      <h3><a href="https://www.anthropic.com/claude-sonnet-5-5">Sonnet 5.5</a></h3>
+      <p>From anthropic.com. 417 points on Hacker News, 283 comments. Posted by D2OQZG8l5BI1S06.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://colo.to/nvidia-stock-narrative.html">Owed a billion dollars in Nvidia stock</a></h3>
-      <p>From colo.to. 878 points on Hacker News, 376 comments. Posted by Eric_Gullichsen.</p>
+      <h3><a href="https://definitelynotwindows.com/">Windows 11½</a></h3>
+      <p>From definitelynotwindows.com. 354 points on Hacker News, 101 comments. Posted by jjbinx007.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://fireworks.ai/blog/ember-1">Ember-1</a></h3>
-      <p>From fireworks.ai. 525 points on Hacker News, 229 comments. Posted by gmays.</p>
+      <h3><a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">Pirating the Pirates</a></h3>
+      <p>From mubi.com. 326 points on Hacker News, 156 comments. Posted by piotrgrabowski.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 28 Sep 2026, 14:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Sep 2026, 21:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
