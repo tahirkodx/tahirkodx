@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790573619" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790604574" alt="Famous quote" width="100%">
 </p>
 
-> A flower falls, even though we love it; and a weed grows, even though we do not love it.
+> It is better to point out your own mistakes than have somebody else do it.
 >
-> Dogen
+> Warren Buffett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://sancho.bearblog.dev/google-weird/">When did Google get so weird?</a></h3>
-      <p>From sancho.bearblog.dev. 1001 points on Hacker News, 539 comments. Posted by sancho-panza.</p>
+      <p>From sancho.bearblog.dev. 1500 points on Hacker News, 808 comments. Posted by sancho-panza.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6je85n2vyleo">Apple ordered to pay $5.7bn after losing vibration tech patent suit</a></h3>
+      <p>Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://colo.to/nvidia-stock-narrative.html">Owed a billion dollars in Nvidia stock</a></h3>
+      <p>From colo.to. 878 points on Hacker News, 376 comments. Posted by Eric_Gullichsen.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://fireworks.ai/blog/ember-1">Ember-1</a></h3>
-      <p>From fireworks.ai. 406 points on Hacker News, 199 comments. Posted by gmays.</p>
+      <p>From fireworks.ai. 525 points on Hacker News, 229 comments. Posted by gmays.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://colo.to/nvidia-stock-narrative.html">Owed a billion dollars in Nvidia stock</a></h3>
-      <p>From colo.to. 346 points on Hacker News, 156 comments. Posted by Eric_Gullichsen.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw62me2vlj07o">Special agents' blood and urine test results stolen in FBI hack</a></h3>
-      <p>Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 28 Sep 2026, 05:33 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Sep 2026, 14:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
