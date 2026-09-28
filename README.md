@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790544358" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790573619" alt="Famous quote" width="100%">
 </p>
 
-> The search for happiness is one of the chief sources of unhappiness.
+> A flower falls, even though we love it; and a weed grows, even though we do not love it.
 >
-> Eric Hoffer
+> Dogen
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://antonz.org/go-concurrency-distilled/">Go Concurrency Distilled</a></h3>
-      <p>From antonz.org. 362 points on Hacker News, 166 comments. Posted by chmaynard.</p>
+      <h3><a href="https://sancho.bearblog.dev/google-weird/">When did Google get so weird?</a></h3>
+      <p>From sancho.bearblog.dev. 1001 points on Hacker News, 539 comments. Posted by sancho-panza.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mitxela.com/projects/flipflip">Flip Fluid on Flip Dots</a></h3>
-      <p>From mitxela.com. 332 points on Hacker News, 22 comments. Posted by blutack.</p>
+      <h3><a href="https://fireworks.ai/blog/ember-1">Ember-1</a></h3>
+      <p>From fireworks.ai. 406 points on Hacker News, 199 comments. Posted by gmays.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">On caring for user data: NeoVim caused Vim undo files to be deleted</a></h3>
-      <p>From unsung.aresluna.org. 321 points on Hacker News, 282 comments. Posted by jandeboevrie.</p>
+      <h3><a href="https://colo.to/nvidia-stock-narrative.html">Owed a billion dollars in Nvidia stock</a></h3>
+      <p>From colo.to. 346 points on Hacker News, 156 comments. Posted by Eric_Gullichsen.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 27 Sep 2026, 21:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Sep 2026, 05:33 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
