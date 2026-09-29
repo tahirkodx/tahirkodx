@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790705284" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790720578" alt="Famous quote" width="100%">
 </p>
 
-> The details are not the details. They make the design.
+> Life is the dancer and you are the dance.
 >
-> Charles Eames
+> Eckhart Tolle
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">Pirating the Pirates</a></h3>
-      <p>From mubi.com. 672 points on Hacker News, 343 comments. Posted by piotrgrabowski.</p>
+      <h3><a href="https://openai.com/index/introducing-gpt-6-1-sol/">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></h3>
+      <p>From openai.com. 691 points on Hacker News, 618 comments. Posted by crorella.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw7v42rp083eo">OpenAI agents get rebrand, as 'dots', while safety worries delay new model</a></h3>
+      <p>Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.derekthompson.org/p/the-death-of-the-american-host">Everybody’s home. No one’s coming over</a></h3>
+      <p>From derekthompson.org. 686 points on Hacker News, 630 comments. Posted by barry-cotter.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.derekthompson.org/p/the-death-of-the-american-host">You are no longer invited to dinner</a></h3>
-      <p>From derekthompson.org. 579 points on Hacker News, 510 comments. Posted by barry-cotter.</p>
+      <h3><a href="https://openai.com/index/introducing-dots/">Dots: Always-on agents</a></h3>
+      <p>From openai.com. 415 points on Hacker News, 321 comments. Posted by alvis.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The firm also issued an update on incidents in which its models accessed Australian government systems.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive">500k facial scans at UK stations yield no arrests, 1 false positive</a></h3>
-      <p>From theguardian.com. 400 points on Hacker News, 239 comments. Posted by ilamont.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6je85n2vyleo">Apple ordered to pay $5.7bn after losing vibration tech patent suit</a></h3>
-      <p>Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 29 Sep 2026, 18:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Sep 2026, 22:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
