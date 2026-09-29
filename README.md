@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790675868" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790705284" alt="Famous quote" width="100%">
 </p>
 
-> The secret of happiness is not in doing what you like but in liking what you have to do.
+> The details are not the details. They make the design.
 >
-> Sathya Sai Baba
+> Charles Eames
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sancho.bearblog.dev/google-weird/">When did Google get so weird?</a></h3>
-      <p>From sancho.bearblog.dev. 1885 points on Hacker News, 1059 comments. Posted by sancho-panza.</p>
+      <h3><a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">Pirating the Pirates</a></h3>
+      <p>From mubi.com. 672 points on Hacker News, 343 comments. Posted by piotrgrabowski.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjwyz5v190qwo">Oura pulls $15bn stock market listing days after announcement</a></h3>
+      <p>The wearable technology company had been expected to list its shares in the US.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.derekthompson.org/p/the-death-of-the-american-host">You are no longer invited to dinner</a></h3>
+      <p>From derekthompson.org. 579 points on Hacker News, 510 comments. Posted by barry-cotter.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-sonnet-5-5">Sonnet 5.5</a></h3>
-      <p>From anthropic.com. 785 points on Hacker News, 528 comments. Posted by D2OQZG8l5BI1S06.</p>
+      <h3><a href="https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive">500k facial scans at UK stations yield no arrests, 1 false positive</a></h3>
+      <p>From theguardian.com. 400 points on Hacker News, 239 comments. Posted by ilamont.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">Pirating the Pirates</a></h3>
-      <p>From mubi.com. 586 points on Hacker News, 285 comments. Posted by piotrgrabowski.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw62jje658dlo">OpenAI bots meddled with multiple US government agency sites</a></h3>
-      <p>OpenAI said its bots accessed public data from a range of institutions during test exercises.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 29 Sep 2026, 09:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Sep 2026, 18:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
