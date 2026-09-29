@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790630170" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790643792" alt="Famous quote" width="100%">
 </p>
 
-> The final mystery is oneself.
+> When I let go of what I am, I become what I might be.
 >
-> Oscar Wilde
+> Lao Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.anthropic.com/claude-sonnet-5-5">Sonnet 5.5</a></h3>
-      <p>From anthropic.com. 417 points on Hacker News, 283 comments. Posted by D2OQZG8l5BI1S06.</p>
+      <p>From anthropic.com. 552 points on Hacker News, 379 comments. Posted by D2OQZG8l5BI1S06.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://definitelynotwindows.com/">Windows 11½</a></h3>
-      <p>From definitelynotwindows.com. 354 points on Hacker News, 101 comments. Posted by jjbinx007.</p>
+      <h3><a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">Pirating the Pirates</a></h3>
+      <p>From mubi.com. 400 points on Hacker News, 207 comments. Posted by piotrgrabowski.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mubi.com/en/notebook/posts/pirating-the-pirates">Pirating the Pirates</a></h3>
-      <p>From mubi.com. 326 points on Hacker News, 156 comments. Posted by piotrgrabowski.</p>
+      <h3><a href="https://git.mills.io/prologic/parley">Parley: Federated, decentralised chat that speaks plain IRC</a></h3>
+      <p>From git.mills.io. 299 points on Hacker News, 167 comments. Posted by davidcollantes.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 28 Sep 2026, 21:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Sep 2026, 01:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
