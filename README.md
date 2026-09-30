@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790772346" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790798801" alt="Famous quote" width="100%">
 </p>
 
-> The details are not the details. They make the design.
+> There is no excuse for not trying.
 >
-> Charles Eames
+> Barack Obama
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-gpt-6-1-sol/">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></h3>
-      <p>From openai.com. 984 points on Hacker News, 862 comments. Posted by crorella.</p>
+      <h3><a href="https://github.com/ninjahawk/livenerf">Livenerf: Has Opus 5.5 been nerfed yet?</a></h3>
+      <p>From github.com. 853 points on Hacker News, 364 comments. Posted by bryan0.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/ninjahawk/livenerf">Livenerf: Has Opus 5.5 been nerfed yet?</a></h3>
-      <p>From github.com. 702 points on Hacker News, 275 comments. Posted by bryan0.</p>
+      <h3><a href="https://openai.com/index/introducing-dots/">Dots: Always-on agents</a></h3>
+      <p>From openai.com. 733 points on Hacker News, 620 comments. Posted by alvis.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm986x65we88o">WhatsApp introduces optional parental controls for teenagers</a></h3>
+      <p>The social messaging app will let parents decide on privacy settings for their child's account.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://earendil.com/posts/you-said-no-mcp/">You said no MCP</a></h3>
+      <p>From earendil.com. 529 points on Hacker News, 311 comments. Posted by yarapavan.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-dots/">Dots: Always-on agents</a></h3>
-      <p>From openai.com. 657 points on Hacker News, 520 comments. Posted by alvis.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cme30dz5vkzko">Three takeaways from Trump's 'Super Intelligence' summit</a></h3>
-      <p>The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 30 Sep 2026, 12:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Sep 2026, 20:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
