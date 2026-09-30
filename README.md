@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790720578" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790746910" alt="Famous quote" width="100%">
 </p>
 
-> Life is the dancer and you are the dance.
+> Even if you're sure you can win, be careful that you can live with what you lose.
 >
-> Eckhart Tolle
+> Gary Keller
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,41 +438,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-gpt-6-1-sol/">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></h3>
-      <p>From openai.com. 691 points on Hacker News, 618 comments. Posted by crorella.</p>
+      <p>From openai.com. 859 points on Hacker News, 783 comments. Posted by crorella.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw7v42rp083eo">OpenAI agents get rebrand, as 'dots', while safety worries delay new model</a></h3>
-      <p>Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.derekthompson.org/p/the-death-of-the-american-host">Everybody’s home. No one’s coming over</a></h3>
-      <p>From derekthompson.org. 686 points on Hacker News, 630 comments. Posted by barry-cotter.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjwyz5v190qwo">Oura pulls $15bn stock market listing days after announcement</a></h3>
-      <p>The wearable technology company had been expected to list its shares in the US.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw7v42rp083eo">OpenAI unveils AI assistant 'dots' while safety worries delay new model</a></h3>
+      <p>Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-dots/">Dots: Always-on agents</a></h3>
-      <p>From openai.com. 415 points on Hacker News, 321 comments. Posted by alvis.</p>
+      <p>From openai.com. 522 points on Hacker News, 395 comments. Posted by alvis.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm5y5nynl75ko">OpenAI scraps rollout of new model over safety concerns</a></h3>
-      <p>The firm also issued an update on incidents in which its models accessed Australian government systems.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cme30dz5vkzko">Three takeaways from Trump's 'Super Intelligence' summit</a></h3>
+      <p>The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://america.gov/">America.gov</a></h3>
+      <p>From america.gov. 482 points on Hacker News, 389 comments. Posted by plesiv.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmrergq3j7lgo">Chinese AI tool told researchers how to make bioweapons</a></h3>
+      <p>Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 29 Sep 2026, 22:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Sep 2026, 05:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
