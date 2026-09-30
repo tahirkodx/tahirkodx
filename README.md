@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790746910" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790772346" alt="Famous quote" width="100%">
 </p>
 
-> Even if you're sure you can win, be careful that you can live with what you lose.
+> The details are not the details. They make the design.
 >
-> Gary Keller
+> Charles Eames
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-gpt-6-1-sol/">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></h3>
-      <p>From openai.com. 859 points on Hacker News, 783 comments. Posted by crorella.</p>
+      <p>From openai.com. 984 points on Hacker News, 862 comments. Posted by crorella.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvzez7k0pn40o">Regulating AI 'not the right place to start' says Bailey</a></h3>
+      <p>AI needs "rigorous" testing and safeguards to contain risk, Andrew Bailey says.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/ninjahawk/livenerf">Livenerf: Has Opus 5.5 been nerfed yet?</a></h3>
+      <p>From github.com. 702 points on Hacker News, 275 comments. Posted by bryan0.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-dots/">Dots: Always-on agents</a></h3>
-      <p>From openai.com. 522 points on Hacker News, 395 comments. Posted by alvis.</p>
+      <p>From openai.com. 657 points on Hacker News, 520 comments. Posted by alvis.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://america.gov/">America.gov</a></h3>
-      <p>From america.gov. 482 points on Hacker News, 389 comments. Posted by plesiv.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmrergq3j7lgo">Chinese AI tool told researchers how to make bioweapons</a></h3>
-      <p>Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 30 Sep 2026, 05:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Sep 2026, 12:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
