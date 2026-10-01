@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790798801" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790814987" alt="Famous quote" width="100%">
 </p>
 
-> There is no excuse for not trying.
+> The day is for honest men, the night for thieves.
 >
-> Barack Obama
+> Euripides
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/ninjahawk/livenerf">Livenerf: Has Opus 5.5 been nerfed yet?</a></h3>
-      <p>From github.com. 853 points on Hacker News, 364 comments. Posted by bryan0.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">Gemini 4 Argon</a></h3>
+      <p>See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis, https://news.ycombinator.com/item?id=49914236</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck4gjn1yzprno">Tiny image sparks big backlash in Nikon photo contest</a></h3>
+      <p>Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://earendil.com/posts/you-said-no-mcp/">You said no MCP</a></h3>
+      <p>From earendil.com. 607 points on Hacker News, 336 comments. Posted by yarapavan.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cgk53dkmyxko">The AI telling farmers when to harvest</a></h3>
+      <p>Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records">I could've accessed 17T Microsoft records</a></h3>
+      <p>From blog.faav.net. 243 points on Hacker News, 107 comments. Posted by luispa.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>AI needs "rigorous" testing and safeguards to contain risk, Andrew Bailey says.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-dots/">Dots: Always-on agents</a></h3>
-      <p>From openai.com. 733 points on Hacker News, 620 comments. Posted by alvis.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm986x65we88o">WhatsApp introduces optional parental controls for teenagers</a></h3>
-      <p>The social messaging app will let parents decide on privacy settings for their child's account.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://earendil.com/posts/you-said-no-mcp/">You said no MCP</a></h3>
-      <p>From earendil.com. 529 points on Hacker News, 311 comments. Posted by yarapavan.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw7v42rp083eo">OpenAI unveils AI assistant 'dots' while safety worries delay new model</a></h3>
-      <p>Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 30 Sep 2026, 20:06 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Oct 2026, 00:36 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
