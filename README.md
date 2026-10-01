@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790849798" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790879262" alt="Famous quote" width="100%">
 </p>
 
-> The privilege of a lifetime is to become who you truly are.
+> Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.
 >
-> Carl Jung
+> Henry Ford
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqx2z23xj555o">Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names</a></h3>
+      <p>The president wants AI to be called super intelligence, or SI, the same initials used by Slovenian domains.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/streetcomplete/StreetComplete/issues/5421">StreetComplete on iOS is now in public beta</a></h3>
+      <p>From github.com. 418 points on Hacker News, 99 comments. Posted by Snowly.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cv8e30enrkxyo">AI boom could trigger market shocks, Bank of England boss warns</a></h3>
       <p>Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence "very carefully".</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/tuakdotsol/status/2105105417760391258">Singapore govt dating app uses Gale-Shapley stable marriage algorithm</a></h3>
-      <p>Related: https://www.bbc.com/news/articles/cqzjzr893yv4o</p>
+      <h3><a href="https://www.worksinprogress.news/p/why-really-caused-the-bronze-age">Why the Bronze Age Collapsed</a></h3>
+      <p>From worksinprogress.news. 374 points on Hacker News, 255 comments. Posted by AnodicElegy.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://spectrum.ieee.org/bloomberg-terminal">A brief history of the Bloomberg terminal</a></h3>
-      <p>From spectrum.ieee.org. 291 points on Hacker News, 126 comments. Posted by rbanffy.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cgk53dkmyxko">The AI telling farmers when to harvest</a></h3>
-      <p>Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 01 Oct 2026, 10:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Oct 2026, 18:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
