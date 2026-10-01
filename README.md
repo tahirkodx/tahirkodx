@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790814987" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790849798" alt="Famous quote" width="100%">
 </p>
 
-> The day is for honest men, the night for thieves.
+> The privilege of a lifetime is to become who you truly are.
 >
-> Euripides
+> Carl Jung
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cv8e30enrkxyo">AI boom could trigger market shocks, Bank of England boss warns</a></h3>
+      <p>Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence "very carefully".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://twitter.com/tuakdotsol/status/2105105417760391258">Singapore govt dating app uses Gale-Shapley stable marriage algorithm</a></h3>
+      <p>Related: https://www.bbc.com/news/articles/cqzjzr893yv4o</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/ck4gjn1yzprno">Tiny image sparks big backlash in Nikon photo contest</a></h3>
       <p>Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://earendil.com/posts/you-said-no-mcp/">You said no MCP</a></h3>
-      <p>From earendil.com. 607 points on Hacker News, 336 comments. Posted by yarapavan.</p>
+      <h3><a href="https://spectrum.ieee.org/bloomberg-terminal">A brief history of the Bloomberg terminal</a></h3>
+      <p>From spectrum.ieee.org. 291 points on Hacker News, 126 comments. Posted by rbanffy.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records">I could've accessed 17T Microsoft records</a></h3>
-      <p>From blog.faav.net. 243 points on Hacker News, 107 comments. Posted by luispa.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvzez7k0pn40o">Regulating AI 'not the right place to start' says Bailey</a></h3>
-      <p>AI needs "rigorous" testing and safeguards to contain risk, Andrew Bailey says.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 01 Oct 2026, 00:36 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Oct 2026, 10:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
