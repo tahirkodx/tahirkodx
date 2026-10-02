@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790879262" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790902365" alt="Famous quote" width="100%">
 </p>
 
-> Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.
+> We can have more than we've got because we can become more than we are.
 >
-> Henry Ford
+> Jim Rohn
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">Gemini 4 Argon</a></h3>
-      <p>See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis, https://news.ycombinator.com/item?id=49914236</p>
+      <h3><a href="https://earendil.com/posts/pi-1-0/">Pi 1.0</a></h3>
+      <p>Related: Pi Durable, https://news.ycombinator.com/item?id=49925969</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq84eygz0qo">Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery</a></h3>
+      <p>The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/streetcomplete/StreetComplete/issues/5421">StreetComplete on iOS is now in public beta</a></h3>
+      <p>From github.com. 517 points on Hacker News, 125 comments. Posted by Snowly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/streetcomplete/StreetComplete/issues/5421">StreetComplete on iOS is now in public beta</a></h3>
-      <p>From github.com. 418 points on Hacker News, 99 comments. Posted by Snowly.</p>
+      <h3><a href="https://blog.cloudflare.com/clef-decision-models/">Clef: Open-weight decision models, and new RL fine-tuning platform</a></h3>
+      <p>From blog.cloudflare.com. 419 points on Hacker News, 157 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence "very carefully".</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.worksinprogress.news/p/why-really-caused-the-bronze-age">Why the Bronze Age Collapsed</a></h3>
-      <p>From worksinprogress.news. 374 points on Hacker News, 255 comments. Posted by AnodicElegy.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck4gjn1yzprno">Tiny image sparks big backlash in Nikon photo contest</a></h3>
-      <p>Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 01 Oct 2026, 18:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Oct 2026, 00:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
