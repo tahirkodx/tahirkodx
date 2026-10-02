@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790963674" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790979608" alt="Famous quote" width="100%">
 </p>
 
-> You don't earn loyalty in a day. You earn loyalty day-by-day.
+> Everything you can imagine is real.
 >
-> Jeffrey Gitomer
+> Pablo Picasso
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://earendil.com/posts/pi-1-0/">Pi 1.0</a></h3>
-      <p>Related: Pi Durable, https://news.ycombinator.com/item?id=49925969</p>
+      <h3><a href="https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility">Court agrees with EFF: Utah's VPN law demands a technical impossibility</a></h3>
+      <p>From eff.org. 407 points on Hacker News, 182 comments. Posted by hn_acker.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/streetcomplete/StreetComplete/issues/5421">StreetComplete on iOS is now in public beta</a></h3>
-      <p>From github.com. 611 points on Hacker News, 168 comments. Posted by Snowly.</p>
+      <h3><a href="https://bfl.ai/models/flux-3-image">FLUX 3 Image</a></h3>
+      <p>From bfl.ai. 239 points on Hacker News, 53 comments. Posted by minimaxir.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.cloudflare.com/clef-decision-models/">Clef: Open-weight decision models, and new RL fine-tuning platform</a></h3>
-      <p>From blog.cloudflare.com. 602 points on Hacker News, 213 comments. Posted by jasondavies.</p>
+      <h3><a href="https://developer.apple.com/pass-designer/">Apple Pass Designer</a></h3>
+      <p>From developer.apple.com. 231 points on Hacker News, 156 comments. Posted by soheilpro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 02 Oct 2026, 17:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Oct 2026, 22:20 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
