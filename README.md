@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790934836" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790963674" alt="Famous quote" width="100%">
 </p>
 
-> Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.
+> You don't earn loyalty in a day. You earn loyalty day-by-day.
 >
-> Harry S. Truman
+> Jeffrey Gitomer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/streetcomplete/StreetComplete/issues/5421">StreetComplete on iOS is now in public beta</a></h3>
-      <p>From github.com. 567 points on Hacker News, 148 comments. Posted by Snowly.</p>
+      <p>From github.com. 611 points on Hacker News, 168 comments. Posted by Snowly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.cloudflare.com/clef-decision-models/">Clef: Open-weight decision models, and new RL fine-tuning platform</a></h3>
-      <p>From blog.cloudflare.com. 510 points on Hacker News, 180 comments. Posted by jasondavies.</p>
+      <p>From blog.cloudflare.com. 602 points on Hacker News, 213 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 02 Oct 2026, 09:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Oct 2026, 17:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
