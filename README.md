@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1790979608" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791005212" alt="Famous quote" width="100%">
 </p>
 
-> Everything you can imagine is real.
+> Focused, hard work is the real key to success.
 >
-> Pablo Picasso
+> John Carmack
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility">Court agrees with EFF: Utah's VPN law demands a technical impossibility</a></h3>
-      <p>From eff.org. 407 points on Hacker News, 182 comments. Posted by hn_acker.</p>
+      <p>From eff.org. 576 points on Hacker News, 253 comments. Posted by hn_acker.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bfl.ai/models/flux-3-image">FLUX 3 Image</a></h3>
-      <p>From bfl.ai. 239 points on Hacker News, 53 comments. Posted by minimaxir.</p>
+      <h3><a href="https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/">Mike Tomlin spent 12 years building a Minecraft city</a></h3>
+      <p>https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://developer.apple.com/pass-designer/">Apple Pass Designer</a></h3>
-      <p>From developer.apple.com. 231 points on Hacker News, 156 comments. Posted by soheilpro.</p>
+      <p>From developer.apple.com. 374 points on Hacker News, 232 comments. Posted by soheilpro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 02 Oct 2026, 22:20 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Oct 2026, 05:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
