@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791005212" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791028107" alt="Famous quote" width="100%">
 </p>
 
-> Focused, hard work is the real key to success.
+> It still holds true that man is most uniquely human when he turns obstacles into opportunities.
 >
-> John Carmack
+> Eric Hoffer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility">Court agrees with EFF: Utah's VPN law demands a technical impossibility</a></h3>
-      <p>From eff.org. 576 points on Hacker News, 253 comments. Posted by hn_acker.</p>
+      <p>From eff.org. 653 points on Hacker News, 308 comments. Posted by hn_acker.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://developer.apple.com/pass-designer/">Apple Pass Designer</a></h3>
-      <p>From developer.apple.com. 374 points on Hacker News, 232 comments. Posted by soheilpro.</p>
+      <p>From developer.apple.com. 446 points on Hacker News, 276 comments. Posted by soheilpro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 03 Oct 2026, 05:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Oct 2026, 11:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
