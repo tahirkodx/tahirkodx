@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791044995" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791062779" alt="Famous quote" width="100%">
 </p>
 
-> Perseverance and spirit have done wonders in all ages.
+> Most of us will do anything to avoid facing ourselves.
 >
-> George Washington
+> Lolly Daskal
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility">Court agrees with EFF: Utah's VPN law demands a technical impossibility</a></h3>
-      <p>From eff.org. 718 points on Hacker News, 351 comments. Posted by hn_acker.</p>
+      <h3><a href="https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/">Mike Tomlin spent 12 years building a Minecraft city</a></h3>
+      <p>https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/">Mike Tomlin spent 12 years building a Minecraft city</a></h3>
-      <p>https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</p>
+      <h3><a href="https://developer.apple.com/pass-designer/">Apple Pass Designer</a></h3>
+      <p>From developer.apple.com. 539 points on Hacker News, 321 comments. Posted by soheilpro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.apple.com/pass-designer/">Apple Pass Designer</a></h3>
-      <p>From developer.apple.com. 509 points on Hacker News, 305 comments. Posted by soheilpro.</p>
+      <h3><a href="https://www.newgrounds.com/">Newgrounds.com  A community of games, music, and art</a></h3>
+      <p>From newgrounds.com. 421 points on Hacker News, 123 comments. Posted by azhenley.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 03 Oct 2026, 16:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Oct 2026, 21:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
