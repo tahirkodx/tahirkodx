@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791117078" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791139200" alt="Famous quote" width="100%">
 </p>
 
-> When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.
+> Imagination is everything. It is the preview of life's coming attractions.
 >
-> Bhagavad Gita
+> Albert Einstein
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">We're going to need default hard budget caps on pretty much everything</a></h3>
-      <p>From simonwillison.net. 478 points on Hacker News, 238 comments. Posted by elffjs.</p>
+      <p>From simonwillison.net. 564 points on Hacker News, 288 comments. Posted by elffjs.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU">The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux</a></h3>
-      <p>From phoronix.com. 329 points on Hacker News, 56 comments. Posted by speckx.</p>
+      <p>From phoronix.com. 417 points on Hacker News, 73 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 04 Oct 2026, 12:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Oct 2026, 18:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
