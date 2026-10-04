@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791062779" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791093723" alt="Famous quote" width="100%">
 </p>
 
-> Most of us will do anything to avoid facing ourselves.
+> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.
 >
-> Lolly Daskal
+> Paulo Coelho
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/">Mike Tomlin spent 12 years building a Minecraft city</a></h3>
-      <p>https://archive.ph/Kv6yS https://www.youtube.com/watch?v=_h_pQ1-5iQg https://www.theguardian.com/sport/2026/oct/01/mike-tomlin-mi...</p>
+      <h3><a href="https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/">Kolibri: A Sovereign Open-Weight Model</a></h3>
+      <p>tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.apple.com/pass-designer/">Apple Pass Designer</a></h3>
-      <p>From developer.apple.com. 539 points on Hacker News, 321 comments. Posted by soheilpro.</p>
+      <h3><a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/">Federal judge calls Flock 'indiscriminate mass surveillance'</a></h3>
+      <p>From techcrunch.com. 398 points on Hacker News, 224 comments. Posted by sbulaev.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.newgrounds.com/">Newgrounds.com  A community of games, music, and art</a></h3>
-      <p>From newgrounds.com. 421 points on Hacker News, 123 comments. Posted by azhenley.</p>
+      <h3><a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">We're going to need default hard budget caps on pretty much everything</a></h3>
+      <p>From simonwillison.net. 336 points on Hacker News, 171 comments. Posted by elffjs.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 03 Oct 2026, 21:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Oct 2026, 06:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
