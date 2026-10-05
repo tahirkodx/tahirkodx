@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791212151" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791237831" alt="Famous quote" width="100%">
 </p>
 
-> When the world pushes you to your knees, you're in the perfect position to pray.
+> The world is open for play, everything and everybody is mockable in a wonderful way.
 >
-> Rumi
+> Robin Williams
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/Niko1221/Strata">Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</a></h3>
-      <p>From github.com. 862 points on Hacker News, 387 comments. Posted by snehesht.</p>
+      <h3><a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/">Web Search API</a></h3>
+      <p>From developers.cloudflare.com. 443 points on Hacker News, 206 comments. Posted by tosh.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c5j9x9pr0240o">Pentagon stops using Anthropic AI tools after blacklisting company, BBC told</a></h3>
+      <p>It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">Anthropic reported diary entry to police, woman faces felony charge</a></h3>
+      <p>From techspot.com. 408 points on Hacker News, 333 comments. Posted by emptybits.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/omlahore/RemoveMacAI">Turn off Apple Intelligence on macOS 27 and get its disk space back</a></h3>
-      <p>From github.com. 687 points on Hacker News, 456 comments. Posted by privacyisntdead.</p>
+      <h3><a href="https://worksinprogress.co/issue/mosquitoes-are-a-choice/">The technology to eradicate mosquito-borne disease exists</a></h3>
+      <p>From worksinprogress.co. 219 points on Hacker News, 175 comments. Posted by benbreen.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The former employees were investigated for sharing data with an outside AI evaluation group.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans">What is going on with ceiling fans</a></h3>
-      <p>From mcmansionhell.com. 381 points on Hacker News, 333 comments. Posted by colinprince.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq84eygz0qo">Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery</a></h3>
-      <p>The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 05 Oct 2026, 14:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Oct 2026, 22:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
