@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791179541" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791212151" alt="Famous quote" width="100%">
 </p>
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> When the world pushes you to your knees, you're in the perfect position to pray.
 >
-> Elbert Hubbard
+> Rumi
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=49949438">Tell HN: Bob Cringely has died</a></h3>
-      <p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an.</p>
+      <h3><a href="https://github.com/Niko1221/Strata">Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</a></h3>
+      <p>From github.com. 862 points on Hacker News, 387 comments. Posted by snehesht.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqj6jenp26zyo">Trump unveils 'Super Intelligence Force' to oversee AI policy</a></h3>
-      <p>The president named his national intelligence chief as the taskforce's head as worries over AI grow.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqj6jenp26zyo">Trump chooses top spy boss to run new AI taskforce</a></h3>
+      <p>The US president said his national intelligence chief will lead the group as worries over AI grow.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/Niko1221/Strata">Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s</a></h3>
-      <p>From github.com. 690 points on Hacker News, 318 comments. Posted by snehesht.</p>
+      <h3><a href="https://github.com/omlahore/RemoveMacAI">Turn off Apple Intelligence on macOS 27 and get its disk space back</a></h3>
+      <p>From github.com. 687 points on Hacker News, 456 comments. Posted by privacyisntdead.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/omlahore/RemoveMacAI">Turn off Apple Intelligence on macOS 27 and get its disk space back</a></h3>
-      <p>From github.com. 483 points on Hacker News, 301 comments. Posted by privacyisntdead.</p>
+      <h3><a href="https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans">What is going on with ceiling fans</a></h3>
+      <p>From mcmansionhell.com. 381 points on Hacker News, 333 comments. Posted by colinprince.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 05 Oct 2026, 05:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Oct 2026, 14:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
