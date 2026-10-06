@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791237831" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791268260" alt="Famous quote" width="100%">
 </p>
 
-> The world is open for play, everything and everybody is mockable in a wonderful way.
+> Make each day a new horizon.
 >
-> Robin Williams
+> Christopher McCandless
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/">Web Search API</a></h3>
-      <p>From developers.cloudflare.com. 443 points on Hacker News, 206 comments. Posted by tosh.</p>
+      <h3><a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">Anthropic reported diary entry to police, woman faces felony charge</a></h3>
+      <p>From techspot.com. 672 points on Hacker News, 520 comments. Posted by emptybits.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">Anthropic reported diary entry to police, woman faces felony charge</a></h3>
-      <p>From techspot.com. 408 points on Hacker News, 333 comments. Posted by emptybits.</p>
+      <h3><a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/">Web Search API</a></h3>
+      <p>From developers.cloudflare.com. 524 points on Hacker News, 240 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://worksinprogress.co/issue/mosquitoes-are-a-choice/">The technology to eradicate mosquito-borne disease exists</a></h3>
-      <p>From worksinprogress.co. 219 points on Hacker News, 175 comments. Posted by benbreen.</p>
+      <h3><a href="https://reflection.ai/blog/introducing-beam">Beam: Reflection's 501B open-weight model</a></h3>
+      <p>From reflection.ai. 392 points on Hacker News, 122 comments. Posted by Philpax.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 05 Oct 2026, 22:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Oct 2026, 06:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
