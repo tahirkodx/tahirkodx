@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791268260" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791302460" alt="Famous quote" width="100%">
 </p>
 
-> Make each day a new horizon.
+> May you find grace as you surrender to life. May you find happiness, as you stop seeking it.
 >
-> Christopher McCandless
+> Dan Millman
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">Anthropic reported diary entry to police, woman faces felony charge</a></h3>
-      <p>From techspot.com. 672 points on Hacker News, 520 comments. Posted by emptybits.</p>
+      <h3><a href="https://docs.mistral.ai/models/mistral-large-4-0">Mistral Large 4</a></h3>
+      <p>From docs.mistral.ai. 741 points on Hacker News, 420 comments. Posted by Philpax.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c5j9x9pr0240o">Pentagon stops using Anthropic AI tools after blacklisting company, BBC told</a></h3>
-      <p>It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/">Web Search API</a></h3>
-      <p>From developers.cloudflare.com. 524 points on Hacker News, 240 comments. Posted by tosh.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqj6jenp26zyo">Trump chooses top spy boss to run new AI taskforce</a></h3>
-      <p>The US president said his national intelligence chief will lead the group as worries over AI grow.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo">Italian PM files to trademark her voice against AI threats</a></h3>
+      <p>Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://reflection.ai/blog/introducing-beam">Beam: Reflection's 501B open-weight model</a></h3>
-      <p>From reflection.ai. 392 points on Hacker News, 122 comments. Posted by Philpax.</p>
+      <p>From reflection.ai. 503 points on Hacker News, 163 comments. Posted by Philpax.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo">OpenAI fires workers for 'mishandling sensitive information'</a></h3>
-      <p>The former employees were investigated for sharing data with an outside AI evaluation group.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">ASOS app users receive push notifications apparently sent by hackers</a></h3>
+      <p>Dozens of people appear to have received a strange message from the clothing and beauty store's app.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</a></h3>
+      <p>From vals.ai. 425 points on Hacker News, 293 comments. Posted by outlier99.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro">Ofcom investigates Meta over Instagram Instants feature</a></h3>
+      <p>The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 06 Oct 2026, 06:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Oct 2026, 16:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
