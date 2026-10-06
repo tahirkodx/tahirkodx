@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791302460" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791326487" alt="Famous quote" width="100%">
 </p>
 
-> May you find grace as you surrender to life. May you find happiness, as you stop seeking it.
+> What you seek is seeking you.
 >
-> Dan Millman
+> Rumi
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://docs.mistral.ai/models/mistral-large-4-0">Mistral Large 4</a></h3>
-      <p>From docs.mistral.ai. 741 points on Hacker News, 420 comments. Posted by Philpax.</p>
+      <h3><a href="https://mistral.ai/news/mistral-large-4/\">Mistral Large 4</a></h3>
+      <p>https://docs.mistral.ai/models/mistral-large-4-0</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">Asos confirms hackers sent 'unauthorised' notification to app users</a></h3>
+      <p>Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://reflection.ai/blog/introducing-beam">Beam: Reflection's 501B open-weight model</a></h3>
+      <p>From reflection.ai. 538 points on Hacker News, 167 comments. Posted by Philpax.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o">Finland orders halt to work on two Google data centres</a></h3>
+      <p>The order affecting two planned data centres follows concerns over forest clearance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.nobelprize.org/prizes/physics/2026/">Nobel Prize in Physics 2026: Francis Halzen</a></h3>
+      <p>From nobelprize.org. 494 points on Hacker News, 165 comments. Posted by solarist.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://reflection.ai/blog/introducing-beam">Beam: Reflection's 501B open-weight model</a></h3>
-      <p>From reflection.ai. 503 points on Hacker News, 163 comments. Posted by Philpax.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">ASOS app users receive push notifications apparently sent by hackers</a></h3>
-      <p>Dozens of people appear to have received a strange message from the clothing and beauty store's app.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</a></h3>
-      <p>From vals.ai. 425 points on Hacker News, 293 comments. Posted by outlier99.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro">Ofcom investigates Meta over Instagram Instants feature</a></h3>
-      <p>The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 06 Oct 2026, 16:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Oct 2026, 22:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
