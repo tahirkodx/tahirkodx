@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791380139" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791405580" alt="Famous quote" width="100%">
 </p>
 
-> When you're curious, you find lots of interesting things to do.
+> Death is not sad; the sad thing is that most people don't really live at all.
 >
-> Walt Disney
+> Dan Millman
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mistral.ai/news/mistral-large-4/\">Mistral Large 4</a></h3>
-      <p>https://docs.mistral.ai/models/mistral-large-4-0</p>
+      <h3><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">Sharing AI progress in mathematics</a></h3>
+      <p>https://github.com/openai/math https://github.com/openai/math/tree/main/preprints</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o">OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'</a></h3>
+      <p>The research found that important guardrails for teens using ChatGPT often failed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome">Shipping JPEG XL in Chrome</a></h3>
+      <p>From developer.chrome.com. 421 points on Hacker News, 269 comments. Posted by AshleysBrain.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">Sharing AI progress in mathematics</a></h3>
-      <p>https://github.com/openai/math https://github.com/openai/math/tree/main/preprints</p>
+      <h3><a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a></h3>
+      <p>From anthropic.com. 411 points on Hacker News, 197 comments. Posted by sfkgtbor.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=49982498">Tell HN: GitHub refuses to remove cracked copies of my software after a month</a></h3>
-      <p>I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser. Many people are asking AI models to take the.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">Asos confirms hackers sent 'unauthorised' notification to app users</a></h3>
-      <p>Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 07 Oct 2026, 13:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Oct 2026, 20:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
