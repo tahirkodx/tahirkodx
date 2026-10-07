@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791353399" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791380139" alt="Famous quote" width="100%">
 </p>
 
-> Not engaging in ignorance is wisdom.
+> When you're curious, you find lots of interesting things to do.
 >
-> Bodhidharma
+> Walt Disney
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj3vqxldglepo">Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'</a></h3>
-      <p>Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c64g71j4lgyjo">Rainmakers: The drones used to seed clouds</a></h3>
+      <p>Cloud seeding is gaining attention as countries look to boost rainfall, will drones help?</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">Asos confirms hackers sent 'unauthorised' notification to app users</a></h3>
-      <p>Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj3vqxldglepo">Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'</a></h3>
+      <p>Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/">EmbeddingGemma 2: An open, lightweight multimodal embedding model</a></h3>
-      <p>From blog.google. 287 points on Hacker News, 31 comments. Posted by ilreb.</p>
+      <h3><a href="https://news.ycombinator.com/item?id=49982498">Tell HN: GitHub refuses to remove cracked copies of my software after a month</a></h3>
+      <p>I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser. Many people are asking AI models to take the.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o">Finland orders halt to work on two Google data centres</a></h3>
-      <p>The order affecting two planned data centres follows concerns over forest clearance.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">Asos confirms hackers sent 'unauthorised' notification to app users</a></h3>
+      <p>Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 07 Oct 2026, 06:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Oct 2026, 13:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
