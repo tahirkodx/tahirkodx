@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791326487" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791353399" alt="Famous quote" width="100%">
 </p>
 
-> What you seek is seeking you.
+> Not engaging in ignorance is wisdom.
 >
-> Rumi
+> Bodhidharma
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj3vqxldglepo">Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'</a></h3>
+      <p>Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">Sharing AI progress in mathematics</a></h3>
+      <p>https://github.com/openai/math https://github.com/openai/math/tree/main/preprints</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o">Asos confirms hackers sent 'unauthorised' notification to app users</a></h3>
       <p>Asos confirmed an "unauthorised customer notification" was sent out via its app on Tuesday, after users raised alarm.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://reflection.ai/blog/introducing-beam">Beam: Reflection's 501B open-weight model</a></h3>
-      <p>From reflection.ai. 538 points on Hacker News, 167 comments. Posted by Philpax.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/">EmbeddingGemma 2: An open, lightweight multimodal embedding model</a></h3>
+      <p>From blog.google. 287 points on Hacker News, 31 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The order affecting two planned data centres follows concerns over forest clearance.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nobelprize.org/prizes/physics/2026/">Nobel Prize in Physics 2026: Francis Halzen</a></h3>
-      <p>From nobelprize.org. 494 points on Hacker News, 165 comments. Posted by solarist.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo">Italian PM files to trademark her voice against AI threats</a></h3>
-      <p>Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 06 Oct 2026, 22:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Oct 2026, 06:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
