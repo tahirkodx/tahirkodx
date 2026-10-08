@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791456242" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791485631" alt="Famous quote" width="100%">
 </p>
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> If the only prayer you ever say in your entire life is thank you, it will be enough.
 >
-> Lao Tzu
+> Meister Eckhart
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">Margaret Hamilton has died</a></h3>
-      <p>From news.mit.edu. 1583 points on Hacker News, 168 comments. Posted by muglug.</p>
+      <h3><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">Sharing AI progress in mathematics</a></h3>
+      <p>https://github.com/openai/math https://github.com/openai/math/tree/main/preprints</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">Sharing AI progress in mathematics</a></h3>
-      <p>https://github.com/openai/math https://github.com/openai/math/tree/main/preprints</p>
+      <h3><a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a></h3>
+      <p>From anthropic.com. 1024 points on Hacker News, 477 comments. Posted by sfkgtbor.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a></h3>
-      <p>From anthropic.com. 893 points on Hacker News, 430 comments. Posted by sfkgtbor.</p>
+      <h3><a href="https://bigwords.page/">Show HN: Bigwords.page  Turn any screen into a sign. The URL is the app</a></h3>
+      <p>From bigwords.page. 665 points on Hacker News, 154 comments. Posted by SpeakingOfBrad.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 08 Oct 2026, 10:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Oct 2026, 18:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
