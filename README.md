@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791405580" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791421419" alt="Famous quote" width="100%">
 </p>
 
-> Death is not sad; the sad thing is that most people don't really live at all.
+> You need to be doing fewer things for more effect instead of doing more things with side effects.
 >
-> Dan Millman
+> Gary Keller
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo">Fuel prices added to Google Maps as petrol and diesel costs soar</a></h3>
+      <p>A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a></h3>
+      <p>From anthropic.com. 653 points on Hacker News, 327 comments. Posted by sfkgtbor.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o">OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'</a></h3>
       <p>The research found that important guardrails for teens using ChatGPT often failed.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome">Shipping JPEG XL in Chrome</a></h3>
-      <p>From developer.chrome.com. 421 points on Hacker News, 269 comments. Posted by AshleysBrain.</p>
+      <h3><a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">Margaret Hamilton has died</a></h3>
+      <p>From news.mit.edu. 613 points on Hacker News, 67 comments. Posted by muglug.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Cloud seeding is gaining attention as countries look to boost rainfall, will drones help?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a></h3>
-      <p>From anthropic.com. 411 points on Hacker News, 197 comments. Posted by sfkgtbor.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj3vqxldglepo">Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'</a></h3>
-      <p>Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 07 Oct 2026, 20:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Oct 2026, 01:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
