@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791542578" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791570280" alt="Famous quote" width="100%">
 </p>
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> Investing in yourself is the best investment you will ever make.
 >
-> Elbert Hubbard
+> Robin Sharma
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,24 +438,12 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/">Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></h3>
-      <p>From dgt.is. 782 points on Hacker News, 693 comments. Posted by jonotime.</p>
+      <p>From dgt.is. 1006 points on Hacker News, 908 comments. Posted by jonotime.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo">Fired OpenAI researchers say they were let go for 'prioritising safety'</a></h3>
-      <p>The AI firm instead claims the researchers were fired for mishandling sensitive information.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cactuscompute.com/blog/whistle">Whistle: Speech to Text in 16.9 MB</a></h3>
-      <p>From cactuscompute.com. 780 points on Hacker News, 154 comments. Posted by gmays.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po">Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen</a></h3>
-      <p>Firmus said it had made the decision due to "recent market volatility and prevailing market conditions".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr86z33pdy9vo">Prize-winning image which sparked backlash was AI-generated, Nikon rules</a></h3>
+      <p>The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o">'Careless use of AI is the real threat, not the ghost stories'</a></h3>
-      <p>Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo">Anthropic bans users from being 'cruel' to its AI systems</a></h3>
+      <p>The firm said users can no longer engage in "sustained and needless" abusive behaviour towards the tech.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://cactuscompute.com/blog/whistle">Whistle: Speech to Text in 16.9 MB</a></h3>
+      <p>From cactuscompute.com. 888 points on Hacker News, 174 comments. Posted by gmays.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo">Fired OpenAI researchers say they were let go for 'prioritising safety'</a></h3>
+      <p>The AI firm instead claims the researchers were fired for mishandling sensitive information.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 09 Oct 2026, 10:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Oct 2026, 18:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
