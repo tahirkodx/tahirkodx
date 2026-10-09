@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791508560" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791542578" alt="Famous quote" width="100%">
 </p>
 
-> The chief danger in life is that you may take too many precautions.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> Alfred Adler
+> Elbert Hubbard
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cactuscompute.com/blog/whistle">Whistle: Speech to Text in 16.9 MB</a></h3>
-      <p>From cactuscompute.com. 520 points on Hacker News, 118 comments. Posted by gmays.</p>
+      <h3><a href="https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/">Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></h3>
+      <p>From dgt.is. 782 points on Hacker News, 693 comments. Posted by jonotime.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cdr7n610rmzo">Why are more roofs not made of solar tiles?</a></h3>
-      <p>Solar tiles were touted as an attractive alternative to solar panels, why have they not taken off?</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo">Fired OpenAI researchers say they were let go for 'prioritising safety'</a></h3>
+      <p>The AI firm instead claims the researchers were fired for mishandling sensitive information.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/">Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></h3>
-      <p>From dgt.is. 393 points on Hacker News, 331 comments. Posted by jonotime.</p>
+      <h3><a href="https://cactuscompute.com/blog/whistle">Whistle: Speech to Text in 16.9 MB</a></h3>
+      <p>From cactuscompute.com. 780 points on Hacker News, 154 comments. Posted by gmays.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo">White House blocks Microsoft from foreign worker hiring program</a></h3>
-      <p>An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po">Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen</a></h3>
+      <p>Firmus said it had made the decision due to "recent market volatility and prevailing market conditions".</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/">Man discovers his parents' coffee machine used 1TB of data in 10 days</a></h3>
-      <p>From dexerto.com. 378 points on Hacker News, 236 comments. Posted by ck2.</p>
+      <p>https://x.com/NomadsGalaxy/status/2107284088247689290</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo">Asos hackers took more personal details than first revealed, BBC finds</a></h3>
-      <p>Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond "basic contact details"</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o">'Careless use of AI is the real threat, not the ghost stories'</a></h3>
+      <p>Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 09 Oct 2026, 01:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Oct 2026, 10:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
