@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791485631" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791508560" alt="Famous quote" width="100%">
 </p>
 
-> If the only prayer you ever say in your entire life is thank you, it will be enough.
+> The chief danger in life is that you may take too many precautions.
 >
-> Meister Eckhart
+> Alfred Adler
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">Sharing AI progress in mathematics</a></h3>
-      <p>https://github.com/openai/math https://github.com/openai/math/tree/main/preprints</p>
+      <h3><a href="https://cactuscompute.com/blog/whistle">Whistle: Speech to Text in 16.9 MB</a></h3>
+      <p>From cactuscompute.com. 520 points on Hacker News, 118 comments. Posted by gmays.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cdr7n610rmzo">Why are more roofs not made of solar tiles?</a></h3>
+      <p>Solar tiles were touted as an attractive alternative to solar panels, why have they not taken off?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/">Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></h3>
+      <p>From dgt.is. 393 points on Hacker News, 331 comments. Posted by jonotime.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo">White House blocks Microsoft from foreign worker hiring program</a></h3>
+      <p>An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/">Man discovers his parents' coffee machine used 1TB of data in 10 days</a></h3>
+      <p>From dexerto.com. 378 points on Hacker News, 236 comments. Posted by ck2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond "basic contact details"</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a></h3>
-      <p>From anthropic.com. 1024 points on Hacker News, 477 comments. Posted by sfkgtbor.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c687z8127302o">AI chip boom pushes Samsung profits to record $80bn</a></h3>
-      <p>The tech giant is also expected to get a boost from its latest folding devices that were launched in August.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://bigwords.page/">Show HN: Bigwords.page  Turn any screen into a sign. The URL is the app</a></h3>
-      <p>From bigwords.page. 665 points on Hacker News, 154 comments. Posted by SpeakingOfBrad.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo">Fuel prices added to Google Maps as petrol and diesel costs soar</a></h3>
-      <p>A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 08 Oct 2026, 18:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Oct 2026, 01:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
