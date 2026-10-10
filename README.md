@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791626316" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791652972" alt="Famous quote" width="100%">
 </p>
 
-> The essence of the Way is detachment.
+> To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others.
 >
-> Bodhidharma
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,31 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://deno.com/blog/cloudflare">Cloudflare acquires Deno</a></h3>
-      <p>From deno.com. 1234 points on Hacker News, 623 comments. Posted by ilreb.</p>
+      <p>From deno.com. 1313 points on Hacker News, 677 comments. Posted by ilreb.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cme3xl7d18z2o">King warns malicious online actors are evolving tactics</a></h3>
+      <p>The King spoke of "threats to our international order" in a letter marking the 10th anniversary of the National Cyber Security Centre.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://minesweeper.mikelacher.com/">Triple-A Minesweeper</a></h3>
+      <p>From minesweeper.mikelacher.com. 1235 points on Hacker News, 244 comments. Posted by robin_reala.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a></h3>
+      <p>Philadelphia police said the tip was "flagged as spam", but criticised the tech company for taking more than two months to detect and report the.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://rea.tools/">REA Reverse  Engineer Anything</a></h3>
+      <p>From rea.tools. 592 points on Hacker News, 258 comments. Posted by modinfo.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Dramatic flames from the huge Cairngorms wildfire in July have disappeared, but hot spots can continue to burn beneath the earth.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://minesweeper.mikelacher.com/">Triple-A Minesweeper</a></h3>
-      <p>From minesweeper.mikelacher.com. 975 points on Hacker News, 190 comments. Posted by robin_reala.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr86z33pdy9vo">Prize-winning image which sparked backlash was AI-generated, Nikon rules</a></h3>
-      <p>The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://iminafleeting.com/">Sorry, I'm in a meeting</a></h3>
-      <p>From iminafleeting.com. 903 points on Hacker News, 253 comments. Posted by splintersio.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo">Anthropic bans users from being 'cruel' to its AI systems</a></h3>
-      <p>The firm said users can no longer engage in "sustained and needless" abusive behaviour towards the tech.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 10 Oct 2026, 09:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Oct 2026, 17:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
