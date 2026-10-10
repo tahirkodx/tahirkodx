@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791570280" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791593916" alt="Famous quote" width="100%">
 </p>
 
-> Investing in yourself is the best investment you will ever make.
+> How to get more opportunity: Create more opportunity for others.
 >
-> Robin Sharma
+> Jack Butcher
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/">Why isn't the industry freaking out about DeepSeek 4.1 Flash?</a></h3>
-      <p>From dgt.is. 1006 points on Hacker News, 908 comments. Posted by jonotime.</p>
+      <h3><a href="https://deno.com/blog/cloudflare">Cloudflare acquires Deno</a></h3>
+      <p>From deno.com. 1052 points on Hacker News, 546 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/">Man discovers his parents' coffee machine used 1TB of data in 10 days</a></h3>
-      <p>https://x.com/NomadsGalaxy/status/2107284088247689290</p>
+      <h3><a href="https://iminafleeting.com/">Sorry, I'm in a meeting</a></h3>
+      <p>From iminafleeting.com. 749 points on Hacker News, 233 comments. Posted by splintersio.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cactuscompute.com/blog/whistle">Whistle: Speech to Text in 16.9 MB</a></h3>
-      <p>From cactuscompute.com. 888 points on Hacker News, 174 comments. Posted by gmays.</p>
+      <h3><a href="https://minesweeper.mikelacher.com/">Triple-A Minesweeper</a></h3>
+      <p>From minesweeper.mikelacher.com. 607 points on Hacker News, 113 comments. Posted by robin_reala.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 09 Oct 2026, 18:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Oct 2026, 00:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
