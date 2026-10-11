@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791669083" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791698342" alt="Famous quote" width="100%">
 </p>
 
-> Happiness is an effect of doing what you love, not an end goal to be achieved.
+> If you're really truthful with yourself, it's a wonderful guidance.
 >
-> Celestine Chua
+> Charlie Chaplin
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://rea.tools/">REA Reverse  Engineer Anything</a></h3>
-      <p>From rea.tools. 658 points on Hacker News, 283 comments. Posted by modinfo.</p>
+      <h3><a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">Telegram Desktop vulnerability allowed any user's file to be stolen</a></h3>
+      <p>From beaksec.github.io. 439 points on Hacker News, 277 comments. Posted by g-b-r.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">Telegram Desktop vulnerability allowed any user's file to be stolen</a></h3>
-      <p>From beaksec.github.io. 388 points on Hacker News, 227 comments. Posted by g-b-r.</p>
+      <h3><a href="https://patkerr.co.uk/2d-vehicles/">2D Vehicles</a></h3>
+      <p>From patkerr.co.uk. 411 points on Hacker News, 92 comments. Posted by Michelangelo11.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/">`123456' password used in Danish CPR data breach</a></h3>
-      <p>From cphpost.dk. 366 points on Hacker News, 189 comments. Posted by baal80spam.</p>
+      <h3><a href="https://purplesyringa.moe/blog/grieving-the-loss-of-details/">Grieving the loss of details</a></h3>
+      <p>From purplesyringa.moe. 394 points on Hacker News, 319 comments. Posted by signa11.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 10 Oct 2026, 21:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Oct 2026, 05:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
