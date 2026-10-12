@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791803013" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791839924" alt="Famous quote" width="100%">
 </p>
 
-> Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.
+> There is only the one reality, neither to be realized nor attained.
 >
-> Arnold Schwarzenegger
+> Huang Po
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them">Passkeys are a trap</a></h3>
-      <p>From nonfunctional.substack.com. 663 points on Hacker News, 385 comments. Posted by laurex.</p>
+      <h3><a href="https://royfish.dev/fingerprints-are-the-new-cookies">Fingerprints are the new cookies</a></h3>
+      <p>From royfish.dev. 688 points on Hacker News, 330 comments. Posted by royfish.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr78pe09y05xo">AI minister warns 'likely' UK's cyber defences will be breached</a></h3>
+      <p>Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">Terence Tao: Math 2.0 [pdf]</a></h3>
+      <p>From teorth.github.io. 513 points on Hacker News, 505 comments. Posted by Anon84.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nanolathe.gg">Total Annihilation, rebuilt for modern computers</a></h3>
-      <p>From nanolathe.gg. 537 points on Hacker News, 206 comments. Posted by jttnr.</p>
+      <h3><a href="https://research.meta.ai/blog/muse-wonder">Muse Wonder</a></h3>
+      <p>From research.meta.ai. 432 points on Hacker News, 220 comments. Posted by meetpateltech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The King spoke of "threats to our international order" in a letter marking the 10th anniversary of the National Cyber Security Centre.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nyc.gov/main/click-to-cancel">NYC's "Click to Cancel" rule is now in effect</a></h3>
-      <p>From nyc.gov. 485 points on Hacker News, 237 comments. Posted by gregsadetsky.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a></h3>
-      <p>Philadelphia police said the tip was "flagged as spam", but criticised the tech company for taking more than two months to detect and report the.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 12 Oct 2026, 11:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Oct 2026, 21:18 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
