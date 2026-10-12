@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791765442" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791803013" alt="Famous quote" width="100%">
 </p>
 
-> Trust your instincts: my first reaction is almost invariably the right one.
+> Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.
 >
-> Estee Lauder
+> Arnold Schwarzenegger
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ircv3.net/">IRCv3</a></h3>
-      <p>From ircv3.net. 345 points on Hacker News, 291 comments. Posted by basilikum.</p>
+      <h3><a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them">Passkeys are a trap</a></h3>
+      <p>From nonfunctional.substack.com. 663 points on Hacker News, 385 comments. Posted by laurex.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://nanolathe.gg">Total Annihilation, rebuilt for modern computers</a></h3>
-      <p>From nanolathe.gg. 333 points on Hacker News, 144 comments. Posted by jttnr.</p>
+      <p>From nanolathe.gg. 537 points on Hacker News, 206 comments. Posted by jttnr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.nyc.gov/main/click-to-cancel">NYC's "Click to Cancel" rule is now in effect</a></h3>
-      <p>From nyc.gov. 324 points on Hacker News, 160 comments. Posted by gregsadetsky.</p>
+      <p>From nyc.gov. 485 points on Hacker News, 237 comments. Posted by gregsadetsky.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 12 Oct 2026, 00:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Oct 2026, 11:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
