@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791747338" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791765442" alt="Famous quote" width="100%">
 </p>
 
-> Nothing is easier than fault finding.
+> Trust your instincts: my first reaction is almost invariably the right one.
 >
-> Og Mandino
+> Estee Lauder
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://patkerr.co.uk/2d-vehicles/">2D Vehicles</a></h3>
-      <p>From patkerr.co.uk. 598 points on Hacker News, 113 comments. Posted by Michelangelo11.</p>
+      <h3><a href="https://ircv3.net/">IRCv3</a></h3>
+      <p>From ircv3.net. 345 points on Hacker News, 291 comments. Posted by basilikum.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo">AI is less regulated than milk, says Microsoft president</a></h3>
+      <p>Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://nanolathe.gg">Total Annihilation, rebuilt for modern computers</a></h3>
+      <p>From nanolathe.gg. 333 points on Hacker News, 144 comments. Posted by jttnr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lightbulbcomputer.com/">The Lightbulb Computer</a></h3>
-      <p>From lightbulbcomputer.com. 561 points on Hacker News, 93 comments. Posted by oskarth.</p>
+      <h3><a href="https://www.nyc.gov/main/click-to-cancel">NYC's "Click to Cancel" rule is now in effect</a></h3>
+      <p>From nyc.gov. 324 points on Hacker News, 160 comments. Posted by gregsadetsky.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Philadelphia police said the tip was "flagged as spam", but criticised the tech company for taking more than two months to detect and report the.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d">Bot traffic from Yandex</a></h3>
-      <p>From radar.cloudflare.com. 554 points on Hacker News, 216 comments. Posted by walrus01.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo">How drones are hunting fires hidden beneath the Cairngorms</a></h3>
-      <p>Dramatic flames from the huge Cairngorms wildfire in July have disappeared, but hot spots can continue to burn beneath the earth.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 11 Oct 2026, 19:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Oct 2026, 00:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
