@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791859044" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791888390" alt="Famous quote" width="100%">
 </p>
 
-> You can't climb the ladder of success with your hands in your pockets.
+> Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.
 >
-> Arnold Schwarzenegger
+> Ralph Marston
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://research.meta.ai/blog/muse-wonder">Muse Wonder</a></h3>
-      <p>From research.meta.ai. 536 points on Hacker News, 299 comments. Posted by meetpateltech.</p>
+      <h3><a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident">Hackers activate automatic defrosting in supermarket fridges across Europe</a></h3>
+      <p>https://www.reuters.com/business/retail-consumer/french-supe... , https://www.bbc.com/news/articles/crq5nzxv9q4yo .</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo">Bumble shares soar after report dating firm in $1bn takeover talks</a></h3>
-      <p>The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwly38gjkejko">Phase Eight and Hobbs owner hit by cyber-attack, as H&amp;M probes separate hack claim</a></h3>
+      <p>TFG London has apologised to customers for disruption after it identified a "cybersecurity incident" on Sunday.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/openai/codex/issues/48195">Codex CLI installs a persistent, self-updating background daemon by default</a></h3>
-      <p>From github.com. 478 points on Hacker News, 244 comments. Posted by whimblepop.</p>
+      <h3><a href="https://prophitt.me/writing/a-modern-web-app-in-c">A Modern Web App in C</a></h3>
+      <p>From prophitt.me. 576 points on Hacker News, 242 comments. Posted by prophittcorey.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo">Dating app Bumble in $1bn takeover talks, say reports</a></h3>
+      <p>The dating app which recently ditched its "women-first" chat rule could be bought by an investment firm.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://z.ai/blog/glm-legal">GLM-Legal</a></h3>
+      <p>From z.ai. 573 points on Hacker News, 322 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident">Hackers activate automatic defrosting in supermarket fridges across Europe</a></h3>
-      <p>https://www.reuters.com/business/retail-consumer/french-supe... , https://www.bbc.com/news/articles/crq5nzxv9q4yo .</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo">AI is less regulated than milk, says Microsoft president</a></h3>
-      <p>Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 13 Oct 2026, 02:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Oct 2026, 10:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
