@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791888390" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791919274" alt="Famous quote" width="100%">
 </p>
 
-> Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.
+> Wrong turns are as important as right turns. More important, sometimes.
 >
-> Ralph Marston
+> Richard Bach
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident">Hackers activate automatic defrosting in supermarket fridges across Europe</a></h3>
-      <p>https://www.reuters.com/business/retail-consumer/french-supe... , https://www.bbc.com/news/articles/crq5nzxv9q4yo .</p>
+      <h3><a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">AI is a tool and using it well takes skill</a></h3>
+      <p>From yyhh.org. 611 points on Hacker News, 475 comments. Posted by layer8.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo">Bumble bought for $1.3bn in 'bet on the future of humanity'</a></h3>
+      <p>The dating app which recently ditched its "women-first" chat rule has been bought by an investment firm.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/rust-lang/rust/issues/164250">11 year old unsoundness bugs found in Rust borrow checker</a></h3>
+      <p>From github.com. 591 points on Hacker News, 337 comments. Posted by formerly_proven.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://prophitt.me/writing/a-modern-web-app-in-c">A Modern Web App in C</a></h3>
-      <p>From prophitt.me. 576 points on Hacker News, 242 comments. Posted by prophittcorey.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo">Dating app Bumble in $1bn takeover talks, say reports</a></h3>
-      <p>The dating app which recently ditched its "women-first" chat rule could be bought by an investment firm.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://z.ai/blog/glm-legal">GLM-Legal</a></h3>
-      <p>From z.ai. 573 points on Hacker News, 322 comments. Posted by ilreb.</p>
+      <h3><a href="https://deepmind.google/models/gemini/">Gemini 4 Argon</a></h3>
+      <p>See also: Gemini 4 Argon for Robotics, https://news.ycombinator.com/item?id=50074869</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 13 Oct 2026, 10:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Oct 2026, 19:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
