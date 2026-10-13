@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791839924" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791859044" alt="Famous quote" width="100%">
 </p>
 
-> There is only the one reality, neither to be realized nor attained.
+> You can't climb the ladder of success with your hands in your pockets.
 >
-> Huang Po
+> Arnold Schwarzenegger
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://royfish.dev/fingerprints-are-the-new-cookies">Fingerprints are the new cookies</a></h3>
-      <p>From royfish.dev. 688 points on Hacker News, 330 comments. Posted by royfish.</p>
+      <h3><a href="https://research.meta.ai/blog/muse-wonder">Muse Wonder</a></h3>
+      <p>From research.meta.ai. 536 points on Hacker News, 299 comments. Posted by meetpateltech.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo">Bumble shares soar after report dating firm in $1bn takeover talks</a></h3>
+      <p>The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/openai/codex/issues/48195">Codex CLI installs a persistent, self-updating background daemon by default</a></h3>
+      <p>From github.com. 478 points on Hacker News, 244 comments. Posted by whimblepop.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">Terence Tao: Math 2.0 [pdf]</a></h3>
-      <p>From teorth.github.io. 513 points on Hacker News, 505 comments. Posted by Anon84.</p>
+      <h3><a href="https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident">Hackers activate automatic defrosting in supermarket fridges across Europe</a></h3>
+      <p>https://www.reuters.com/business/retail-consumer/french-supe... , https://www.bbc.com/news/articles/crq5nzxv9q4yo .</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Brad Smith calls for global rules on AI, and says the UK is in the "best position" to lead the charge.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://research.meta.ai/blog/muse-wonder">Muse Wonder</a></h3>
-      <p>From research.meta.ai. 432 points on Hacker News, 220 comments. Posted by meetpateltech.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cme3xl7d18z2o">King warns malicious online actors are evolving tactics</a></h3>
-      <p>The King spoke of "threats to our international order" in a letter marking the 10th anniversary of the National Cyber Security Centre.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 12 Oct 2026, 21:18 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Oct 2026, 02:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
