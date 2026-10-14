@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791919274" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791937280" alt="Famous quote" width="100%">
 </p>
 
-> Wrong turns are as important as right turns. More important, sometimes.
+> All life is an experiment. The more experiments you make, the better.
 >
-> Richard Bach
+> Ralph Waldo Emerson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">AI is a tool and using it well takes skill</a></h3>
-      <p>From yyhh.org. 611 points on Hacker News, 475 comments. Posted by layer8.</p>
+      <h3><a href="https://deepmind.google/models/gemini/">Gemini 4 Argon</a></h3>
+      <p>See also: Gemini 4 Argon for Robotics, https://news.ycombinator.com/item?id=50074869</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c1wxdjx27ypo">How long will humans be needed for translation?</a></h3>
+      <p>AI dominates the translation business, but for high-stakes work, humans are still needed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/rust-lang/rust/issues/164250">11 year old unsoundness bugs found in Rust borrow checker</a></h3>
+      <p>From github.com. 659 points on Hacker News, 368 comments. Posted by formerly_proven.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c623dnkn8pkyo">Is it OK for jobseekers or employers to use AI?</a></h3>
+      <p>Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.apple.com/apple-homeview/">Apple HomeView</a></h3>
+      <p>From apple.com. 639 points on Hacker News, 766 comments. Posted by etothet.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The dating app which recently ditched its "women-first" chat rule has been bought by an investment firm.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/rust-lang/rust/issues/164250">11 year old unsoundness bugs found in Rust borrow checker</a></h3>
-      <p>From github.com. 591 points on Hacker News, 337 comments. Posted by formerly_proven.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwly38gjkejko">Phase Eight and Hobbs owner hit by cyber-attack, as H&amp;M probes separate hack claim</a></h3>
-      <p>TFG London has apologised to customers for disruption after it identified a "cybersecurity incident" on Sunday.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/models/gemini/">Gemini 4 Argon</a></h3>
-      <p>See also: Gemini 4 Argon for Robotics, https://news.ycombinator.com/item?id=50074869</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr78pe09y05xo">AI minister warns 'likely' UK's cyber defences will be breached</a></h3>
-      <p>Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 13 Oct 2026, 19:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Oct 2026, 00:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
