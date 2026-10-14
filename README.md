@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791937280" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791967829" alt="Famous quote" width="100%">
 </p>
 
-> All life is an experiment. The more experiments you make, the better.
+> The soul should always stand ajar, ready to welcome the ecstatic experience.
 >
-> Ralph Waldo Emerson
+> Emily Dickinson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c623dnkn8pkyo">'I applied for 200 jobs', How 'spray and pray' AI job applications can backfire</a></h3>
+      <p>Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.anthropic.com/engineering/redesigning-source-control">Redesigning source control at Anthropic</a></h3>
+      <p>From anthropic.com. 753 points on Hacker News, 745 comments. Posted by Philpax.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/c1wxdjx27ypo">How long will humans be needed for translation?</a></h3>
       <p>AI dominates the translation business, but for high-stakes work, humans are still needed.</p>
     </td>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/rust-lang/rust/issues/164250">11 year old unsoundness bugs found in Rust borrow checker</a></h3>
-      <p>From github.com. 659 points on Hacker News, 368 comments. Posted by formerly_proven.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c623dnkn8pkyo">Is it OK for jobseekers or employers to use AI?</a></h3>
-      <p>Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.apple.com/apple-homeview/">Apple HomeView</a></h3>
-      <p>From apple.com. 639 points on Hacker News, 766 comments. Posted by etothet.</p>
+      <p>From apple.com. 723 points on Hacker News, 849 comments. Posted by etothet.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 14 Oct 2026, 00:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Oct 2026, 08:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
