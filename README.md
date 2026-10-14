@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791967829" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791988405" alt="Famous quote" width="100%">
 </p>
 
-> The soul should always stand ajar, ready to welcome the ecstatic experience.
+> If the plan doesn't work, change the plan, but never the goal.
 >
-> Emily Dickinson
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/engineering/redesigning-source-control">Redesigning source control at Anthropic</a></h3>
-      <p>From anthropic.com. 753 points on Hacker News, 745 comments. Posted by Philpax.</p>
+      <h3><a href="https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/">Ledger confirms spy chip implant behind wallet crypto thefts</a></h3>
+      <p>https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa... https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wa.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.apple.com/apple-homeview/">Apple HomeView</a></h3>
-      <p>From apple.com. 723 points on Hacker News, 849 comments. Posted by etothet.</p>
+      <h3><a href="https://guitoro.com/">Show HN: Guitoro, a virtual guitar you strum with your keyboard</a></h3>
+      <p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 14 Oct 2026, 08:50 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Oct 2026, 14:33 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
