@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1791988405" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792006074" alt="Famous quote" width="100%">
 </p>
 
-> If the plan doesn't work, change the plan, but never the goal.
+> I cannot make my days longer so I strive to make them better.
 >
-> Unknown
+> Henry David Thoreau
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/models/gemini/">Gemini 4 Argon</a></h3>
-      <p>See also: Gemini 4 Argon for Robotics, https://news.ycombinator.com/item?id=50074869</p>
+      <h3><a href="https://typeof.net/Iosevka/">Iosevka is an open-source, sans-serif and slab-serif monospace font</a></h3>
+      <p>From typeof.net. 615 points on Hacker News, 257 comments. Posted by otobrglez.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm04054ykqqqo">Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer</a></h3>
+      <p>Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">Amazon pushes up prices across the Internet</a></h3>
+      <p>From not-ship.com. 608 points on Hacker News, 542 comments. Posted by sighborg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/">Ledger confirms spy chip implant behind wallet crypto thefts</a></h3>
-      <p>https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa... https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wa.</p>
+      <h3><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">AI agents aren't 'going rogue.' Frontier labs are skipping security basics</a></h3>
+      <p>From csoonline.com. 475 points on Hacker News, 188 comments. Posted by latexr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>AI dominates the translation business, but for high-stakes work, humans are still needed.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://guitoro.com/">Show HN: Guitoro, a virtual guitar you strum with your keyboard</a></h3>
-      <p>Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo">Bumble bought for $1.3bn in 'bet on the future of humanity'</a></h3>
-      <p>The dating app which recently ditched its "women-first" chat rule has been bought by an investment firm.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 14 Oct 2026, 14:33 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Oct 2026, 19:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
