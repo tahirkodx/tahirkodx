@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792006074" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792022281" alt="Famous quote" width="100%">
 </p>
 
-> I cannot make my days longer so I strive to make them better.
+> You must welcome change as the rule but not as your ruler.
 >
-> Henry David Thoreau
+> Denis Waitley
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://typeof.net/Iosevka/">Iosevka is an open-source, sans-serif and slab-serif monospace font</a></h3>
-      <p>From typeof.net. 615 points on Hacker News, 257 comments. Posted by otobrglez.</p>
+      <h3><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">Containment and monitoring failures are to blame for AI hacking reports: experts</a></h3>
+      <p>From csoonline.com. 814 points on Hacker News, 437 comments. Posted by latexr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">Amazon pushes up prices across the Internet</a></h3>
-      <p>From not-ship.com. 608 points on Hacker News, 542 comments. Posted by sighborg.</p>
+      <h3><a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">How Amazon pushes up prices all across the Internet</a></h3>
+      <p>From not-ship.com. 694 points on Hacker News, 587 comments. Posted by sighborg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">AI agents aren't 'going rogue.' Frontier labs are skipping security basics</a></h3>
-      <p>From csoonline.com. 475 points on Hacker News, 188 comments. Posted by latexr.</p>
+      <h3><a href="https://typeof.net/Iosevka/">Iosevka is an open-source, sans-serif and slab-serif monospace font</a></h3>
+      <p>From typeof.net. 693 points on Hacker News, 286 comments. Posted by otobrglez.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 14 Oct 2026, 19:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Oct 2026, 23:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
