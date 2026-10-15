@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792084158" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792099847" alt="Famous quote" width="100%">
 </p>
 
-> There is only the one reality, neither to be realized nor attained.
+> The significance of life is living.
 >
-> Huang Po
+> Jiddu Krishnamurti
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/">Things to know when you get cancer</a></h3>
-      <p>From jjmaxwell4.com. 1785 points on Hacker News, 425 comments. Posted by jjmaxwell4.</p>
+      <h3><a href="https://research.meta.ai/blog/muse-spark-open">Muse Spark Open</a></h3>
+      <p>https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mapwriting.substack.com/p/dentists">Do dentists know what they're doing?</a></h3>
-      <p>From mapwriting.substack.com. 914 points on Hacker News, 646 comments. Posted by doitLP.</p>
+      <h3><a href="https://github.com/fyzugx/DEsk">Wayland desktop for Linux with skeuomorphic design</a></h3>
+      <p>From github.com. 425 points on Hacker News, 175 comments. Posted by FinalDestiny.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://anoma.ly/notes/opencode-2-0/">OpenCode 2.0</a></h3>
-      <p>From anoma.ly. 799 points on Hacker News, 343 comments. Posted by gmays.</p>
+      <h3><a href="https://already-clean.goodfire.com/">Neural networks are clean</a></h3>
+      <p>https://twitter.com/nickcammarata/status/2110757819427574056</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Oct 2026, 17:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Oct 2026, 21:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
