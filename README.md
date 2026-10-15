@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792039876" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792064517" alt="Famous quote" width="100%">
 </p>
 
-> If you can't feed a hundred people, then feed just one.
+> A path is made by walking on it.
 >
-> Mother Teresa
+> Zhuangzi
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,11 +438,11 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/">Things to know when you get cancer</a></h3>
-      <p>From jjmaxwell4.com. 1009 points on Hacker News, 239 comments. Posted by jjmaxwell4.</p>
+      <p>From jjmaxwell4.com. 1469 points on Hacker News, 361 comments. Posted by jjmaxwell4.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqzjx448vxkgo">Anthropic flags revenue surge to investors ahead of stock market debut</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqzjx448vxkgo">AI giant Anthropic woos potential investors ahead of stock market debut</a></h3>
       <p>It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.</p>
     </td>
   </tr>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">Containment and monitoring failures are to blame for AI hacking reports: experts</a></h3>
-      <p>From csoonline.com. 854 points on Hacker News, 488 comments. Posted by latexr.</p>
+      <p>From csoonline.com. 912 points on Hacker News, 550 comments. Posted by latexr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">How Amazon pushes up prices all across the Internet</a></h3>
-      <p>From not-ship.com. 767 points on Hacker News, 612 comments. Posted by sighborg.</p>
+      <p>From not-ship.com. 854 points on Hacker News, 654 comments. Posted by sighborg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Oct 2026, 04:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Oct 2026, 11:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
