@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792064517" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792084158" alt="Famous quote" width="100%">
 </p>
 
-> A path is made by walking on it.
+> There is only the one reality, neither to be realized nor attained.
 >
-> Zhuangzi
+> Huang Po
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/">Things to know when you get cancer</a></h3>
-      <p>From jjmaxwell4.com. 1469 points on Hacker News, 361 comments. Posted by jjmaxwell4.</p>
+      <p>From jjmaxwell4.com. 1785 points on Hacker News, 425 comments. Posted by jjmaxwell4.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9q20djz4wno">GTA 6, all you need to know about Rockstar's blockbuster game</a></h3>
+      <p>A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://mapwriting.substack.com/p/dentists">Do dentists know what they're doing?</a></h3>
+      <p>From mapwriting.substack.com. 914 points on Hacker News, 646 comments. Posted by doitLP.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">Containment and monitoring failures are to blame for AI hacking reports: experts</a></h3>
-      <p>From csoonline.com. 912 points on Hacker News, 550 comments. Posted by latexr.</p>
+      <h3><a href="https://anoma.ly/notes/opencode-2-0/">OpenCode 2.0</a></h3>
+      <p>From anoma.ly. 799 points on Hacker News, 343 comments. Posted by gmays.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">How Amazon pushes up prices all across the Internet</a></h3>
-      <p>From not-ship.com. 854 points on Hacker News, 654 comments. Posted by sighborg.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c623dnkn8pkyo">'I applied for 200 jobs', How 'spray and pray' AI job applications can backfire</a></h3>
-      <p>Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 15 Oct 2026, 11:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Oct 2026, 17:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
