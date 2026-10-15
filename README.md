@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792022281" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792039876" alt="Famous quote" width="100%">
 </p>
 
-> You must welcome change as the rule but not as your ruler.
+> If you can't feed a hundred people, then feed just one.
 >
-> Denis Waitley
+> Mother Teresa
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/">Things to know when you get cancer</a></h3>
+      <p>From jjmaxwell4.com. 1009 points on Hacker News, 239 comments. Posted by jjmaxwell4.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqzjx448vxkgo">Anthropic flags revenue surge to investors ahead of stock market debut</a></h3>
+      <p>It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html">Containment and monitoring failures are to blame for AI hacking reports: experts</a></h3>
-      <p>From csoonline.com. 814 points on Hacker News, 437 comments. Posted by latexr.</p>
+      <p>From csoonline.com. 854 points on Hacker News, 488 comments. Posted by latexr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">How Amazon pushes up prices all across the Internet</a></h3>
-      <p>From not-ship.com. 694 points on Hacker News, 587 comments. Posted by sighborg.</p>
+      <p>From not-ship.com. 767 points on Hacker News, 612 comments. Posted by sighborg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://typeof.net/Iosevka/">Iosevka is an open-source, sans-serif and slab-serif monospace font</a></h3>
-      <p>From typeof.net. 693 points on Hacker News, 286 comments. Posted by otobrglez.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c1wxdjx27ypo">How long will humans be needed for translation?</a></h3>
-      <p>AI dominates the translation business, but for high-stakes work, humans are still needed.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 14 Oct 2026, 23:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Oct 2026, 04:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
