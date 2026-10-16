@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792125710" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792150520" alt="Famous quote" width="100%">
 </p>
 
-> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
+> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
 >
-> Dr. Seuss
+> Denis Waitley
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,8 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmpqgepejr2ro">Porn showing choking or incest to be banned from early November, government says</a></h3>
-      <p>The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o">Snapchat and Instagram grooming becoming 'easier'</a></h3>
+      <p>Online grooming is rising, with children as young as five targeted, prompting calls for reform.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr6240q1w136o">Living with a stink? Technology might help</a></h3>
-      <p>Smells from rubbish dumps and industrial facilities are being more carefully monitored.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmpqgepejr2ro">Porn showing choking or incest to be banned from early November, government says</a></h3>
+      <p>The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/fyzugx/DEsk">Wayland desktop for Linux with skeuomorphic design</a></h3>
-      <p>From github.com. 550 points on Hacker News, 215 comments. Posted by FinalDestiny.</p>
+      <p>From github.com. 624 points on Hacker News, 251 comments. Posted by FinalDestiny.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9q20djz4wno">GTA 6, all you need to know about Rockstar's blockbuster game</a></h3>
-      <p>A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr6240q1w136o">Living with a stink? Technology might help</a></h3>
+      <p>Smells from rubbish dumps and industrial facilities are being more carefully monitored.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 16 Oct 2026, 04:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Oct 2026, 11:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
