@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792169164" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792185670" alt="Famous quote" width="100%">
 </p>
 
-> Realize deeply that the present moment is all you ever have.
+> Life is really simple, but men insist on making it complicated.
 >
-> Eckhart Tolle
+> Confucius
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=sjNpfz4UzqU">Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]</a></h3>
-      <p>From youtube.com. 687 points on Hacker News, 219 comments. Posted by johnnyApplePRNG.</p>
+      <h3><a href="https://www.tesla.com/roadster">Tesla Roadster</a></h3>
+      <p>https://www.youtube.com/watch?v=7p5LxFdc-Qg https://twitter.com/Tesla/status/2110788059008819215</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo">Toxic algorithms wouldn't let them go, now Australia wants an off switch</a></h3>
+      <p>Australia has proposed a switch to force social media platforms to let users turn off recommended content.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Claude reveals ECDSA curve origins</a></h3>
+      <p>https://words.filippo.io/seeds-solved/</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/">Meta’s new commercial terms will allow the scraping of news sites: experts</a></h3>
-      <p>From niemanlab.org. 429 points on Hacker News, 155 comments. Posted by 0in.</p>
+      <h3><a href="https://www.mercor.com/research/labor-index/benchmark-map/">90% of US working hours are spent on tasks not covered well by AI benchmarks</a></h3>
+      <p>From mercor.com. 299 points on Hacker News, 275 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Online grooming is rising, with children as young as five targeted, prompting calls for reform.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/">Yet another way to invoke functions without parentheses</a></h3>
-      <p>From blog.ikaes.de. 206 points on Hacker News, 90 comments. Posted by aragonite.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmpqgepejr2ro">Porn showing choking or incest to be banned from early November, government says</a></h3>
-      <p>The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 16 Oct 2026, 16:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Oct 2026, 21:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
