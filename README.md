@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792099847" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792125710" alt="Famous quote" width="100%">
 </p>
 
-> The significance of life is living.
+> Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.
 >
-> Jiddu Krishnamurti
+> Dr. Seuss
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,20 +442,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9q20djz4wno">GTA 6, all you need to know about Rockstar's blockbuster game</a></h3>
-      <p>A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/fyzugx/DEsk">Wayland desktop for Linux with skeuomorphic design</a></h3>
-      <p>From github.com. 425 points on Hacker News, 175 comments. Posted by FinalDestiny.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqzjx448vxkgo">AI giant Anthropic woos potential investors ahead of stock market debut</a></h3>
-      <p>It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmpqgepejr2ro">Porn showing choking or incest to be banned from early November, government says</a></h3>
+      <p>The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +454,25 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm04054ykqqqo">Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer</a></h3>
-      <p>Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr6240q1w136o">Living with a stink? Technology might help</a></h3>
+      <p>Smells from rubbish dumps and industrial facilities are being more carefully monitored.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/fyzugx/DEsk">Wayland desktop for Linux with skeuomorphic design</a></h3>
+      <p>From github.com. 550 points on Hacker News, 215 comments. Posted by FinalDestiny.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9q20djz4wno">GTA 6, all you need to know about Rockstar's blockbuster game</a></h3>
+      <p>A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 15 Oct 2026, 21:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Oct 2026, 04:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
