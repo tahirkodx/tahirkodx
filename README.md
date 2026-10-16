@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792150520" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792169164" alt="Famous quote" width="100%">
 </p>
 
-> There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
+> Realize deeply that the present moment is all you ever have.
 >
-> Denis Waitley
+> Eckhart Tolle
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://research.meta.ai/blog/muse-spark-open">Muse Spark Open</a></h3>
-      <p>https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B.</p>
+      <h3><a href="https://www.youtube.com/watch?v=sjNpfz4UzqU">Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]</a></h3>
+      <p>From youtube.com. 687 points on Hacker News, 219 comments. Posted by johnnyApplePRNG.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9vgr61kml3mo">Russian man linked to deadly London hospitals hack arrested</a></h3>
+      <p>The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/">Meta’s new commercial terms will allow the scraping of news sites: experts</a></h3>
+      <p>From niemanlab.org. 429 points on Hacker News, 155 comments. Posted by 0in.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://already-clean.goodfire.com/">Neural networks are clean</a></h3>
-      <p>https://twitter.com/nickcammarata/status/2110757819427574056</p>
+      <h3><a href="https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/">Yet another way to invoke functions without parentheses</a></h3>
+      <p>From blog.ikaes.de. 206 points on Hacker News, 90 comments. Posted by aragonite.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/fyzugx/DEsk">Wayland desktop for Linux with skeuomorphic design</a></h3>
-      <p>From github.com. 624 points on Hacker News, 251 comments. Posted by FinalDestiny.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr6240q1w136o">Living with a stink? Technology might help</a></h3>
-      <p>Smells from rubbish dumps and industrial facilities are being more carefully monitored.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 16 Oct 2026, 11:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Oct 2026, 16:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
