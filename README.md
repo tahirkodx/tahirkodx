@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792234496" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792251760" alt="Famous quote" width="100%">
 </p>
 
-> You are the sky. Everything else, it's just the weather.
+> Make each day your masterpiece.
 >
-> Pema Chodron
+> John Wooden
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.mercor.com/research/labor-index/benchmark-map/">90% of US working hours are spent on tasks not covered well by AI benchmarks</a></h3>
-      <p>From mercor.com. 510 points on Hacker News, 434 comments. Posted by speckx.</p>
+      <h3><a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">DeepSeek: DeepSeek v4.1 Flash 1017</a></h3>
+      <p>From openrouter.ai. 470 points on Hacker News, 248 comments. Posted by theanonymousone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Oct 2026, 10:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Oct 2026, 15:42 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
