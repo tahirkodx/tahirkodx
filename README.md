@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792269813" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792278719" alt="Famous quote" width="100%">
 </p>
 
-> Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.
+> The way to get started is to quit talking and begin doing.
 >
-> Earl Nightingale
+> Walt Disney
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">DeepSeek-v4.1-Flash-1017</a></h3>
-      <p>https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</p>
+      <h3><a href="https://twitter.com/opencode/status/2111516673953935833">OpenCode Hacked: User credentials leaked</a></h3>
+      <p>From twitter.com. 657 points on Hacker News, 110 comments. Posted by pranshuchittora.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://alexwang.ai/posts/associative-memory/">You could have invented transformers from memory</a></h3>
-      <p>https://twitter.com/heyyalexwang/status/2111158818730397932</p>
+      <h3><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">DeepSeek-v4.1-Flash-1017</a></h3>
+      <p>https://api-docs.deepseek.com/news/news261017/ https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/">Solar surpasses nuclear power globally for first time</a></h3>
-      <p>From pv-magazine.com. 390 points on Hacker News, 236 comments. Posted by xbmcuser.</p>
+      <h3><a href="https://alexwang.ai/posts/associative-memory/">You could have invented transformers from memory</a></h3>
+      <p>https://twitter.com/heyyalexwang/status/2111158818730397932</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Oct 2026, 20:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Oct 2026, 23:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
