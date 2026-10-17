@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792211938" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792234496" alt="Famous quote" width="100%">
 </p>
 
-> Time heals what reason cannot.
+> You are the sky. Everything else, it's just the weather.
 >
-> Seneca
+> Pema Chodron
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -443,7 +443,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo">Toxic algorithms wouldn't let them go, now Australia wants an off switch</a></h3>
-      <p>Australia has proposed a switch to force social media platforms to let users turn off recommended content.</p>
+      <p>The Australian government hopes to protect social media users from being served content they don't want to see.</p>
     </td>
   </tr>
   <tr>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.mercor.com/research/labor-index/benchmark-map/">90% of US working hours are spent on tasks not covered well by AI benchmarks</a></h3>
-      <p>From mercor.com. 442 points on Hacker News, 385 comments. Posted by speckx.</p>
+      <p>From mercor.com. 510 points on Hacker News, 434 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 17 Oct 2026, 04:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Oct 2026, 10:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
