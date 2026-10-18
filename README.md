@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792339102" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792356790" alt="Famous quote" width="100%">
 </p>
 
-> The difference between ordinary and extraordinary is that little extra.
+> Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.
 >
-> Colin R. Davis
+> Robert Frost
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nature.com/articles/d41586-026-03266-x">Bleached corals thrive within days when touching healthy neighbour</a></h3>
-      <p>https://archive.ph/zIPG4</p>
+      <h3><a href="https://api-docs.deepseek.com/guides/search/">DeepSeek search and fetch  $0.75 per 1000 successful requests</a></h3>
+      <p>From api-docs.deepseek.com. 496 points on Hacker News, 241 comments. Posted by fagnerbrack.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pele.run/">Pele  Mermaid diagrams as themeable SVG</a></h3>
-      <p>From pele.run. 517 points on Hacker News, 49 comments. Posted by dchest.</p>
+      <h3><a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">How the Elizabeth Holmes documentary “You Can See Everything” is deceiving</a></h3>
+      <p>From readtheprofile.com. 330 points on Hacker News, 450 comments. Posted by MaysonL.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://api-docs.deepseek.com/guides/search/">DeepSeek search and fetch  $0.75 per 1000 successful requests</a></h3>
-      <p>From api-docs.deepseek.com. 392 points on Hacker News, 199 comments. Posted by fagnerbrack.</p>
+      <h3><a href="https://github.com/VikOlliver/RepRapMicron/wiki">RepRapMicron</a></h3>
+      <p>From github.com. 288 points on Hacker News, 44 comments. Posted by RobotToaster.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 18 Oct 2026, 15:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Oct 2026, 20:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
