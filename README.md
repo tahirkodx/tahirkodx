@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792416927" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792442259" alt="Famous quote" width="100%">
 </p>
 
-> You don't get in life what you want; you get in life what you are.
+> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.
 >
-> Les Brown
+> Zig Ziglar
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://karrisaarinen.com/posts/someone-behind-the-software/">Someone behind the software</a></h3>
-      <p>From karrisaarinen.com. 490 points on Hacker News, 176 comments. Posted by tosh.</p>
+      <h3><a href="https://mistral.ai/news/timestral/">Timestral: Mistral's time-series foundation models</a></h3>
+      <p>From mistral.ai. 478 points on Hacker News, 89 comments. Posted by groar.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo">US bans DeepSeek AI from government use as tech tension with China continues</a></h3>
+      <p>DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175">Wine ported to OpenBSD</a></h3>
+      <p>From marc.info. 427 points on Hacker News, 138 comments. Posted by iamnothere.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo">Ex-OpenAI worker accused of planting device had Saudi support says court filing</a></h3>
+      <p>The Saudi government did not immediately respond to BBC requests for comment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository">I no longer care to work on any Ruby gems so I've archived all my repositories</a></h3>
+      <p>From po-ru.com. 313 points on Hacker News, 279 comments. Posted by phoronixrly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Claims that Uber misled TfL over its licence were thrown out because they were brought too late.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://arxiv.org/abs/2610.18861">Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></h3>
-      <p>https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm2kez327gdko">Musk and Anthropic pledge public share giveaways</a></h3>
-      <p>Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=LKrwhjOI8Nc">There's never been a better time to go into math (by: 3blue1brown) [video]</a></h3>
-      <p>From youtube.com. 434 points on Hacker News, 545 comments. Posted by mdp2021.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm5yn098xz8lo">China's growth accelerates as AI boom helps boost exports</a></h3>
-      <p>Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 19 Oct 2026, 13:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Oct 2026, 20:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
