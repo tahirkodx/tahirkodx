@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792385546" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792416927" alt="Famous quote" width="100%">
 </p>
 
-> Create with the heart; build with the mind.
+> You don't get in life what you want; you get in life what you are.
 >
-> Criss Jami
+> Les Brown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/">Namecheap just seized and disabled all my domains</a></h3>
-      <p>From reddit.com. 506 points on Hacker News, 255 comments. Posted by sashk.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm2kez327gdko">Anthropic says it will commit 5% of its shares to 'public benefit fund'</a></h3>
-      <p>The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://karrisaarinen.com/posts/someone-behind-the-software/">Someone behind the software</a></h3>
-      <p>From karrisaarinen.com. 369 points on Hacker News, 144 comments. Posted by tosh.</p>
+      <p>From karrisaarinen.com. 490 points on Hacker News, 176 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm5yn098xz8lo">China's growth accelerates as AI export boom outweighs domestic weakness</a></h3>
-      <p>Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o">Uber wins bid to throw out £200m black cab claims</a></h3>
+      <p>Claims that Uber misled TfL over its licence were thrown out because they were brought too late.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/VikOlliver/RepRapMicron/wiki">RepRapMicron</a></h3>
-      <p>From github.com. 352 points on Hacker News, 56 comments. Posted by RobotToaster.</p>
+      <h3><a href="https://arxiv.org/abs/2610.18861">Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></h3>
+      <p>https://x.com/Jiaru_Zou/status/2110400256647340476 https://github.com/togethercomputer/HybridAgent.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c60rl1xvjv89o">Don't fall for this, how to protect yourself from AI scams</a></h3>
-      <p>Trading standards officers say AI is "super-charging" existing scams through clones and fake websites.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm2kez327gdko">Musk and Anthropic pledge public share giveaways</a></h3>
+      <p>Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.youtube.com/watch?v=LKrwhjOI8Nc">There's never been a better time to go into math (by: 3blue1brown) [video]</a></h3>
+      <p>From youtube.com. 434 points on Hacker News, 545 comments. Posted by mdp2021.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm5yn098xz8lo">China's growth accelerates as AI boom helps boost exports</a></h3>
+      <p>Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 19 Oct 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Oct 2026, 13:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
