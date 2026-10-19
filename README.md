@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792365664" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792385546" alt="Famous quote" width="100%">
 </p>
 
-> Happiness cannot be traveled to, owned, earned, worn or consumed.
+> Create with the heart; build with the mind.
 >
-> Denis Waitley
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://api-docs.deepseek.com/guides/search/">DeepSeek search and fetch  $0.75 per 1000 successful requests</a></h3>
-      <p>From api-docs.deepseek.com. 521 points on Hacker News, 251 comments. Posted by fagnerbrack.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cv8ez40yz950o">No further action against government adviser's wife over Palestine Action post, police say</a></h3>
-      <p>Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/">Namecheap just seized and disabled all my domains</a></h3>
-      <p>From reddit.com. 356 points on Hacker News, 173 comments. Posted by sashk.</p>
+      <p>From reddit.com. 506 points on Hacker News, 255 comments. Posted by sashk.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo">Toxic algorithms wouldn't let them go, now Australia wants an off switch</a></h3>
-      <p>The Australian government hopes to protect social media users from being served content they don't want to see.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm2kez327gdko">Anthropic says it will commit 5% of its shares to 'public benefit fund'</a></h3>
+      <p>The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">How the Elizabeth Holmes documentary “You Can See Everything” is deceiving</a></h3>
-      <p>From readtheprofile.com. 348 points on Hacker News, 491 comments. Posted by MaysonL.</p>
+      <h3><a href="https://karrisaarinen.com/posts/someone-behind-the-software/">Someone behind the software</a></h3>
+      <p>From karrisaarinen.com. 369 points on Hacker News, 144 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9vgr61kml3mo">Russian man linked to deadly London hospitals hack arrested</a></h3>
-      <p>The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm5yn098xz8lo">China's growth accelerates as AI export boom outweighs domestic weakness</a></h3>
+      <p>Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/VikOlliver/RepRapMicron/wiki">RepRapMicron</a></h3>
+      <p>From github.com. 352 points on Hacker News, 56 comments. Posted by RobotToaster.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c60rl1xvjv89o">Don't fall for this, how to protect yourself from AI scams</a></h3>
+      <p>Trading standards officers say AI is "super-charging" existing scams through clones and fake websites.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 18 Oct 2026, 23:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Oct 2026, 04:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
