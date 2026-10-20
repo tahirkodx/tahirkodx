@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792524087" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792540627" alt="Famous quote" width="100%">
 </p>
 
-> Fishing is much more than fish.
+> The single biggest problem in communication is the illusion that it has taken place.
 >
-> Herbert Hoover
+> George Bernard Shaw
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,41 +438,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></h3>
-      <p>From github.com. 1942 points on Hacker News, 752 comments. Posted by ggcr.</p>
+      <p>From github.com. 2097 points on Hacker News, 818 comments. Posted by ggcr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo">Google resolves cloud outage affecting UK banks and websites</a></h3>
-      <p>Revolut was one of the hardest hit, with banking services going down for many customers.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmlyl09xjke4o">Elon Musk says Tesla-SpaceX merger being considered</a></h3>
+      <p>Musk says special committees within both companies have been formed to look at a possible mega-merger.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/tywr/Nordwand-Mono">Nordwand Mono  A monospace font for coders and adventurers</a></h3>
-      <p>From github.com. 505 points on Hacker News, 142 comments. Posted by noriax86.</p>
+      <h3><a href="https://emudhra.we-have-a-problem.com/">EMudhra Intermediate CA Compromise</a></h3>
+      <p>From emudhra.we-have-a-problem.com. 577 points on Hacker News, 305 comments. Posted by galadran.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqm26zzl0k12o">UK asks Apple to widen access to its payment tech</a></h3>
-      <p>Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c370pzdkw77jo">The tech helping crack decades-old cold cases</a></h3>
+      <p>Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">Apple broke an essential presentation feature of iPads</a></h3>
-      <p>From teddysvoronos.com. 361 points on Hacker News, 213 comments. Posted by evanb.</p>
+      <h3><a href="https://mistral.ai/news/voxtral-3/">Voxtral 3</a></h3>
+      <p>From mistral.ai. 488 points on Hacker News, 133 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo">Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors</a></h3>
-      <p>Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c94g1502el58o">OpenAI CEO Sam Altman wins dismissal of sister's lawsuit</a></h3>
+      <p>A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Oct 2026, 19:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Oct 2026, 23:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
