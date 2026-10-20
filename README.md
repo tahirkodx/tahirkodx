@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792506133" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792524087" alt="Famous quote" width="100%">
 </p>
 
-> Be willing to be a beginner every single morning.
+> Fishing is much more than fish.
 >
-> Meister Eckhart
+> Herbert Hoover
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepSeek just open-sourced its inference engine</a></h3>
-      <p>From github.com. 1170 points on Hacker News, 408 comments. Posted by ggcr.</p>
+      <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></h3>
+      <p>From github.com. 1942 points on Hacker News, 752 comments. Posted by ggcr.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo">Google resolves cloud outage affecting UK banks and websites</a></h3>
+      <p>Revolut was one of the hardest hit, with banking services going down for many customers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/tywr/Nordwand-Mono">Nordwand Mono  A monospace font for coders and adventurers</a></h3>
+      <p>From github.com. 505 points on Hacker News, 142 comments. Posted by noriax86.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">It's still ok to enjoy programming</a></h3>
-      <p>From chriskiehl.com. 659 points on Hacker News, 573 comments. Posted by goostavos.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo">Google Cloud says 'power event' behind outage hitting UK banks and websites</a></h3>
-      <p>It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.youtube.com/watch?v=Ndftcft6XhU">I built a drone with only one motor [video]</a></h3>
-      <p>From youtube.com. 619 points on Hacker News, 139 comments. Posted by hakonjdjohnsen.</p>
+      <h3><a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">Apple broke an essential presentation feature of iPads</a></h3>
+      <p>From teddysvoronos.com. 361 points on Hacker News, 213 comments. Posted by evanb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Oct 2026, 14:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Oct 2026, 19:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
