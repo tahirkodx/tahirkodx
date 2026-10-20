@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792442259" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792455957" alt="Famous quote" width="100%">
 </p>
 
-> If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.
+> When you get up in the morning, you have two choices, either to be happy or to be unhappy. Just choose to be happy.
 >
-> Zig Ziglar
+> Norman Vincent Peale
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mistral.ai/news/timestral/">Timestral: Mistral's time-series foundation models</a></h3>
-      <p>From mistral.ai. 478 points on Hacker News, 89 comments. Posted by groar.</p>
+      <p>From mistral.ai. 531 points on Hacker News, 101 comments. Posted by groar.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo">Ex-OpenAI worker accused of planting device had Saudi support, says court filing</a></h3>
+      <p>The Saudi government did not immediately respond to BBC requests for comment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175">Wine ported to OpenBSD</a></h3>
+      <p>From marc.info. 487 points on Hacker News, 162 comments. Posted by iamnothere.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175">Wine ported to OpenBSD</a></h3>
-      <p>From marc.info. 427 points on Hacker News, 138 comments. Posted by iamnothere.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo">Ex-OpenAI worker accused of planting device had Saudi support says court filing</a></h3>
-      <p>The Saudi government did not immediately respond to BBC requests for comment.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository">I no longer care to work on any Ruby gems so I've archived all my repositories</a></h3>
-      <p>From po-ru.com. 313 points on Hacker News, 279 comments. Posted by phoronixrly.</p>
+      <h3><a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">It's still ok to enjoy programming</a></h3>
+      <p>From chriskiehl.com. 415 points on Hacker News, 396 comments. Posted by goostavos.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Oct 2026, 20:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Oct 2026, 00:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
