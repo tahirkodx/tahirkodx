@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792455957" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792485673" alt="Famous quote" width="100%">
 </p>
 
-> When you get up in the morning, you have two choices, either to be happy or to be unhappy. Just choose to be happy.
+> If you think adventure is dangerous, try routine; it is lethal.
 >
-> Norman Vincent Peale
+> Paulo Coelho
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mistral.ai/news/timestral/">Timestral: Mistral's time-series foundation models</a></h3>
-      <p>From mistral.ai. 531 points on Hacker News, 101 comments. Posted by groar.</p>
+      <h3><a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">It's still ok to enjoy programming</a></h3>
+      <p>From chriskiehl.com. 588 points on Hacker News, 510 comments. Posted by goostavos.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,19 +450,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175">Wine ported to OpenBSD</a></h3>
-      <p>From marc.info. 487 points on Hacker News, 162 comments. Posted by iamnothere.</p>
+      <p>From marc.info. 559 points on Hacker News, 185 comments. Posted by iamnothere.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo">US bans DeepSeek AI from government use as tech tension with China continues</a></h3>
-      <p>DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo">US bans China's DeepSeek from government in race for AI dominance</a></h3>
+      <p>The Chinese technology is removed from most US government agencies as race for AI dominance steps up.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">It's still ok to enjoy programming</a></h3>
-      <p>From chriskiehl.com. 415 points on Hacker News, 396 comments. Posted by goostavos.</p>
+      <h3><a href="https://www.youtube.com/watch?v=Ndftcft6XhU">I built a drone with only one motor [video]</a></h3>
+      <p>From youtube.com. 530 points on Hacker News, 110 comments. Posted by hakonjdjohnsen.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 20 Oct 2026, 00:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Oct 2026, 08:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
