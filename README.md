@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792485673" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792506133" alt="Famous quote" width="100%">
 </p>
 
-> If you think adventure is dangerous, try routine; it is lethal.
+> Be willing to be a beginner every single morning.
 >
-> Paulo Coelho
+> Meister Eckhart
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">It's still ok to enjoy programming</a></h3>
-      <p>From chriskiehl.com. 588 points on Hacker News, 510 comments. Posted by goostavos.</p>
+      <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepSeek just open-sourced its inference engine</a></h3>
+      <p>From github.com. 1170 points on Hacker News, 408 comments. Posted by ggcr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo">Ex-OpenAI worker accused of planting device had Saudi support, says court filing</a></h3>
-      <p>The Saudi government did not immediately respond to BBC requests for comment.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqm26zzl0k12o">UK asks Apple to widen access to its payment tech</a></h3>
+      <p>Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175">Wine ported to OpenBSD</a></h3>
-      <p>From marc.info. 559 points on Hacker News, 185 comments. Posted by iamnothere.</p>
+      <h3><a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">It's still ok to enjoy programming</a></h3>
+      <p>From chriskiehl.com. 659 points on Hacker News, 573 comments. Posted by goostavos.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo">US bans China's DeepSeek from government in race for AI dominance</a></h3>
-      <p>The Chinese technology is removed from most US government agencies as race for AI dominance steps up.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo">Google Cloud says 'power event' behind outage hitting UK banks and websites</a></h3>
+      <p>It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.youtube.com/watch?v=Ndftcft6XhU">I built a drone with only one motor [video]</a></h3>
-      <p>From youtube.com. 530 points on Hacker News, 110 comments. Posted by hakonjdjohnsen.</p>
+      <p>From youtube.com. 619 points on Hacker News, 139 comments. Posted by hakonjdjohnsen.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o">Uber wins bid to throw out £200m black cab claims</a></h3>
-      <p>Claims that Uber misled TfL over its licence were thrown out because they were brought too late.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo">Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors</a></h3>
+      <p>Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Oct 2026, 08:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Oct 2026, 14:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
