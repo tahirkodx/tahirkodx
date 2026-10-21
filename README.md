@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792558777" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792584076" alt="Famous quote" width="100%">
 </p>
 
-> To arrive at the simplest truth requires years of contemplation.
+> Doubt is an uncomfortable condition, but certainty is a ridiculous one.
 >
-> Isaac Newton
+> Voltaire
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,12 +438,24 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></h3>
-      <p>From github.com. 2186 points on Hacker News, 848 comments. Posted by ggcr.</p>
+      <p>From github.com. 2263 points on Hacker News, 866 comments. Posted by ggcr.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr93z1e87e0do">Why does Elon Musk want to merge Tesla and SpaceX?</a></h3>
-      <p>Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmlyl09xjke4o">Elon Musk confirms he is considering merging Tesla and SpaceX</a></h3>
+      <p>Musk says special committees within both companies have been formed to look at a possible mega-merger.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://news-web.php.net/php.announce/509">Upcoming critical PHP security release (CVE-2026-109618 / -109619)</a></h3>
+      <p>https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr93z1e87e0do">Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?</a></h3>
+      <p>Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.</p>
     </td>
   </tr>
   <tr>
@@ -454,25 +466,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmlyl09xjke4o">Elon Musk says Tesla-SpaceX merger being considered</a></h3>
-      <p>Musk says special committees within both companies have been formed to look at a possible mega-merger.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://permit.petercai.com/">Show HN: SimCity, but with Permits</a></h3>
-      <p>From permit.petercai.com. 660 points on Hacker News, 343 comments. Posted by pcai.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/c370pzdkw77jo">The tech helping crack decades-old cold cases</a></h3>
       <p>Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 21 Oct 2026, 04:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Oct 2026, 12:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
