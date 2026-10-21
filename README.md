@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792540627" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792558777" alt="Famous quote" width="100%">
 </p>
 
-> The single biggest problem in communication is the illusion that it has taken place.
+> To arrive at the simplest truth requires years of contemplation.
 >
-> George Bernard Shaw
+> Isaac Newton
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></h3>
-      <p>From github.com. 2097 points on Hacker News, 818 comments. Posted by ggcr.</p>
+      <p>From github.com. 2186 points on Hacker News, 848 comments. Posted by ggcr.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cr93z1e87e0do">Why does Elon Musk want to merge Tesla and SpaceX?</a></h3>
+      <p>Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://emudhra.we-have-a-problem.com/">eMudhra intermediate CA compromise</a></h3>
+      <p>https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.we-have-a-problem.com/">EMudhra Intermediate CA Compromise</a></h3>
-      <p>From emudhra.we-have-a-problem.com. 577 points on Hacker News, 305 comments. Posted by galadran.</p>
+      <h3><a href="https://permit.petercai.com/">Show HN: SimCity, but with Permits</a></h3>
+      <p>From permit.petercai.com. 660 points on Hacker News, 343 comments. Posted by pcai.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mistral.ai/news/voxtral-3/">Voxtral 3</a></h3>
-      <p>From mistral.ai. 488 points on Hacker News, 133 comments. Posted by ilreb.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c94g1502el58o">OpenAI CEO Sam Altman wins dismissal of sister's lawsuit</a></h3>
-      <p>A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 20 Oct 2026, 23:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Oct 2026, 04:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
