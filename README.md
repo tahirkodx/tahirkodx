@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792584076" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792603276" alt="Famous quote" width="100%">
 </p>
 
-> Doubt is an uncomfortable condition, but certainty is a ridiculous one.
+> Argue for your limitations and sure enough, they're yours.
 >
-> Voltaire
+> Richard Bach
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/deepseek-ai/DeepInfer">DeepInfer: High-performance inference framework for DeepSeek models</a></h3>
-      <p>From github.com. 2263 points on Hacker News, 866 comments. Posted by ggcr.</p>
+      <h3><a href="https://github.com/php/php-src/releases/tag/php-8.2.35">PHP 8.2.35</a></h3>
+      <p>From github.com. 711 points on Hacker News, 286 comments. Posted by tuyuri.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crz981p0klvgo">Just Eat apologises for AI food mistakes after social media ridicule</a></h3>
+      <p>A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</a></h3>
+      <p>From scotthelme.co.uk. 630 points on Hacker News, 279 comments. Posted by hkc.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o">Websites taken down worldwide as critical cyber-security update issued</a></h3>
+      <p>The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.joshwcomeau.com/css/interop-2027/">The Future of CSS</a></h3>
+      <p>From joshwcomeau.com. 558 points on Hacker News, 233 comments. Posted by soheilpro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Musk says special committees within both companies have been formed to look at a possible mega-merger.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news-web.php.net/php.announce/509">Upcoming critical PHP security release (CVE-2026-109618 / -109619)</a></h3>
-      <p>https://cert.europa.eu/publications/security-advisories/2026... https://news.ycombinator.com/item?id=50167754</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cr93z1e87e0do">Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?</a></h3>
-      <p>Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.we-have-a-problem.com/">eMudhra intermediate CA compromise</a></h3>
-      <p>https://blog.mozilla.org/security/2026/10/20/protecting-fire... https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c370pzdkw77jo">The tech helping crack decades-old cold cases</a></h3>
-      <p>Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 21 Oct 2026, 12:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Oct 2026, 17:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
