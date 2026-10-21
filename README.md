@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792603276" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792619343" alt="Famous quote" width="100%">
 </p>
 
-> Argue for your limitations and sure enough, they're yours.
+> Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.
 >
-> Richard Bach
+> Og Mandino
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,19 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/php/php-src/releases/tag/php-8.2.35">PHP 8.2.35</a></h3>
-      <p>From github.com. 711 points on Hacker News, 286 comments. Posted by tuyuri.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crz981p0klvgo">Just Eat apologises for AI food mistakes after social media ridicule</a></h3>
-      <p>A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</a></h3>
-      <p>From scotthelme.co.uk. 630 points on Hacker News, 279 comments. Posted by hkc.</p>
+      <p>Related ongoing thread: Today's PHP security release, and how we're strengthening security, https://news.ycombinator.com/item?id=50182987</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +449,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.joshwcomeau.com/css/interop-2027/">The Future of CSS</a></h3>
-      <p>From joshwcomeau.com. 558 points on Hacker News, 233 comments. Posted by soheilpro.</p>
+      <h3><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds</a></h3>
+      <p>From scotthelme.co.uk. 774 points on Hacker News, 382 comments. Posted by hkc.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crz981p0klvgo">Just Eat apologises for AI food mistakes after social media ridicule</a></h3>
+      <p>A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">Today's PHP security release, and how we're strengthening security</a></h3>
+      <p>Related ongoing thread: PHP 8.2.35, https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 )</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Oct 2026, 17:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Oct 2026, 21:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
