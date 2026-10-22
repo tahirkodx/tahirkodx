@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792619343" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792645289" alt="Famous quote" width="100%">
 </p>
 
-> Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.
+> The details are not the details. They make the design.
 >
-> Og Mandino
+> Charles Eames
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,20 +442,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o">Websites taken down worldwide as critical cyber-security update issued</a></h3>
-      <p>The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmx23d0k57d3o">UK working to identify exposure after global cyber-security warning</a></h3>
+      <p>Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds</a></h3>
-      <p>From scotthelme.co.uk. 774 points on Hacker News, 382 comments. Posted by hkc.</p>
+      <p>From scotthelme.co.uk. 862 points on Hacker News, 411 comments. Posted by hkc.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crz981p0klvgo">Just Eat apologises for AI food mistakes after social media ridicule</a></h3>
-      <p>A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o">What is PHP and why did it spark a global cyber-security scramble?</a></h3>
+      <p>AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +466,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmlyl09xjke4o">Elon Musk confirms he is considering merging Tesla and SpaceX</a></h3>
-      <p>Musk says special committees within both companies have been formed to look at a possible mega-merger.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqj34j7dk771o">Trump's green card curbs test Indian tech workers' American dream</a></h3>
+      <p>With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 21 Oct 2026, 21:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Oct 2026, 05:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
