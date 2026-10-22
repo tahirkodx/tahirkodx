@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792645289" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792670659" alt="Famous quote" width="100%">
 </p>
 
-> The details are not the details. They make the design.
+> Why live an ordinary life, when you can live an extraordinary one.
 >
-> Charles Eames
+> Tony Robbins
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/php/php-src/releases/tag/php-8.2.35">PHP 8.2.35</a></h3>
-      <p>Related ongoing thread: Today's PHP security release, and how we're strengthening security, https://news.ycombinator.com/item?id=50182987</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmx23d0k57d3o">UK working to identify exposure after global cyber-security warning</a></h3>
-      <p>Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds</a></h3>
-      <p>From scotthelme.co.uk. 862 points on Hacker News, 411 comments. Posted by hkc.</p>
+      <h3><a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">Today's PHP security release, and how we're strengthening security</a></h3>
+      <p>Related ongoing thread: PHP 8.2.35, https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 )</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,18 +449,30 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/">Today's PHP security release, and how we're strengthening security</a></h3>
-      <p>Related ongoing thread: PHP 8.2.35, https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935 )</p>
+      <h3><a href="https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html">Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case</a></h3>
+      <p>https://nmdoj.gov/press-release/the-new-mexico-department-of...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqj34j7dk771o">Trump's green card curbs test Indian tech workers' American dream</a></h3>
-      <p>With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o">Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb</a></h3>
+      <p>It has been a dramatic, public and global response, but the cyber event hasn't happened yet.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/">Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</a></h3>
+      <p>From safedep.io. 540 points on Hacker News, 174 comments. Posted by abhisek.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/c6y8lvg2p50po">'500 new vulnerabilities' found in government, says AI minister</a></h3>
+      <p>'500 new vulnerabilities' found in government, says AI minister</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 22 Oct 2026, 05:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Oct 2026, 12:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
