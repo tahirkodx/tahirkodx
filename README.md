@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792689524" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792705452" alt="Famous quote" width="100%">
 </p>
 
-> If you carry joy in your heart, you can heal any moment.
+> If you see yourself as prosperous, you will be.
 >
-> Neale Donald Walsch
+> Robert Collier
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/">Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</a></h3>
-      <p>From safedep.io. 580 points on Hacker News, 187 comments. Posted by abhisek.</p>
+      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
+      <p>From emudhra.com. 851 points on Hacker News, 587 comments. Posted by bo0tzz.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cky83vwnyglno">Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax</a></h3>
+      <p>The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://quad9.net/news/blog/au-revoir-france/">Quad9 (DNS Resolver) to Exit France</a></h3>
+      <p>From quad9.net. 795 points on Hacker News, 297 comments. Posted by farrokhi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">Security Disclosure</a></h3>
-      <p>From blog.railway.com. 554 points on Hacker News, 322 comments. Posted by passenger.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cky83vwnyglno">Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax</a></h3>
-      <p>The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
-      <p>From emudhra.com. 553 points on Hacker News, 418 comments. Posted by bo0tzz.</p>
+      <h3><a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/">Jailbreaking the Switch 2</a></h3>
+      <p>From pepsipu.com. 641 points on Hacker News, 229 comments. Posted by ledoge.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Oct 2026, 17:18 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Oct 2026, 21:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
