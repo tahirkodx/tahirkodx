@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792705452" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792731730" alt="Famous quote" width="100%">
 </p>
 
-> If you see yourself as prosperous, you will be.
+> I would rather die on my feet than live on my knees.
 >
-> Robert Collier
+> Euripides
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
-      <p>From emudhra.com. 851 points on Hacker News, 587 comments. Posted by bo0tzz.</p>
+      <h3><a href="https://quad9.net/news/blog/au-revoir-france/">Quad9 (DNS Resolver) to Exit France</a></h3>
+      <p>From quad9.net. 1073 points on Hacker News, 383 comments. Posted by farrokhi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://quad9.net/news/blog/au-revoir-france/">Quad9 (DNS Resolver) to Exit France</a></h3>
-      <p>From quad9.net. 795 points on Hacker News, 297 comments. Posted by farrokhi.</p>
+      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
+      <p>From emudhra.com. 987 points on Hacker News, 659 comments. Posted by bo0tzz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/">Jailbreaking the Switch 2</a></h3>
-      <p>From pepsipu.com. 641 points on Hacker News, 229 comments. Posted by ledoge.</p>
+      <p>From pepsipu.com. 757 points on Hacker News, 265 comments. Posted by ledoge.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Oct 2026, 21:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Oct 2026, 05:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
