@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792731730" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792756148" alt="Famous quote" width="100%">
 </p>
 
-> I would rather die on my feet than live on my knees.
+> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.
 >
-> Euripides
+> Pema Chodron
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://quad9.net/news/blog/au-revoir-france/">Quad9 (DNS Resolver) to Exit France</a></h3>
-      <p>From quad9.net. 1073 points on Hacker News, 383 comments. Posted by farrokhi.</p>
+      <h3><a href="https://quad9.net/news/blog/au-revoir-france/">Quad9 to exit France</a></h3>
+      <p>From quad9.net. 1252 points on Hacker News, 419 comments. Posted by farrokhi.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o">The Indian workers filming their work to train AI</a></h3>
+      <p>Indian workers are being paid to film themselves at work and the footage is used to train AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
+      <p>From emudhra.com. 1082 points on Hacker News, 698 comments. Posted by bo0tzz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
-      <p>From emudhra.com. 987 points on Hacker News, 659 comments. Posted by bo0tzz.</p>
+      <h3><a href="https://news.ycombinator.com/item?id=50193416">Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.</a></h3>
+      <p>I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/">Jailbreaking the Switch 2</a></h3>
-      <p>From pepsipu.com. 757 points on Hacker News, 265 comments. Posted by ledoge.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o">What is PHP and why did it spark a global cyber-security scramble?</a></h3>
-      <p>AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 23 Oct 2026, 05:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Oct 2026, 11:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
