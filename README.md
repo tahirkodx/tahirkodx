@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792775775" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792791015" alt="Famous quote" width="100%">
 </p>
 
-> The easiest way in the world to make enemies is to hire friends.
+> Don't just sit there. Do something. The answers will follow.
 >
-> George Lorimer
+> Mark Manson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://edjefferson.com/localwiki/">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h3>
-      <p>From edjefferson.com. 942 points on Hacker News, 182 comments. Posted by sohkamyung.</p>
+      <p>From edjefferson.com. 1126 points on Hacker News, 220 comments. Posted by sohkamyung.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">Docker is weird</a></h3>
-      <p>From codeandcake.dev. 756 points on Hacker News, 303 comments. Posted by psxuaw.</p>
+      <h3><a href="https://blog.calif.io/p/iphone">Today, we hacked what we'd set out to hack: the iPhone</a></h3>
+      <p>From blog.calif.io. 606 points on Hacker News, 404 comments. Posted by pavel_lishin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://simedw.com/2026/10/21/world-model-terminal/">WorldTUI: I trained a 360M model to pretend to be a terminal</a></h3>
-      <p>From simedw.com. 593 points on Hacker News, 180 comments. Posted by alphax314.</p>
+      <h3><a href="https://news.ycombinator.com/item?id=50200997">Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?</a></h3>
+      <p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 23 Oct 2026, 17:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Oct 2026, 21:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
