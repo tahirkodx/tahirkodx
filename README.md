@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792756148" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792775775" alt="Famous quote" width="100%">
 </p>
 
-> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.
+> The easiest way in the world to make enemies is to hire friends.
 >
-> Pema Chodron
+> George Lorimer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://quad9.net/news/blog/au-revoir-france/">Quad9 to exit France</a></h3>
-      <p>From quad9.net. 1252 points on Hacker News, 419 comments. Posted by farrokhi.</p>
+      <h3><a href="https://edjefferson.com/localwiki/">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h3>
+      <p>From edjefferson.com. 942 points on Hacker News, 182 comments. Posted by sohkamyung.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o">What is PHP and why did it spark a global cyber-security scramble?</a></h3>
+      <p>AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">Docker is weird</a></h3>
+      <p>From codeandcake.dev. 756 points on Hacker News, 303 comments. Posted by psxuaw.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cxnv025d8qpmo">'It's been relentless' say IT workers on frontline of PHP cyber-security scramble</a></h3>
+      <p>IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://simedw.com/2026/10/21/world-model-terminal/">WorldTUI: I trained a 360M model to pretend to be a terminal</a></h3>
+      <p>From simedw.com. 593 points on Hacker News, 180 comments. Posted by alphax314.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Indian workers are being paid to film themselves at work and the footage is used to train AI.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">eMudhra to exit global SSL/TLS certificate business</a></h3>
-      <p>From emudhra.com. 1082 points on Hacker News, 698 comments. Posted by bo0tzz.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cky83vwnyglno">Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax</a></h3>
-      <p>The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=50193416">Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.</a></h3>
-      <p>I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 &amp; CVE-2026-109619. I appreciate this has had considerable knock-on effects.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o">Race to update services' computer systems after cyber-security flaw found</a></h3>
-      <p>Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 23 Oct 2026, 11:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Oct 2026, 17:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
