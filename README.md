@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792791015" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792817213" alt="Famous quote" width="100%">
 </p>
 
-> Don't just sit there. Do something. The answers will follow.
+> The world is a puzzle; no need to make sense out of it.
 >
-> Mark Manson
+> Socrates
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://edjefferson.com/localwiki/">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h3>
-      <p>From edjefferson.com. 1126 points on Hacker News, 220 comments. Posted by sohkamyung.</p>
+      <p>From edjefferson.com. 1311 points on Hacker News, 228 comments. Posted by sohkamyung.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo">UK to invest £100m in 'world first' AI Biosecurity Lab</a></h3>
+      <p>The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.kimi.ai/blog/kimi-k3-1-pro">Kimi K3.1 Pro and K3.1 Pro Highspeed</a></h3>
+      <p>https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.calif.io/p/iphone">Today, we hacked what we'd set out to hack: the iPhone</a></h3>
-      <p>From blog.calif.io. 606 points on Hacker News, 404 comments. Posted by pavel_lishin.</p>
+      <p>From blog.calif.io. 791 points on Hacker News, 527 comments. Posted by pavel_lishin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=50200997">Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?</a></h3>
-      <p>Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o">The Indian workers filming their work to train AI</a></h3>
-      <p>Indian workers are being paid to film themselves at work and the footage is used to train AI.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 23 Oct 2026, 21:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Oct 2026, 04:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
