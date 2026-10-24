@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792840489" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792857816" alt="Famous quote" width="100%">
 </p>
 
-> The less you try to impress, the more peaceful you can be.
+> Some people find fault like there is a reward for it.
 >
-> Maxime Lagace
+> Zig Ziglar
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://edjefferson.com/localwiki/">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h3>
-      <p>From edjefferson.com. 1393 points on Hacker News, 236 comments. Posted by sohkamyung.</p>
+      <p>From edjefferson.com. 1469 points on Hacker News, 238 comments. Posted by sohkamyung.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.calif.io/p/iphone">Today, we hacked what we'd set out to hack: the iPhone</a></h3>
-      <p>From blog.calif.io. 903 points on Hacker News, 589 comments. Posted by pavel_lishin.</p>
+      <p>From blog.calif.io. 1007 points on Hacker News, 632 comments. Posted by pavel_lishin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 24 Oct 2026, 11:14 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Oct 2026, 16:03 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
