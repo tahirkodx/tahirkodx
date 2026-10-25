@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792961850" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792970419" alt="Famous quote" width="100%">
 </p>
 
-> If we have no peace, it is because we have forgotten that we belong to each other.
+> If you can see it in your mind, you can hold it in your mind.
 >
-> Mother Teresa
+> Steve Harvey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://edjefferson.com/localwiki/">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h3>
-      <p>From edjefferson.com. 1671 points on Hacker News, 253 comments. Posted by sohkamyung.</p>
+      <h3><a href="https://twitter.com/log4j/status/2113014142600953868?s=46">Root shell on Samsung TV</a></h3>
+      <p>Merged threads: "Samsung running a TensorFlow lite model on 960x540 image to track you": https://twitter.com/mike64_t/status/2114150399406202896.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://danluu.com/ambitious/">We should be more ambitious with the software we build</a></h3>
-      <p>From danluu.com. 709 points on Hacker News, 652 comments. Posted by ltratt.</p>
+      <p>From danluu.com. 732 points on Hacker News, 673 comments. Posted by ltratt.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/log4j/status/2113014142600953868?s=46">Root shell on Samsung TV</a></h3>
-      <p>Merged threads: "Samsung running a TensorFlow lite model on 960x540 image to track you": https://twitter.com/mike64_t/status/2114150399406202896.</p>
+      <h3><a href="https://lynchlab.net/llm-skin-cancer">A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</a></h3>
+      <p>From lynchlab.net. 366 points on Hacker News, 180 comments. Posted by sungam.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Oct 2026, 20:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Oct 2026, 23:20 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
