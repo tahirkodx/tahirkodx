@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792904090" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792928689" alt="Famous quote" width="100%">
 </p>
 
-> If what you're doing is not your passion, you have nothing to lose.
+> If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.
 >
-> Celestine Chua
+> Kahlil Gibran
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://edjefferson.com/localwiki/">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h3>
-      <p>From edjefferson.com. 1561 points on Hacker News, 245 comments. Posted by sohkamyung.</p>
+      <p>From edjefferson.com. 1603 points on Hacker News, 247 comments. Posted by sohkamyung.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://stealmybitcoin.com/">Show HN: Steal My Bitcoin</a></h3>
-      <p>Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have.</p>
+      <h3><a href="https://danluu.com/ambitious/">We should be more ambitious with the software we build</a></h3>
+      <p>From danluu.com. 466 points on Hacker News, 411 comments. Posted by ltratt.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 25 Oct 2026, 04:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Oct 2026, 11:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
