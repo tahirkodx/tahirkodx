@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793020643" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793046920" alt="Famous quote" width="100%">
 </p>
 
-> If you've made a mistake, it's better just to laugh at it.
+> Many roads lead to the path, but basically there are only two: reason and practice.
 >
-> Zen Proverb
+> Bodhidharma
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://danluu.com/ambitious/">We should be more ambitious with the software we build</a></h3>
-      <p>From danluu.com. 830 points on Hacker News, 726 comments. Posted by ltratt.</p>
+      <h3><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">Anthropic S-1</a></h3>
+      <p>From sec.gov. 1295 points on Hacker News, 1261 comments. Posted by SiNTEx.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o">Anthropic's blockbuster share listing, 5 surprising things we now know</a></h3>
+      <p>Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline">Birdwatching rewires the brain and slows cognitive decline</a></h3>
+      <p>From bbc.com. 450 points on Hacker News, 179 comments. Posted by cisc.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq398p1wd1evo">Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing</a></h3>
+      <p>The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blocks.manifold3d.ch/">Switzerland. Block by block. At 1:1 scale</a></h3>
+      <p>From blocks.manifold3d.ch. 428 points on Hacker News, 200 comments. Posted by theanonymousone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://lynchlab.net/llm-skin-cancer">A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</a></h3>
-      <p>From lynchlab.net. 600 points on Hacker News, 252 comments. Posted by sungam.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo">UK to invest £100m in 'world first' AI Biosecurity Lab</a></h3>
-      <p>The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://imaginationlibrary.com/">Dolly Parton's Imagination Library</a></h3>
-      <p>With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o">What is PHP and why did it spark a global cyber-security scramble?</a></h3>
-      <p>AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 26 Oct 2026, 13:17 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Oct 2026, 20:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
