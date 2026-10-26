@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1792990685" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793020643" alt="Famous quote" width="100%">
 </p>
 
-> Avoiding failure is to avoid progress.
+> If you've made a mistake, it's better just to laugh at it.
 >
-> Unknown
+> Zen Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,11 +438,11 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://danluu.com/ambitious/">We should be more ambitious with the software we build</a></h3>
-      <p>From danluu.com. 767 points on Hacker News, 699 comments. Posted by ltratt.</p>
+      <p>From danluu.com. 830 points on Hacker News, 726 comments. Posted by ltratt.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo">Data centre debate heats up ahead of US midterms, here's what you need to know</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo">Big, noisy and coming to a town near you, why the data centre backlash is growing</a></h3>
       <p>Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in.</p>
     </td>
   </tr>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://lynchlab.net/llm-skin-cancer">A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis</a></h3>
-      <p>From lynchlab.net. 494 points on Hacker News, 224 comments. Posted by sungam.</p>
+      <p>From lynchlab.net. 600 points on Hacker News, 252 comments. Posted by sungam.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Oct 2026, 04:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Oct 2026, 13:17 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
