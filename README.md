@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793114722" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793139822" alt="Famous quote" width="100%">
 </p>
 
-> Change begets change. Nothing propagates so fast.
+> Look to the beauty of this day, miracles are all around you.
 >
-> Charles Dickens
+> Mary Engelbreit
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">Three new discoveries in mathematics, computer science, and physics</a></h3>
-      <p>Related: The Exponential Time Hypothesis Is False [pdf], https://news.ycombinator.com/item?id=50251661</p>
+      <h3><a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">US Government is hiding a secret court ruling about how it spies on Americans</a></h3>
+      <p>From wired.com. 684 points on Hacker News, 243 comments. Posted by helterskelter2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models">Sebastian Raschka's from-scratch video course on building reasoning models</a></h3>
-      <p>From magazine.sebastianraschka.com. 791 points on Hacker News, 105 comments. Posted by sgiannopoulos.</p>
+      <h3><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Genie 4</a></h3>
+      <p>From deepmind.google. 599 points on Hacker News, 370 comments. Posted by acossta.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">The Exponential Time Hypothesis Is False [pdf]</a></h3>
-      <p>See also: Announcing three new discoveries in mathematics, computer science, and physics, https://news.ycombinator.com/item?id=50251344</p>
+      <h3><a href="https://ghostty.org/docs/install/release-notes/1-4-0">Ghostty 1.4</a></h3>
+      <p>From ghostty.org. 574 points on Hacker News, 174 comments. Posted by deaux.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 27 Oct 2026, 15:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Oct 2026, 22:23 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
