@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793046920" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793061228" alt="Famous quote" width="100%">
 </p>
 
-> Many roads lead to the path, but basically there are only two: reason and practice.
+> The only time you run out of chances is when you stop taking them.
 >
-> Bodhidharma
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">Anthropic S-1</a></h3>
-      <p>From sec.gov. 1295 points on Hacker News, 1261 comments. Posted by SiNTEx.</p>
+      <p>From sec.gov. 1447 points on Hacker News, 1413 comments. Posted by SiNTEx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline">Birdwatching rewires the brain and slows cognitive decline</a></h3>
-      <p>From bbc.com. 450 points on Hacker News, 179 comments. Posted by cisc.</p>
+      <h3><a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">Microsoft offers mass buyouts for roughly a quarter of its workforce</a></h3>
+      <p>From seattletimes.com. 719 points on Hacker News, 637 comments. Posted by doctorzook.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blocks.manifold3d.ch/">Switzerland. Block by block. At 1:1 scale</a></h3>
-      <p>From blocks.manifold3d.ch. 428 points on Hacker News, 200 comments. Posted by theanonymousone.</p>
+      <h3><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models">Sebastian Raschka's from-scratch video course on building reasoning models</a></h3>
+      <p>From magazine.sebastianraschka.com. 531 points on Hacker News, 79 comments. Posted by sgiannopoulos.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 26 Oct 2026, 20:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Oct 2026, 00:33 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
