@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793092145" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793114722" alt="Famous quote" width="100%">
 </p>
 
-> Fools resist. The wise embrace.
+> Change begets change. Nothing propagates so fast.
 >
-> Maxime Lagace
+> Charles Dickens
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">Anthropic S-1</a></h3>
-      <p>From sec.gov. 1605 points on Hacker News, 1538 comments. Posted by SiNTEx.</p>
+      <h3><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">Three new discoveries in mathematics, computer science, and physics</a></h3>
+      <p>Related: The Exponential Time Hypothesis Is False [pdf], https://news.ycombinator.com/item?id=50251661</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c893zwlev2xpo">Apple says it will replace iPhone Duo handsets with screen problems</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c893zwlev2xpo">Apple to replace iPhone Duos affected by screen problem</a></h3>
       <p>Photos shared online showed faults appearing on the screens of Apple's first foldable device.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">Microsoft offers mass buyouts for roughly a quarter of its workforce</a></h3>
-      <p>From seattletimes.com. 928 points on Hacker News, 891 comments. Posted by doctorzook.</p>
+      <h3><a href="https://magazine.sebastianraschka.com/p/building-reasoning-models">Sebastian Raschka's from-scratch video course on building reasoning models</a></h3>
+      <p>From magazine.sebastianraschka.com. 791 points on Hacker News, 105 comments. Posted by sgiannopoulos.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">Three new discoveries in mathematics, computer science, and physics</a></h3>
-      <p>Related: The Exponential Time Hypothesis Is False [pdf], https://news.ycombinator.com/item?id=50251661</p>
+      <h3><a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">The Exponential Time Hypothesis Is False [pdf]</a></h3>
+      <p>See also: Announcing three new discoveries in mathematics, computer science, and physics, https://news.ycombinator.com/item?id=50251344</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 27 Oct 2026, 09:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Oct 2026, 15:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
