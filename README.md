@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793139822" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793166882" alt="Famous quote" width="100%">
 </p>
 
-> Look to the beauty of this day, miracles are all around you.
+> Do all things with love.
 >
-> Mary Engelbreit
+> Og Mandino
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://ghostty.org/docs/install/release-notes/1-4-0">Ghostty 1.4</a></h3>
+      <p>From ghostty.org. 890 points on Hacker News, 278 comments. Posted by deaux.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck1exgejq3xvo">'An annoying buzz': The search for stealthier drones</a></h3>
+      <p>As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">US Government is hiding a secret court ruling about how it spies on Americans</a></h3>
-      <p>From wired.com. 684 points on Hacker News, 243 comments. Posted by helterskelter2.</p>
+      <p>From wired.com. 883 points on Hacker News, 312 comments. Posted by helterskelter2.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Genie 4</a></h3>
-      <p>From deepmind.google. 599 points on Hacker News, 370 comments. Posted by acossta.</p>
+      <p>From deepmind.google. 817 points on Hacker News, 490 comments. Posted by acossta.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ghostty.org/docs/install/release-notes/1-4-0">Ghostty 1.4</a></h3>
-      <p>From ghostty.org. 574 points on Hacker News, 174 comments. Posted by deaux.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq398p1wd1evo">Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing</a></h3>
-      <p>The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 27 Oct 2026, 22:23 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Oct 2026, 05:54 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
