@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793193073" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793218898" alt="Famous quote" width="100%">
 </p>
 
-> Life is like playing the violin in public and learning the instrument as one goes on.
+> Life is a question and how we live it is our answer.
 >
-> Samuel Butler
+> Gary Keller
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ghostty.org/docs/install/release-notes/1-4-0">Ghostty 1.4</a></h3>
-      <p>From ghostty.org. 1111 points on Hacker News, 354 comments. Posted by deaux.</p>
+      <h3><a href="https://emudhra.we-have-a-problem.com/apple.html">Apple's git still trusts the compromised eMudhra certificates</a></h3>
+      <p>From emudhra.we-have-a-problem.com. 920 points on Hacker News, 349 comments. Posted by galadran.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c63djl148n3eo">Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss</a></h3>
+      <p>The Russian President praised Musk and said they are in "close" contact.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Gemini 4 Carbon</a></h3>
+      <p>From blog.google. 559 points on Hacker News, 471 comments. Posted by acossta.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">US Government is hiding a secret court ruling about how it spies on Americans</a></h3>
-      <p>From wired.com. 995 points on Hacker News, 380 comments. Posted by helterskelter2.</p>
+      <h3><a href="https://vertex.degree/">Start Doing Graph Theory</a></h3>
+      <p>From vertex.degree. 475 points on Hacker News, 109 comments. Posted by ibobev.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Photos shared online showed faults appearing on the screens of Apple's first foldable device.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Genie 4</a></h3>
-      <p>From deepmind.google. 939 points on Hacker News, 542 comments. Posted by acossta.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o">Anthropic's blockbuster share listing, 5 surprising things we now know</a></h3>
-      <p>Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 28 Oct 2026, 13:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Oct 2026, 20:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
