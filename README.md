@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793268629" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793298745" alt="Famous quote" width="100%">
 </p>
 
-> The scariest moment is always just before you start. After that, things can only get better.
+> Growth is in a series of mistakes. That's the only way you learn.
 >
-> Stephen King
+> Steve Harvey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nullpt.rs/fingerprinting-bioweapons">Why is this fingerprinting script creating bioweapons?</a></h3>
-      <p>From nullpt.rs. 1234 points on Hacker News, 233 comments. Posted by hazebooth.</p>
+      <h3><a href="https://mistral.ai/news/mistral-large-4-oss/">We're releasing the weights of Mistral Large 4</a></h3>
+      <p>From mistral.ai. 740 points on Hacker News, 196 comments. Posted by kuberwastaken.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.we-have-a-problem.com/apple.html">Apple's git still trusts the compromised eMudhra certificates</a></h3>
-      <p>From emudhra.we-have-a-problem.com. 1135 points on Hacker News, 396 comments. Posted by galadran.</p>
+      <h3><a href="https://smsofdeath.com/">Zero click, silent, remote Android DoS</a></h3>
+      <p>From smsofdeath.com. 286 points on Hacker News, 162 comments. Posted by MarkBlah.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Gemini 4 Carbon</a></h3>
-      <p>From blog.google. 935 points on Hacker News, 754 comments. Posted by acossta.</p>
+      <h3><a href="https://www.kadoa.com/companies/insights/google-search-below-half">Google Search is now less than half of Alphabet’s revenue</a></h3>
+      <p>From kadoa.com. 273 points on Hacker News, 218 comments. Posted by hubraumhugo.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 29 Oct 2026, 10:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Oct 2026, 18:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
