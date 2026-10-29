@@ -416,10 +416,10 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793235749" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793268629" alt="Famous quote" width="100%">
 </p>
 
-> Fear can hold you prisoner. Hope can set you free.
+> The scariest moment is always just before you start. After that, things can only get better.
 >
 > Stephen King
 
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://emudhra.we-have-a-problem.com/apple.html">Apple's git still trusts the compromised eMudhra certificates</a></h3>
-      <p>From emudhra.we-have-a-problem.com. 1036 points on Hacker News, 377 comments. Posted by galadran.</p>
+      <h3><a href="https://nullpt.rs/fingerprinting-bioweapons">Why is this fingerprinting script creating bioweapons?</a></h3>
+      <p>From nullpt.rs. 1234 points on Hacker News, 233 comments. Posted by hazebooth.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6m24klyjr8no">Microsoft posts $36.6bn profit after offering buyouts to one in four workers</a></h3>
-      <p>The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6ly3027820lo">Ofcom outlines age check methods ahead of social media ban for under-16s</a></h3>
+      <p>Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nullpt.rs/fingerprinting-bioweapons">Why is this fingerprinting script creating bioweapons?</a></h3>
-      <p>From nullpt.rs. 815 points on Hacker News, 179 comments. Posted by hazebooth.</p>
+      <h3><a href="https://emudhra.we-have-a-problem.com/apple.html">Apple's git still trusts the compromised eMudhra certificates</a></h3>
+      <p>From emudhra.we-have-a-problem.com. 1135 points on Hacker News, 396 comments. Posted by galadran.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,17 +462,17 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Gemini 4 Carbon</a></h3>
-      <p>From blog.google. 791 points on Hacker News, 651 comments. Posted by acossta.</p>
+      <p>From blog.google. 935 points on Hacker News, 754 comments. Posted by acossta.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c63djl148n3eo">Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss</a></h3>
-      <p>The Russian President praised Musk and said they are in "close" contact.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6m24klyjr8no">Microsoft profits soar days after announcing thousands of layoffs</a></h3>
+      <p>The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 29 Oct 2026, 01:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 29 Oct 2026, 10:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
