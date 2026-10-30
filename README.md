@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793298745" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793322456" alt="Famous quote" width="100%">
 </p>
 
-> Growth is in a series of mistakes. That's the only way you learn.
+> People rarely succeed unless they have fun in what they are doing.
 >
-> Steve Harvey
+> Dale Carnegie
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html">Patrick Stewart has died</a></h3>
+      <p>https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o">Crypto giant Binance freezes $2.5bn of assets over suspected hack</a></h3>
+      <p>The firm said transactions are suspended while it conducts security checks and will "cover all losses".</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://mistral.ai/news/mistral-large-4-oss/">We're releasing the weights of Mistral Large 4</a></h3>
-      <p>From mistral.ai. 740 points on Hacker News, 196 comments. Posted by kuberwastaken.</p>
+      <p>From mistral.ai. 1176 points on Hacker News, 336 comments. Posted by kuberwastaken.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o">Google value plunges by $500bn as AI fears rattle Wall Street</a></h3>
+      <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8">Binance-hacker-1029  $5.6B stolen from Binance</a></h3>
+      <p>From arkm.com. 645 points on Hacker News, 393 comments. Posted by Tiberium.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://smsofdeath.com/">Zero click, silent, remote Android DoS</a></h3>
-      <p>From smsofdeath.com. 286 points on Hacker News, 162 comments. Posted by MarkBlah.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo">Details of thousands of US immigration agents leaked in major hack</a></h3>
-      <p>A group called the Department of Peace released information on more than 41,000 DHS staff.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.kadoa.com/companies/insights/google-search-below-half">Google Search is now less than half of Alphabet’s revenue</a></h3>
-      <p>From kadoa.com. 273 points on Hacker News, 218 comments. Posted by hubraumhugo.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6m24klyjr8no">Microsoft profits soar days after announcing thousands of layoffs</a></h3>
-      <p>The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 29 Oct 2026, 18:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Oct 2026, 01:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
