@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793383454" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793399290" alt="Famous quote" width="100%">
 </p>
 
-> Life is a series of choices and all we can do is make them.
+> Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.
 >
-> Kamal Ravikant
+> Estee Lauder
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/herdrdev/herdr-app">Herdr has released native app</a></h3>
-      <p>From github.com. 325 points on Hacker News, 218 comments. Posted by cherioo.</p>
+      <h3><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">AI isn't replacing SREs, it's deskilling them</a></h3>
+      <p>From newsletter.signoz.io. 446 points on Hacker News, 330 comments. Posted by dorianniemiec.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">AI isn't replacing SREs, it's deskilling them</a></h3>
-      <p>From newsletter.signoz.io. 262 points on Hacker News, 196 comments. Posted by dorianniemiec.</p>
+      <h3><a href="https://status.northflank.com">Northflank Breached</a></h3>
+      <p>From status.northflank.com. 309 points on Hacker News, 236 comments. Posted by js4ever.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 30 Oct 2026, 18:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Oct 2026, 22:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
