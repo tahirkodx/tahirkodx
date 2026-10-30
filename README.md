@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793322456" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793355139" alt="Famous quote" width="100%">
 </p>
 
-> People rarely succeed unless they have fun in what they are doing.
+> If you're afraid to die, you're afraid to live. You can't have one without the other.
 >
-> Dale Carnegie
+> Rita Mae Brown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o">Crypto giant Binance freezes $2.5bn of assets over suspected hack</a></h3>
-      <p>The firm said transactions are suspended while it conducts security checks and will "cover all losses".</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o">Crypto giant Binance hit by $6.3bn hack suspected to be largest in history</a></h3>
+      <p>Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mistral.ai/news/mistral-large-4-oss/">We're releasing the weights of Mistral Large 4</a></h3>
-      <p>From mistral.ai. 1176 points on Hacker News, 336 comments. Posted by kuberwastaken.</p>
+      <p>From mistral.ai. 1474 points on Hacker News, 397 comments. Posted by kuberwastaken.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o">Google value plunges by $500bn as AI fears rattle Wall Street</a></h3>
-      <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qz428nnljo">How video game remakes tap the power of nostalgia</a></h3>
+      <p>Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8">Binance-hacker-1029  $5.6B stolen from Binance</a></h3>
-      <p>From arkm.com. 645 points on Hacker News, 393 comments. Posted by Tiberium.</p>
+      <p>From arkm.com. 1362 points on Hacker News, 836 comments. Posted by Tiberium.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6ly3027820lo">Ofcom outlines age check methods ahead of social media ban for under-16s</a></h3>
-      <p>Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o">Google value plunges by $500bn as AI search hits ad sales</a></h3>
+      <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 30 Oct 2026, 01:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Oct 2026, 10:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
