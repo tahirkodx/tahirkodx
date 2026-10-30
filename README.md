@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793355139" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793383454" alt="Famous quote" width="100%">
 </p>
 
-> If you're afraid to die, you're afraid to live. You can't have one without the other.
+> Life is a series of choices and all we can do is make them.
 >
-> Rita Mae Brown
+> Kamal Ravikant
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html">Patrick Stewart has died</a></h3>
-      <p>https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart</p>
+      <h3><a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/">Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</a></h3>
+      <p>https://cursor.com/blog/claude-code-extension-security-notic...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o">Crypto giant Binance hit by $6.3bn hack suspected to be largest in history</a></h3>
-      <p>Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">US tech stocks see sharp falls as AI spending nears $1tn</a></h3>
+      <p>Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mistral.ai/news/mistral-large-4-oss/">We're releasing the weights of Mistral Large 4</a></h3>
-      <p>From mistral.ai. 1474 points on Hacker News, 397 comments. Posted by kuberwastaken.</p>
+      <h3><a href="https://github.com/herdrdev/herdr-app">Herdr has released native app</a></h3>
+      <p>From github.com. 325 points on Hacker News, 218 comments. Posted by cherioo.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qz428nnljo">How video game remakes tap the power of nostalgia</a></h3>
-      <p>Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o">Google value plunges by $500bn as its own AI search hits ad sales</a></h3>
+      <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8">Binance-hacker-1029  $5.6B stolen from Binance</a></h3>
-      <p>From arkm.com. 1362 points on Hacker News, 836 comments. Posted by Tiberium.</p>
+      <h3><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">AI isn't replacing SREs, it's deskilling them</a></h3>
+      <p>From newsletter.signoz.io. 262 points on Hacker News, 196 comments. Posted by dorianniemiec.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o">Google value plunges by $500bn as AI search hits ad sales</a></h3>
-      <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo">Who could be behind the Binance hack and what we know so far</a></h3>
+      <p>Binance has been hit by what could be the biggest crypto hack ever, here's what we know so far</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 30 Oct 2026, 10:12 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 30 Oct 2026, 18:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
