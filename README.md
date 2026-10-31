@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793399290" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793426124" alt="Famous quote" width="100%">
 </p>
 
-> Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.
+> Nobody goes through life without a scar.
 >
-> Estee Lauder
+> Carol Burnett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o">Why North Korea's 'elite' hackers are the prime suspect in major Binance hack</a></h3>
+      <p>If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">AI isn't replacing SREs, it's deskilling them</a></h3>
+      <p>From newsletter.signoz.io. 549 points on Hacker News, 410 comments. Posted by dorianniemiec.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">US tech stocks see sharp falls as AI spending nears $1tn</a></h3>
       <p>Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">AI isn't replacing SREs, it's deskilling them</a></h3>
-      <p>From newsletter.signoz.io. 446 points on Hacker News, 330 comments. Posted by dorianniemiec.</p>
+      <h3><a href="https://status.northflank.com">Northflank Breached</a></h3>
+      <p>From status.northflank.com. 404 points on Hacker News, 298 comments. Posted by js4ever.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://status.northflank.com">Northflank Breached</a></h3>
-      <p>From status.northflank.com. 309 points on Hacker News, 236 comments. Posted by js4ever.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo">Who could be behind the Binance hack and what we know so far</a></h3>
-      <p>Binance has been hit by what could be the biggest crypto hack ever, here's what we know so far</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 30 Oct 2026, 22:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 31 Oct 2026, 05:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
