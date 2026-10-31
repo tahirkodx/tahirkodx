@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793426124" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793450776" alt="Famous quote" width="100%">
 </p>
 
-> Nobody goes through life without a scar.
+> You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.
 >
-> Carol Burnett
+> Eleanor Roosevelt
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">AI isn't replacing SREs, it's deskilling them</a></h3>
-      <p>From newsletter.signoz.io. 549 points on Hacker News, 410 comments. Posted by dorianniemiec.</p>
+      <h3><a href="https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/">The $6.3B Binance hack was pulled off in just 20 minutes</a></h3>
+      <p>From wired.com. 485 points on Hacker News, 338 comments. Posted by domhudson.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://status.northflank.com">Northflank Breached</a></h3>
-      <p>From status.northflank.com. 404 points on Hacker News, 298 comments. Posted by js4ever.</p>
+      <p>From status.northflank.com. 449 points on Hacker News, 322 comments. Posted by js4ever.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 31 Oct 2026, 05:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 31 Oct 2026, 12:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
