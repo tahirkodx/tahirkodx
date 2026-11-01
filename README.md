@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793549233" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793571029" alt="Famous quote" width="100%">
 </p>
 
-> What we know is a drop, what we don't know is an ocean.
+> Life is not meant to be easy my child, but take courage: it can be delightful.
 >
-> Isaac Newton
+> George Bernard Shaw
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/">An Italian farmer found some unknown seeds in his attic and planted them</a></h3>
-      <p>From smithsonianmag.com. 610 points on Hacker News, 175 comments. Posted by ecares.</p>
+      <p>From smithsonianmag.com. 730 points on Hacker News, 194 comments. Posted by ecares.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/">Restrooms along the Norwegian Scenic Routes</a></h3>
-      <p>From visitnorway.com. 598 points on Hacker News, 343 comments. Posted by giuliomagnifico.</p>
+      <h3><a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</a></h3>
+      <p>From atlasum.net. 678 points on Hacker News, 321 comments. Posted by oger.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 01 Nov 2026, 16:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Nov 2026, 22:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
