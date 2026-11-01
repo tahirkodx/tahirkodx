@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793491885" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793514177" alt="Famous quote" width="100%">
 </p>
 
-> Everybody needs a passion. That's what keeps life interesting.
+> We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.
 >
-> Betty White
+> Emily Dickinson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament">Serbia just elected the world's brainiest parliament</a></h3>
-      <p>From science.org. 796 points on Hacker News, 459 comments. Posted by input_sh.</p>
+      <h3><a href="https://karpathy.bearblog.dev/hacker-tube/">HackerTube: YouTube built from videos recommended by HN</a></h3>
+      <p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cje36degrgv5o">These firms you've never heard of are feeding fears the AI bubble could burst</a></h3>
+      <p>The amount of debt held by data centres is measured in the tens of billions of pounds.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</a></h3>
+      <p>From atlasum.net. 444 points on Hacker News, 206 comments. Posted by oger.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://karpathy.bearblog.dev/hacker-tube/">HackerTube: YouTube built from videos recommended by HN</a></h3>
-      <p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/</p>
+      <h3><a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">Do the math: How we took over ChatGPT accounts</a></h3>
+      <p>From parameter.ai. 316 points on Hacker News, 157 comments. Posted by armcat.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html">Digital minimalism</a></h3>
-      <p>From vitalik.eth.limo. 302 points on Hacker News, 223 comments. Posted by wilbertliu.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o">Google value plunges by $500bn as its own AI search hits ad sales</a></h3>
-      <p>Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 01 Nov 2026, 00:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Nov 2026, 06:22 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
