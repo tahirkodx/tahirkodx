@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793474505" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793491885" alt="Famous quote" width="100%">
 </p>
 
-> People become attached to their burdens sometimes more than the burdens are attached to them.
+> Everybody needs a passion. That's what keeps life interesting.
 >
-> George Bernard Shaw
+> Betty White
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament">Serbia just elected the world's brainiest parliament</a></h3>
-      <p>From science.org. 709 points on Hacker News, 409 comments. Posted by input_sh.</p>
+      <p>From science.org. 796 points on Hacker News, 459 comments. Posted by input_sh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/">The $6.3B Binance hack was pulled off in just 20 minutes</a></h3>
-      <p>From wired.com. 560 points on Hacker News, 400 comments. Posted by domhudson.</p>
+      <h3><a href="https://karpathy.bearblog.dev/hacker-tube/">HackerTube: YouTube built from videos recommended by HN</a></h3>
+      <p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/">My favourite PowerMac is a Nintendo Wii</a></h3>
-      <p>From virtuallyfun.com. 363 points on Hacker News, 108 comments. Posted by DHowett.</p>
+      <h3><a href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html">Digital minimalism</a></h3>
+      <p>From vitalik.eth.limo. 302 points on Hacker News, 223 comments. Posted by wilbertliu.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 31 Oct 2026, 19:21 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 01 Nov 2026, 00:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
