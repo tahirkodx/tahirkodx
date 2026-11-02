@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793571029" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793600653" alt="Famous quote" width="100%">
 </p>
 
-> Life is not meant to be easy my child, but take courage: it can be delightful.
+> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
 >
-> George Bernard Shaw
+> Norman Vincent Peale
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwj34gdmnly4o">Binance users withdraw $3.6bn after record crypto hack</a></h3>
+      <p>The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://hackerbooks.org">Show HN: HackerBooks  HackerTube, but for books mentioned on HN</a></h3>
+      <p>Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cje36degrgv5o">These firms you've never heard of are feeding fears the AI bubble could burst</a></h3>
       <p>The amount of debt held by data centres is measured in the tens of billions of pounds.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/">An Italian farmer found some unknown seeds in his attic and planted them</a></h3>
-      <p>From smithsonianmag.com. 730 points on Hacker News, 194 comments. Posted by ecares.</p>
+      <h3><a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/">Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</a></h3>
+      <p>From reddit.com. 443 points on Hacker News, 157 comments. Posted by entryleveljobsc.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8</a></h3>
-      <p>From atlasum.net. 678 points on Hacker News, 321 comments. Posted by oger.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cvwy72e0n72yo">US tech stocks see sharp falls as AI spending nears $1tn</a></h3>
-      <p>Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 01 Nov 2026, 22:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Nov 2026, 06:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
