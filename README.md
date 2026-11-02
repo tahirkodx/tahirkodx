@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793600653" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793648121" alt="Famous quote" width="100%">
 </p>
 
-> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
+> By words the mind is winged.
 >
-> Norman Vincent Peale
+> Aristophanes
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://karpathy.bearblog.dev/hacker-tube/">HackerTube: YouTube built from videos recommended by HN</a></h3>
-      <p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/</p>
+      <h3><a href="https://chalmovsky.com/posts/wtf-ubuntu">WTF Ubuntu?</a></h3>
+      <p>From chalmovsky.com. 952 points on Hacker News, 472 comments. Posted by chalmovsky.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwj34gdmnly4o">Binance users withdraw $3.6bn after record crypto hack</a></h3>
-      <p>The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckpqg8lve73go">If hackers can take control of a supermarket freezer, how vulnerable is other tech?</a></h3>
+      <p>Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://hackerbooks.org">Show HN: HackerBooks  HackerTube, but for books mentioned on HN</a></h3>
-      <p>Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN.</p>
+      <h3><a href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html">Postgres 19 is late because so many more bugs are being found now</a></h3>
+      <p>From rhaas.blogspot.com. 793 points on Hacker News, 468 comments. Posted by soheilpro.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwj34gdmnly4o">Binance users withdraw $3.6bn after largest-ever crypto hack</a></h3>
+      <p>The exchange froze transactions following the incident which has been linked to a North Korean group.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://rikiyat.github.io/blog/weight-space-programming/">Astra can read and write weights to improve Qwen</a></h3>
+      <p>From rikiyat.github.io. 409 points on Hacker News, 108 comments. Posted by dbreunig.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The amount of debt held by data centres is measured in the tens of billions of pounds.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/">Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case</a></h3>
-      <p>From reddit.com. 443 points on Hacker News, 157 comments. Posted by entryleveljobsc.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o">Why North Korea's 'elite' hackers are the prime suspect in major Binance hack</a></h3>
-      <p>If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 02 Nov 2026, 06:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 02 Nov 2026, 19:35 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
