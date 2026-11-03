@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793674608" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793703677" alt="Famous quote" width="100%">
 </p>
 
-> Death walks faster than the wind and never returns what he has taken.
+> Don't be afraid to go slowly. Be afraid of stopping.
 >
-> Hans Christian Andersen
+> Zen Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://rikiyat.github.io/blog/weight-space-programming/">Astra can read and write weights to improve Qwen</a></h3>
-      <p>From rikiyat.github.io. 2040 points on Hacker News, 662 comments. Posted by dbreunig.</p>
+      <p>From rikiyat.github.io. 2686 points on Hacker News, 812 comments. Posted by dbreunig.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o">UK food supply chain affected by European freezer hack, cyber chief says</a></h3>
+      <p>Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://chalmovsky.com/posts/wtf-ubuntu">WTF Ubuntu?</a></h3>
+      <p>From chalmovsky.com. 1535 points on Hacker News, 638 comments. Posted by chalmovsky.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://chalmovsky.com/posts/wtf-ubuntu">WTF Ubuntu?</a></h3>
-      <p>From chalmovsky.com. 1354 points on Hacker News, 588 comments. Posted by chalmovsky.</p>
+      <h3><a href="https://news.ycombinator.com/item?id=50340088">Show HN: Subvocal  Talk to your computer without making noise</a></h3>
+      <p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=50340088">Show HN: Subvocal  Talk to your computer without making noise</a></h3>
-      <p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26) ( https://subvocal.company/ ). We’re building smart glasses that let you talk to.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckpqg8lve73go">If hackers can take control of a supermarket freezer, how vulnerable is other tech?</a></h3>
-      <p>Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 03 Nov 2026, 02:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 03 Nov 2026, 11:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
