@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793790588" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793821953" alt="Famous quote" width="100%">
 </p>
 
-> Be where your enemy is not.
+> You can't tell big dreams to small minded people.
 >
-> Sun Tzu
+> Steve Harvey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/postmanlabs/postman-app-support/issues/14370">Postman silently auto-installs AI plugins and attempts to share all API data</a></h3>
-      <p>From github.com. 1309 points on Hacker News, 444 comments. Posted by sidgarimella.</p>
+      <h3><a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability">AI is forcing us to pay off 40 years of technical debt</a></h3>
+      <p>From spectrum.ieee.org. 842 points on Hacker News, 505 comments. Posted by pseudolus.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro">French blood storage impacted by freezer hacks as theories swirl about culprits</a></h3>
+      <p>The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://neufangled.com/">Stringman, an $800 open-source room scale gripper robot</a></h3>
+      <p>From neufangled.com. 773 points on Hacker News, 229 comments. Posted by nharada.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko">Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms</a></h3>
+      <p>The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://news.ycombinator.com/item?id=50363461">Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</a></h3>
+      <p>If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Graduates are spending more time managing AI, but are they missing out on other work experience?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.nns.ee/2026/11/02/renault-hack/">Jailbreaking my car's navigation system just so I can change the time</a></h3>
-      <p>From blog.nns.ee. 834 points on Hacker News, 323 comments. Posted by xx_ns.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o">Binance says fake job interviews used as part of $6.3bn crypto hack</a></h3>
-      <p>An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">Qwen 3.8 27B on my laptop can interpret model weights, too</a></h3>
-      <p>From simonwillison.net. 638 points on Hacker News, 187 comments. Posted by theanonymousone.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o">UK meat industry hit by cyber-attack which targeted European supermarket freezers</a></h3>
-      <p>Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 04 Nov 2026, 11:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Nov 2026, 19:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
