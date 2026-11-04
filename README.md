@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793755688" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793790588" alt="Famous quote" width="100%">
 </p>
 
-> A poet should be so crafty with words that he is envied even for his pains.
+> Be where your enemy is not.
 >
-> Criss Jami
+> Sun Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://github.com/postmanlabs/postman-app-support/issues/14370">Postman silently auto-installs AI plugins and attempts to share all API data</a></h3>
-      <p>From github.com. 1012 points on Hacker News, 339 comments. Posted by sidgarimella.</p>
+      <p>From github.com. 1309 points on Hacker News, 444 comments. Posted by sidgarimella.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://honnibal.dev/blog/astra-read-write-misleading">The 'Astra can read and write weights to improve Qwen' post is misleading</a></h3>
-      <p>From honnibal.dev. 902 points on Hacker News, 191 comments. Posted by syllogism.</p>
+      <h3><a href="https://blog.nns.ee/2026/11/02/renault-hack/">Jailbreaking my car's navigation system just so I can change the time</a></h3>
+      <p>From blog.nns.ee. 834 points on Hacker News, 323 comments. Posted by xx_ns.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.nns.ee/2026/11/02/renault-hack/">Jailbreaking my car's navigation system just so I can change the time</a></h3>
-      <p>From blog.nns.ee. 606 points on Hacker News, 242 comments. Posted by xx_ns.</p>
+      <h3><a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">Qwen 3.8 27B on my laptop can interpret model weights, too</a></h3>
+      <p>From simonwillison.net. 638 points on Hacker News, 187 comments. Posted by theanonymousone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 04 Nov 2026, 01:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 04 Nov 2026, 11:09 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
