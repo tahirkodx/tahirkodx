@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793842186" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793877001" alt="Famous quote" width="100%">
 </p>
 
-> Never give way to laziness.
+> Don't be afraid to see what you see.
 >
-> Bhagavad Gita
+> Ronald Reagan
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability">AI is forcing us to pay off 40 years of technical debt</a></h3>
-      <p>From spectrum.ieee.org. 1055 points on Hacker News, 630 comments. Posted by pseudolus.</p>
+      <p>From spectrum.ieee.org. 1201 points on Hacker News, 700 comments. Posted by pseudolus.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://layer3intel.com/blog/residential-proxies-white-house-network">Residential proxies detected on White House network</a></h3>
-      <p>From layer3intel.com. 615 points on Hacker News, 198 comments. Posted by Rasbora.</p>
+      <p>https://krebsonsecurity.com/2026/11/want-to-rent-an-internet...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections">AMD expects to outsell Intel in Q4 for the first time in history</a></h3>
-      <p>From tomshardware.com. 462 points on Hacker News, 170 comments. Posted by rbanffy.</p>
+      <h3><a href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro">Kimi K3.1 Pro model weights are out</a></h3>
+      <p>From huggingface.co. 545 points on Hacker News, 149 comments. Posted by abrarthought.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 05 Nov 2026, 01:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Nov 2026, 11:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
