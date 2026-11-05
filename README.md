@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793821953" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793842186" alt="Famous quote" width="100%">
 </p>
 
-> You can't tell big dreams to small minded people.
+> Never give way to laziness.
 >
-> Steve Harvey
+> Bhagavad Gita
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability">AI is forcing us to pay off 40 years of technical debt</a></h3>
-      <p>From spectrum.ieee.org. 842 points on Hacker News, 505 comments. Posted by pseudolus.</p>
+      <p>From spectrum.ieee.org. 1055 points on Hacker News, 630 comments. Posted by pseudolus.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko">Elon Musk's millions failed to deliver Republican wins in fierce midterms</a></h3>
+      <p>Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://layer3intel.com/blog/residential-proxies-white-house-network">Residential proxies detected on White House network</a></h3>
+      <p>From layer3intel.com. 615 points on Hacker News, 198 comments. Posted by Rasbora.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,20 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://neufangled.com/">Stringman, an $800 open-source room scale gripper robot</a></h3>
-      <p>From neufangled.com. 773 points on Hacker News, 229 comments. Posted by nharada.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko">Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms</a></h3>
-      <p>The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://news.ycombinator.com/item?id=50363461">Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</a></h3>
-      <p>If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless.</p>
+      <h3><a href="https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections">AMD expects to outsell Intel in Q4 for the first time in history</a></h3>
+      <p>From tomshardware.com. 462 points on Hacker News, 170 comments. Posted by rbanffy.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 04 Nov 2026, 19:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Nov 2026, 01:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
