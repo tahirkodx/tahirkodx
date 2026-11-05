@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793877001" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793909127" alt="Famous quote" width="100%">
 </p>
 
-> Don't be afraid to see what you see.
+> Thoughts become things. If you see it in your mind, you will hold it in your hand.
 >
-> Ronald Reagan
+> Bob Proctor
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability">AI is forcing us to pay off 40 years of technical debt</a></h3>
-      <p>From spectrum.ieee.org. 1201 points on Hacker News, 700 comments. Posted by pseudolus.</p>
+      <h3><a href="https://sshhole.com">sshole</a></h3>
+      <p>From sshhole.com. 1862 points on Hacker News, 484 comments. Posted by josemrb.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmn04705rd8jo">Shares in Musk's SpaceX plunge as tech and AI stocks fall</a></h3>
+      <p>The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/">Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</a></h3>
+      <p>From alpinelinux.org. 431 points on Hacker News, 76 comments. Posted by pantalaimon.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://layer3intel.com/blog/residential-proxies-white-house-network">Residential proxies detected on White House network</a></h3>
-      <p>https://krebsonsecurity.com/2026/11/want-to-rent-an-internet...</p>
+      <h3><a href="https://markblah.github.io/lemmings/">Lemmings CSS Animation</a></h3>
+      <p>From markblah.github.io. 368 points on Hacker News, 72 comments. Posted by MarkBlah.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro">Kimi K3.1 Pro model weights are out</a></h3>
-      <p>From huggingface.co. 545 points on Hacker News, 149 comments. Posted by abrarthought.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c820vz6wyp65o">Graduates are managing AI, but are they learning much else?</a></h3>
-      <p>Graduates are spending more time managing AI, but are they missing out on other work experience?</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 05 Nov 2026, 11:10 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 05 Nov 2026, 20:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
