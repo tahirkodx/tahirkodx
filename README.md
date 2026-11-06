@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793963273" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793993469" alt="Famous quote" width="100%">
 </p>
 
-> It is our choices that show what we truly are, far more than our abilities.
+> The hardest arithmetic to master is that which enables us to count our blessings.
 >
-> Albus Dumbledore
+> Eric Hoffer
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://sshhole.com">sshole</a></h3>
-      <p>Related: https://hachyderm.io/@damienmiller/117563026759098135 / https://news.ycombinator.com/item?id=50377221.</p>
+      <h3><a href="https://github.com/ppmpreetham/BUI">Blender's UI and Runtime: Much Faster Than GPUI</a></h3>
+      <p>From github.com. 590 points on Hacker News, 240 comments. Posted by ppmpreetham.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq1j33w7d232o">Elon Musk appears to signal the end of the road for Cybertruck</a></h3>
-      <p>Musk said it was to make room for production of its Cybercabs, autonomous taxis without a driver.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crlykkzwwpydo">Why the US midterms sparked an AI stock selloff</a></h3>
+      <p>Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/anthropics/claude-code/issues/107757">Claude Code sends your email address to websites</a></h3>
-      <p>From github.com. 1189 points on Hacker News, 377 comments. Posted by motoroco.</p>
+      <h3><a href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105">Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</a></h3>
+      <p>From github.com. 580 points on Hacker News, 369 comments. Posted by microtonal.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmn04705rd8jo">Global tech stocks plunge as US midterms add to AI slowdown fears</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o">AI stocks climb after trillions wiped from market values</a></h3>
+      <p>Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817">Tesla to wind down Cybertruck production</a></h3>
+      <p>From nbcnews.com. 516 points on Hacker News, 1190 comments. Posted by PLenz.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmn04705rd8jo">Global stocks plunge as fears over US AI slowdown spread to Asia and Europe</a></h3>
       <p>Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">Goodbye from Salon</a></h3>
-      <p>From salon.com. 587 points on Hacker News, 235 comments. Posted by mkeeter.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo">The engine parts that 'fight the laws of the universe'</a></h3>
-      <p>Investment has surged into the making of jet turbine blades, an extremely difficult component to make.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 06 Nov 2026, 11:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Nov 2026, 19:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
