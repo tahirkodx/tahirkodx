@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793929048" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793963273" alt="Famous quote" width="100%">
 </p>
 
-> If you are lucky enough to find love, remember it is there and don't throw it away.
+> It is our choices that show what we truly are, far more than our abilities.
 >
-> Stephen Hawking
+> Albus Dumbledore
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,19 +438,31 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://sshhole.com">sshole</a></h3>
-      <p>From sshhole.com. 2319 points on Hacker News, 569 comments. Posted by josemrb.</p>
+      <p>Related: https://hachyderm.io/@damienmiller/117563026759098135 / https://news.ycombinator.com/item?id=50377221.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmn04705rd8jo">Major tech stocks plunge as US midterms add to fears of AI slowdown</a></h3>
-      <p>Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq1j33w7d232o">Elon Musk appears to signal the end of the road for Cybertruck</a></h3>
+      <p>Musk said it was to make room for production of its Cybercabs, autonomous taxis without a driver.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/">Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</a></h3>
-      <p>From alpinelinux.org. 583 points on Hacker News, 123 comments. Posted by pantalaimon.</p>
+      <h3><a href="https://github.com/anthropics/claude-code/issues/107757">Claude Code sends your email address to websites</a></h3>
+      <p>From github.com. 1189 points on Hacker News, 377 comments. Posted by motoroco.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmn04705rd8jo">Global tech stocks plunge as US midterms add to AI slowdown fears</a></h3>
+      <p>Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.salon.com/2026/11/05/goodbye-from-salon/">Goodbye from Salon</a></h3>
+      <p>From salon.com. 587 points on Hacker News, 235 comments. Posted by mkeeter.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Investment has surged into the making of jet turbine blades, an extremely difficult component to make.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://kagi.com/changelog#11820">Search for everyone</a></h3>
-      <p>From kagi.com. 506 points on Hacker News, 248 comments. Posted by elashri.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko">Elon Musk's millions failed to deliver Republican wins in fierce midterms</a></h3>
-      <p>Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 06 Nov 2026, 01:37 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 06 Nov 2026, 11:07 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
