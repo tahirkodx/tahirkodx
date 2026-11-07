@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1793993469" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794013098" alt="Famous quote" width="100%">
 </p>
 
-> The hardest arithmetic to master is that which enables us to count our blessings.
+> I don't pretend to know everything; I just only speak on matters I know I'll win.
 >
-> Eric Hoffer
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/ppmpreetham/BUI">Blender's UI and Runtime: Much Faster Than GPUI</a></h3>
-      <p>From github.com. 590 points on Hacker News, 240 comments. Posted by ppmpreetham.</p>
+      <h3><a href="https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817">Tesla to wind down Cybertruck production</a></h3>
+      <p>From nbcnews.com. 819 points on Hacker News, 1665 comments. Posted by PLenz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crlykkzwwpydo">Why the US midterms sparked an AI stock selloff</a></h3>
-      <p>Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq1j33w7d232o">Elon Musk appears to signal the end of the road for Cybertruck</a></h3>
+      <p>Musk said it was to make room for production of its Cybercabs, autonomous taxis without a driver.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105">Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS</a></h3>
-      <p>From github.com. 580 points on Hacker News, 369 comments. Posted by microtonal.</p>
+      <h3><a href="https://www.filfre.net/2026/11/deus-ex/">Deus Ex</a></h3>
+      <p>From filfre.net. 334 points on Hacker News, 170 comments. Posted by cybersoyuz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,18 +461,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817">Tesla to wind down Cybertruck production</a></h3>
-      <p>From nbcnews.com. 516 points on Hacker News, 1190 comments. Posted by PLenz.</p>
+      <h3><a href="https://hightouch.com/blog/llm-judges-identity-resolution">A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</a></h3>
+      <p>From hightouch.com. 308 points on Hacker News, 68 comments. Posted by theanomaly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmn04705rd8jo">Global stocks plunge as fears over US AI slowdown spread to Asia and Europe</a></h3>
-      <p>Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crlykkzwwpydo">Why the US midterms sparked an AI stock selloff</a></h3>
+      <p>Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 06 Nov 2026, 19:31 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Nov 2026, 00:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
