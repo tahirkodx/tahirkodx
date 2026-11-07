@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794073577" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794088738" alt="Famous quote" width="100%">
 </p>
 
-> Laziness may appear attractive, but work gives satisfaction.
+> To do two things at once is to do neither.
 >
-> Anne Frank
+> Publilius Syrus
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mitchellh.com/writing/libghostty-1-0">Libghostty 1.0</a></h3>
-      <p>From mitchellh.com. 919 points on Hacker News, 151 comments. Posted by mfiguiere.</p>
+      <p>From mitchellh.com. 987 points on Hacker News, 173 comments. Posted by mfiguiere.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://hightouch.com/blog/llm-judges-identity-resolution">A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</a></h3>
-      <p>From hightouch.com. 546 points on Hacker News, 136 comments. Posted by theanomaly.</p>
+      <h3><a href="https://nfsu2.xyz/">Need for Speed Underground 2 online in the browser</a></h3>
+      <p>From nfsu2.xyz. 701 points on Hacker News, 202 comments. Posted by fluxusars.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nfsu2.xyz/">Need for Speed Underground 2 online in the browser</a></h3>
-      <p>From nfsu2.xyz. 511 points on Hacker News, 160 comments. Posted by fluxusars.</p>
+      <h3><a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">Every Mac comes with an (undocumented) family member classifier</a></h3>
+      <p>From 8rank.ai. 525 points on Hacker News, 312 comments. Posted by infwhispers.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 07 Nov 2026, 17:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Nov 2026, 21:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
