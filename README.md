@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794013098" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794047166" alt="Famous quote" width="100%">
 </p>
 
-> I don't pretend to know everything; I just only speak on matters I know I'll win.
+> Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.
 >
-> Criss Jami
+> Arnold Schwarzenegger
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817">Tesla to wind down Cybertruck production</a></h3>
-      <p>From nbcnews.com. 819 points on Hacker News, 1665 comments. Posted by PLenz.</p>
+      <p>From nbcnews.com. 1012 points on Hacker News, 1866 comments. Posted by PLenz.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.filfre.net/2026/11/deus-ex/">Deus Ex</a></h3>
-      <p>From filfre.net. 334 points on Hacker News, 170 comments. Posted by cybersoyuz.</p>
+      <h3><a href="https://mitchellh.com/writing/libghostty-1-0">Libghostty 1.0</a></h3>
+      <p>From mitchellh.com. 654 points on Hacker News, 100 comments. Posted by mfiguiere.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://hightouch.com/blog/llm-judges-identity-resolution">A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost</a></h3>
-      <p>From hightouch.com. 308 points on Hacker News, 68 comments. Posted by theanomaly.</p>
+      <p>From hightouch.com. 482 points on Hacker News, 110 comments. Posted by theanomaly.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 07 Nov 2026, 00:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 07 Nov 2026, 10:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
