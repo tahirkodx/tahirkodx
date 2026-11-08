@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794088738" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794118675" alt="Famous quote" width="100%">
 </p>
 
-> To do two things at once is to do neither.
+> It is during our darkest moments that we must focus to see the light.
 >
-> Publilius Syrus
+> Aristotle
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mitchellh.com/writing/libghostty-1-0">Libghostty 1.0</a></h3>
-      <p>From mitchellh.com. 987 points on Hacker News, 173 comments. Posted by mfiguiere.</p>
+      <h3><a href="https://nfsu2.xyz/">Need for Speed Underground 2 online in the browser</a></h3>
+      <p>From nfsu2.xyz. 899 points on Hacker News, 241 comments. Posted by fluxusars.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o">Can the Zelda remake capture the magic of the original?</a></h3>
+      <p>Nintendo has released its remake of what is considered one of the best games ever made, the BBC's Tom Gerken gives his verdict.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">Every Mac comes with an (undocumented) family member classifier</a></h3>
+      <p>From 8rank.ai. 669 points on Hacker News, 372 comments. Posted by infwhispers.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nfsu2.xyz/">Need for Speed Underground 2 online in the browser</a></h3>
-      <p>From nfsu2.xyz. 701 points on Hacker News, 202 comments. Posted by fluxusars.</p>
+      <h3><a href="https://blog.bosscher.ch/posts/openstick/">What I run on my $10 USD OpenStick homelab</a></h3>
+      <p>From blog.bosscher.ch. 487 points on Hacker News, 98 comments. Posted by LaurensBER.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">Every Mac comes with an (undocumented) family member classifier</a></h3>
-      <p>From 8rank.ai. 525 points on Hacker News, 312 comments. Posted by infwhispers.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crlykkzwwpydo">Why the US midterms sparked an AI stock selloff</a></h3>
-      <p>Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 07 Nov 2026, 21:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 08 Nov 2026, 06:17 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
