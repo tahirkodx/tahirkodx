@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794167126" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794185966" alt="Famous quote" width="100%">
 </p>
 
-> Optimism, when applied to your life, develops strength and peace within you.
+> Stress happens when the mind resists what is.
 >
-> Norman Vincent Peale
+> Dan Millman
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">Every Mac comes with an (undocumented) family member classifier</a></h3>
-      <p>From 8rank.ai. 825 points on Hacker News, 438 comments. Posted by infwhispers.</p>
+      <h3><a href="https://caleb.software/posts/claude-to-pi.html">Goodbye Claude, hello Pi</a></h3>
+      <p>From caleb.software. 691 points on Hacker News, 428 comments. Posted by karagenit.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.bosscher.ch/posts/openstick/">What I run on my $10 USD OpenStick homelab</a></h3>
-      <p>From blog.bosscher.ch. 729 points on Hacker News, 128 comments. Posted by LaurensBER.</p>
+      <h3><a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</a></h3>
+      <p>From apiiro.com. 582 points on Hacker News, 394 comments. Posted by shmulc.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://caleb.software/posts/claude-to-pi.html">Goodbye Claude, hello Pi</a></h3>
-      <p>From caleb.software. 601 points on Hacker News, 388 comments. Posted by karagenit.</p>
+      <h3><a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">Goldman Sachs is pulling Claude Code from its bankers and traders</a></h3>
+      <p>From thestateofai.com. 574 points on Hacker News, 348 comments. Posted by TheWiggles.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 08 Nov 2026, 19:45 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Nov 2026, 00:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
