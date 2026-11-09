@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794224881" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794263388" alt="Famous quote" width="100%">
 </p>
 
-> Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.
+> While some of us act without thinking, too many of us think without acting.
 >
-> Amelia Earhart
+> Dan Millman
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">Goldman Sachs is pulling Claude Code from its bankers and traders</a></h3>
-      <p>From thestateofai.com. 793 points on Hacker News, 420 comments. Posted by TheWiggles.</p>
+      <h3><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Claude Fable 5.2 and Mythos 5.2</a></h3>
+      <p>From anthropic.com. 777 points on Hacker News, 455 comments. Posted by meetpateltech.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare</a></h3>
-      <p>Once lauded as the "Taylor Swift of tech", Huang is mired in scandal after an affair with a suspected Chinese spy.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6zxjx01vyleo">Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy</a></h3>
+      <p>The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://nvidianews.nvidia.com/news/a-message-to-our-company">Nvidia CEO Jensen Huang's letter to staff about affair</a></h3>
-      <p>https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff... , https://archive.ph/Hxn5h.</p>
+      <h3><a href="https://www.foldableflight.com">Fold Epic Paper Airplanes</a></h3>
+      <p>From foldableflight.com. 767 points on Hacker News, 129 comments. Posted by vismit2000.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro">Government 'looking seriously' at banning under-16s from Vinted and eBay</a></h3>
-      <p>The culture secretary confirms reports they could be in the list of platforms set to be banned next March.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">What we know so far about Jensen Huang's affair with suspected Chinese spy</a></h3>
+      <p>The billionaire tech executive finds himself mired in a personal and national security scandal.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://declarative-dragging.github.io/">Declarative Dragging</a></h3>
-      <p>From declarative-dragging.github.io. 579 points on Hacker News, 76 comments. Posted by smusamashah.</p>
+      <h3><a href="https://twitter.com/shanemelaugh/status/2119192075505893695">Is Opus 5.5 nerfed? Thinking patterns changed on November 3</a></h3>
+      <p>From twitter.com. 669 points on Hacker News, 438 comments. Posted by rzk.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o">Can the Zelda remake capture the magic of the original?</a></h3>
-      <p>Nintendo has released its remake of what is considered one of the best games ever made, the BBC's Tom Gerken gives his verdict.</p>
+      <h3><a href="https://www.bbc.co.uk/news/videos/c80404zyr53wo">Who is the suspected Chinese spy at centre of the Nvidia investigation?</a></h3>
+      <p>Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 09 Nov 2026, 11:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Nov 2026, 22:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
