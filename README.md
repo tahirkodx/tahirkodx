@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794185966" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794224881" alt="Famous quote" width="100%">
 </p>
 
-> Stress happens when the mind resists what is.
+> Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.
 >
-> Dan Millman
+> Amelia Earhart
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://caleb.software/posts/claude-to-pi.html">Goodbye Claude, hello Pi</a></h3>
-      <p>From caleb.software. 691 points on Hacker News, 428 comments. Posted by karagenit.</p>
+      <h3><a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">Goldman Sachs is pulling Claude Code from its bankers and traders</a></h3>
+      <p>From thestateofai.com. 793 points on Hacker News, 420 comments. Posted by TheWiggles.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare</a></h3>
+      <p>Once lauded as the "Taylor Swift of tech", Huang is mired in scandal after an affair with a suspected Chinese spy.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://nvidianews.nvidia.com/news/a-message-to-our-company">Nvidia CEO Jensen Huang's letter to staff about affair</a></h3>
+      <p>https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff... , https://archive.ph/Hxn5h.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again">Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files</a></h3>
-      <p>From apiiro.com. 582 points on Hacker News, 394 comments. Posted by shmulc.</p>
+      <h3><a href="https://declarative-dragging.github.io/">Declarative Dragging</a></h3>
+      <p>From declarative-dragging.github.io. 579 points on Hacker News, 76 comments. Posted by smusamashah.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Nintendo has released its remake of what is considered one of the best games ever made, the BBC's Tom Gerken gives his verdict.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">Goldman Sachs is pulling Claude Code from its bankers and traders</a></h3>
-      <p>From thestateofai.com. 574 points on Hacker News, 348 comments. Posted by TheWiggles.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq1j33w7d232o">Elon Musk appears to signal the end of the road for Cybertruck</a></h3>
-      <p>Musk said it was to make room for production of its Cybercabs, autonomous taxis without a driver.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 09 Nov 2026, 00:59 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 09 Nov 2026, 11:48 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
