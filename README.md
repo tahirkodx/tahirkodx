@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794330483" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794353434" alt="Famous quote" width="100%">
 </p>
 
-> When you have to make a choice and don't make it, that is in itself a choice.
+> Courage is not having the strength to go on; it is going on when you don't have the strength.
 >
-> William James
+> Theodore Roosevelt
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.foldableflight.com">Foldable Flight: The Best Paper Airplanes</a></h3>
-      <p>From foldableflight.com. 1153 points on Hacker News, 166 comments. Posted by vismit2000.</p>
+      <h3><a href="https://docodethatmatters.com/home-automation-overnight-success/">Smart home devices should work without the internet</a></h3>
+      <p>From docodethatmatters.com. 630 points on Hacker News, 225 comments. Posted by skittleson.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crpdgd723x2zo">Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut</a></h3>
-      <p>The AI company behind the Claude chatbot will offer its shares at between $70 and $78.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go">Nvidia hires major US law firm to investigate alleged Chinese spy affair</a></h3>
+      <p>The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Claude Fable 5.2 and Mythos 5.2</a></h3>
-      <p>From anthropic.com. 811 points on Hacker News, 945 comments. Posted by lairv.</p>
+      <h3><a href="https://neil.fraser.name/news/2026/11/10/">.name Grandfathered</a></h3>
+      <p>From neil.fraser.name. 623 points on Hacker News, 139 comments. Posted by p4bl0.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo">Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security</a></h3>
-      <p>Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">What we know so far about Jensen Huang's affair with suspected Chinese spy</a></h3>
+      <p>The billionaire tech executive finds himself mired in a personal and national security scandal.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://postalpro.usps.com/zcb">USPS now offers official ZIP Code boundary polygons</a></h3>
-      <p>From postalpro.usps.com. 703 points on Hacker News, 367 comments. Posted by munro.</p>
+      <h3><a href="https://deepmind.google/blog/introducing-alphaproof-code/">AlphaProof Code</a></h3>
+      <p>From deepmind.google. 552 points on Hacker News, 173 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o">Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy</a></h3>
-      <p>The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crpdgd723x2zo">Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning</a></h3>
+      <p>The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 10 Nov 2026, 17:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Nov 2026, 23:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
