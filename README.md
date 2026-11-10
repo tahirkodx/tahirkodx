@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794295725" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794330483" alt="Famous quote" width="100%">
 </p>
 
-> Look to the beauty of this day, miracles are all around you.
+> When you have to make a choice and don't make it, that is in itself a choice.
 >
-> Mary Engelbreit
+> William James
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,11 +438,23 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.foldableflight.com">Foldable Flight: The Best Paper Airplanes</a></h3>
-      <p>From foldableflight.com. 958 points on Hacker News, 146 comments. Posted by vismit2000.</p>
+      <p>From foldableflight.com. 1153 points on Hacker News, 166 comments. Posted by vismit2000.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo">Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crpdgd723x2zo">Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut</a></h3>
+      <p>The AI company behind the Claude chatbot will offer its shares at between $70 and $78.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Claude Fable 5.2 and Mythos 5.2</a></h3>
+      <p>From anthropic.com. 811 points on Hacker News, 945 comments. Posted by lairv.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo">Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security</a></h3>
       <p>Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other.</p>
     </td>
   </tr>
@@ -450,19 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://postalpro.usps.com/zcb">USPS now offers official ZIP Code boundary polygons</a></h3>
-      <p>From postalpro.usps.com. 593 points on Hacker News, 300 comments. Posted by munro.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmp3g37l566po">Australia considers criminal penalties for rogue AI in wake of OpenAI hack</a></h3>
-      <p>AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/thisisme6598/gemini_files/">Google Gemini routes personal Drive files and emails to human annotators</a></h3>
-      <p>From github.com. 543 points on Hacker News, 122 comments. Posted by gf74918.</p>
+      <p>From postalpro.usps.com. 703 points on Hacker News, 367 comments. Posted by munro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 10 Nov 2026, 07:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Nov 2026, 17:08 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
