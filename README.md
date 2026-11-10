@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794263388" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794295725" alt="Famous quote" width="100%">
 </p>
 
-> While some of us act without thinking, too many of us think without acting.
+> Look to the beauty of this day, miracles are all around you.
 >
-> Dan Millman
+> Mary Engelbreit
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Claude Fable 5.2 and Mythos 5.2</a></h3>
-      <p>From anthropic.com. 777 points on Hacker News, 455 comments. Posted by meetpateltech.</p>
+      <h3><a href="https://www.foldableflight.com">Foldable Flight: The Best Paper Airplanes</a></h3>
+      <p>From foldableflight.com. 958 points on Hacker News, 146 comments. Posted by vismit2000.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6zxjx01vyleo">Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy</a></h3>
-      <p>The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo">Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump</a></h3>
+      <p>Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.foldableflight.com">Fold Epic Paper Airplanes</a></h3>
-      <p>From foldableflight.com. 767 points on Hacker News, 129 comments. Posted by vismit2000.</p>
+      <h3><a href="https://postalpro.usps.com/zcb">USPS now offers official ZIP Code boundary polygons</a></h3>
+      <p>From postalpro.usps.com. 593 points on Hacker News, 300 comments. Posted by munro.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">What we know so far about Jensen Huang's affair with suspected Chinese spy</a></h3>
-      <p>The billionaire tech executive finds himself mired in a personal and national security scandal.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmp3g37l566po">Australia considers criminal penalties for rogue AI in wake of OpenAI hack</a></h3>
+      <p>AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/shanemelaugh/status/2119192075505893695">Is Opus 5.5 nerfed? Thinking patterns changed on November 3</a></h3>
-      <p>From twitter.com. 669 points on Hacker News, 438 comments. Posted by rzk.</p>
+      <h3><a href="https://github.com/thisisme6598/gemini_files/">Google Gemini routes personal Drive files and emails to human annotators</a></h3>
+      <p>From github.com. 543 points on Hacker News, 122 comments. Posted by gf74918.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/videos/c80404zyr53wo">Who is the suspected Chinese spy at centre of the Nvidia investigation?</a></h3>
-      <p>Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o">Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy</a></h3>
+      <p>The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 09 Nov 2026, 22:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 10 Nov 2026, 07:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
