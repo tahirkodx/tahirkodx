@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794353434" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794379430" alt="Famous quote" width="100%">
 </p>
 
-> Courage is not having the strength to go on; it is going on when you don't have the strength.
+> It is not the knowing that is difficult, but the doing.
 >
-> Theodore Roosevelt
+> Chinese Proverb
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://docodethatmatters.com/home-automation-overnight-success/">Smart home devices should work without the internet</a></h3>
-      <p>From docodethatmatters.com. 630 points on Hacker News, 225 comments. Posted by skittleson.</p>
+      <p>From docodethatmatters.com. 846 points on Hacker News, 301 comments. Posted by skittleson.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj5yn24llxd6o">Robot vessels take on the dangerous work of mine hunting</a></h3>
+      <p>The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://neil.fraser.name/news/2026/11/10/">.name Grandfathered</a></h3>
+      <p>Previously: .name Termination, https://news.ycombinator.com/item?id=49550772, Sept 2026 (547 comments)</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://neil.fraser.name/news/2026/11/10/">.name Grandfathered</a></h3>
-      <p>From neil.fraser.name. 623 points on Hacker News, 139 comments. Posted by p4bl0.</p>
+      <h3><a href="https://deepmind.google/blog/introducing-alphaproof-code/">AlphaProof Code</a></h3>
+      <p>From deepmind.google. 611 points on Hacker News, 182 comments. Posted by ilreb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The billionaire tech executive finds himself mired in a personal and national security scandal.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/blog/introducing-alphaproof-code/">AlphaProof Code</a></h3>
-      <p>From deepmind.google. 552 points on Hacker News, 173 comments. Posted by ilreb.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crpdgd723x2zo">Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning</a></h3>
-      <p>The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 10 Nov 2026, 23:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Nov 2026, 06:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
