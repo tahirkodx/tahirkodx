@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794379430" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794417323" alt="Famous quote" width="100%">
 </p>
 
-> It is not the knowing that is difficult, but the doing.
+> When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.
 >
-> Chinese Proverb
+> Paramahansa Yogananda
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,32 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://docodethatmatters.com/home-automation-overnight-success/">Smart home devices should work without the internet</a></h3>
-      <p>From docodethatmatters.com. 846 points on Hacker News, 301 comments. Posted by skittleson.</p>
+      <h3><a href="https://pietromiotti.com/latest/maya-site/?maya">Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</a></h3>
+      <p>From pietromiotti.com. 703 points on Hacker News, 261 comments. Posted by eyvindn.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cj5yn24llxd6o">Robot vessels take on the dangerous work of mine hunting</a></h3>
-      <p>The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c54gne3plvrxo">New Indian mega library rocked by scandal over 'AI-generated books'</a></h3>
+      <p>The Tamil Nadu government has ordered an internal audit of library collections across the state.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://neil.fraser.name/news/2026/11/10/">.name Grandfathered</a></h3>
-      <p>Previously: .name Termination, https://news.ycombinator.com/item?id=49550772, Sept 2026 (547 comments)</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go">Nvidia hires major US law firm to investigate alleged Chinese spy affair</a></h3>
-      <p>The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://deepmind.google/blog/introducing-alphaproof-code/">AlphaProof Code</a></h3>
-      <p>From deepmind.google. 611 points on Hacker News, 182 comments. Posted by ilreb.</p>
+      <h3><a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">Scion is back and is going to sell a kei truck in America</a></h3>
+      <p>From theautopian.com. 541 points on Hacker News, 373 comments. Posted by NaOH.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -470,9 +458,21 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The billionaire tech executive finds himself mired in a personal and national security scandal.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">Apple has new Mac app coming to make running local AI models easy</a></h3>
+      <p>From 9to5mac.com. 451 points on Hacker News, 467 comments. Posted by linolevan.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cj5yn24llxd6o">Robot vessels take on the dangerous work of mine hunting</a></h3>
+      <p>The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.</p>
+    </td>
+  </tr>
 </table>
 
-<sub>Updated 11 Nov 2026, 06:43 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 11 Nov 2026, 17:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
