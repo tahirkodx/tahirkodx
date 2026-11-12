@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794482925" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794513943" alt="Famous quote" width="100%">
 </p>
 
-> Great acts are made up of small deeds.
+> Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.
 >
-> Lao Tzu
+> Bhagavad Gita
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">Tim Peters has died</a></h3>
-      <p>https://www.reddit.com/r/Python/s/2Cm5dBcvQw</p>
+      <h3><a href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f">Jensen Huang resigns</a></h3>
+      <p>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... .</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqgm37dv20e8o">Who could replace Jensen Huang as Nvidia's chief executive?</a></h3>
-      <p>As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmze750zg0jeo">The rise and fall of Jensen Huang, how the tech superstar became mired in scandal</a></h3>
+      <p>Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">Nvidia is preparing to oust Jensen Huang</a></h3>
-      <p>From wsj.com. 1067 points on Hacker News, 1426 comments. Posted by jbredeche.</p>
+      <h3><a href="https://ipo.anthropic.com/us/">Anthropic IPO</a></h3>
+      <p>From ipo.anthropic.com. 701 points on Hacker News, 707 comments. Posted by josephljohnston.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">What we know as pressure builds on embattled Nvidia CEO Jensen Huang</a></h3>
-      <p>The billionaire tech executive's future is in question after reports of a second extramarital affair.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq5y13819gpjo">Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions</a></h3>
+      <p>Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pietromiotti.com/latest/maya-site">My AI agents found an unmapped Maya site?</a></h3>
-      <p>From pietromiotti.com. 996 points on Hacker News, 365 comments. Posted by eyvindn.</p>
+      <h3><a href="https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md">Socratic Tutor</a></h3>
+      <p>From github.com. 605 points on Hacker News, 136 comments. Posted by tosh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o">Lego marketplace BrickLink offline after 'unusual activity' detected</a></h3>
-      <p>Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">What we know as Nvidia CEO Jensen Huang resigns over affair allegations</a></h3>
+      <p>The billionaire tech executive has left the company following reports of a second extramarital affair.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 12 Nov 2026, 11:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Nov 2026, 20:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
