@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794417323" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794444584" alt="Famous quote" width="100%">
 </p>
 
-> When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.
+> Argue for your limitations and sure enough, they're yours.
 >
-> Paramahansa Yogananda
+> Richard Bach
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pietromiotti.com/latest/maya-site/?maya">Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</a></h3>
-      <p>From pietromiotti.com. 703 points on Hacker News, 261 comments. Posted by eyvindn.</p>
+      <h3><a href="https://pietromiotti.com/latest/maya-site">My AI agents found an unmapped Maya site?</a></h3>
+      <p>From pietromiotti.com. 918 points on Hacker News, 335 comments. Posted by eyvindn.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/">Scion is back and is going to sell a kei truck in America</a></h3>
-      <p>From theautopian.com. 541 points on Hacker News, 373 comments. Posted by NaOH.</p>
+      <h3><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">Tim Peters has died</a></h3>
+      <p>https://www.reddit.com/r/Python/s/2Cm5dBcvQw</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">Apple has new Mac app coming to make running local AI models easy</a></h3>
-      <p>From 9to5mac.com. 451 points on Hacker News, 467 comments. Posted by linolevan.</p>
+      <h3><a href="https://github.com/aws/aws-emulator">AWS emulator</a></h3>
+      <p>https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent... https://www.allthingsdistributed.com/2026/11/aws-emulator-an...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 11 Nov 2026, 17:15 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 12 Nov 2026, 00:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
