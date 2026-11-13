@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794568409" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794599498" alt="Famous quote" width="100%">
 </p>
 
-> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.
+> Have a vision. Be demanding.
 >
-> Richard Bach
+> Colin Powell
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o">GPs, police and pharmacies among UK services affected by Microsoft outage</a></h3>
-      <p>Major airports and intelligence services are unaffected while the government is assessing the impact on its services.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o">Why is Microsoft's outage lasting so long and will emails be lost?</a></h3>
+      <p>Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ipo.anthropic.com/us/">Anthropic IPO</a></h3>
-      <p>From ipo.anthropic.com. 942 points on Hacker News, 869 comments. Posted by josephljohnston.</p>
+      <h3><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Rust 1.100</a></h3>
+      <p>From blog.rust-lang.org. 863 points on Hacker News, 310 comments. Posted by mbStavola.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqp9d58eldlro">How the Microsoft outage has been felt worldwide</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cxzd9171m51qo">Microsoft outage 'stark reminder' of how much we rely on tech</a></h3>
+      <p>Microsoft has apologised for the issue, which it said was due to a technical failure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/simpsoka/zigzag">Show HN: My $300 embroidery machine needed a subscription, so I built my own app</a></h3>
+      <p>https://x.com/simpsoka/status/2115254318161182876</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqp9d58eldlro">Courts, spies and MPs: How the Microsoft outage has been felt around the world</a></h3>
       <p>From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://status.cloud.microsoft/">Service degradation on Microsoft 365</a></h3>
-      <p>https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o">What we know about the global Microsoft outage</a></h3>
-      <p>Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 13 Nov 2026, 11:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Nov 2026, 19:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
