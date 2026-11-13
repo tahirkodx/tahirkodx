@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794513943" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794534947" alt="Famous quote" width="100%">
 </p>
 
-> Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.
+> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.
 >
-> Bhagavad Gita
+> Amelia Earhart
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmze750zg0jeo">The rise and fall of Jensen Huang, how the tech superstar became mired in scandal</a></h3>
-      <p>Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo">Microsoft struggling to restore service as global outage affects Outlook and Teams</a></h3>
+      <p>Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://ipo.anthropic.com/us/">Anthropic IPO</a></h3>
-      <p>From ipo.anthropic.com. 701 points on Hacker News, 707 comments. Posted by josephljohnston.</p>
+      <p>From ipo.anthropic.com. 821 points on Hacker News, 806 comments. Posted by josephljohnston.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq5y13819gpjo">Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions</a></h3>
-      <p>Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo">The rise of 'housefishing', when does using AI go from enhancing to misleading?</a></h3>
+      <p>Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md">Socratic Tutor</a></h3>
-      <p>From github.com. 605 points on Hacker News, 136 comments. Posted by tosh.</p>
+      <h3><a href="https://status.cloud.microsoft/">Service degradation on Microsoft 365</a></h3>
+      <p>https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o">What we know as Nvidia CEO Jensen Huang resigns over affair allegations</a></h3>
-      <p>The billionaire tech executive has left the company following reports of a second extramarital affair.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></h3>
+      <p>US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 12 Nov 2026, 20:05 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Nov 2026, 01:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
