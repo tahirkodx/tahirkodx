@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794534947" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794568409" alt="Famous quote" width="100%">
 </p>
 
-> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.
+> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.
 >
-> Amelia Earhart
+> Richard Bach
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,20 +442,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo">Microsoft struggling to restore service as global outage affects Outlook and Teams</a></h3>
-      <p>Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o">GPs, police and pharmacies among UK services affected by Microsoft outage</a></h3>
+      <p>Major airports and intelligence services are unaffected while the government is assessing the impact on its services.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://ipo.anthropic.com/us/">Anthropic IPO</a></h3>
-      <p>From ipo.anthropic.com. 821 points on Hacker News, 806 comments. Posted by josephljohnston.</p>
+      <p>From ipo.anthropic.com. 942 points on Hacker News, 869 comments. Posted by josephljohnston.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo">The rise of 'housefishing', when does using AI go from enhancing to misleading?</a></h3>
-      <p>Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqp9d58eldlro">How the Microsoft outage has been felt worldwide</a></h3>
+      <p>From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.</p>
     </td>
   </tr>
   <tr>
@@ -466,13 +466,13 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></h3>
-      <p>US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o">What we know about the global Microsoft outage</a></h3>
+      <p>Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 13 Nov 2026, 01:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 13 Nov 2026, 11:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
