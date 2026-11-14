@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794619749" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794652757" alt="Famous quote" width="100%">
 </p>
 
-> Without education, we are in a horrible and deadly danger of taking educated people seriously.
+> Guilt is perhaps the most painful companion of death.
 >
-> Gilbert Chesterton
+> Coco Chanel
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA issues national ground stop</a></h3>
-      <p>https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...</p>
+      <h3><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA issues national ground stop  lifted 4.5 hours later</a></h3>
+      <p>https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;a.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6rrg51rkz09o">Microsoft says services fully restored after day-long global outage</a></h3>
+      <p>Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/">Reverse engineering my Coway air purifier to ditch the cloud</a></h3>
+      <p>From scottjg.com. 752 points on Hacker News, 213 comments. Posted by scottjg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/">Reverse engineering my Coway air purifier to ditch the cloud</a></h3>
-      <p>From scottjg.com. 672 points on Hacker News, 199 comments. Posted by scottjg.</p>
+      <h3><a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</a></h3>
+      <p>From techpowerup.com. 589 points on Hacker News, 343 comments. Posted by speckx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The scandal has cast a spotlight on Singapore's success as a chip hub, and a location for alleged illicit trade.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.science.org/doi/10.1126/science.132.3436.1291">Doomsday: Friday, 13 November, A.D. 2026 (1960)</a></h3>
-      <p>From science.org. 447 points on Hacker News, 308 comments. Posted by voxleone.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cxzd9171m51qo">Microsoft outage 'stark reminder' of how much we rely on tech</a></h3>
-      <p>Microsoft has apologised for the issue, which it said was due to a technical failure.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 14 Nov 2026, 01:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Nov 2026, 10:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
