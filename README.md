@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794599498" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794619749" alt="Famous quote" width="100%">
 </p>
 
-> Have a vision. Be demanding.
+> Without education, we are in a horrible and deadly danger of taking educated people seriously.
 >
-> Colin Powell
+> Gilbert Chesterton
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f">Jensen Huang resigns</a></h3>
-      <p>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran... https://www.reuters.com/business/retail-consumer/nvidia-ceo-... .</p>
+      <h3><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA issues national ground stop</a></h3>
+      <p>https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwvg238zrnm5o">Why is Microsoft's outage lasting so long and will emails be lost?</a></h3>
-      <p>Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo">Even Grand Theft Auto's original creators haven't been able to play GTA 6</a></h3>
+      <p>The next title in the series is expected to be the biggest video game release ever.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/">Rust 1.100</a></h3>
-      <p>From blog.rust-lang.org. 863 points on Hacker News, 310 comments. Posted by mbStavola.</p>
+      <h3><a href="https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/">Reverse engineering my Coway air purifier to ditch the cloud</a></h3>
+      <p>From scottjg.com. 672 points on Hacker News, 199 comments. Posted by scottjg.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ck1exevgql4qo">How the Jensen Huang scandal created a headache for business-friendly Singapore</a></h3>
+      <p>The scandal has cast a spotlight on Singapore's success as a chip hub, and a location for alleged illicit trade.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.science.org/doi/10.1126/science.132.3436.1291">Doomsday: Friday, 13 November, A.D. 2026 (1960)</a></h3>
+      <p>From science.org. 447 points on Hacker News, 308 comments. Posted by voxleone.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Microsoft has apologised for the issue, which it said was due to a technical failure.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/simpsoka/zigzag">Show HN: My $300 embroidery machine needed a subscription, so I built my own app</a></h3>
-      <p>https://x.com/simpsoka/status/2115254318161182876</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqp9d58eldlro">Courts, spies and MPs: How the Microsoft outage has been felt around the world</a></h3>
-      <p>From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 13 Nov 2026, 19:51 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Nov 2026, 01:29 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
