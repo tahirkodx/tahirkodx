@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794680204" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794695690" alt="Famous quote" width="100%">
 </p>
 
-> Never lose hope. Storms make people stronger and never last forever.
+> Absurdity is the ecstasy of intellectualism.
 >
-> Roy T. Bennett
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA issues national ground stop  lifted 4.5 hours later</a></h3>
-      <p>https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;a.</p>
+      <h3><a href="https://www.crissyfield.de/research/lovable-en/">Lovable apps expose passport details and more than 200K private messages</a></h3>
+      <p>From crissyfield.de. 519 points on Hacker News, 189 comments. Posted by armcat.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</a></h3>
-      <p>From techpowerup.com. 955 points on Hacker News, 578 comments. Posted by speckx.</p>
+      <h3><a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/">Why get an expensive Pi when I have an old phone?</a></h3>
+      <p>From so.long.thanks.fish. 474 points on Hacker News, 269 comments. Posted by casi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/">Why get an expensive Pi when I have an old phone?</a></h3>
-      <p>From so.long.thanks.fish. 388 points on Hacker News, 234 comments. Posted by casi.</p>
+      <h3><a href="https://monkeyisland.pages.dev/">Monkey Island: all 13 versions side by side</a></h3>
+      <p>From monkeyisland.pages.dev. 448 points on Hacker News, 141 comments. Posted by maximilianburke.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 14 Nov 2026, 18:16 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 14 Nov 2026, 22:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
