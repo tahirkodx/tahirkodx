@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794695690" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794725236" alt="Famous quote" width="100%">
 </p>
 
-> Absurdity is the ecstasy of intellectualism.
+> Art, like morality, consists of drawing the line somewhere.
 >
-> Criss Jami
+> Gilbert Chesterton
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.crissyfield.de/research/lovable-en/">Lovable apps expose passport details and more than 200K private messages</a></h3>
-      <p>From crissyfield.de. 519 points on Hacker News, 189 comments. Posted by armcat.</p>
+      <h3><a href="https://www.spacex.com/launches/starship-flight-15">SpaceX catches the Starship to end Flight 15</a></h3>
+      <p>https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/">Why get an expensive Pi when I have an old phone?</a></h3>
-      <p>From so.long.thanks.fish. 474 points on Hacker News, 269 comments. Posted by casi.</p>
+      <h3><a href="https://www.crissyfield.de/research/lovable-en/">Lovable apps expose passport details and more than 200K private messages</a></h3>
+      <p>From crissyfield.de. 752 points on Hacker News, 299 comments. Posted by armcat.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://monkeyisland.pages.dev/">Monkey Island: all 13 versions side by side</a></h3>
-      <p>From monkeyisland.pages.dev. 448 points on Hacker News, 141 comments. Posted by maximilianburke.</p>
+      <h3><a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/">Why get an expensive Pi when I have an old phone?</a></h3>
+      <p>From so.long.thanks.fish. 537 points on Hacker News, 294 comments. Posted by casi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 14 Nov 2026, 22:34 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Nov 2026, 06:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
