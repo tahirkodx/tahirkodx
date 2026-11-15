@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794725236" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794760004" alt="Famous quote" width="100%">
 </p>
 
-> Art, like morality, consists of drawing the line somewhere.
+> Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.
 >
-> Gilbert Chesterton
+> William Faulkner
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwn83gxemk35o">Italy fines Meta €805m over accessing users' photos</a></h3>
-      <p>The social media giant is accused of not informing 20 million users it had access to their photos.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo">Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says</a></h3>
+      <p>The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.crissyfield.de/research/lovable-en/">Lovable apps expose passport details and more than 200K private messages</a></h3>
-      <p>From crissyfield.de. 752 points on Hacker News, 299 comments. Posted by armcat.</p>
+      <p>From crissyfield.de. 938 points on Hacker News, 359 comments. Posted by armcat.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6rrg51rkz09o">Microsoft says services fully restored after day-long global outage</a></h3>
-      <p>Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o">South Korea's top scorer in tax accountancy exam admits cheating</a></h3>
+      <p>Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/">Why get an expensive Pi when I have an old phone?</a></h3>
-      <p>From so.long.thanks.fish. 537 points on Hacker News, 294 comments. Posted by casi.</p>
+      <p>From so.long.thanks.fish. 600 points on Hacker News, 318 comments. Posted by casi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo">Even Grand Theft Auto's original creators haven't been able to play GTA 6</a></h3>
-      <p>The next title in the series is expected to be the biggest video game release ever.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwn83gxemk35o">Italy fines Meta €805m over accessing users' photos</a></h3>
+      <p>The social media giant is accused of not informing 20 million users it had access to their photos.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 15 Nov 2026, 06:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Nov 2026, 16:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
