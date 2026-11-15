@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794760004" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794783459" alt="Famous quote" width="100%">
 </p>
 
-> Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.
+> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
 >
-> William Faulkner
+> Spencer Johnson
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.crissyfield.de/research/lovable-en/">Lovable apps expose passport details and more than 200K private messages</a></h3>
-      <p>From crissyfield.de. 938 points on Hacker News, 359 comments. Posted by armcat.</p>
+      <h3><a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">All AI-generated code should be Open Source</a></h3>
+      <p>From jakub.jankiewicz.org. 1015 points on Hacker News, 565 comments. Posted by jcubic.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/">Why get an expensive Pi when I have an old phone?</a></h3>
-      <p>From so.long.thanks.fish. 600 points on Hacker News, 318 comments. Posted by casi.</p>
+      <h3><a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/">The MacBook Pro's OLED PWM problem</a></h3>
+      <p>From macanorak.com. 374 points on Hacker News, 202 comments. Posted by MacAnorak.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 15 Nov 2026, 16:26 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 15 Nov 2026, 22:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
