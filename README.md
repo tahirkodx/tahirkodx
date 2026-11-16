@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794811572" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794858090" alt="Famous quote" width="100%">
 </p>
 
-> Perplexity is the beginning of knowledge.
+> To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.
 >
-> Kahlil Gibran
+> Criss Jami
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.spacex.com/launches/starship-flight-15">SpaceX catches the Starship to end Flight 15</a></h3>
-      <p>https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233</p>
+      <h3><a href="https://pub.cba.mit.edu/863.26/site/">How to make almost anything</a></h3>
+      <p>From pub.cba.mit.edu. 767 points on Hacker News, 128 comments. Posted by o4c.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw62p42p288do">Investors sue chip giant Intel after 29% stock plunge</a></h3>
-      <p>A proposed class action says Intel hid the impact of slowing sales, inflating its shares.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cry49plv8v3go">Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched</a></h3>
+      <p>A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html">Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</a></h3>
-      <p>From www1.wdr.de. 483 points on Hacker News, 207 comments. Posted by DeepLogin.</p>
+      <h3><a href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/">Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</a></h3>
+      <p>From groundworkcollaborative.org. 636 points on Hacker News, 389 comments. Posted by DeepLogin.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo">Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says</a></h3>
-      <p>The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq99exy89dngo">GTA 6 hacker pleads guilty after release from secure hospital</a></h3>
+      <p>21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/">The MacBook Pro's OLED PWM problem</a></h3>
-      <p>From macanorak.com. 464 points on Hacker News, 255 comments. Posted by MacAnorak.</p>
+      <h3><a href="https://iter.ca/post/ubo-uxss/">Universal XSS in uBlock Origin from website-driven element picker</a></h3>
+      <p>From iter.ca. 580 points on Hacker News, 164 comments. Posted by zaik.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o">South Korea's top scorer in tax accountancy exam admits cheating</a></h3>
-      <p>Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw62p42p288do">Intel sued by investors after PC sales slump hits share price</a></h3>
+      <p>A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 16 Nov 2026, 06:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Nov 2026, 19:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
