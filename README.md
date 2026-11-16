@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794783459" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794811572" alt="Famous quote" width="100%">
 </p>
 
-> In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.
+> Perplexity is the beginning of knowledge.
 >
-> Spencer Johnson
+> Kahlil Gibran
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw62p42p288do">Investors sue chip giant Intel after 29% stock plunge</a></h3>
+      <p>A proposed class action says Intel hid the impact of slowing sales, inflating its shares.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html">Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</a></h3>
+      <p>From www1.wdr.de. 483 points on Hacker News, 207 comments. Posted by DeepLogin.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo">Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says</a></h3>
       <p>The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/">All AI-generated code should be Open Source</a></h3>
-      <p>From jakub.jankiewicz.org. 1015 points on Hacker News, 565 comments. Posted by jcubic.</p>
+      <h3><a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/">The MacBook Pro's OLED PWM problem</a></h3>
+      <p>From macanorak.com. 464 points on Hacker News, 255 comments. Posted by MacAnorak.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/">The MacBook Pro's OLED PWM problem</a></h3>
-      <p>From macanorak.com. 374 points on Hacker News, 202 comments. Posted by MacAnorak.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwn83gxemk35o">Italy fines Meta €805m over accessing users' photos</a></h3>
-      <p>The social media giant is accused of not informing 20 million users it had access to their photos.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 15 Nov 2026, 22:57 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 16 Nov 2026, 06:46 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
