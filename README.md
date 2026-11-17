@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794858090" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794887935" alt="Famous quote" width="100%">
 </p>
 
-> To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.
+> The finish line is just the beginning of a whole new race.
 >
-> Criss Jami
+> Unknown
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://pub.cba.mit.edu/863.26/site/">How to make almost anything</a></h3>
-      <p>From pub.cba.mit.edu. 767 points on Hacker News, 128 comments. Posted by o4c.</p>
+      <h3><a href="https://www.cs.cmu.edu/learn/">Carnegie Mellon is putting computer science courses on YouTube for free</a></h3>
+      <p>From cs.cmu.edu. 910 points on Hacker News, 144 comments. Posted by pcompeau.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cry49plv8v3go">Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched</a></h3>
-      <p>A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cry49plv8v3go">Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO</a></h3>
+      <p>A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/">Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings</a></h3>
-      <p>From groundworkcollaborative.org. 636 points on Hacker News, 389 comments. Posted by DeepLogin.</p>
+      <h3><a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">Technical issue at JPMorgan Chase triggers online banking delays for US banks</a></h3>
+      <p>From apnews.com. 735 points on Hacker News, 610 comments. Posted by samk3nny.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq99exy89dngo">GTA 6 hacker pleads guilty after release from secure hospital</a></h3>
-      <p>21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo">New Zealand tricks and annual leave, the lengths fans are going to for GTA 6</a></h3>
+      <p>Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://iter.ca/post/ubo-uxss/">Universal XSS in uBlock Origin from website-driven element picker</a></h3>
-      <p>From iter.ca. 580 points on Hacker News, 164 comments. Posted by zaik.</p>
+      <h3><a href="https://www.bugmenot.com/">BugMeNot has closed</a></h3>
+      <p>From bugmenot.com. 382 points on Hacker News, 192 comments. Posted by lode.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw62p42p288do">Intel sued by investors after PC sales slump hits share price</a></h3>
-      <p>A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c820vnln2lzpo">The AI start-ups fixing India's broken roads and messy land records</a></h3>
+      <p>From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 16 Nov 2026, 19:41 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Nov 2026, 03:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
