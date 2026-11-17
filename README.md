@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794887935" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794932012" alt="Famous quote" width="100%">
 </p>
 
-> The finish line is just the beginning of a whole new race.
+> For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.
 >
-> Unknown
+> Celestine Chua
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,41 +438,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.cs.cmu.edu/learn/">Carnegie Mellon is putting computer science courses on YouTube for free</a></h3>
-      <p>From cs.cmu.edu. 910 points on Hacker News, 144 comments. Posted by pcompeau.</p>
+      <p>From cs.cmu.edu. 2007 points on Hacker News, 272 comments. Posted by pcompeau.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cry49plv8v3go">Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO</a></h3>
-      <p>A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">Technical issue at JPMorgan Chase triggers online banking delays for US banks</a></h3>
-      <p>From apnews.com. 735 points on Hacker News, 610 comments. Posted by samk3nny.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo">New Zealand tricks and annual leave, the lengths fans are going to for GTA 6</a></h3>
-      <p>Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo">How new US chip restrictions on South East Asia will hit China</a></h3>
+      <p>The new rules restrict chip exports and also access to their computing power, which China relies on heavily.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.bugmenot.com/">BugMeNot has closed</a></h3>
-      <p>From bugmenot.com. 382 points on Hacker News, 192 comments. Posted by lode.</p>
+      <p>From bugmenot.com. 665 points on Hacker News, 298 comments. Posted by lode.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c820vnln2lzpo">The AI start-ups fixing India's broken roads and messy land records</a></h3>
-      <p>From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o">NHS data contract to stay with Palantir until 2029</a></h3>
+      <p>Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</a></h3>
+      <p>From nytimes.com. 638 points on Hacker News, 325 comments. Posted by donohoe.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo">Pretending to be in New Zealand, booking leave and buying consoles, the lengths fans are going to for GTA 6</a></h3>
+      <p>Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 17 Nov 2026, 03:58 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 17 Nov 2026, 16:13 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
