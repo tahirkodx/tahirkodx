@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1794963683" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795002917" alt="Famous quote" width="100%">
 </p>
 
-> Being wrong opens us up to the possibility of change.
+> The details are not the details. They make the design.
 >
-> Mark Manson
+> Charles Eames
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">New Evidence Shows School Phone Bans Are Gradually Improving Test Scores</a></h3>
-      <p>From nytimes.com. 1149 points on Hacker News, 577 comments. Posted by donohoe.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo">Nvidia says it won't reinstate Huang as firm reports bumper results</a></h3>
-      <p>The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
       <h3><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">GPT‑6.2 Astra and Sol</a></h3>
-      <p>From openai.com. 1064 points on Hacker News, 677 comments. Posted by jasondavies.</p>
+      <p>From openai.com. 1283 points on Hacker News, 798 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqglwjd450k0o">Europe plans to catch the next computer chip wave</a></h3>
-      <p>Europe hopes to be a leader in a new generation of computer chips which use light to process data.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm87987w1qz5o">British hacker who stole $11m through text message scheme jailed for six years in US</a></h3>
+      <p>Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://developer.apple.com/system-status/">Apple Services Down</a></h3>
-      <p>From developer.apple.com. 619 points on Hacker News, 342 comments. Posted by willy_k.</p>
+      <h3><a href="https://calif.io/java4shell/">Java4Shell: RCE in OpenJDK when processing Base64</a></h3>
+      <p>From calif.io. 964 points on Hacker News, 246 comments. Posted by werrett.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo">How new US chip restrictions on South East Asia will hit China</a></h3>
-      <p>The new rules restrict chip exports and also access to their computing power, which China relies on heavily.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cke89jevqm1vo">Security flaw found in Java, world's third-largest programming language</a></h3>
+      <p>The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">Quad9's withdrawal from France: A canary in the coal mine</a></h3>
+      <p>From blog.cloudflare.com. 634 points on Hacker News, 221 comments. Posted by subset.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c68798vdprwpo">How important are Nvidia and Jensen Huang to the US economy?</a></h3>
+      <p>The former Nvidia chief executive has been at the centre of the artificial intelligence boom.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 18 Nov 2026, 01:01 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Nov 2026, 11:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
