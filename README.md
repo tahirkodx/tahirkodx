@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795002917" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795034452" alt="Famous quote" width="100%">
 </p>
 
-> The details are not the details. They make the design.
+> If you care about someone enough, you'll always be there for them no matter what.
 >
-> Charles Eames
+> Roy T. Bennett
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">GPT‑6.2 Astra and Sol</a></h3>
-      <p>From openai.com. 1283 points on Hacker News, 798 comments. Posted by jasondavies.</p>
+      <h3><a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Unauthenticated remote code execution in Nginx</a></h3>
+      <p>https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm87987w1qz5o">British hacker who stole $11m through text message scheme jailed for six years in US</a></h3>
-      <p>Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw8r75xm8v4po">Grand Theft Auto 6 is a masterpiece, say critics</a></h3>
+      <p>Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://calif.io/java4shell/">Java4Shell: RCE in OpenJDK when processing Base64</a></h3>
-      <p>From calif.io. 964 points on Hacker News, 246 comments. Posted by werrett.</p>
+      <h3><a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">DNS resolvers are the wrong place to fight piracy</a></h3>
+      <p>From techstackups.com. 469 points on Hacker News, 157 comments. Posted by ritzaco.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cke89jevqm1vo">Security flaw found in Java, world's third-largest programming language</a></h3>
-      <p>The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmd7159vlr85o">The seven Anthropic founders who are about to become multi-billionaires</a></h3>
+      <p>The AI company behind Claude is about to sell its shares on the US stock market, making its founders very rich.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">Quad9's withdrawal from France: A canary in the coal mine</a></h3>
-      <p>From blog.cloudflare.com. 634 points on Hacker News, 221 comments. Posted by subset.</p>
+      <h3><a href="https://www.inside-db.com/">Inside Deutsche Bank</a></h3>
+      <p>From inside-db.com. 377 points on Hacker News, 139 comments. Posted by gyre007.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c68798vdprwpo">How important are Nvidia and Jensen Huang to the US economy?</a></h3>
-      <p>The former Nvidia chief executive has been at the centre of the artificial intelligence boom.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6z0kly2lll7o">Hacks, AI or just overdue updates, why have there been so many outages?</a></h3>
+      <p>There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 18 Nov 2026, 11:55 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 18 Nov 2026, 20:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
