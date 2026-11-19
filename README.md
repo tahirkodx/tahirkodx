@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795089142" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795121253" alt="Famous quote" width="100%">
 </p>
 
-> I know not all that may be coming, but be it what it will, I'll go to it laughing.
+> Manifest plainness, embrace simplicity, reduce selfishness, have few desires.
 >
-> Herman Melville
+> Lao Tzu
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities">Unauthenticated remote code execution in Nginx</a></h3>
-      <p>https://www.cve.org/CVERecord?id=CVE-2026-123633 https://www.cve.org/CVERecord?id=CVE-2026-123007</p>
+      <h3><a href="https://blog.harrison.page/garage-door-spam/">Garage Door Spam</a></h3>
+      <p>From blog.harrison.page. 622 points on Hacker News, 261 comments. Posted by harrisonpage.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o">Dutch watchdog tells people not to buy AI smart glasses</a></h3>
+      <p>Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">How the European Commission rolled out Matrix to more than 40k staff</a></h3>
+      <p>From element.io. 604 points on Hacker News, 289 comments. Posted by liotier.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,30 +461,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Gemini 4 Neon</a></h3>
-      <p>From blog.google. 864 points on Hacker News, 685 comments. Posted by yigitdemirag.</p>
+      <h3><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Anthropic hits $2T in Nasdaq debut</a></h3>
+      <p>From reuters.com. 551 points on Hacker News, 894 comments. Posted by wslh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o">Elon Musk says record $446m spending on US midterms was 'pretty foolish'</a></h3>
-      <p>The multi-billionaire also said he was "not Maga", distancing himself from the political movement linked to Trump.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.inside-db.com/">Inside Deutsche Bank</a></h3>
-      <p>From inside-db.com. 711 points on Hacker News, 241 comments. Posted by gyre007.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmd7159vlr85o">The seven Anthropic founders who are about to become multi-billionaires</a></h3>
-      <p>The AI company behind Claude is about to sell its shares on the US stock market, making its founders very rich.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6z74ep2n17zo">UK joins in GTA 6 frenzy as game becomes available worldwide</a></h3>
+      <p>The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 19 Nov 2026, 11:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Nov 2026, 20:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
