@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795055933" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795089142" alt="Famous quote" width="100%">
 </p>
 
-> You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.
+> I know not all that may be coming, but be it what it will, I'll go to it laughing.
 >
-> Norman Vincent Peale
+> Herman Melville
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,19 +442,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6742m39xgzxo">Claude-maker Anthropic poised for stock market debut worth up to $1.5tn</a></h3>
-      <p>Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6742m39xgzxo">Anthropic raises $81bn in record-breaking stock market debut</a></h3>
+      <p>The company behind the Claude chatbot will become one of the most valuable firms in the world.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">DNS resolvers are the wrong place to fight piracy</a></h3>
-      <p>From techstackups.com. 611 points on Hacker News, 226 comments. Posted by ritzaco.</p>
+      <h3><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Gemini 4 Neon</a></h3>
+      <p>From blog.google. 864 points on Hacker News, 685 comments. Posted by yigitdemirag.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o">Elon Musk says record spending on US midterms was 'pretty foolish'</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o">Elon Musk says record $446m spending on US midterms was 'pretty foolish'</a></h3>
       <p>The multi-billionaire also said he was "not Maga", distancing himself from the political movement linked to Trump.</p>
     </td>
   </tr>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.inside-db.com/">Inside Deutsche Bank</a></h3>
-      <p>From inside-db.com. 567 points on Hacker News, 190 comments. Posted by gyre007.</p>
+      <p>From inside-db.com. 711 points on Hacker News, 241 comments. Posted by gyre007.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 19 Nov 2026, 02:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Nov 2026, 11:52 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
