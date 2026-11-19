@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795034452" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795055933" alt="Famous quote" width="100%">
 </p>
 
-> If you care about someone enough, you'll always be there for them no matter what.
+> You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.
 >
-> Roy T. Bennett
+> Norman Vincent Peale
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,15 +442,27 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw8r75xm8v4po">Grand Theft Auto 6 is a masterpiece, say critics</a></h3>
-      <p>Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6742m39xgzxo">Claude-maker Anthropic poised for stock market debut worth up to $1.5tn</a></h3>
+      <p>Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/">DNS resolvers are the wrong place to fight piracy</a></h3>
-      <p>From techstackups.com. 469 points on Hacker News, 157 comments. Posted by ritzaco.</p>
+      <p>From techstackups.com. 611 points on Hacker News, 226 comments. Posted by ritzaco.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o">Elon Musk says record spending on US midterms was 'pretty foolish'</a></h3>
+      <p>The multi-billionaire also said he was "not Maga", distancing himself from the political movement linked to Trump.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.inside-db.com/">Inside Deutsche Bank</a></h3>
+      <p>From inside-db.com. 567 points on Hacker News, 190 comments. Posted by gyre007.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The AI company behind Claude is about to sell its shares on the US stock market, making its founders very rich.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.inside-db.com/">Inside Deutsche Bank</a></h3>
-      <p>From inside-db.com. 377 points on Hacker News, 139 comments. Posted by gyre007.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6z0kly2lll7o">Hacks, AI or just overdue updates, why have there been so many outages?</a></h3>
-      <p>There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 18 Nov 2026, 20:40 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 19 Nov 2026, 02:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
