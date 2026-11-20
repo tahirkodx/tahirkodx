@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795121253" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795141422" alt="Famous quote" width="100%">
 </p>
 
-> Manifest plainness, embrace simplicity, reduce selfishness, have few desires.
+> Allow motion to equal emotion.
 >
-> Lao Tzu
+> Elbert Hubbard
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.harrison.page/garage-door-spam/">Garage Door Spam</a></h3>
-      <p>From blog.harrison.page. 622 points on Hacker News, 261 comments. Posted by harrisonpage.</p>
+      <h3><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Anthropic’s Nasdaq debut</a></h3>
+      <p>From reuters.com. 926 points on Hacker News, 1828 comments. Posted by wslh.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o">Dutch watchdog tells people not to buy AI smart glasses</a></h3>
-      <p>Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o">GTA 6 breaks records as sales top $2bn, industry estimate</a></h3>
+      <p>Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://blog.harrison.page/garage-door-spam/">Garage Door Spam</a></h3>
+      <p>From blog.harrison.page. 762 points on Hacker News, 318 comments. Posted by harrisonpage.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o">Tens of thousands of UK fridges secured from hackers in secret nationwide operation</a></h3>
+      <p>Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">How the European Commission rolled out Matrix to more than 40k staff</a></h3>
-      <p>From element.io. 604 points on Hacker News, 289 comments. Posted by liotier.</p>
+      <p>From element.io. 666 points on Hacker News, 323 comments. Posted by liotier.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6742m39xgzxo">Anthropic raises $81bn in record-breaking stock market debut</a></h3>
-      <p>The company behind the Claude chatbot will become one of the most valuable firms in the world.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Anthropic hits $2T in Nasdaq debut</a></h3>
-      <p>From reuters.com. 551 points on Hacker News, 894 comments. Posted by wslh.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6z74ep2n17zo">UK joins in GTA 6 frenzy as game becomes available worldwide</a></h3>
-      <p>The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3x29ggenz12o">Anthropic becomes one of world's most valuable public companies in stock market debut</a></h3>
+      <p>Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 19 Nov 2026, 20:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Nov 2026, 02:23 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
