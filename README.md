@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795175636" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795206635" alt="Famous quote" width="100%">
 </p>
 
-> Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+> Walk towards the sunshine, and the shadows will fall behind you.
 >
-> Eleanor Roosevelt
+> Mary Engelbreit
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/">Pancreatic cancer halted by virus injection in three patients</a></h3>
-      <p>https://archive.ph/2Et0x https://clinicaltrials.gov/study/NCT06693986</p>
+      <h3><a href="https://alpo.ge/remark.pdf">Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></h3>
+      <p>From alpo.ge. 2011 points on Hacker News, 1352 comments. Posted by iamronaldo.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6808ym10vzgo">Anthropic shares fall after blockbuster opening as wider tech sell-off continues</a></h3>
+      <p>Other tech companies have also taken a hit as share markets broadly slump.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">I'll never buy Framework hardware again</a></h3>
+      <p>From poolp.org. 725 points on Hacker News, 484 comments. Posted by unchar1.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmde1lw9y54ko">Trump threatens ban on US firms building AI data centres overseas</a></h3>
+      <p>The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></h3>
+      <p>From math216.wordpress.com. 704 points on Hacker News, 322 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo">White House removes cyber-security chief after series of tech outages</a></h3>
-      <p>CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.anthropic.com/research/claude-black-hole-physics">Claude solves two open problems in the physics of black holes</a></h3>
-      <p>From anthropic.com. 509 points on Hacker News, 238 comments. Posted by cybermango.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6d94pzk9vleo">Should AI be judging our credit worthiness?</a></h3>
-      <p>Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/openjdk/jdk/pull/32781">Someone reported java4shell bug in September 2026</a></h3>
-      <p>From github.com. 433 points on Hacker News, 120 comments. Posted by notmine1337.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o">GTA 6 breaks records as estimated sales top $2.3bn</a></h3>
-      <p>Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.</p>
+      <p>He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Nov 2026, 11:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Nov 2026, 20:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
