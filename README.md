@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795141422" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795175636" alt="Famous quote" width="100%">
 </p>
 
-> Allow motion to equal emotion.
+> Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
 >
-> Elbert Hubbard
+> Eleanor Roosevelt
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Anthropic’s Nasdaq debut</a></h3>
-      <p>From reuters.com. 926 points on Hacker News, 1828 comments. Posted by wslh.</p>
+      <h3><a href="https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/">Pancreatic cancer halted by virus injection in three patients</a></h3>
+      <p>https://archive.ph/2Et0x https://clinicaltrials.gov/study/NCT06693986</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o">GTA 6 breaks records as sales top $2bn, industry estimate</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo">White House removes cyber-security chief after series of tech outages</a></h3>
+      <p>CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.anthropic.com/research/claude-black-hole-physics">Claude solves two open problems in the physics of black holes</a></h3>
+      <p>From anthropic.com. 509 points on Hacker News, 238 comments. Posted by cybermango.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6d94pzk9vleo">Should AI be judging our credit worthiness?</a></h3>
+      <p>Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/openjdk/jdk/pull/32781">Someone reported java4shell bug in September 2026</a></h3>
+      <p>From github.com. 433 points on Hacker News, 120 comments. Posted by notmine1337.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o">GTA 6 breaks records as estimated sales top $2.3bn</a></h3>
       <p>Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://blog.harrison.page/garage-door-spam/">Garage Door Spam</a></h3>
-      <p>From blog.harrison.page. 762 points on Hacker News, 318 comments. Posted by harrisonpage.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o">Tens of thousands of UK fridges secured from hackers in secret nationwide operation</a></h3>
-      <p>Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">How the European Commission rolled out Matrix to more than 40k staff</a></h3>
-      <p>From element.io. 666 points on Hacker News, 323 comments. Posted by liotier.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3x29ggenz12o">Anthropic becomes one of world's most valuable public companies in stock market debut</a></h3>
-      <p>Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Nov 2026, 02:23 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 20 Nov 2026, 11:53 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
