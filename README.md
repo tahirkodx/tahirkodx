@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795206635" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795228125" alt="Famous quote" width="100%">
 </p>
 
-> Walk towards the sunshine, and the shadows will fall behind you.
+> Health is the greatest of all possessions.
 >
-> Mary Engelbreit
+> Jonathan Swift
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,41 +438,41 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://alpo.ge/remark.pdf">Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></h3>
-      <p>From alpo.ge. 2011 points on Hacker News, 1352 comments. Posted by iamronaldo.</p>
+      <p>From alpo.ge. 2390 points on Hacker News, 1610 comments. Posted by iamronaldo.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6808ym10vzgo">Anthropic shares fall after blockbuster opening as wider tech sell-off continues</a></h3>
-      <p>Other tech companies have also taken a hit as share markets broadly slump.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/">I'll never buy Framework hardware again</a></h3>
-      <p>From poolp.org. 725 points on Hacker News, 484 comments. Posted by unchar1.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmde1lw9y54ko">Trump threatens ban on US firms building AI data centres overseas</a></h3>
-      <p>The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o">Can AI really help spot Black Friday deals? We put it to the test</a></h3>
+      <p>We put four AI models to the test to see if they could save us money on a new TV.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></h3>
-      <p>From math216.wordpress.com. 704 points on Hacker News, 322 comments. Posted by jasondavies.</p>
+      <p>From math216.wordpress.com. 1606 points on Hacker News, 729 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo">White House removes cyber-security chief after series of tech outages</a></h3>
-      <p>He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6pqr2g7w059o">In a year of AI solving maths problems, Anthropic may have just solved the biggest</a></h3>
+      <p>A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></h3>
+      <p>From thinkingmachines.ai. 707 points on Hacker News, 117 comments. Posted by jasondavies.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o">GTA 6 sales hit $3.8bn in a single day, the biggest entertainment launch in history</a></h3>
+      <p>The mammoth figure surpasses every video game launch and single-day film box office record.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 20 Nov 2026, 20:30 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Nov 2026, 02:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
