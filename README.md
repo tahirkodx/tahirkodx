@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795260213" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795289251" alt="Famous quote" width="100%">
 </p>
 
-> True wealth is of the heart, not of the purse.
+> The world only exists in your eyes. You can make it as big or as small as you want.
 >
-> Og Mandino
+> F. Scott Fitzgerald
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -454,7 +454,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6pqr2g7w059o">In a year of AI solving maths problems, Anthropic may have just solved the biggest</a></h3>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6pqr2g7w059o">In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest</a></h3>
       <p>A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.</p>
     </td>
   </tr>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></h3>
-      <p>From thinkingmachines.ai. 1040 points on Hacker News, 194 comments. Posted by jasondavies.</p>
+      <p>From thinkingmachines.ai. 1274 points on Hacker News, 260 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Nov 2026, 11:23 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Nov 2026, 19:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
