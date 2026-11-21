@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795228125" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795260213" alt="Famous quote" width="100%">
 </p>
 
-> Health is the greatest of all possessions.
+> True wealth is of the heart, not of the purse.
 >
-> Jonathan Swift
+> Og Mandino
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://alpo.ge/remark.pdf">Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></h3>
-      <p>From alpo.ge. 2390 points on Hacker News, 1610 comments. Posted by iamronaldo.</p>
+      <p>Related: Hurried Announcement: Alessandro Masullo GRH, https://news.ycombinator.com/item?id=50579568</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></h3>
-      <p>From math216.wordpress.com. 1606 points on Hacker News, 729 comments. Posted by jasondavies.</p>
+      <p>Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf], https://news.ycombinator.com/item?id=50574968</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,7 +462,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></h3>
-      <p>From thinkingmachines.ai. 707 points on Hacker News, 117 comments. Posted by jasondavies.</p>
+      <p>From thinkingmachines.ai. 1040 points on Hacker News, 194 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Nov 2026, 02:28 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 21 Nov 2026, 11:23 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
