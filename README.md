@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795289251" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795310688" alt="Famous quote" width="100%">
 </p>
 
-> The world only exists in your eyes. You can make it as big or as small as you want.
+> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
 >
-> F. Scott Fitzgerald
+> Norman Vincent Peale
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://alpo.ge/remark.pdf">Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></h3>
-      <p>Related: Hurried Announcement: Alessandro Masullo GRH, https://news.ycombinator.com/item?id=50579568</p>
+      <h3><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></h3>
+      <p>Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf], https://news.ycombinator.com/item?id=50574968</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></h3>
-      <p>Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf], https://news.ycombinator.com/item?id=50574968</p>
+      <h3><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></h3>
+      <p>From thinkingmachines.ai. 1384 points on Hacker News, 280 comments. Posted by jasondavies.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></h3>
-      <p>From thinkingmachines.ai. 1274 points on Hacker News, 260 comments. Posted by jasondavies.</p>
+      <h3><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Lean verification of the Riemann Hypothesis</a></h3>
+      <p>From leanprover-community.github.io. 823 points on Hacker News, 664 comments. Posted by g-b-r.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 21 Nov 2026, 19:27 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Nov 2026, 01:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
