@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795310688" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795347557" alt="Famous quote" width="100%">
 </p>
 
-> Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.
+> Make your stand today. On this spot. On this day.
 >
-> Norman Vincent Peale
+> Ming-Dao Deng
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></h3>
-      <p>From thinkingmachines.ai. 1384 points on Hacker News, 280 comments. Posted by jasondavies.</p>
+      <h3><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Lean verification of the Riemann Hypothesis</a></h3>
+      <p>From leanprover-community.github.io. 1055 points on Hacker News, 878 comments. Posted by g-b-r.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Lean verification of the Riemann Hypothesis</a></h3>
-      <p>From leanprover-community.github.io. 823 points on Hacker News, 664 comments. Posted by g-b-r.</p>
+      <h3><a href="https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib">Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</a></h3>
+      <p>From theguardian.com. 1050 points on Hacker News, 224 comments. Posted by rafaelc.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 22 Nov 2026, 01:24 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 22 Nov 2026, 11:39 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
