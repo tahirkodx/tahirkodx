@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795376997" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795398540" alt="Famous quote" width="100%">
 </p>
 
-> If you don't know where you're going, you will probably end up somewhere else.
+> Surround yourself with only people who are going to lift you higher.
 >
-> Laurence J. Peter
+> Oprah Winfrey
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib">Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</a></h3>
-      <p>From theguardian.com. 1294 points on Hacker News, 276 comments. Posted by rafaelc.</p>
+      <h3><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Toyota, Nissan, and Honda to standardize parts to lower costs</a></h3>
+      <p>From caranddriver.com. 1190 points on Hacker News, 680 comments. Posted by zdw.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o">San Francisco is enjoying an AI boom, but worries about a crash are growing</a></h3>
+      <p>AI employees in the industry's epicentre, San Francisco, worry that the sector is overheated.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://openai.com/index/perplexity-and-intelligence/">Perplexity and Intelligence</a></h3>
+      <p>From openai.com. 482 points on Hacker News, 334 comments. Posted by acossta.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Lean verification of the Riemann Hypothesis</a></h3>
-      <p>From leanprover-community.github.io. 1190 points on Hacker News, 985 comments. Posted by g-b-r.</p>
+      <h3><a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">What Happened to Silicon Valley?</a></h3>
+      <p>From oreilly.com. 422 points on Hacker News, 244 comments. Posted by greenyouse.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Toyota, Nissan, and Honda to standardize parts to lower costs</a></h3>
-      <p>From caranddriver.com. 1046 points on Hacker News, 621 comments. Posted by zdw.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o">GTA 6 sales hit $3.8bn in a single day, the biggest entertainment launch in history</a></h3>
-      <p>The mammoth figure surpasses every video game launch and single-day film box office record.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 22 Nov 2026, 19:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Nov 2026, 01:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
