@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795398540" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795439507" alt="Famous quote" width="100%">
 </p>
 
-> Surround yourself with only people who are going to lift you higher.
+> It is not fair to ask of others what you are not willing to do yourself.
 >
-> Oprah Winfrey
+> Eleanor Roosevelt
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -438,7 +438,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Toyota, Nissan, and Honda to standardize parts to lower costs</a></h3>
-      <p>From caranddriver.com. 1190 points on Hacker News, 680 comments. Posted by zdw.</p>
+      <p>From caranddriver.com. 1330 points on Hacker News, 710 comments. Posted by zdw.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://openai.com/index/perplexity-and-intelligence/">Perplexity and Intelligence</a></h3>
-      <p>From openai.com. 482 points on Hacker News, 334 comments. Posted by acossta.</p>
+      <h3><a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">What Happened to Silicon Valley?</a></h3>
+      <p>From oreilly.com. 729 points on Hacker News, 390 comments. Posted by greenyouse.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">What Happened to Silicon Valley?</a></h3>
-      <p>From oreilly.com. 422 points on Hacker News, 244 comments. Posted by greenyouse.</p>
+      <h3><a href="https://spelunkr.tv">Free alternative TV network built from the Internet Archive's forgotten videos</a></h3>
+      <p>From spelunkr.tv. 637 points on Hacker News, 117 comments. Posted by SockThief.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 23 Nov 2026, 01:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 23 Nov 2026, 13:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
