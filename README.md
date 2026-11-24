@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795528581" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795564607" alt="Famous quote" width="100%">
 </p>
 
-> Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?
+> When we allow negative messages to fester in our head, they take on a life of their own.
 >
-> Eckhart Tolle
+> Lolly Daskal
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Nvidia Reinstates Jensen Huang as CEO</a></h3>
-      <p>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress...</p>
+      <h3><a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">LLM agents work for their parent companies, not for you</a></h3>
+      <p>From michaelharley.net. 874 points on Hacker News, 367 comments. Posted by surprisetalk.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c9gkld2l38y6o">Helpful but awkward: My week with Meta's Muse ahead of its UK launch</a></h3>
-      <p>Meta wants Muse to do for AI what WhatsApp did for messaging, here's what the BBC's technology editor found when she used it.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a></h3>
+      <p>The verdict follows a months-long trial in New York.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha</a></h3>
-      <p>From ladybird.org. 2151 points on Hacker News, 523 comments. Posted by janvdberg.</p>
+      <h3><a href="https://quad9.net/news/blog/quad9-service-deactivation-in-france/">Quad9 pulled their DNS service from France</a></h3>
+      <p>From quad9.net. 336 points on Hacker News, 167 comments. Posted by farrokhi.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo">US to blacklist Asian AI firm Megaspeed after Nvidia scandal</a></h3>
-      <p>Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo">US attorney general dodges questions about Nvidia investigation</a></h3>
+      <p>Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/ylecun/status/2124550037912920090">"Dario is hyping the dangers so OSS models are illegal and he stays in control"</a></h3>
-      <p>From twitter.com. 1824 points on Hacker News, 1058 comments. Posted by MrBuddyCasino.</p>
+      <h3><a href="https://mechanical-pencil.com/products/spray-bottle">The Spray Bottle</a></h3>
+      <p>From mechanical-pencil.com. 326 points on Hacker News, 93 comments. Posted by vinhnx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cq62pn6j42jko">Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns</a></h3>
-      <p>The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c6894evgpel5o">Faisal Islam: Fears over the AI boom haven't gone away</a></h3>
+      <p>There were legitimate fears before Huang's abrupt exit from Nvidia, and his return won't fix it</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 24 Nov 2026, 13:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Nov 2026, 23:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
