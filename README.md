@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795486785" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795528581" alt="Famous quote" width="100%">
 </p>
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?
 >
-> Epictetus
+> Eckhart Tolle
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,6 +442,18 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c9gkld2l38y6o">Helpful but awkward: My week with Meta's Muse ahead of its UK launch</a></h3>
+      <p>Meta wants Muse to do for AI what WhatsApp did for messaging, here's what the BBC's technology editor found when she used it.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha</a></h3>
+      <p>From ladybird.org. 2151 points on Hacker News, 523 comments. Posted by janvdberg.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo">US to blacklist Asian AI firm Megaspeed after Nvidia scandal</a></h3>
       <p>Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.</p>
     </td>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha</a></h3>
-      <p>From ladybird.org. 1465 points on Hacker News, 338 comments. Posted by janvdberg.</p>
+      <h3><a href="https://twitter.com/ylecun/status/2124550037912920090">"Dario is hyping the dangers so OSS models are illegal and he stays in control"</a></h3>
+      <p>From twitter.com. 1824 points on Hacker News, 1058 comments. Posted by MrBuddyCasino.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/ylecun/status/2124550037912920090">Dario is hyping the dangers so OSS models are illegal and he stays in control</a></h3>
-      <p>From twitter.com. 1191 points on Hacker News, 667 comments. Posted by MrBuddyCasino.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c68798vdprwpo">How important are Nvidia and Jensen Huang to the US economy?</a></h3>
-      <p>The Nvidia chief executive has been at the centre of the artificial intelligence boom.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 24 Nov 2026, 02:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Nov 2026, 13:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
