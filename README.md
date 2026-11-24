@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795439507" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795486785" alt="Famous quote" width="100%">
 </p>
 
-> It is not fair to ask of others what you are not willing to do yourself.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> Eleanor Roosevelt
+> Epictetus
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,42 +437,42 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Toyota, Nissan, and Honda to standardize parts to lower costs</a></h3>
-      <p>From caranddriver.com. 1330 points on Hacker News, 710 comments. Posted by zdw.</p>
+      <h3><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Nvidia Reinstates Jensen Huang as CEO</a></h3>
+      <p>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress...</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o">San Francisco is enjoying an AI boom, but worries about a crash are growing</a></h3>
-      <p>AI employees in the industry's epicentre, San Francisco, worry that the sector is overheated.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo">US to blacklist Asian AI firm Megaspeed after Nvidia scandal</a></h3>
+      <p>Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">What Happened to Silicon Valley?</a></h3>
-      <p>From oreilly.com. 729 points on Hacker News, 390 comments. Posted by greenyouse.</p>
+      <h3><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha</a></h3>
+      <p>From ladybird.org. 1465 points on Hacker News, 338 comments. Posted by janvdberg.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o">Can AI really help spot Black Friday deals? We put it to the test</a></h3>
-      <p>We put four AI models to the test to see if they could save us money on a new TV.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cq62pn6j42jko">Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns</a></h3>
+      <p>The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://spelunkr.tv">Free alternative TV network built from the Internet Archive's forgotten videos</a></h3>
-      <p>From spelunkr.tv. 637 points on Hacker News, 117 comments. Posted by SockThief.</p>
+      <h3><a href="https://twitter.com/ylecun/status/2124550037912920090">Dario is hyping the dangers so OSS models are illegal and he stays in control</a></h3>
+      <p>From twitter.com. 1191 points on Hacker News, 667 comments. Posted by MrBuddyCasino.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6pqr2g7w059o">In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest</a></h3>
-      <p>A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c68798vdprwpo">How important are Nvidia and Jensen Huang to the US economy?</a></h3>
+      <p>The Nvidia chief executive has been at the centre of the artificial intelligence boom.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 23 Nov 2026, 13:11 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 24 Nov 2026, 02:19 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
