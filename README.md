@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795564607" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795596579" alt="Famous quote" width="100%">
 </p>
 
-> When we allow negative messages to fester in our head, they take on a life of their own.
+> Most people get ahead during the time that others waste.
 >
-> Lolly Daskal
+> Henry Ford
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/">LLM agents work for their parent companies, not for you</a></h3>
-      <p>From michaelharley.net. 874 points on Hacker News, 367 comments. Posted by surprisetalk.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a></h3>
-      <p>The verdict follows a months-long trial in New York.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://quad9.net/news/blog/quad9-service-deactivation-in-france/">Quad9 pulled their DNS service from France</a></h3>
-      <p>From quad9.net. 336 points on Hacker News, 167 comments. Posted by farrokhi.</p>
+      <h3><a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">Matrix Multiplication is Θ(n^2.25) [pdf]</a></h3>
+      <p>From github.com. 569 points on Hacker News, 276 comments. Posted by E-Reverance.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -462,17 +450,29 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://mechanical-pencil.com/products/spray-bottle">The Spray Bottle</a></h3>
-      <p>From mechanical-pencil.com. 326 points on Hacker News, 93 comments. Posted by vinhnx.</p>
+      <p>From mechanical-pencil.com. 467 points on Hacker News, 108 comments. Posted by vinhnx.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c6894evgpel5o">Faisal Islam: Fears over the AI boom haven't gone away</a></h3>
-      <p>There were legitimate fears before Huang's abrupt exit from Nvidia, and his return won't fix it</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo">Huawei found guilty of stealing US trade secrets but acquitted of racketeering</a></h3>
+      <p>The verdict follows a months-long trial in New York.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://prismml.com/news/bonsai-2-5-27b">Ternary Bonsai 2.5 27B</a></h3>
+      <p>From prismml.com. 437 points on Hacker News, 137 comments. Posted by b0m.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo">Why tiny cars are taking off across Europe</a></h3>
+      <p>Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 24 Nov 2026, 23:56 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Nov 2026, 08:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
