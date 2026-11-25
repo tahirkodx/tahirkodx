@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795596579" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795634711" alt="Famous quote" width="100%">
 </p>
 
-> Most people get ahead during the time that others waste.
+> It is only depth of character that determines the profundity with which we face life.
 >
-> Henry Ford
+> Ming-Dao Deng
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,20 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">Matrix Multiplication is Θ(n^2.25) [pdf]</a></h3>
-      <p>From github.com. 569 points on Hacker News, 276 comments. Posted by E-Reverance.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo">US attorney general dodges questions about Nvidia investigation</a></h3>
-      <p>Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://mechanical-pencil.com/products/spray-bottle">The Spray Bottle</a></h3>
-      <p>From mechanical-pencil.com. 467 points on Hacker News, 108 comments. Posted by vinhnx.</p>
+      <h3><a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">The matrix multiplication exponent is nine fourths [pdf]</a></h3>
+      <p>From github.com. 928 points on Hacker News, 523 comments. Posted by E-Reverance.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,18 +449,30 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://prismml.com/news/bonsai-2-5-27b">Ternary Bonsai 2.5 27B</a></h3>
-      <p>From prismml.com. 437 points on Hacker News, 137 comments. Posted by b0m.</p>
+      <h3><a href="https://buttons.joshwcomeau.com/">Button Sounds  collection of professionally-recorded button clicks and presses</a></h3>
+      <p>From buttons.joshwcomeau.com. 755 points on Hacker News, 120 comments. Posted by gaurang_tandon.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo">Why tiny cars are taking off across Europe</a></h3>
-      <p>Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.</p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c65y10j841jpo">EA adds AI-generated John Motson to FC 27 video game</a></h3>
+      <p>The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://prismml.com/news/bonsai-2-5-27b">Ternary Bonsai 2.5 27B</a></h3>
+      <p>From prismml.com. 518 points on Hacker News, 171 comments. Posted by b0m.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo">Zoe Kleinman: Nobody is irreplaceable, unless you're Jensen Huang</a></h3>
+      <p>The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.</p>
     </td>
   </tr>
 </table>
 
-<sub>Updated 25 Nov 2026, 08:49 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 25 Nov 2026, 19:25 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
