@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795664294" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795712659" alt="Famous quote" width="100%">
 </p>
 
-> To live is to be willing to die over and over again.
+> Everything you've ever wanted is on the other side of fear.
 >
-> Pema Chodron
+> Brian Tracy
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,20 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
+      <h3><a href="https://scottaaronson.blog/?p=10379">Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</a></h3>
+      <p>See also The matrix multiplication exponent is nine fourths [pdf], https://news.ycombinator.com/item?id=50637220</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo">Musk's plan to send a million SpaceX data satellites into space approved</a></h3>
+      <p>The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
       <h3><a href="https://1password.com/blog/update-on-nov-2026-security-incident">1Password Security Incident</a></h3>
-      <p>From 1password.com. 1235 points on Hacker News, 520 comments. Posted by lxhrstn.</p>
+      <p>From 1password.com. 1586 points on Hacker News, 687 comments. Posted by lxhrstn.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://scottaaronson.blog/?p=10379">Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening</a></h3>
-      <p>See also The matrix multiplication exponent is nine fourths [pdf], https://news.ycombinator.com/item?id=50637220</p>
+      <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features">The New York Times warns photographers not to update Photoshop over AI features</a></h3>
+      <p>https://archive.ph/pcUgy</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/google-research/google-research/tree/master/cogentic_research_papers">Google releases Cogentic papers on integer factorization, discrete logs and more</a></h3>
-      <p>From github.com. 457 points on Hacker News, 340 comments. Posted by rgwohlbold.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo">Zoe Kleinman: Nobody is irreplaceable, unless you're Jensen Huang</a></h3>
-      <p>The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 26 Nov 2026, 03:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 26 Nov 2026, 17:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
