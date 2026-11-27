@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795783461" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795822344" alt="Famous quote" width="100%">
 </p>
 
-> Life is a succession of lessons, which must be lived to be understood.
+> Creativity is the greatest rebellion in existence.
 >
-> Ralph Waldo Emerson
+> Osho
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://1password.com/blog/update-on-nov-2026-security-incident">1Password Security Incident</a></h3>
-      <p>From 1password.com. 1679 points on Hacker News, 715 comments. Posted by lxhrstn.</p>
+      <h3><a href="https://janlukas.blog/posts/ai-self-hosting">AI made self-hosting fun again</a></h3>
+      <p>From janlukas.blog. 1088 points on Hacker News, 501 comments. Posted by jlelse.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -449,8 +449,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://janlukas.blog/posts/ai-self-hosting">AI made self-hosting fun again</a></h3>
-      <p>From janlukas.blog. 796 points on Hacker News, 398 comments. Posted by jlelse.</p>
+      <h3><a href="https://construct22.com/">Group chat where your AI talks behind your back</a></h3>
+      <p>From construct22.com. 672 points on Hacker News, 279 comments. Posted by utiiiD.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -461,8 +461,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://github.com/intel/intel-one-mono">Intel One Mono font (2023)</a></h3>
-      <p>From github.com. 536 points on Hacker News, 259 comments. Posted by saikatsg.</p>
+      <h3><a href="https://twitter.com/RealAstropulse/status/2126119408997466389">Claude sabotaging ML research tasks?</a></h3>
+      <p>From twitter.com. 537 points on Hacker News, 274 comments. Posted by baobabKoodaa.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -472,7 +472,7 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   </tr>
 </table>
 
-<sub>Updated 27 Nov 2026, 12:44 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Nov 2026, 23:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
