@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795712659" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795744037" alt="Famous quote" width="100%">
 </p>
 
-> Everything you've ever wanted is on the other side of fear.
+> The best way to not feel hopeless is to get up and do something.
 >
-> Brian Tracy
+> Barack Obama
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -442,37 +442,37 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c52e8k19y94mo">Why is there a shortage of 'wizard' elevator mechanics?</a></h3>
+      <p>The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://news.ycombinator.com/item?id=50655664">Tell HN: Happy Thanksgiving</a></h3>
+      <p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo">Asia made a big AI bet on Nvidia. What happens now?</a></h3>
+      <p>Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://github.com/intel/intel-one-mono">Intel One Mono font (2023)</a></h3>
+      <p>From github.com. 466 points on Hacker News, 238 comments. Posted by saikatsg.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
       <h3><a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo">Musk's plan to send a million SpaceX data satellites into space approved</a></h3>
       <p>The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://1password.com/blog/update-on-nov-2026-security-incident">1Password Security Incident</a></h3>
-      <p>From 1password.com. 1586 points on Hacker News, 687 comments. Posted by lxhrstn.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo">Huawei found guilty of stealing US trade secrets but acquitted of racketeering</a></h3>
-      <p>The verdict follows a months-long trial in New York.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features">The New York Times warns photographers not to update Photoshop over AI features</a></h3>
-      <p>https://archive.ph/pcUgy</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c65y10j841jpo">EA adds AI-generated John Motson to FC 27 video game</a></h3>
-      <p>The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 26 Nov 2026, 17:04 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 27 Nov 2026, 01:47 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
