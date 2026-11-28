@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795822344" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795852979" alt="Famous quote" width="100%">
 </p>
 
-> Creativity is the greatest rebellion in existence.
+> Intelligence is the ability to adapt to change.
 >
-> Osho
+> Stephen Hawking
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,32 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://janlukas.blog/posts/ai-self-hosting">AI made self-hosting fun again</a></h3>
-      <p>From janlukas.blog. 1088 points on Hacker News, 501 comments. Posted by jlelse.</p>
+      <h3><a href="https://twitter.com/RealAstropulse/status/2126119408997466389">Claude sabotaging ML research tasks?</a></h3>
+      <p>From twitter.com. 678 points on Hacker News, 307 comments. Posted by baobabKoodaa.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o">Pensions and benefits services still down after 'cyber incident'</a></h3>
+      <p>The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer">Credit card skimming scripts using WebRTC found on popular shopping sites</a></h3>
+      <p>From infohawk.com. 504 points on Hacker News, 260 comments. Posted by scanr.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo">How gamers are using AI and leaked files to clone Grand Theft Auto 6</a></h3>
+      <p>With an official PC version potentially still months away, fans are getting impatient.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://neuralnetworksanddeeplearning.com/">Michael Nielsen took down his book on neural nets</a></h3>
+      <p>From neuralnetworksanddeeplearning.com. 498 points on Hacker News, 306 comments. Posted by brandonb.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -446,33 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://construct22.com/">Group chat where your AI talks behind your back</a></h3>
-      <p>From construct22.com. 672 points on Hacker News, 279 comments. Posted by utiiiD.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo">Asia made a big AI bet on Nvidia. What happens now?</a></h3>
-      <p>Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/RealAstropulse/status/2126119408997466389">Claude sabotaging ML research tasks?</a></h3>
-      <p>From twitter.com. 537 points on Hacker News, 274 comments. Posted by baobabKoodaa.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo">Musk's plan to send a million SpaceX data satellites into space approved</a></h3>
-      <p>The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 27 Nov 2026, 23:32 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Nov 2026, 08:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
