@@ -416,12 +416,12 @@ Famous lines from the web. The card and the line both rotate. GitHub Actions rew
 
 <!--FEED:QUOTE:START-->
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795852979" alt="Famous quote" width="100%">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quoteCategory=general&refresh=1795887516" alt="Famous quote" width="100%">
 </p>
 
-> Intelligence is the ability to adapt to change.
+> The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.
 >
-> Stephen Hawking
+> Ming-Dao Deng
 
 <sub>Card via github-readme-quotes. Line via ZenQuotes. Both refresh on a schedule.</sub>
 <!--FEED:QUOTE:END-->
@@ -437,8 +437,8 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
   <tr>
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
-      <h3><a href="https://twitter.com/RealAstropulse/status/2126119408997466389">Claude sabotaging ML research tasks?</a></h3>
-      <p>From twitter.com. 678 points on Hacker News, 307 comments. Posted by baobabKoodaa.</p>
+      <h3><a href="https://github.com/p-e-w/heretic/issues/601">Farewell</a></h3>
+      <p>From github.com. 795 points on Hacker News, 332 comments. Posted by nolist_policy.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -450,7 +450,19 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
     <td width="50%" valign="top">
       <p><strong>Hacker News</strong></p>
       <h3><a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer">Credit card skimming scripts using WebRTC found on popular shopping sites</a></h3>
-      <p>From infohawk.com. 504 points on Hacker News, 260 comments. Posted by scanr.</p>
+      <p>From infohawk.com. 585 points on Hacker News, 323 comments. Posted by scanr.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>BBC Technology</strong></p>
+      <h3><a href="https://www.bbc.co.uk/news/articles/cm15ekqvlezeo">OpenAI counter-sues Apple over alleged theft of trade secrets</a></h3>
+      <p>The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Hacker News</strong></p>
+      <h3><a href="https://research.google/blog/supercharging-transformer-residual-connections/">Google's DeepCrossAttention achieves comparable model quality up to 3x faster</a></h3>
+      <p>From research.google. 535 points on Hacker News, 184 comments. Posted by ComputedCamp995.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>BBC Technology</strong></p>
@@ -458,21 +470,9 @@ Hacker News and BBC Technology. Headline, title, and a short dek. Rewritten auto
       <p>With an official PC version potentially still months away, fans are getting impatient.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>Hacker News</strong></p>
-      <h3><a href="https://neuralnetworksanddeeplearning.com/">Michael Nielsen took down his book on neural nets</a></h3>
-      <p>From neuralnetworksanddeeplearning.com. 498 points on Hacker News, 306 comments. Posted by brandonb.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>BBC Technology</strong></p>
-      <h3><a href="https://www.bbc.co.uk/news/articles/c52e8k19y94mo">Why is there a shortage of 'wizard' elevator mechanics?</a></h3>
-      <p>The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?</p>
-    </td>
-  </tr>
 </table>
 
-<sub>Updated 28 Nov 2026, 08:02 UTC. Hacker News front page + BBC Technology RSS.</sub>
+<sub>Updated 28 Nov 2026, 17:38 UTC. Hacker News front page + BBC Technology RSS.</sub>
 <!--FEED:NEWS:END-->
 
 ---
